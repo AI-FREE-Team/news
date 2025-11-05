@@ -38,8 +38,6 @@ jobs:
         run: |
           mkdir -p tmp
           python scripts/news.py
-          ls -l data || true
-          git status
 
       - name: Store & dedupe
         run: |
