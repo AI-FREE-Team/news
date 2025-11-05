@@ -53,7 +53,7 @@ jobs:
           
       - name: Commit and push generated images
         run: |
-          git add images/
+          git add data/
           git commit -m "chore: add data on $(date -u '+%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
           git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
           git push origin HEAD:main
