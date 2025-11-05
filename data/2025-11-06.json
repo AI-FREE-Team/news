@@ -1,12 +1,147 @@
 [
   {
+    "title": "UH launches AI curriculum task force to reimagine teaching, learning",
+    "url": "https://www.hawaii.edu/news/2025/11/05/ai-task-force/",
+    "source": "University of Hawaii System",
+    "published_at": "2025-11-06T06:42:30.901885+08:00",
+    "summary": "The group will explore how AI can enrich academic programs, teaching practices and learning environments.",
+    "scraped_at": "2025-11-06T06:42:31+08:00",
+    "canonical_url": "https://www.hawaii.edu/news/2025/11/05/ai-task-force/"
+  },
+  {
     "title": "Redesigning a ‘repetitive and clunky’ learning program with AI",
     "url": "https://statescoop.com/radio/redesigning-a-repetitive-and-clunky-learning-program-with-ai/",
     "source": "StateScoop",
-    "published_at": "2025-11-06T06:17:34.092322+08:00",
+    "published_at": "2025-11-06T06:42:24.408358+08:00",
     "summary": "Indiana's Robert Fulk shares how AI fueled a training program revamp. Results for America's Patrick Carter shares why he thinks evidence-based policymaking...",
-    "scraped_at": "2025-11-06T06:17:34+08:00",
+    "scraped_at": "2025-11-06T06:42:31+08:00",
     "canonical_url": "https://statescoop.com/radio/redesigning-a-repetitive-and-clunky-learning-program-with-ai/"
+  },
+  {
+    "title": "AI Papers to Read in 2025",
+    "url": "https://towardsdatascience.com/ai-papers-to-read-in-2025/",
+    "source": "Towards Data Science",
+    "published_at": "2025-11-06T06:42:21.156926+08:00",
+    "summary": "Today, I return to TDS with my series of AI paper recommendations. My long-term followers might recall the four previous editions ([1], [2], [3], and [4]).",
+    "scraped_at": "2025-11-06T06:42:31+08:00",
+    "canonical_url": "https://towardsdatascience.com/ai-papers-to-read-in-2025/"
+  },
+  {
+    "title": "When AI paints like van Gogh, who gets the credit?",
+    "url": "https://www.uta.edu/news/news-releases/2025/11/05/when-ai-paints-like-van-gogh-who-gets-the-credit",
+    "source": "The University of Texas at Arlington",
+    "published_at": "2025-11-06T06:42:17.891577+08:00",
+    "summary": "UTA's Ananya Singh explores how artificial intelligence challenges originality and raises questions of artistic ownership.",
+    "scraped_at": "2025-11-06T06:42:31+08:00",
+    "canonical_url": "https://www.uta.edu/news/news-releases/2025/11/05/when-ai-paints-like-van-gogh-who-gets-the-credit"
+  },
+  {
+    "title": "AI Mode in Chrome is easier to use on iOS and Android.",
+    "url": "https://blog.google/products/chrome/ai-mode-in-chrome-ios-android/",
+    "source": "blog.google",
+    "published_at": "2025-11-06T06:42:13.989640+08:00",
+    "summary": "Plus, the AI Mode shortcut is expanding to 160 more countries.",
+    "scraped_at": "2025-11-06T06:42:31+08:00",
+    "canonical_url": "https://blog.google/products/chrome/ai-mode-in-chrome-ios-android/"
+  },
+  {
+    "title": "Dutchess Community College Presents “Human-Centered AI” with Dr. Cecilia Aragon",
+    "url": "https://www.sunydutchess.edu/about/facts/news/human-centered-ai.html",
+    "source": "Dutchess Community College | sunydutchess.edu",
+    "published_at": "2025-11-06T06:42:10.710575+08:00",
+    "summary": "DCC invites students, faculty, staff, alumni and community members to join “Human-Centered AI” with Dr. Cecilia Aragon, a thought-provoking virtual...",
+    "scraped_at": "2025-11-06T06:42:31+08:00",
+    "canonical_url": "https://www.sunydutchess.edu/about/facts/news/human-centered-ai.html"
+  },
+  {
+    "title": "Apple to use Google's AI model to run new Siri, Bloomberg News reports",
+    "url": "https://www.reuters.com/business/apple-use-googles-ai-model-run-new-siri-bloomberg-news-reports-2025-11-05/",
+    "source": "Reuters",
+    "published_at": "2025-11-06T06:42:07.268814+08:00",
+    "summary": "Apple plans to use a 1.2 trillion parameter artificial intelligence model developed by Google to help power an overhaul of the Siri voice assistant,...",
+    "scraped_at": "2025-11-06T06:42:31+08:00",
+    "canonical_url": "https://www.reuters.com/business/apple-use-googles-ai-model-run-new-siri-bloomberg-news-reports-2025-11-05/"
+  },
+  {
+    "title": "Salvatore Falletta: Human resources and AI reach an ethical crossroads",
+    "url": "https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/",
+    "source": "Vanderbilt University",
+    "published_at": "2025-11-06T06:42:03.904540+08:00",
+    "summary": "RESEARCH SPARK: AI is becoming a common tool for Human Resources departments. Learn from new faculty Salvatore Falletta about the ethical lines between...",
+    "scraped_at": "2025-11-06T06:42:31+08:00",
+    "canonical_url": "https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/"
+  },
+  {
+    "title": "How CEOs and CIOs can lead the AI transformation together",
+    "url": "https://www.weforum.org/stories/2025/11/how-ceos-and-cios-can-lead-the-ai-transformation-together/",
+    "source": "The World Economic Forum",
+    "published_at": "2025-11-06T06:41:59.494386+08:00",
+    "summary": "CEOs and CIOs must align vision, data, and strategy to lead AI transformation, overcoming fear and building trust through clear shared leadership.",
+    "scraped_at": "2025-11-06T06:42:31+08:00",
+    "canonical_url": "https://www.weforum.org/stories/2025/11/how-ceos-and-cios-can-lead-the-ai-transformation-together/"
+  },
+  {
+    "title": "AI and Practice Innovation: Law Firm, Attorneys, Lawyers",
+    "url": "https://www.honigman.com/firm-practice-innovation",
+    "source": "Honigman Law Firm",
+    "published_at": "2025-11-06T06:41:55.935065+08:00",
+    "summary": "At Honigman, we pride ourselves on keeping clients at the forefront of our legal service delivery. We embrace change and strive to think outside the box,...",
+    "scraped_at": "2025-11-06T06:42:31+08:00",
+    "canonical_url": "https://www.honigman.com/firm-practice-innovation"
+  },
+  {
+    "title": "路透：中國下令新設數據中心停用外國AI晶片",
+    "url": "https://www.worldjournal.com/wj/story/121474/9120770",
+    "source": "世界新聞網",
+    "published_at": "2025-11-06T06:41:51.499384+08:00",
+    "summary": "路透今天引述2名知情人士透露，中國官方數周前發布指導意見，要求所有由國家資金新設的數據中心，必須使用中國自製的人工智慧（AI）晶片，若設置進度低於30%且使用或採購了...",
+    "scraped_at": "2025-11-06T06:42:31+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/121474/9120770"
+  },
+  {
+    "title": "【美股動態】英特爾AI淘汰賽勝出機率升溫-CMoney 研究員",
+    "url": "https://cmnews.com.tw/article/cmoneyairesearcher-cae57e57-ba94-11f0-b79c-67c474a5818b",
+    "source": "cmnews.com.tw",
+    "published_at": "2025-11-06T06:41:47.718073+08:00",
+    "summary": "華爾街高層釋出訊號，主導市場的AI類股即將分出勝負，Intel(英特爾)(INTC)被歸入有望存活並擴大版圖的陣營。呼應網路泡沫後的經驗，唯有能兌現估值敘事的高品質公司會...",
+    "scraped_at": "2025-11-06T06:42:31+08:00",
+    "canonical_url": "https://cmnews.com.tw/article/cmoneyairesearcher-cae57e57-ba94-11f0-b79c-67c474a5818b"
+  },
+  {
+    "title": "傳中共禁部分數據中心用外國AI芯片",
+    "url": "https://www.epochtimes.com/b5/25/11/5/n14630320.htm",
+    "source": "大紀元",
+    "published_at": "2025-11-06T06:41:43.951759+08:00",
+    "summary": "週三（11月5日），路透社引述兩名知情人士的消息報導，中共官方已發布內部指導意見，要求所有獲得國家資金的新建數據中心項目只能使用國產人工智能（AI）芯片。",
+    "scraped_at": "2025-11-06T06:42:31+08:00",
+    "canonical_url": "https://www.epochtimes.com/b5/25/11/5/n14630320.htm"
+  },
+  {
+    "title": "SAP 賦能開發者，加速商業 AI 革新",
+    "url": "https://news.sap.com/taiwan/2025/11/businessairevolution/",
+    "source": "SAP News Center",
+    "published_at": "2025-11-06T06:41:40.657032+08:00",
+    "summary": "透過全面創新與Snowflake 等新夥伴關係，SAP 協助開發者將商業數據與AI 轉化為實際業務成果. 2025 年11 月5 日，台北訊— SAP（思愛普軟體系統股份有限公司）近日舉辦SAP...",
+    "scraped_at": "2025-11-06T06:42:31+08:00",
+    "canonical_url": "https://news.sap.com/taiwan/2025/11/businessairevolution/"
+  },
+  {
+    "title": "蘋果據悉計畫引入谷歌AI技術 助力Siri重大升級",
+    "url": "https://hk.finance.yahoo.com/news/%E8%98%8B%E6%9E%9C%E6%93%9A%E6%82%89%E8%A8%88%E7%95%AB%E5%BC%95%E5%85%A5%E8%B0%B7%E6%AD%8Cai%E6%8A%80%E8%A1%93-%E5%8A%A9%E5%8A%9Bsiri%E9%87%8D%E5%A4%A7%E5%8D%87%E7%B4%9A-203504581.html",
+    "source": "Yahoo 財經",
+    "published_at": "2025-11-06T06:41:36.919879+08:00",
+    "summary": "Samsung uses the Google Gemini chatbot to help power its AI features. 【彭博】-- 據知情人士透露，蘋果公司計畫使用谷歌開發的一款擁有1.",
+    "scraped_at": "2025-11-06T06:42:31+08:00",
+    "canonical_url": "https://hk.finance.yahoo.com/news/%E8%98%8B%E6%9E%9C%E6%93%9A%E6%82%89%E8%A8%88%E7%95%AB%E5%BC%95%E5%85%A5%E8%B0%B7%E6%AD%8Cai%E6%8A%80%E8%A1%93-%E5%8A%A9%E5%8A%9Bsiri%E9%87%8D%E5%A4%A7%E5%8D%87%E7%B4%9A-203504581.html"
+  },
+  {
+    "title": "黃仁勳示警：美國束縛產業 AI競賽恐輸中國",
+    "url": "https://www.worldjournal.com/wj/story/121477/9120904",
+    "source": "世界新聞網",
+    "published_at": "2025-11-06T06:41:31.760951+08:00",
+    "summary": "美國人工智慧（AI）晶片大廠輝達（Nvidia）執行長黃仁勳今天警告，中國能源成本較低，監管限制也較寬鬆，恐在AI競賽擊...",
+    "scraped_at": "2025-11-06T06:42:31+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/121477/9120904"
   },
   {
     "title": "North Dakota Schools Say AI Is Giving Teachers More Time With Students",
@@ -25,105 +160,6 @@
     "summary": "UNIVERSITY PARK, Pa. — The Penn State Smeal College of Business has announced a comprehensive, college-wide artificial intelligence (AI) initiative.",
     "scraped_at": "2025-11-06T06:17:34+08:00",
     "canonical_url": "https://www.psu.edu/news/smeal-college-business/story/penn-state-smeal-launches-comprehensive-artificial-intelligence"
-  },
-  {
-    "title": "AI Papers to Read in 2025",
-    "url": "https://towardsdatascience.com/ai-papers-to-read-in-2025/",
-    "source": "Towards Data Science",
-    "published_at": "2025-11-06T06:17:24.270635+08:00",
-    "summary": "Today, I return to TDS with my series of AI paper recommendations. My long-term followers might recall the four previous editions ([1], [2], [3], and [4]).",
-    "scraped_at": "2025-11-06T06:17:34+08:00",
-    "canonical_url": "https://towardsdatascience.com/ai-papers-to-read-in-2025/"
-  },
-  {
-    "title": "When AI paints like van Gogh, who gets the credit?",
-    "url": "https://www.uta.edu/news/news-releases/2025/11/05/when-ai-paints-like-van-gogh-who-gets-the-credit",
-    "source": "The University of Texas at Arlington",
-    "published_at": "2025-11-06T06:17:21.067703+08:00",
-    "summary": "UTA's Ananya Singh explores how artificial intelligence challenges originality and raises questions of artistic ownership.",
-    "scraped_at": "2025-11-06T06:17:34+08:00",
-    "canonical_url": "https://www.uta.edu/news/news-releases/2025/11/05/when-ai-paints-like-van-gogh-who-gets-the-credit"
-  },
-  {
-    "title": "AI Mode in Chrome is easier to use on iOS and Android.",
-    "url": "https://blog.google/products/chrome/ai-mode-in-chrome-ios-android/",
-    "source": "blog.google",
-    "published_at": "2025-11-06T06:17:17.898349+08:00",
-    "summary": "Plus, the AI Mode shortcut is expanding to 160 more countries.",
-    "scraped_at": "2025-11-06T06:17:34+08:00",
-    "canonical_url": "https://blog.google/products/chrome/ai-mode-in-chrome-ios-android/"
-  },
-  {
-    "title": "Dutchess Community College Presents “Human-Centered AI” with Dr. Cecilia Aragon",
-    "url": "https://www.sunydutchess.edu/about/facts/news/human-centered-ai.html",
-    "source": "Dutchess Community College | sunydutchess.edu",
-    "published_at": "2025-11-06T06:17:14.599762+08:00",
-    "summary": "DCC invites students, faculty, staff, alumni and community members to join “Human-Centered AI” with Dr. Cecilia Aragon, a thought-provoking virtual...",
-    "scraped_at": "2025-11-06T06:17:34+08:00",
-    "canonical_url": "https://www.sunydutchess.edu/about/facts/news/human-centered-ai.html"
-  },
-  {
-    "title": "Salvatore Falletta: Human resources and AI reach an ethical crossroads",
-    "url": "https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/",
-    "source": "Vanderbilt University",
-    "published_at": "2025-11-06T06:17:11.248411+08:00",
-    "summary": "RESEARCH SPARK: AI is becoming a common tool for Human Resources departments. Learn from new faculty Salvatore Falletta about the ethical lines between...",
-    "scraped_at": "2025-11-06T06:17:34+08:00",
-    "canonical_url": "https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/"
-  },
-  {
-    "title": "How CEOs and CIOs can lead the AI transformation together",
-    "url": "https://www.weforum.org/stories/2025/11/how-ceos-and-cios-can-lead-the-ai-transformation-together/",
-    "source": "The World Economic Forum",
-    "published_at": "2025-11-06T06:17:07.662103+08:00",
-    "summary": "CEOs and CIOs must align vision, data, and strategy to lead AI transformation, overcoming fear and building trust through clear shared leadership.",
-    "scraped_at": "2025-11-06T06:17:34+08:00",
-    "canonical_url": "https://www.weforum.org/stories/2025/11/how-ceos-and-cios-can-lead-the-ai-transformation-together/"
-  },
-  {
-    "title": "Apple to use Google's AI model to run new Siri, Bloomberg News reports",
-    "url": "https://www.reuters.com/business/apple-use-googles-ai-model-run-new-siri-bloomberg-news-reports-2025-11-05/",
-    "source": "Reuters",
-    "published_at": "2025-11-06T06:17:04.303302+08:00",
-    "summary": "Apple plans to use a 1.2 trillion parameter artificial intelligence model developed by Google to help power an overhaul of the Siri voice assistant,...",
-    "scraped_at": "2025-11-06T06:17:34+08:00",
-    "canonical_url": "https://www.reuters.com/business/apple-use-googles-ai-model-run-new-siri-bloomberg-news-reports-2025-11-05/"
-  },
-  {
-    "title": "傳中共禁部分數據中心用外國AI芯片",
-    "url": "https://www.epochtimes.com/b5/25/11/5/n14630320.htm",
-    "source": "大紀元",
-    "published_at": "2025-11-06T06:17:00.268501+08:00",
-    "summary": "週三（11月5日），路透社引述兩名知情人士的消息報導，中共官方已發布內部指導意見，要求所有獲得國家資金的新建數據中心項目只能使用國產人工智能（AI）芯片。",
-    "scraped_at": "2025-11-06T06:17:34+08:00",
-    "canonical_url": "https://www.epochtimes.com/b5/25/11/5/n14630320.htm"
-  },
-  {
-    "title": "SAP 賦能開發者，加速商業 AI 革新",
-    "url": "https://news.sap.com/taiwan/2025/11/businessairevolution/",
-    "source": "SAP News Center",
-    "published_at": "2025-11-06T06:16:57.015402+08:00",
-    "summary": "透過全面創新與Snowflake 等新夥伴關係，SAP 協助開發者將商業數據與AI 轉化為實際業務成果. 2025 年11 月5 日，台北訊— SAP（思愛普軟體系統股份有限公司）近日舉辦SAP...",
-    "scraped_at": "2025-11-06T06:17:34+08:00",
-    "canonical_url": "https://news.sap.com/taiwan/2025/11/businessairevolution/"
-  },
-  {
-    "title": "蘋果據悉計畫引入谷歌AI技術 助力Siri重大升級",
-    "url": "https://hk.finance.yahoo.com/news/%E8%98%8B%E6%9E%9C%E6%93%9A%E6%82%89%E8%A8%88%E7%95%AB%E5%BC%95%E5%85%A5%E8%B0%B7%E6%AD%8Cai%E6%8A%80%E8%A1%93-%E5%8A%A9%E5%8A%9Bsiri%E9%87%8D%E5%A4%A7%E5%8D%87%E7%B4%9A-203504581.html",
-    "source": "Yahoo 財經",
-    "published_at": "2025-11-06T06:16:53.288124+08:00",
-    "summary": "Samsung uses the Google Gemini chatbot to help power its AI features. 【彭博】-- 據知情人士透露，蘋果公司計畫使用谷歌開發的一款擁有1.",
-    "scraped_at": "2025-11-06T06:17:34+08:00",
-    "canonical_url": "https://hk.finance.yahoo.com/news/%E8%98%8B%E6%9E%9C%E6%93%9A%E6%82%89%E8%A8%88%E7%95%AB%E5%BC%95%E5%85%A5%E8%B0%B7%E6%AD%8Cai%E6%8A%80%E8%A1%93-%E5%8A%A9%E5%8A%9Bsiri%E9%87%8D%E5%A4%A7%E5%8D%87%E7%B4%9A-203504581.html"
-  },
-  {
-    "title": "路透：中國下令新設數據中心停用外國AI晶片",
-    "url": "https://www.worldjournal.com/wj/story/121474/9120770",
-    "source": "世界新聞網",
-    "published_at": "2025-11-06T06:16:49.221622+08:00",
-    "summary": "路透今天引述2名知情人士透露，中國官方數周前發布指導意見，要求所有由國家資金新設的數據中心，必須使用中國自製的人工智慧（AI）晶片，若設置進度低於30%且使用或採購了...",
-    "scraped_at": "2025-11-06T06:17:34+08:00",
-    "canonical_url": "https://www.worldjournal.com/wj/story/121474/9120770"
   },
   {
     "title": "Kaupins publishes on how AI is reshaping various industries",
