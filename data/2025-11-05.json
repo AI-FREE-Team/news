@@ -1,5 +1,185 @@
 [
   {
+    "title": "International stocks slide as concerns about AI and tech company values spread",
+    "url": "https://www.nbcnews.com/world/asia/international-stocks-slide-concerns-ai-tech-company-values-spread-rcna242025",
+    "source": "NBC News",
+    "published_at": "2025-11-05T22:57:21.622964+08:00",
+    "summary": "International markets plunged Tuesday night, as stocks across the Asia-Pacific region sold off on worries about the sky-high values of AI and tech...",
+    "scraped_at": "2025-11-05T22:57:21+08:00",
+    "canonical_url": "https://www.nbcnews.com/world/asia/international-stocks-slide-concerns-ai-tech-company-values-spread-rcna242025"
+  },
+  {
+    "title": "The stock market selloff goes global as AI bubble concerns grow",
+    "url": "https://qz.com/market-selloff-goes-global-as-ai-valuation-concerns-deepen",
+    "source": "Quartz",
+    "published_at": "2025-11-05T22:57:17.993696+08:00",
+    "summary": "Markets around the world are slumping amid growing worries that artificial intelligence companies' sky-high valuations could be coming back down to Earth.",
+    "scraped_at": "2025-11-05T22:57:21+08:00",
+    "canonical_url": "https://qz.com/market-selloff-goes-global-as-ai-valuation-concerns-deepen"
+  },
+  {
+    "title": "I switched from a corporate career to launching an AI-native company with no tech background. I knew the time was now.",
+    "url": "https://www.businessinsider.com/switched-from-corporate-career-to-ai-company-no-tech-background-2025-11",
+    "source": "Business Insider",
+    "published_at": "2025-11-05T22:57:14.891062+08:00",
+    "summary": "Tim DeSoto was a senior director at Walmart before building an AI-native startup. He sees AI entrepreneurship as the least risky career move.",
+    "scraped_at": "2025-11-05T22:57:21+08:00",
+    "canonical_url": "https://www.businessinsider.com/switched-from-corporate-career-to-ai-company-no-tech-background-2025-11"
+  },
+  {
+    "title": "AI is Breaking the Browser's Back",
+    "url": "https://spyglass.org/ai-browsers-breaking-web/",
+    "source": "spyglass.org",
+    "published_at": "2025-11-05T22:57:11.719475+08:00",
+    "summary": "A funny thing happened on the way to AI web browsers taking over the world: they're now getting blocked left and right from doing the things that would make...",
+    "scraped_at": "2025-11-05T22:57:21+08:00",
+    "canonical_url": "https://spyglass.org/ai-browsers-breaking-web/"
+  },
+  {
+    "title": "Exclusive: China bans foreign AI chips from state-funded data centres, sources say",
+    "url": "https://www.reuters.com/world/china/china-bans-foreign-ai-chips-state-funded-data-centres-sources-say-2025-11-05/",
+    "source": "Reuters",
+    "published_at": "2025-11-05T22:57:08.369539+08:00",
+    "summary": "The Chinese government has issued guidance requiring new data centre projects that have received any state funds to only use domestically-made artificial...",
+    "scraped_at": "2025-11-05T22:57:21+08:00",
+    "canonical_url": "https://www.reuters.com/world/china/china-bans-foreign-ai-chips-state-funded-data-centres-sources-say-2025-11-05/"
+  },
+  {
+    "title": "GW Law to Host Conference on AI, Animals and the Law",
+    "url": "https://www.law.gwu.edu/gw-law-host-conference-ai-animals-and-law",
+    "source": "GW Law",
+    "published_at": "2025-11-05T22:57:05.297909+08:00",
+    "summary": "The GW Law Animal Law Program is excited to host the Artificial Intelligence, Animals, and the Law Conference on the GW Law campus this week.",
+    "scraped_at": "2025-11-05T22:57:21+08:00",
+    "canonical_url": "https://www.law.gwu.edu/gw-law-host-conference-ai-animals-and-law"
+  },
+  {
+    "title": "Hackers are already using AI-enabled malware, Google says",
+    "url": "https://www.axios.com/2025/11/05/google-ai-cybersecurity-malware-report",
+    "source": "Axios",
+    "published_at": "2025-11-05T22:57:00.517961+08:00",
+    "summary": "Google security researchers have identified what they say is the first known case of hackers using AI-powered malware in a real-world cyberattack,...",
+    "scraped_at": "2025-11-05T22:57:21+08:00",
+    "canonical_url": "https://www.axios.com/2025/11/05/google-ai-cybersecurity-malware-report"
+  },
+  {
+    "title": "Researchers Find ChatGPT Vulnerabilities That Let Attackers Trick AI Into Leaking Data",
+    "url": "https://thehackernews.com/2025/11/researchers-find-chatgpt.html",
+    "source": "The Hacker News",
+    "published_at": "2025-11-05T22:56:57.432621+08:00",
+    "summary": "Cybersecurity researchers have disclosed a new set of vulnerabilities impacting OpenAI's ChatGPT artificial intelligence (AI) chatbot that could be...",
+    "scraped_at": "2025-11-05T22:57:21+08:00",
+    "canonical_url": "https://thehackernews.com/2025/11/researchers-find-chatgpt.html"
+  },
+  {
+    "title": "Some thoughts on AI and coding",
+    "url": "https://www.infoworld.com/article/4083424/some-thoughts-on-ai-and-coding.html",
+    "source": "InfoWorld",
+    "published_at": "2025-11-05T22:56:54.314203+08:00",
+    "summary": "Large language models are astonishingly good at coding and getting better. What will this mean for software and software developers? generative AI...",
+    "scraped_at": "2025-11-05T22:57:21+08:00",
+    "canonical_url": "https://www.infoworld.com/article/4083424/some-thoughts-on-ai-and-coding.html"
+  },
+  {
+    "title": "Beware of double agents: How AI can fortify — or fracture — your cybersecurity",
+    "url": "https://blogs.microsoft.com/blog/2025/11/05/beware-of-double-agents-how-ai-can-fortify-or-fracture-your-cybersecurity/",
+    "source": "The Official Microsoft Blog",
+    "published_at": "2025-11-05T22:56:51.174015+08:00",
+    "summary": "AI is rapidly becoming the backbone of our world, promising unprecedented productivity and innovation. But as organizations deploy AI agents to unlock new...",
+    "scraped_at": "2025-11-05T22:57:21+08:00",
+    "canonical_url": "https://blogs.microsoft.com/blog/2025/11/05/beware-of-double-agents-how-ai-can-fortify-or-fracture-your-cybersecurity/"
+  },
+  {
+    "title": "Google 把 AI 數據中心帶到太空！Project Suncatcher：以太陽能衛星與FSO 互聯的太空版AI 數據中心，2027 年啟動原型試驗",
+    "url": "https://hk.news.yahoo.com/google-%E6%8A%8A-ai-%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%B8%B6%E5%88%B0%E5%A4%AA%E7%A9%BA%EF%BC%81project-suncatcher%EF%BC%9A%E4%BB%A5%E5%A4%AA%E9%99%BD%E8%83%BD%E8%A1%9B%E6%98%9F%E8%88%87-fso-%E4%BA%92%E8%81%AF%E7%9A%84%E5%A4%AA%E7%A9%BA%E7%89%88-ai-%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%EF%BC%8C2027-%E5%B9%B4%E5%95%9F%E5%8B%95%E5%8E%9F%E5%9E%8B%E8%A9%A6%E9%A9%97-063637327.html",
+    "source": "YAHOO HK - NEWS",
+    "published_at": "2025-11-05T22:56:47.528946+08:00",
+    "summary": "Google 宣佈正在研發「Project Suncatcher（Suncatcher 計畫）」：把AI 算力搬上太空，用太陽能供電的低軌衛星搭載TPU 互聯成星群，透過自由空間光通信（Free-space optics,...",
+    "scraped_at": "2025-11-05T22:57:21+08:00",
+    "canonical_url": "https://hk.news.yahoo.com/google-%E6%8A%8A-ai-%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%B8%B6%E5%88%B0%E5%A4%AA%E7%A9%BA%EF%BC%81project-suncatcher%EF%BC%9A%E4%BB%A5%E5%A4%AA%E9%99%BD%E8%83%BD%E8%A1%9B%E6%98%9F%E8%88%87-fso-%E4%BA%92%E8%81%AF%E7%9A%84%E5%A4%AA%E7%A9%BA%E7%89%88-ai-%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%EF%BC%8C2027-%E5%B9%B4%E5%95%9F%E5%8B%95%E5%8E%9F%E5%9E%8B%E8%A9%A6%E9%A9%97-063637327.html"
+  },
+  {
+    "title": "標普全球報告描繪了企業在構建AI代理就緒基礎設施方面的競爭",
+    "url": "https://news.futunn.com/hk/post/64429944/s-p-global-report-charts-enterprise-race-to-build-ai",
+    "source": "富途牛牛",
+    "published_at": "2025-11-05T22:56:44.042048+08:00",
+    "summary": "最新研究表明，58%的企業正在積極追求代理能力。紐約，2025年11月5日/PRNewswire/ -- 標普全球（NYSE: SPGI）發佈了一份題爲《2026年大趨勢：人工智能》的新報告。",
+    "scraped_at": "2025-11-05T22:57:21+08:00",
+    "canonical_url": "https://news.futunn.com/hk/post/64429944/s-p-global-report-charts-enterprise-race-to-build-ai"
+  },
+  {
+    "title": "亞股重挫反映依賴AI題材的反噬 專家預測：台韓日股長多格局不變",
+    "url": "https://www.worldjournal.com/wj/story/121209/9120026",
+    "source": "世界新聞網",
+    "published_at": "2025-11-05T22:56:39.348477+08:00",
+    "summary": "美股周二（4日）由人工智慧（AI）概念股領跌，震波傳至今（5）日的亞股，波動激增至美國總統川普4月宣布對等關稅以來最高，...",
+    "scraped_at": "2025-11-05T22:57:21+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/121209/9120026"
+  },
+  {
+    "title": "中国迄今去除外国技术最激进一步！北京禁止外国AI芯片进入国有数据中心",
+    "url": "https://news.fx168news.com/stock/2511/7389535.shtml",
+    "source": "FX168",
+    "published_at": "2025-11-05T22:56:35.662881+08:00",
+    "summary": "FX168财经报社(欧洲)讯11月5日，据路透援引两名知情人士透露，中国政府近日发布指导意见，要求所有获得国家资金支持的新建数据中心项目必须使用国产人工智能...",
+    "scraped_at": "2025-11-05T22:57:21+08:00",
+    "canonical_url": "https://news.fx168news.com/stock/2511/7389535.shtml"
+  },
+  {
+    "title": "本地 AI 模型細到 可在瀏覽器上直接執行 IBM 輕量開源模型 Granite 4.0 Nano",
+    "url": "https://www.msn.com/zh-hk/lifestyle/gadget-gift-guide/%E6%9C%AC%E5%9C%B0-ai-%E6%A8%A1%E5%9E%8B%E7%B4%B0%E5%88%B0-%E5%8F%AF%E5%9C%A8%E7%80%8F%E8%A6%BD%E5%99%A8%E4%B8%8A%E7%9B%B4%E6%8E%A5%E5%9F%B7%E8%A1%8C-ibm-%E8%BC%95%E9%87%8F%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B-granite-4-0-nano/ar-AA1PyEdg?cvid=690b5272000746b1b1f61c24802944a7&ocid=a2hs",
+    "source": "MSN",
+    "published_at": "2025-11-05T22:56:32.087245+08:00",
+    "summary": "IBM 宣佈推出Granite 4.0 Nano 系列，創造了能於瀏覽器內直接本地執行的超小型開源AI 語[…]",
+    "scraped_at": "2025-11-05T22:57:21+08:00",
+    "canonical_url": "https://www.msn.com/zh-hk/lifestyle/gadget-gift-guide/%E6%9C%AC%E5%9C%B0-ai-%E6%A8%A1%E5%9E%8B%E7%B4%B0%E5%88%B0-%E5%8F%AF%E5%9C%A8%E7%80%8F%E8%A6%BD%E5%99%A8%E4%B8%8A%E7%9B%B4%E6%8E%A5%E5%9F%B7%E8%A1%8C-ibm-%E8%BC%95%E9%87%8F%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B-granite-4-0-nano/ar-AA1PyEdg"
+  },
+  {
+    "title": "Unlocking AI Search Dominance: Data Axle and Brandlight.ai Announce Strategic Partnership to Boost Brand Control",
+    "url": "https://finance.yahoo.com/news/unlocking-ai-search-dominance-data-130000781.html",
+    "source": "Yahoo Finance",
+    "published_at": "2025-11-05T22:56:29.000763+08:00",
+    "summary": "Generative AI is fundamentally changing search, shifting the focus from ranking individual pages to appearing in AI-generated summaries, giving rise to the...",
+    "scraped_at": "2025-11-05T22:57:21+08:00",
+    "canonical_url": "https://finance.yahoo.com/news/unlocking-ai-search-dominance-data-130000781.html"
+  },
+  {
+    "title": "What the AI Phenomenon Means for the Dollar: It's Complicated.",
+    "url": "https://news.futunn.com/hk/post/64432480/what-the-ai-phenomenon-means-for-the-dollar-it-s",
+    "source": "富途牛牛",
+    "published_at": "2025-11-05T22:56:25.291553+08:00",
+    "summary": "ByJules Rimmer The evidence so far from 2025 gives no clear indication of what AI might mean for the dollar, but longer-term impacts are likely to be...",
+    "scraped_at": "2025-11-05T22:57:21+08:00",
+    "canonical_url": "https://news.futunn.com/hk/post/64432480/what-the-ai-phenomenon-means-for-the-dollar-it-s"
+  },
+  {
+    "title": "Nvidia H20市占降至零…超微MI308 AI晶片獲得輸中國許可",
+    "url": "https://www.worldjournal.com/wj/story/121477/9120450?from=wj_breaknews_index",
+    "source": "世界新聞網",
+    "published_at": "2025-11-05T22:56:20.314701+08:00",
+    "summary": "美國電腦晶片巨頭超微（AMD）4日公布第3季財報時，透露該公司的Instinct MI308人工智慧（AI）晶片已經獲得...",
+    "scraped_at": "2025-11-05T22:57:21+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/121477/9120450"
+  },
+  {
+    "title": "「AI教母」李飛飛：「很自豪自己與眾不同」",
+    "url": "https://www.bbc.com/zhongwen/articles/c5yp28l0v8zo/trad",
+    "source": "BBC",
+    "published_at": "2025-11-05T22:56:16.485802+08:00",
+    "summary": "被譽為人工智慧（AI）「教母」的李飛飛教授（Prof. Fei-Fei Li）向BBC表示，作為七位獲頒頂尖工程獎的人工智慧先驅中唯一的女性，她「很自豪自己與眾不同」。",
+    "scraped_at": "2025-11-05T22:57:21+08:00",
+    "canonical_url": "https://www.bbc.com/zhongwen/articles/c5yp28l0v8zo/trad"
+  },
+  {
+    "title": "中國安全部門的AI願景：利用人工智慧完善對社會的監控- 紐約時報中文網",
+    "url": "https://cn.nytimes.com/china/20251105/china-police-ai-surveillance/zh-hant/",
+    "source": "纽约时报中文网",
+    "published_at": "2025-11-05T22:56:13.359689+08:00",
+    "summary": "中國政府最近推出「人工智慧+」行動，旨在將AI技術植入教育、醫療、娛樂等各個領域。與此同時，人工智慧技術也為當局提供了監控和控制公民的新手段。",
+    "scraped_at": "2025-11-05T22:57:21+08:00",
+    "canonical_url": "https://cn.nytimes.com/china/20251105/china-police-ai-surveillance/zh-hant/"
+  },
+  {
     "title": "Trader who inspired The Big Short sets off AI tech share sell-off",
     "url": "https://www.bbc.com/news/articles/c867vyn2evlo",
     "source": "BBC",
@@ -18,78 +198,6 @@
     "canonical_url": "https://fortune.com/2025/11/05/voice-ai-giga-raise-61-million-customer-service-series-a/"
   },
   {
-    "title": "International stocks slide as concerns about AI and tech company values spread",
-    "url": "https://www.nbcnews.com/world/asia/international-stocks-slide-concerns-ai-tech-company-values-spread-rcna242025",
-    "source": "NBC News",
-    "published_at": "2025-11-05T22:45:50.076642+08:00",
-    "summary": "International markets plunged Tuesday night, as stocks across the Asia-Pacific region sold off on worries about the sky-high values of AI and tech...",
-    "scraped_at": "2025-11-05T22:45:56+08:00",
-    "canonical_url": "https://www.nbcnews.com/world/asia/international-stocks-slide-concerns-ai-tech-company-values-spread-rcna242025"
-  },
-  {
-    "title": "The stock market selloff goes global as AI bubble concerns grow",
-    "url": "https://qz.com/market-selloff-goes-global-as-ai-valuation-concerns-deepen",
-    "source": "Quartz",
-    "published_at": "2025-11-05T22:45:46.264794+08:00",
-    "summary": "Markets around the world are slumping amid growing worries that artificial intelligence companies' sky-high valuations could be coming back down to Earth.",
-    "scraped_at": "2025-11-05T22:45:56+08:00",
-    "canonical_url": "https://qz.com/market-selloff-goes-global-as-ai-valuation-concerns-deepen"
-  },
-  {
-    "title": "I switched from a corporate career to launching an AI-native company with no tech background. I knew the time was now.",
-    "url": "https://www.businessinsider.com/switched-from-corporate-career-to-ai-company-no-tech-background-2025-11",
-    "source": "Business Insider",
-    "published_at": "2025-11-05T22:45:43.094680+08:00",
-    "summary": "Tim DeSoto was a senior director at Walmart before building an AI-native startup. He sees AI entrepreneurship as the least risky career move.",
-    "scraped_at": "2025-11-05T22:45:56+08:00",
-    "canonical_url": "https://www.businessinsider.com/switched-from-corporate-career-to-ai-company-no-tech-background-2025-11"
-  },
-  {
-    "title": "AI is Breaking the Browser's Back",
-    "url": "https://spyglass.org/ai-browsers-breaking-web/",
-    "source": "spyglass.org",
-    "published_at": "2025-11-05T22:45:39.851091+08:00",
-    "summary": "A funny thing happened on the way to AI web browsers taking over the world: they're now getting blocked left and right from doing the things that would make...",
-    "scraped_at": "2025-11-05T22:45:56+08:00",
-    "canonical_url": "https://spyglass.org/ai-browsers-breaking-web/"
-  },
-  {
-    "title": "Exclusive: China bans foreign AI chips from state-funded data centres, sources say",
-    "url": "https://www.reuters.com/world/china/china-bans-foreign-ai-chips-state-funded-data-centres-sources-say-2025-11-05/",
-    "source": "Reuters",
-    "published_at": "2025-11-05T22:45:36.634823+08:00",
-    "summary": "The Chinese government has issued guidance requiring new data centre projects that have received any state funds to only use domestically-made artificial...",
-    "scraped_at": "2025-11-05T22:45:56+08:00",
-    "canonical_url": "https://www.reuters.com/world/china/china-bans-foreign-ai-chips-state-funded-data-centres-sources-say-2025-11-05/"
-  },
-  {
-    "title": "GW Law to Host Conference on AI, Animals and the Law",
-    "url": "https://www.law.gwu.edu/gw-law-host-conference-ai-animals-and-law",
-    "source": "GW Law",
-    "published_at": "2025-11-05T22:45:33.431297+08:00",
-    "summary": "The GW Law Animal Law Program is excited to host the Artificial Intelligence, Animals, and the Law Conference on the GW Law campus this week.",
-    "scraped_at": "2025-11-05T22:45:56+08:00",
-    "canonical_url": "https://www.law.gwu.edu/gw-law-host-conference-ai-animals-and-law"
-  },
-  {
-    "title": "Beware of double agents: How AI can fortify — or fracture — your cybersecurity",
-    "url": "https://blogs.microsoft.com/blog/2025/11/05/beware-of-double-agents-how-ai-can-fortify-or-fracture-your-cybersecurity/",
-    "source": "The Official Microsoft Blog",
-    "published_at": "2025-11-05T22:45:29.948498+08:00",
-    "summary": "AI is rapidly becoming the backbone of our world, promising unprecedented productivity and innovation. But as organizations deploy AI agents to unlock new...",
-    "scraped_at": "2025-11-05T22:45:56+08:00",
-    "canonical_url": "https://blogs.microsoft.com/blog/2025/11/05/beware-of-double-agents-how-ai-can-fortify-or-fracture-your-cybersecurity/"
-  },
-  {
-    "title": "Some thoughts on AI and coding",
-    "url": "https://www.infoworld.com/article/4083424/some-thoughts-on-ai-and-coding.html",
-    "source": "InfoWorld",
-    "published_at": "2025-11-05T22:45:26.754806+08:00",
-    "summary": "Large language models are astonishingly good at coding and getting better. What will this mean for software and software developers? generative AI...",
-    "scraped_at": "2025-11-05T22:45:56+08:00",
-    "canonical_url": "https://www.infoworld.com/article/4083424/some-thoughts-on-ai-and-coding.html"
-  },
-  {
     "title": "劍指寒武紀！騰訊支持的AI晶片獨角獸燧原科技再衝IPO 陸GPU四小龍加快資本競速",
     "url": "https://hk.finance.yahoo.com/news/%E5%8A%8D%E6%8C%87%E5%AF%92%E6%AD%A6%E7%B4%80-%E9%A8%B0%E8%A8%8A%E6%94%AF%E6%8C%81%E7%9A%84ai%E6%99%B6%E7%89%87%E7%8D%A8%E8%A7%92%E7%8D%B8%E7%87%A7%E5%8E%9F%E7%A7%91%E6%8A%80%E5%86%8D%E8%A1%9Dipo-%E9%99%B8gpu%E5%9B%9B%E5%B0%8F%E9%BE%8D%E5%8A%A0%E5%BF%AB%E8%B3%87%E6%9C%AC%E7%AB%B6%E9%80%9F-090007648.html",
     "source": "Yahoo 財經",
@@ -99,42 +207,6 @@
     "canonical_url": "https://hk.finance.yahoo.com/news/%E5%8A%8D%E6%8C%87%E5%AF%92%E6%AD%A6%E7%B4%80-%E9%A8%B0%E8%A8%8A%E6%94%AF%E6%8C%81%E7%9A%84ai%E6%99%B6%E7%89%87%E7%8D%A8%E8%A7%92%E7%8D%B8%E7%87%A7%E5%8E%9F%E7%A7%91%E6%8A%80%E5%86%8D%E8%A1%9Dipo-%E9%99%B8gpu%E5%9B%9B%E5%B0%8F%E9%BE%8D%E5%8A%A0%E5%BF%AB%E8%B3%87%E6%9C%AC%E7%AB%B6%E9%80%9F-090007648.html"
   },
   {
-    "title": "標普全球報告描繪了企業在構建AI代理就緒基礎設施方面的競爭",
-    "url": "https://news.futunn.com/hk/post/64429944/s-p-global-report-charts-enterprise-race-to-build-ai",
-    "source": "富途牛牛",
-    "published_at": "2025-11-05T22:45:19.250843+08:00",
-    "summary": "最新研究表明，58%的企業正在積極追求代理能力。紐約，2025年11月5日/PRNewswire/ -- 標普全球（NYSE: SPGI）發佈了一份題爲《2026年大趨勢：人工智能》的新報告。",
-    "scraped_at": "2025-11-05T22:45:56+08:00",
-    "canonical_url": "https://news.futunn.com/hk/post/64429944/s-p-global-report-charts-enterprise-race-to-build-ai"
-  },
-  {
-    "title": "亞股重挫反映依賴AI題材的反噬 專家預測：台韓日股長多格局不變",
-    "url": "https://www.worldjournal.com/wj/story/121209/9120026",
-    "source": "世界新聞網",
-    "published_at": "2025-11-05T22:45:15.154973+08:00",
-    "summary": "美股周二（4日）由人工智慧（AI）概念股領跌，震波傳至今（5）日的亞股，波動激增至美國總統川普4月宣布對等關稅以來最高，...",
-    "scraped_at": "2025-11-05T22:45:56+08:00",
-    "canonical_url": "https://www.worldjournal.com/wj/story/121209/9120026"
-  },
-  {
-    "title": "中国迄今去除外国技术最激进一步！北京禁止外国AI芯片进入国有数据中心",
-    "url": "https://news.fx168news.com/stock/2511/7389535.shtml",
-    "source": "FX168",
-    "published_at": "2025-11-05T22:45:11.156145+08:00",
-    "summary": "FX168财经报社(欧洲)讯11月5日，据路透援引两名知情人士透露，中国政府近日发布指导意见，要求所有获得国家资金支持的新建数据中心项目必须使用国产人工智能...",
-    "scraped_at": "2025-11-05T22:45:56+08:00",
-    "canonical_url": "https://news.fx168news.com/stock/2511/7389535.shtml"
-  },
-  {
-    "title": "本地 AI 模型細到 可在瀏覽器上直接執行 IBM 輕量開源模型 Granite 4.0 Nano",
-    "url": "https://www.msn.com/zh-hk/lifestyle/gadget-gift-guide/%E6%9C%AC%E5%9C%B0-ai-%E6%A8%A1%E5%9E%8B%E7%B4%B0%E5%88%B0-%E5%8F%AF%E5%9C%A8%E7%80%8F%E8%A6%BD%E5%99%A8%E4%B8%8A%E7%9B%B4%E6%8E%A5%E5%9F%B7%E8%A1%8C-ibm-%E8%BC%95%E9%87%8F%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B-granite-4-0-nano/ar-AA1PyEdg?cvid=690b5272000746b1b1f61c24802944a7&ocid=a2hs",
-    "source": "MSN",
-    "published_at": "2025-11-05T22:45:07.632293+08:00",
-    "summary": "IBM 宣佈推出Granite 4.0 Nano 系列，創造了能於瀏覽器內直接本地執行的超小型開源AI 語[…]",
-    "scraped_at": "2025-11-05T22:45:56+08:00",
-    "canonical_url": "https://www.msn.com/zh-hk/lifestyle/gadget-gift-guide/%E6%9C%AC%E5%9C%B0-ai-%E6%A8%A1%E5%9E%8B%E7%B4%B0%E5%88%B0-%E5%8F%AF%E5%9C%A8%E7%80%8F%E8%A6%BD%E5%99%A8%E4%B8%8A%E7%9B%B4%E6%8E%A5%E5%9F%B7%E8%A1%8C-ibm-%E8%BC%95%E9%87%8F%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B-granite-4-0-nano/ar-AA1PyEdg"
-  },
-  {
     "title": "AI泡沫說重挫5日台股 鴻海爆巨量逆襲衝高扮演支撐角色",
     "url": "https://tw.news.yahoo.com/ai%E6%B3%A1%E6%B2%AB%E8%AA%AA%E9%87%8D%E6%8C%AB5%E6%97%A5%E5%8F%B0%E8%82%A1-%E9%B4%BB%E6%B5%B7%E7%88%86%E5%B7%A8%E9%87%8F%E9%80%86%E8%A5%B2%E8%A1%9D%E9%AB%98%E6%89%AE%E6%BC%94%E6%94%AF%E6%92%90%E8%A7%92%E8%89%B2-100351201.html",
     "source": "奇摩新聞",
@@ -142,42 +214,6 @@
     "summary": "AI泡沫警訊不僅血洗4日美股，台股5日加權指數也受重創，呈現開低殺低走勢，不過在鴻海(2317)與聯發科(2454)盤中點火支撐，指數跌幅縮小，終場指數下跌399點，力守在月線之上，...",
     "scraped_at": "2025-11-05T22:45:56+08:00",
     "canonical_url": "https://tw.news.yahoo.com/ai%E6%B3%A1%E6%B2%AB%E8%AA%AA%E9%87%8D%E6%8C%AB5%E6%97%A5%E5%8F%B0%E8%82%A1-%E9%B4%BB%E6%B5%B7%E7%88%86%E5%B7%A8%E9%87%8F%E9%80%86%E8%A5%B2%E8%A1%9D%E9%AB%98%E6%89%AE%E6%BC%94%E6%94%AF%E6%92%90%E8%A7%92%E8%89%B2-100351201.html"
-  },
-  {
-    "title": "What the AI Phenomenon Means for the Dollar: It's Complicated.",
-    "url": "https://news.futunn.com/hk/post/64432480/what-the-ai-phenomenon-means-for-the-dollar-it-s",
-    "source": "富途牛牛",
-    "published_at": "2025-11-05T22:45:00.468073+08:00",
-    "summary": "ByJules Rimmer The evidence so far from 2025 gives no clear indication of what AI might mean for the dollar, but longer-term impacts are likely to be...",
-    "scraped_at": "2025-11-05T22:45:56+08:00",
-    "canonical_url": "https://news.futunn.com/hk/post/64432480/what-the-ai-phenomenon-means-for-the-dollar-it-s"
-  },
-  {
-    "title": "Nvidia H20市占降至零…超微MI308 AI晶片獲得輸中國許可",
-    "url": "https://www.worldjournal.com/wj/story/121477/9120450?from=wj_breaknews_index",
-    "source": "世界新聞網",
-    "published_at": "2025-11-05T22:44:55.645834+08:00",
-    "summary": "美國電腦晶片巨頭超微（AMD）4日公布第3季財報時，透露該公司的Instinct MI308人工智慧（AI）晶片已經獲得...",
-    "scraped_at": "2025-11-05T22:45:56+08:00",
-    "canonical_url": "https://www.worldjournal.com/wj/story/121477/9120450"
-  },
-  {
-    "title": "「AI教母」李飛飛：「很自豪自己與眾不同」",
-    "url": "https://www.bbc.com/zhongwen/articles/c5yp28l0v8zo/trad",
-    "source": "BBC",
-    "published_at": "2025-11-05T22:44:51.821351+08:00",
-    "summary": "被譽為人工智慧（AI）「教母」的李飛飛教授（Prof. Fei-Fei Li）向BBC表示，作為七位獲頒頂尖工程獎的人工智慧先驅中唯一的女性，她「很自豪自己與眾不同」。",
-    "scraped_at": "2025-11-05T22:45:56+08:00",
-    "canonical_url": "https://www.bbc.com/zhongwen/articles/c5yp28l0v8zo/trad"
-  },
-  {
-    "title": "中國安全部門的AI願景：利用人工智慧完善對社會的監控- 紐約時報中文網",
-    "url": "https://cn.nytimes.com/china/20251105/china-police-ai-surveillance/zh-hant/",
-    "source": "纽约时报中文网",
-    "published_at": "2025-11-05T22:44:48.641643+08:00",
-    "summary": "中國政府最近推出「人工智慧+」行動，旨在將AI技術植入教育、醫療、娛樂等各個領域。與此同時，人工智慧技術也為當局提供了監控和控制公民的新手段。",
-    "scraped_at": "2025-11-05T22:45:56+08:00",
-    "canonical_url": "https://cn.nytimes.com/china/20251105/china-police-ai-surveillance/zh-hant/"
   },
   {
     "title": "AI Companies Have Money and Momentum. But Look Who's Stuck With Their Utility Bill.",
