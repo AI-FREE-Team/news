@@ -1,5 +1,95 @@
 [
   {
+    "title": "AI-First Strategy: How to Outperform Your Competition by 2028",
+    "url": "https://www.gartner.com/en/articles/ai-first-strategy",
+    "source": "Gartner",
+    "published_at": "2025-11-06T03:41:10.103409+08:00",
+    "summary": "Discover how an AI-first strategy helps organizations deliver 25% better outcomes. Explore Gartner insights on maximizing enterprise impact with artificial...",
+    "scraped_at": "2025-11-06T03:41:10+08:00",
+    "canonical_url": "https://www.gartner.com/en/articles/ai-first-strategy"
+  },
+  {
+    "title": "Bipartisan Senate bill calls for agencies to report AI-related job cuts",
+    "url": "https://fedscoop.com/ai-job-cuts-senate-bill-mark-warner-josh-hawley/",
+    "source": "FedScoop",
+    "published_at": "2025-11-06T03:41:06.871139+08:00",
+    "summary": "The legislation from Sens. Warner and Hawley tasks the Labor Department with delivering a quarterly report on agency and private-sector layoffs linked to AI...",
+    "scraped_at": "2025-11-06T03:41:10+08:00",
+    "canonical_url": "https://fedscoop.com/ai-job-cuts-senate-bill-mark-warner-josh-hawley/"
+  },
+  {
+    "title": "Meet the woman behind chart-topping AI artist Xania Monet: \"I look at her as a real person\"",
+    "url": "https://www.cbsnews.com/news/meet-the-woman-behind-chart-topping-ai-artist-xania-monet-i-look-at-her-as-a-real-person/",
+    "source": "CBS News",
+    "published_at": "2025-11-06T03:41:03.670354+08:00",
+    "summary": "Artist Xania Monet's voice has been heard by millions around the world, but some are surprised to learn she's a product of artificial intelligence.",
+    "scraped_at": "2025-11-06T03:41:10+08:00",
+    "canonical_url": "https://www.cbsnews.com/news/meet-the-woman-behind-chart-topping-ai-artist-xania-monet-i-look-at-her-as-a-real-person/"
+  },
+  {
+    "title": "Even AI hype has its limit. Pinterest just found it",
+    "url": "https://qz.com/even-ai-hype-has-its-limit-pinterest-just-found-it",
+    "source": "Quartz",
+    "published_at": "2025-11-06T03:41:00.512134+08:00",
+    "summary": "The company said a new AI shopping tool was \"paying off.\" With tariffs hitting ad spending, investors didn't see it that way.",
+    "scraped_at": "2025-11-06T03:41:10+08:00",
+    "canonical_url": "https://qz.com/even-ai-hype-has-its-limit-pinterest-just-found-it"
+  },
+  {
+    "title": "Is AI coming for your job? Maybe. See which industries are most, least at risk",
+    "url": "https://www.usatoday.com/story/money/2025/11/04/is-ai-coming-for-your-job-maybe/87065768007/",
+    "source": "USA Today",
+    "published_at": "2025-11-06T03:40:57.341369+08:00",
+    "summary": "As the job market cools and companies announce layoffs or drops in hiring tied to artificial intelligence, Americans are asking a familiar but urgent...",
+    "scraped_at": "2025-11-06T03:41:10+08:00",
+    "canonical_url": "https://www.usatoday.com/story/money/2025/11/04/is-ai-coming-for-your-job-maybe/87065768007/"
+  },
+  {
+    "title": "Intel, Cisco Collaboration Delivers Industry’s First Systems Approach for AI Workloads at the Edge",
+    "url": "https://newsroom.intel.com/data-center/intel-cisco-deliver-industry-first-approach-for-ai-workloads",
+    "source": "Intel Newsroom",
+    "published_at": "2025-11-06T03:40:54.222242+08:00",
+    "summary": "Cisco Unified Edge with Intel Xeon 6 SoCs delivers a future-ready AI infrastructure, boosting performance and security while reducing network traffic...",
+    "scraped_at": "2025-11-06T03:41:10+08:00",
+    "canonical_url": "https://newsroom.intel.com/data-center/intel-cisco-deliver-industry-first-approach-for-ai-workloads"
+  },
+  {
+    "title": "Personal Perspective: Why the human mind and AI live in different realities.",
+    "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202511/ai-and-the-battle-for-time",
+    "source": "Psychology Today",
+    "published_at": "2025-11-06T03:40:50.848435+08:00",
+    "summary": "Personal Perspective: AI isn't just threatening our intelligence; it's challenging our relationship with time.",
+    "scraped_at": "2025-11-06T03:41:10+08:00",
+    "canonical_url": "https://www.psychologytoday.com/us/blog/the-digital-self/202511/ai-and-the-battle-for-time"
+  },
+  {
+    "title": "When AI paints like van Gogh, who gets the credit?",
+    "url": "https://www.uta.edu/news/news-releases/2025/11/05/when-ai-paints-like-van-gogh-who-gets-the-credit",
+    "source": "The University of Texas at Arlington",
+    "published_at": "2025-11-06T03:40:47.627650+08:00",
+    "summary": "UTA's Ananya Singh explores how artificial intelligence challenges originality and raises questions of artistic ownership.",
+    "scraped_at": "2025-11-06T03:41:10+08:00",
+    "canonical_url": "https://www.uta.edu/news/news-releases/2025/11/05/when-ai-paints-like-van-gogh-who-gets-the-credit"
+  },
+  {
+    "title": "AI Mode in Chrome is easier to use on iOS and Android.",
+    "url": "https://blog.google/products/chrome/ai-mode-in-chrome-ios-android/",
+    "source": "blog.google",
+    "published_at": "2025-11-06T03:40:43.826696+08:00",
+    "summary": "Plus, the AI Mode shortcut is expanding to 160 more countries.",
+    "scraped_at": "2025-11-06T03:41:10+08:00",
+    "canonical_url": "https://blog.google/products/chrome/ai-mode-in-chrome-ios-android/"
+  },
+  {
+    "title": "Rants from an optimistic person: Fooled by AI",
+    "url": "https://scotscoop.com/rants-from-an-optimistic-person-fooled-by-ai/",
+    "source": "Scot Scoop News",
+    "published_at": "2025-11-06T03:40:40.614751+08:00",
+    "summary": "I once found a video on YouTube featuring study music. It was great! The music was enjoyable and helped me focus. I opened YouTube again the next day to...",
+    "scraped_at": "2025-11-06T03:41:10+08:00",
+    "canonical_url": "https://scotscoop.com/rants-from-an-optimistic-person-fooled-by-ai/"
+  },
+  {
     "title": "Beware of double agents: How AI can fortify — or fracture — your cybersecurity",
     "url": "https://blogs.microsoft.com/blog/2025/11/05/beware-of-double-agents-how-ai-can-fortify-or-fracture-your-cybersecurity/",
     "source": "The Official Microsoft Blog",
@@ -16,78 +106,6 @@
     "summary": "IP professionals are increasingly testing and using a variety of artificial intelligence (AI) tools. Some are using general-purpose systems like ChatGPT for...",
     "scraped_at": "2025-11-06T03:29:53+08:00",
     "canonical_url": "https://ipwatchdog.com/ankar-ai-november-20-2025/"
-  },
-  {
-    "title": "Bipartisan Senate bill calls for agencies to report AI-related job cuts",
-    "url": "https://fedscoop.com/ai-job-cuts-senate-bill-mark-warner-josh-hawley/",
-    "source": "FedScoop",
-    "published_at": "2025-11-06T03:29:47.232818+08:00",
-    "summary": "The legislation from Sens. Warner and Hawley tasks the Labor Department with delivering a quarterly report on agency and private-sector layoffs linked to AI...",
-    "scraped_at": "2025-11-06T03:29:53+08:00",
-    "canonical_url": "https://fedscoop.com/ai-job-cuts-senate-bill-mark-warner-josh-hawley/"
-  },
-  {
-    "title": "AI-First Strategy: How to Outperform Your Competition by 2028",
-    "url": "https://www.gartner.com/en/articles/ai-first-strategy",
-    "source": "Gartner",
-    "published_at": "2025-11-06T03:29:44.088769+08:00",
-    "summary": "Discover how an AI-first strategy helps organizations deliver 25% better outcomes. Explore Gartner insights on maximizing enterprise impact with artificial...",
-    "scraped_at": "2025-11-06T03:29:53+08:00",
-    "canonical_url": "https://www.gartner.com/en/articles/ai-first-strategy"
-  },
-  {
-    "title": "Meet the woman behind chart-topping AI artist Xania Monet: \"I look at her as a real person\"",
-    "url": "https://www.cbsnews.com/news/meet-the-woman-behind-chart-topping-ai-artist-xania-monet-i-look-at-her-as-a-real-person/",
-    "source": "CBS News",
-    "published_at": "2025-11-06T03:29:40.915680+08:00",
-    "summary": "Artist Xania Monet's voice has been heard by millions around the world, but some are surprised to learn she's a product of artificial intelligence.",
-    "scraped_at": "2025-11-06T03:29:53+08:00",
-    "canonical_url": "https://www.cbsnews.com/news/meet-the-woman-behind-chart-topping-ai-artist-xania-monet-i-look-at-her-as-a-real-person/"
-  },
-  {
-    "title": "Even AI hype has its limit. Pinterest just found it",
-    "url": "https://qz.com/even-ai-hype-has-its-limit-pinterest-just-found-it",
-    "source": "Quartz",
-    "published_at": "2025-11-06T03:29:37.809523+08:00",
-    "summary": "The company said a new AI shopping tool was \"paying off.\" With tariffs hitting ad spending, investors didn't see it that way.",
-    "scraped_at": "2025-11-06T03:29:53+08:00",
-    "canonical_url": "https://qz.com/even-ai-hype-has-its-limit-pinterest-just-found-it"
-  },
-  {
-    "title": "Intel, Cisco Collaboration Delivers Industry’s First Systems Approach for AI Workloads at the Edge",
-    "url": "https://newsroom.intel.com/data-center/intel-cisco-deliver-industry-first-approach-for-ai-workloads",
-    "source": "Intel Newsroom",
-    "published_at": "2025-11-06T03:29:34.593588+08:00",
-    "summary": "Cisco Unified Edge with Intel Xeon 6 SoCs delivers a future-ready AI infrastructure, boosting performance and security while reducing network traffic...",
-    "scraped_at": "2025-11-06T03:29:53+08:00",
-    "canonical_url": "https://newsroom.intel.com/data-center/intel-cisco-deliver-industry-first-approach-for-ai-workloads"
-  },
-  {
-    "title": "When AI paints like van Gogh, who gets the credit?",
-    "url": "https://www.uta.edu/news/news-releases/2025/11/05/when-ai-paints-like-van-gogh-who-gets-the-credit",
-    "source": "The University of Texas at Arlington",
-    "published_at": "2025-11-06T03:29:30.964650+08:00",
-    "summary": "UTA's Ananya Singh explores how artificial intelligence challenges originality and raises questions of artistic ownership.",
-    "scraped_at": "2025-11-06T03:29:53+08:00",
-    "canonical_url": "https://www.uta.edu/news/news-releases/2025/11/05/when-ai-paints-like-van-gogh-who-gets-the-credit"
-  },
-  {
-    "title": "AI Mode in Chrome is easier to use on iOS and Android.",
-    "url": "https://blog.google/products/chrome/ai-mode-in-chrome-ios-android/",
-    "source": "blog.google",
-    "published_at": "2025-11-06T03:29:27.088631+08:00",
-    "summary": "Plus, the AI Mode shortcut is expanding to 160 more countries.",
-    "scraped_at": "2025-11-06T03:29:53+08:00",
-    "canonical_url": "https://blog.google/products/chrome/ai-mode-in-chrome-ios-android/"
-  },
-  {
-    "title": "Rants from an optimistic person: Fooled by AI",
-    "url": "https://scotscoop.com/rants-from-an-optimistic-person-fooled-by-ai/",
-    "source": "Scot Scoop News",
-    "published_at": "2025-11-06T03:29:23.819495+08:00",
-    "summary": "I once found a video on YouTube featuring study music. It was great! The music was enjoyable and helped me focus. I opened YouTube again the next day to...",
-    "scraped_at": "2025-11-06T03:29:53+08:00",
-    "canonical_url": "https://scotscoop.com/rants-from-an-optimistic-person-fooled-by-ai/"
   },
   {
     "title": "151% 的增長背後，它正在成爲 AI 的「新入口」",
@@ -124,15 +142,6 @@
     "summary": "美國電腦晶片巨頭超微（AMD）4日公布第3季財報時，透露該公司的Instinct MI308人工智慧（AI）晶片已經獲得...",
     "scraped_at": "2025-11-06T03:29:53+08:00",
     "canonical_url": "https://www.worldjournal.com/wj/story/121477/9120450"
-  },
-  {
-    "title": "Is AI coming for your job? Maybe. See which industries are most, least at risk",
-    "url": "https://www.usatoday.com/story/money/2025/11/04/is-ai-coming-for-your-job-maybe/87065768007/",
-    "source": "USA Today",
-    "published_at": "2025-11-06T03:15:36.958852+08:00",
-    "summary": "As the job market cools and companies announce layoffs or drops in hiring tied to artificial intelligence, Americans are asking a familiar but urgent...",
-    "scraped_at": "2025-11-06T03:15:37+08:00",
-    "canonical_url": "https://www.usatoday.com/story/money/2025/11/04/is-ai-coming-for-your-job-maybe/87065768007/"
   },
   {
     "title": "New Imaging Platform Allows Single-Integration Access to Multiple AI Vendors",
