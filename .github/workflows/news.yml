@@ -46,15 +46,16 @@ jobs:
           git status
 
       # commit 變更（若有）
-      - name: Configure git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          
       - name: Commit and push generated images
         run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+    
           git add data/
           git commit -m "chore: add data on $(date -u '+%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
-          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+    
+          # 正確格式：x-access-token:TOKEN@github.com
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git push origin HEAD:main
-          
+
+    
