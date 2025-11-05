@@ -1,5 +1,131 @@
 [
   {
+    "title": "Beware of double agents: How AI can fortify — or fracture — your cybersecurity",
+    "url": "https://blogs.microsoft.com/blog/2025/11/05/beware-of-double-agents-how-ai-can-fortify-or-fracture-your-cybersecurity/",
+    "source": "The Official Microsoft Blog",
+    "published_at": "2025-11-06T03:29:53.617825+08:00",
+    "summary": "AI is rapidly becoming the backbone of our world, promising unprecedented productivity and innovation. But as organizations deploy AI agents to unlock new...",
+    "scraped_at": "2025-11-06T03:29:53+08:00",
+    "canonical_url": "https://blogs.microsoft.com/blog/2025/11/05/beware-of-double-agents-how-ai-can-fortify-or-fracture-your-cybersecurity/"
+  },
+  {
+    "title": "Webinar: IP Specific vs. General Purpose AI – Choosing the Right Tool for the Task",
+    "url": "https://ipwatchdog.com/ankar-ai-november-20-2025/",
+    "source": "IPWatchdog.com",
+    "published_at": "2025-11-06T03:29:50.407051+08:00",
+    "summary": "IP professionals are increasingly testing and using a variety of artificial intelligence (AI) tools. Some are using general-purpose systems like ChatGPT for...",
+    "scraped_at": "2025-11-06T03:29:53+08:00",
+    "canonical_url": "https://ipwatchdog.com/ankar-ai-november-20-2025/"
+  },
+  {
+    "title": "Bipartisan Senate bill calls for agencies to report AI-related job cuts",
+    "url": "https://fedscoop.com/ai-job-cuts-senate-bill-mark-warner-josh-hawley/",
+    "source": "FedScoop",
+    "published_at": "2025-11-06T03:29:47.232818+08:00",
+    "summary": "The legislation from Sens. Warner and Hawley tasks the Labor Department with delivering a quarterly report on agency and private-sector layoffs linked to AI...",
+    "scraped_at": "2025-11-06T03:29:53+08:00",
+    "canonical_url": "https://fedscoop.com/ai-job-cuts-senate-bill-mark-warner-josh-hawley/"
+  },
+  {
+    "title": "AI-First Strategy: How to Outperform Your Competition by 2028",
+    "url": "https://www.gartner.com/en/articles/ai-first-strategy",
+    "source": "Gartner",
+    "published_at": "2025-11-06T03:29:44.088769+08:00",
+    "summary": "Discover how an AI-first strategy helps organizations deliver 25% better outcomes. Explore Gartner insights on maximizing enterprise impact with artificial...",
+    "scraped_at": "2025-11-06T03:29:53+08:00",
+    "canonical_url": "https://www.gartner.com/en/articles/ai-first-strategy"
+  },
+  {
+    "title": "Meet the woman behind chart-topping AI artist Xania Monet: \"I look at her as a real person\"",
+    "url": "https://www.cbsnews.com/news/meet-the-woman-behind-chart-topping-ai-artist-xania-monet-i-look-at-her-as-a-real-person/",
+    "source": "CBS News",
+    "published_at": "2025-11-06T03:29:40.915680+08:00",
+    "summary": "Artist Xania Monet's voice has been heard by millions around the world, but some are surprised to learn she's a product of artificial intelligence.",
+    "scraped_at": "2025-11-06T03:29:53+08:00",
+    "canonical_url": "https://www.cbsnews.com/news/meet-the-woman-behind-chart-topping-ai-artist-xania-monet-i-look-at-her-as-a-real-person/"
+  },
+  {
+    "title": "Even AI hype has its limit. Pinterest just found it",
+    "url": "https://qz.com/even-ai-hype-has-its-limit-pinterest-just-found-it",
+    "source": "Quartz",
+    "published_at": "2025-11-06T03:29:37.809523+08:00",
+    "summary": "The company said a new AI shopping tool was \"paying off.\" With tariffs hitting ad spending, investors didn't see it that way.",
+    "scraped_at": "2025-11-06T03:29:53+08:00",
+    "canonical_url": "https://qz.com/even-ai-hype-has-its-limit-pinterest-just-found-it"
+  },
+  {
+    "title": "Intel, Cisco Collaboration Delivers Industry’s First Systems Approach for AI Workloads at the Edge",
+    "url": "https://newsroom.intel.com/data-center/intel-cisco-deliver-industry-first-approach-for-ai-workloads",
+    "source": "Intel Newsroom",
+    "published_at": "2025-11-06T03:29:34.593588+08:00",
+    "summary": "Cisco Unified Edge with Intel Xeon 6 SoCs delivers a future-ready AI infrastructure, boosting performance and security while reducing network traffic...",
+    "scraped_at": "2025-11-06T03:29:53+08:00",
+    "canonical_url": "https://newsroom.intel.com/data-center/intel-cisco-deliver-industry-first-approach-for-ai-workloads"
+  },
+  {
+    "title": "When AI paints like van Gogh, who gets the credit?",
+    "url": "https://www.uta.edu/news/news-releases/2025/11/05/when-ai-paints-like-van-gogh-who-gets-the-credit",
+    "source": "The University of Texas at Arlington",
+    "published_at": "2025-11-06T03:29:30.964650+08:00",
+    "summary": "UTA's Ananya Singh explores how artificial intelligence challenges originality and raises questions of artistic ownership.",
+    "scraped_at": "2025-11-06T03:29:53+08:00",
+    "canonical_url": "https://www.uta.edu/news/news-releases/2025/11/05/when-ai-paints-like-van-gogh-who-gets-the-credit"
+  },
+  {
+    "title": "AI Mode in Chrome is easier to use on iOS and Android.",
+    "url": "https://blog.google/products/chrome/ai-mode-in-chrome-ios-android/",
+    "source": "blog.google",
+    "published_at": "2025-11-06T03:29:27.088631+08:00",
+    "summary": "Plus, the AI Mode shortcut is expanding to 160 more countries.",
+    "scraped_at": "2025-11-06T03:29:53+08:00",
+    "canonical_url": "https://blog.google/products/chrome/ai-mode-in-chrome-ios-android/"
+  },
+  {
+    "title": "Rants from an optimistic person: Fooled by AI",
+    "url": "https://scotscoop.com/rants-from-an-optimistic-person-fooled-by-ai/",
+    "source": "Scot Scoop News",
+    "published_at": "2025-11-06T03:29:23.819495+08:00",
+    "summary": "I once found a video on YouTube featuring study music. It was great! The music was enjoyable and helped me focus. I opened YouTube again the next day to...",
+    "scraped_at": "2025-11-06T03:29:53+08:00",
+    "canonical_url": "https://scotscoop.com/rants-from-an-optimistic-person-fooled-by-ai/"
+  },
+  {
+    "title": "151% 的增長背後，它正在成爲 AI 的「新入口」",
+    "url": "https://news.futunn.com/hk/post/64416379",
+    "source": "富途牛牛",
+    "published_at": "2025-11-06T03:29:18.253785+08:00",
+    "summary": "作者｜徐珊編輯｜靖宇浪潮之下，AI語音正以前所未有的速度奔湧。當大家期待AI 能「聽懂」言語，「理解」人心時，AI 產業與技術準備好了嗎？10 月31 日，由聲網與RTE 開發者...",
+    "scraped_at": "2025-11-06T03:29:53+08:00",
+    "canonical_url": "https://news.futunn.com/hk/post/64416379"
+  },
+  {
+    "title": "中國封殺輝達！國有資料中心禁外國AI晶片",
+    "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%9C%8B%E5%B0%81%E6%AE%BA%E8%BC%9D%E9%81%94-%E5%9C%8B%E6%9C%89%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E7%A6%81%E5%A4%96%E5%9C%8Bai%E6%99%B6%E7%89%87-145545819.html",
+    "source": "奇摩新聞",
+    "published_at": "2025-11-06T03:29:11.597788+08:00",
+    "summary": "[NOWnews今日新聞]中國為促進內部晶片產業發展，積極推動人工智慧(AI)晶片自主化，大舉補貼大型資料中心以及相關企業。路透稍早披露，中國政府已發布指導命令，...",
+    "scraped_at": "2025-11-06T03:29:53+08:00",
+    "canonical_url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%9C%8B%E5%B0%81%E6%AE%BA%E8%BC%9D%E9%81%94-%E5%9C%8B%E6%9C%89%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E7%A6%81%E5%A4%96%E5%9C%8Bai%E6%99%B6%E7%89%87-145545819.html"
+  },
+  {
+    "title": "傳中共禁部分數據中心用外國AI芯片",
+    "url": "https://www.epochtimes.com/b5/25/11/5/n14630320.htm",
+    "source": "大紀元",
+    "published_at": "2025-11-06T03:29:07.785997+08:00",
+    "summary": "週三（11月5日），路透社引述兩名知情人士的消息報導，中共官方已發布內部指導意見，要求所有獲得國家資金的新建數據中心項目只能使用國產人工智能（AI）芯片。",
+    "scraped_at": "2025-11-06T03:29:53+08:00",
+    "canonical_url": "https://www.epochtimes.com/b5/25/11/5/n14630320.htm"
+  },
+  {
+    "title": "Nvidia H20市占降至零…超微MI308 AI晶片獲得輸中國許可",
+    "url": "https://www.worldjournal.com/wj/story/121477/9120450",
+    "source": "世界新聞網",
+    "published_at": "2025-11-06T03:29:04.571066+08:00",
+    "summary": "美國電腦晶片巨頭超微（AMD）4日公布第3季財報時，透露該公司的Instinct MI308人工智慧（AI）晶片已經獲得...",
+    "scraped_at": "2025-11-06T03:29:53+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/121477/9120450"
+  },
+  {
     "title": "Is AI coming for your job? Maybe. See which industries are most, least at risk",
     "url": "https://www.usatoday.com/story/money/2025/11/04/is-ai-coming-for-your-job-maybe/87065768007/",
     "source": "USA Today",
@@ -16,78 +142,6 @@
     "summary": "The Harrison.ai Open Platform reportedly emphasizes open architecture, customer ROI and elimination of costly AI platform fees.",
     "scraped_at": "2025-11-06T03:15:37+08:00",
     "canonical_url": "https://www.diagnosticimaging.com/view/new-imaging-platform-single-integration-access-multiple-ai-vendors"
-  },
-  {
-    "title": "Beware of double agents: How AI can fortify — or fracture — your cybersecurity",
-    "url": "https://blogs.microsoft.com/blog/2025/11/05/beware-of-double-agents-how-ai-can-fortify-or-fracture-your-cybersecurity/",
-    "source": "The Official Microsoft Blog",
-    "published_at": "2025-11-06T03:15:30.629060+08:00",
-    "summary": "AI is rapidly becoming the backbone of our world, promising unprecedented productivity and innovation. But as organizations deploy AI agents to unlock new...",
-    "scraped_at": "2025-11-06T03:15:37+08:00",
-    "canonical_url": "https://blogs.microsoft.com/blog/2025/11/05/beware-of-double-agents-how-ai-can-fortify-or-fracture-your-cybersecurity/"
-  },
-  {
-    "title": "Webinar: IP Specific vs. General Purpose AI – Choosing the Right Tool for the Task",
-    "url": "https://ipwatchdog.com/ankar-ai-november-20-2025/",
-    "source": "IPWatchdog.com",
-    "published_at": "2025-11-06T03:15:27.468444+08:00",
-    "summary": "IP professionals are increasingly testing and using a variety of artificial intelligence (AI) tools. Some are using general-purpose systems like ChatGPT for...",
-    "scraped_at": "2025-11-06T03:15:37+08:00",
-    "canonical_url": "https://ipwatchdog.com/ankar-ai-november-20-2025/"
-  },
-  {
-    "title": "Bipartisan Senate bill calls for agencies to report AI-related job cuts",
-    "url": "https://fedscoop.com/ai-job-cuts-senate-bill-mark-warner-josh-hawley/",
-    "source": "FedScoop",
-    "published_at": "2025-11-06T03:15:24.081981+08:00",
-    "summary": "The legislation from Sens. Warner and Hawley tasks the Labor Department with delivering a quarterly report on agency and private-sector layoffs linked to AI...",
-    "scraped_at": "2025-11-06T03:15:37+08:00",
-    "canonical_url": "https://fedscoop.com/ai-job-cuts-senate-bill-mark-warner-josh-hawley/"
-  },
-  {
-    "title": "AI-First Strategy: How to Outperform Your Competition by 2028",
-    "url": "https://www.gartner.com/en/articles/ai-first-strategy",
-    "source": "Gartner",
-    "published_at": "2025-11-06T03:15:20.930631+08:00",
-    "summary": "Discover how an AI-first strategy helps organizations deliver 25% better outcomes. Explore Gartner insights on maximizing enterprise impact with artificial...",
-    "scraped_at": "2025-11-06T03:15:37+08:00",
-    "canonical_url": "https://www.gartner.com/en/articles/ai-first-strategy"
-  },
-  {
-    "title": "Meet the woman behind chart-topping AI artist Xania Monet: \"I look at her as a real person\"",
-    "url": "https://www.cbsnews.com/news/meet-the-woman-behind-chart-topping-ai-artist-xania-monet-i-look-at-her-as-a-real-person/",
-    "source": "CBS News",
-    "published_at": "2025-11-06T03:15:17.769522+08:00",
-    "summary": "Artist Xania Monet's voice has been heard by millions around the world, but some are surprised to learn she's a product of artificial intelligence.",
-    "scraped_at": "2025-11-06T03:15:37+08:00",
-    "canonical_url": "https://www.cbsnews.com/news/meet-the-woman-behind-chart-topping-ai-artist-xania-monet-i-look-at-her-as-a-real-person/"
-  },
-  {
-    "title": "Even AI hype has its limit. Pinterest just found it",
-    "url": "https://qz.com/even-ai-hype-has-its-limit-pinterest-just-found-it",
-    "source": "Quartz",
-    "published_at": "2025-11-06T03:15:14.657423+08:00",
-    "summary": "The company said a new AI shopping tool was \"paying off.\" With tariffs hitting ad spending, investors didn't see it that way.",
-    "scraped_at": "2025-11-06T03:15:37+08:00",
-    "canonical_url": "https://qz.com/even-ai-hype-has-its-limit-pinterest-just-found-it"
-  },
-  {
-    "title": "Intel, Cisco Collaboration Delivers Industry’s First Systems Approach for AI Workloads at the Edge",
-    "url": "https://newsroom.intel.com/data-center/intel-cisco-deliver-industry-first-approach-for-ai-workloads",
-    "source": "Intel Newsroom",
-    "published_at": "2025-11-06T03:15:11.539818+08:00",
-    "summary": "Cisco Unified Edge with Intel Xeon 6 SoCs delivers a future-ready AI infrastructure, boosting performance and security while reducing network traffic...",
-    "scraped_at": "2025-11-06T03:15:37+08:00",
-    "canonical_url": "https://newsroom.intel.com/data-center/intel-cisco-deliver-industry-first-approach-for-ai-workloads"
-  },
-  {
-    "title": "AI Mode in Chrome is easier to use on iOS and Android.",
-    "url": "https://blog.google/products/chrome/ai-mode-in-chrome-ios-android/",
-    "source": "blog.google",
-    "published_at": "2025-11-06T03:15:08.234642+08:00",
-    "summary": "Plus, the AI Mode shortcut is expanding to 160 more countries.",
-    "scraped_at": "2025-11-06T03:15:37+08:00",
-    "canonical_url": "https://blog.google/products/chrome/ai-mode-in-chrome-ios-android/"
   },
   {
     "title": "SAP賦能開發者 引領商業AI革新",
@@ -115,24 +169,6 @@
     "summary": "繼先前在美國市場開放下載，並且在5天內累積超過100萬次下載，隨後更進駐台灣在內亞洲市場之後，OpenAI的AI影片創作工具Sora目前也正式對應Android平台，並且可透過Google...",
     "scraped_at": "2025-11-06T03:15:37+08:00",
     "canonical_url": "https://tw.news.yahoo.com/openais-ai-video-creation-tool-sora-has-officially-launched-on-the-android-platform-attracting-more-users-163113161.html"
-  },
-  {
-    "title": "傳中共禁部分數據中心用外國AI芯片",
-    "url": "https://www.epochtimes.com/b5/25/11/5/n14630320.htm",
-    "source": "大紀元",
-    "published_at": "2025-11-06T03:14:49.796507+08:00",
-    "summary": "週三（11月5日），路透社引述兩名知情人士的消息報導，中共官方已發布內部指導意見，要求所有獲得國家資金的新建數據中心項目只能使用國產人工智能（AI）芯片。",
-    "scraped_at": "2025-11-06T03:15:37+08:00",
-    "canonical_url": "https://www.epochtimes.com/b5/25/11/5/n14630320.htm"
-  },
-  {
-    "title": "Nvidia H20市占降至零…超微MI308 AI晶片獲得輸中國許可",
-    "url": "https://www.worldjournal.com/wj/story/121477/9120450",
-    "source": "世界新聞網",
-    "published_at": "2025-11-06T03:14:46.610234+08:00",
-    "summary": "美國電腦晶片巨頭超微（AMD）4日公布第3季財報時，透露該公司的Instinct MI308人工智慧（AI）晶片已經獲得...",
-    "scraped_at": "2025-11-06T03:15:37+08:00",
-    "canonical_url": "https://www.worldjournal.com/wj/story/121477/9120450"
   },
   {
     "title": "US House lawmakers probe Delta Air Lines on use of AI in ticket pricing",
@@ -169,15 +205,6 @@
     "summary": "Artificial intelligence assistants now have at least one issue in 45% of their responses to news questions, according to the most extensive...",
     "scraped_at": "2025-11-06T02:50:50+08:00",
     "canonical_url": "https://www.jdsupra.com/legalnews/beyond-the-hype-major-study-reveals-ai-1127576/"
-  },
-  {
-    "title": "151% 的增長背後，它正在成爲 AI 的「新入口」",
-    "url": "https://news.futunn.com/hk/post/64416379",
-    "source": "富途牛牛",
-    "published_at": "2025-11-06T02:50:16.055593+08:00",
-    "summary": "作者｜徐珊編輯｜靖宇浪潮之下，AI語音正以前所未有的速度奔湧。當大家期待AI 能「聽懂」言語，「理解」人心時，AI 產業與技術準備好了嗎？10 月31 日，由聲網與RTE 開發者...",
-    "scraped_at": "2025-11-06T02:50:50+08:00",
-    "canonical_url": "https://news.futunn.com/hk/post/64416379"
   },
   {
     "title": "AI代理戰開打 亞馬遜控Perplexity AI涉「電腦詐欺」",
@@ -412,14 +439,5 @@
     "summary": "Cybersecurity researchers have disclosed a new set of vulnerabilities impacting OpenAI's ChatGPT artificial intelligence (AI) chatbot that could be...",
     "scraped_at": "2025-11-06T00:24:33+08:00",
     "canonical_url": "https://thehackernews.com/2025/11/researchers-find-chatgpt.html"
-  },
-  {
-    "title": "中國封殺輝達！國有資料中心禁外國AI晶片",
-    "url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%9C%8B%E5%B0%81%E6%AE%BA%E8%BC%9D%E9%81%94-%E5%9C%8B%E6%9C%89%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E7%A6%81%E5%A4%96%E5%9C%8Bai%E6%99%B6%E7%89%87-145545819.html",
-    "source": "奇摩新聞",
-    "published_at": "2025-11-06T00:23:43.883542+08:00",
-    "summary": "[NOWnews今日新聞]中國為促進內部晶片產業發展，積極推動人工智慧(AI)晶片自主化，大舉補貼大型資料中心以及相關企業。路透稍早披露，中國政府已發布指導命令，...",
-    "scraped_at": "2025-11-06T00:24:33+08:00",
-    "canonical_url": "https://tw.news.yahoo.com/%E4%B8%AD%E5%9C%8B%E5%B0%81%E6%AE%BA%E8%BC%9D%E9%81%94-%E5%9C%8B%E6%9C%89%E8%B3%87%E6%96%99%E4%B8%AD%E5%BF%83%E7%A6%81%E5%A4%96%E5%9C%8Bai%E6%99%B6%E7%89%87-145545819.html"
   }
 ]
