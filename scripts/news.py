@@ -5,6 +5,7 @@ from datetime import date, datetime, timezone, timedelta
 import re
 import pandas as pd
 from bs4 import BeautifulSoup
+import json
 
 ### google trend
 start = datetime.now()
