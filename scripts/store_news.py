@@ -101,7 +101,7 @@ def merge_dedup(existing: list[dict], batch: list[dict]) -> list[dict]:
         m[k] = merged
     else:
         m[k] = e
-return list(m.values())
+  return list(m.values())
 
 def main():  
   ensure_dirs()
