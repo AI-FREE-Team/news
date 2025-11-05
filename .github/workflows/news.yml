@@ -1,0 +1,68 @@
+name: Crawl & Store News
+
+on:  
+  schedule:  
+    - cron: "*/15 * * * *" # 每 15 分鐘  
+  workflow_dispatch: # 允許手動觸發  
+  push:
+    paths:  
+      - "scripts/**"  
+      - ".github/workflows/news.yml"
+      - "requirements.txt"  
+      - "tmp/**"
+      
+permissions:  
+  contents: write # 允許自動 commit
+
+jobs:  
+  run:  
+    runs-on: ubuntu-latest  
+    steps:  
+      - name: Checkout  
+        uses: actions/checkout@v4  
+        with:
+          persist-credentials: false # 我們用 PAT 或 actions/checkout+git push（二擇一）
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          
+      - name: Install deps
+        run: |
+          python -m pip install -U pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      # 你自己的爬蟲邏輯：請把抓到的一批新聞輸出到 tmp/news_batch.json
+      - name: Run your crawler (replace this step)
+        run: |
+          mkdir -p tmp
+          python scripts/news.py
+          ls -l data || true
+          git status
+
+      - name: Store & dedupe
+        run: |
+          python scripts/store_news.py
+          ls -l data || true
+          git status
+
+      # 自動 commit 變更（若有）
+      - name: Commit & Push
+        if: ${{ !cancelled() }}
+        run: |
+          set -e
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data tmp || true
+            git commit -m "chore(data): update news JSON [skip ci]"
+            # 使用 GITHUB_TOKEN 推回
+            git push
+
+          else
+            echo "No changes to commit."
+
+      fi
+
+```
