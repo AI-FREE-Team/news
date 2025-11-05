@@ -1,5 +1,95 @@
 [
   {
+    "title": "Deutsche Telekom, Nvidia unveil Industrial AI Cloud",
+    "url": "https://finance.yahoo.com/news/deutsche-telekom-nvidia-unveil-industrial-111352124.html",
+    "source": "Yahoo Finance",
+    "published_at": "2025-11-05T19:50:18.604035+08:00",
+    "summary": "Deutsche Telekom and Nvidia have announced the launch of the Industrial AI Cloud, a new €1bn ($1.2bn) AI infrastructure project that is set to become...",
+    "scraped_at": "2025-11-05T19:50:18+08:00",
+    "canonical_url": "https://finance.yahoo.com/news/deutsche-telekom-nvidia-unveil-industrial-111352124.html"
+  },
+  {
+    "title": "Global stock markets fall sharply over AI bubble fears",
+    "url": "https://www.theguardian.com/business/2025/nov/05/global-stock-markets-fall-sharply-over-ai-bubble-fears",
+    "source": "The Guardian",
+    "published_at": "2025-11-05T19:50:14.954292+08:00",
+    "summary": "Global stock markets have fallen sharply amid concerns that a boom in valuations of artificial intelligence (AI) companies could be rapidly cooling.",
+    "scraped_at": "2025-11-05T19:50:18+08:00",
+    "canonical_url": "https://www.theguardian.com/business/2025/nov/05/global-stock-markets-fall-sharply-over-ai-bubble-fears"
+  },
+  {
+    "title": "We need a new American Dream for the age of AI",
+    "url": "https://iai.tv/articles/we-need-a-new-american-dream-for-the-age-of-ai-auid-3407",
+    "source": "IAI TV",
+    "published_at": "2025-11-05T19:50:11.445337+08:00",
+    "summary": "Explore the debate between Aaron Bastani and Zoltan Istvan on capitalism and automation at HowTheLightGetsIn London 2025. What does the future hold for...",
+    "scraped_at": "2025-11-05T19:50:18+08:00",
+    "canonical_url": "https://iai.tv/articles/we-need-a-new-american-dream-for-the-age-of-ai-auid-3407"
+  },
+  {
+    "title": "AI Doesn’t Have to Mean Revenue Hit for Ad Industry, WPP Tech Chief Says",
+    "url": "https://www.wsj.com/tech/ai/ai-doesnt-have-to-mean-revenue-hit-for-ad-industry-wpp-tech-chief-says-e627c44d?gaa_at=eafs&gaa_n=AWEtsqcW8ZHSmTa2rk68TT6ipupFKyk2jlfmUnA7_jX8eKTJOCz_iXaMRy3R&gaa_ts=690b3d58&gaa_sig=jJIJYkxkUahO3CMHounKXwz3jYrCTwcJrR0XVJQmMaxJwS1kCYMp0oG8cpr9GYfNFhKvm1oTzvMRY7Wkx-JAZA%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-05T19:50:06.946854+08:00",
+    "summary": "Advances in creating ad campaigns using AI have stoked fears about the future role of agencies.",
+    "scraped_at": "2025-11-05T19:50:18+08:00",
+    "canonical_url": "https://www.wsj.com/tech/ai/ai-doesnt-have-to-mean-revenue-hit-for-ad-industry-wpp-tech-chief-says-e627c44d"
+  },
+  {
+    "title": "Exclusive: China bans foreign AI chips from state-funded data centres, sources say",
+    "url": "https://www.reuters.com/world/china/china-bans-foreign-ai-chips-state-funded-data-centres-sources-say-2025-11-05/",
+    "source": "Reuters",
+    "published_at": "2025-11-05T19:50:03.606557+08:00",
+    "summary": "The Chinese government has issued guidance requiring new data centre projects that have received any state funds to only use domestically-made artificial...",
+    "scraped_at": "2025-11-05T19:50:18+08:00",
+    "canonical_url": "https://www.reuters.com/world/china/china-bans-foreign-ai-chips-state-funded-data-centres-sources-say-2025-11-05/"
+  },
+  {
+    "title": "International stocks slide as concerns about AI and tech company values spread",
+    "url": "https://www.nbcnews.com/world/asia/international-stocks-slide-concerns-ai-tech-company-values-spread-rcna242025",
+    "source": "NBC News",
+    "published_at": "2025-11-05T19:50:00.371890+08:00",
+    "summary": "International markets plunged Tuesday night, as stocks across the Asia-Pacific region sold off on worries about the sky-high values of AI and tech...",
+    "scraped_at": "2025-11-05T19:50:18+08:00",
+    "canonical_url": "https://www.nbcnews.com/world/asia/international-stocks-slide-concerns-ai-tech-company-values-spread-rcna242025"
+  },
+  {
+    "title": "Pantone and Microsoft unite to enhance creative exploration through AI",
+    "url": "https://news.microsoft.com/source/2025/11/05/pantone-and-microsoft-unite-to-enhance-creative-exploration-through-ai/",
+    "source": "Microsoft Source",
+    "published_at": "2025-11-05T19:49:52.951739+08:00",
+    "summary": "CARLSTADT, N.J., and REDMOND, Wash. — Nov. 5, 2025 — Pantone, the global color authority and provider of digital solutions for the design community,...",
+    "scraped_at": "2025-11-05T19:50:18+08:00",
+    "canonical_url": "https://news.microsoft.com/source/2025/11/05/pantone-and-microsoft-unite-to-enhance-creative-exploration-through-ai/"
+  },
+  {
+    "title": "Global tech shares fall over AI bubble fears",
+    "url": "https://www.bbc.com/news/articles/c867vyn2evlo",
+    "source": "BBC",
+    "published_at": "2025-11-05T19:49:49.756376+08:00",
+    "summary": "Shares of major tech companies have fallen in the US and Japan over fears about the valuations of firms linked to AI.",
+    "scraped_at": "2025-11-05T19:50:18+08:00",
+    "canonical_url": "https://www.bbc.com/news/articles/c867vyn2evlo"
+  },
+  {
+    "title": "I switched from a corporate career to launching an AI-native company with no tech background. I knew the time was now.",
+    "url": "https://www.businessinsider.com/switched-from-corporate-career-to-ai-company-no-tech-background-2025-11",
+    "source": "Business Insider",
+    "published_at": "2025-11-05T19:49:46.538864+08:00",
+    "summary": "Tim DeSoto was a senior director at Walmart before building an AI-native startup. He sees AI entrepreneurship as the least risky career move.",
+    "scraped_at": "2025-11-05T19:50:18+08:00",
+    "canonical_url": "https://www.businessinsider.com/switched-from-corporate-career-to-ai-company-no-tech-background-2025-11"
+  },
+  {
+    "title": "Some thoughts on AI and coding",
+    "url": "https://www.infoworld.com/article/4083424/some-thoughts-on-ai-and-coding.html",
+    "source": "InfoWorld",
+    "published_at": "2025-11-05T19:49:43.378145+08:00",
+    "summary": "Large language models are astonishingly good at coding and getting better. What will this mean for software and software developers? generative AI...",
+    "scraped_at": "2025-11-05T19:50:18+08:00",
+    "canonical_url": "https://www.infoworld.com/article/4083424/some-thoughts-on-ai-and-coding.html"
+  },
+  {
     "title": "AI Won't Replace Coaches -- But Career Coaches Using AI Will Replace Those Who Don't",
     "url": "https://www.prnewswire.com/news-releases/ai-wont-replace-coaches--but-career-coaches-using-ai-will-replace-those-who-dont-302604963.html",
     "source": "PR Newswire",
@@ -16,78 +106,6 @@
     "summary": "PASCO COUNTY, Fla. — As artificial intelligence (AI) tools continue to shape classrooms and workplaces, Pasco County Schools is preparing to embrace the...",
     "scraped_at": "2025-11-05T19:39:09+08:00",
     "canonical_url": "https://baynews9.com/fl/tampa/news/2025/11/05/pasco-schools-set-to-unlock-ai-for-student-use-on-december-1st"
-  },
-  {
-    "title": "Deutsche Telekom, Nvidia unveil Industrial AI Cloud",
-    "url": "https://finance.yahoo.com/news/deutsche-telekom-nvidia-unveil-industrial-111352124.html",
-    "source": "Yahoo Finance",
-    "published_at": "2025-11-05T19:39:03.224844+08:00",
-    "summary": "Deutsche Telekom and Nvidia have announced the launch of the Industrial AI Cloud, a new €1bn ($1.2bn) AI infrastructure project that is set to become...",
-    "scraped_at": "2025-11-05T19:39:09+08:00",
-    "canonical_url": "https://finance.yahoo.com/news/deutsche-telekom-nvidia-unveil-industrial-111352124.html"
-  },
-  {
-    "title": "We need a new American Dream for the age of AI",
-    "url": "https://iai.tv/articles/we-need-a-new-american-dream-for-the-age-of-ai-auid-3407",
-    "source": "IAI TV",
-    "published_at": "2025-11-05T19:38:59.393968+08:00",
-    "summary": "Explore the debate between Aaron Bastani and Zoltan Istvan on capitalism and automation at HowTheLightGetsIn London 2025. What does the future hold for...",
-    "scraped_at": "2025-11-05T19:39:09+08:00",
-    "canonical_url": "https://iai.tv/articles/we-need-a-new-american-dream-for-the-age-of-ai-auid-3407"
-  },
-  {
-    "title": "International stocks slide as concerns about AI and tech company values spread",
-    "url": "https://www.nbcnews.com/world/asia/international-stocks-slide-concerns-ai-tech-company-values-spread-rcna242025",
-    "source": "NBC News",
-    "published_at": "2025-11-05T19:38:49.583848+08:00",
-    "summary": "International markets plunged Tuesday night, as stocks across the Asia-Pacific region sold off on worries about the sky-high values of AI and tech...",
-    "scraped_at": "2025-11-05T19:39:09+08:00",
-    "canonical_url": "https://www.nbcnews.com/world/asia/international-stocks-slide-concerns-ai-tech-company-values-spread-rcna242025"
-  },
-  {
-    "title": "Pantone and Microsoft unite to enhance creative exploration through AI",
-    "url": "https://news.microsoft.com/source/2025/11/05/pantone-and-microsoft-unite-to-enhance-creative-exploration-through-ai/",
-    "source": "Microsoft Source",
-    "published_at": "2025-11-05T19:38:45.766399+08:00",
-    "summary": "CARLSTADT, N.J., and REDMOND, Wash. — Nov. 5, 2025 — Pantone, the global color authority and provider of digital solutions for the design community,...",
-    "scraped_at": "2025-11-05T19:39:09+08:00",
-    "canonical_url": "https://news.microsoft.com/source/2025/11/05/pantone-and-microsoft-unite-to-enhance-creative-exploration-through-ai/"
-  },
-  {
-    "title": "Global tech shares fall over AI bubble fears",
-    "url": "https://www.bbc.com/news/articles/c867vyn2evlo",
-    "source": "BBC",
-    "published_at": "2025-11-05T19:38:42.596290+08:00",
-    "summary": "Shares of major tech companies have fallen in the US and Japan over fears about the valuations of firms linked to AI.",
-    "scraped_at": "2025-11-05T19:39:09+08:00",
-    "canonical_url": "https://www.bbc.com/news/articles/c867vyn2evlo"
-  },
-  {
-    "title": "Exclusive: China bans foreign AI chips from state-funded data centres, sources say",
-    "url": "https://www.reuters.com/world/china/china-bans-foreign-ai-chips-state-funded-data-centres-sources-say-2025-11-05/",
-    "source": "Reuters",
-    "published_at": "2025-11-05T19:38:39.504296+08:00",
-    "summary": "Order likely to affect U.S. chipmakers Nvidia, AMD, Intel; Beijing trying to cultivate domestic AI chipmakers like Huawei; U.S. has tried to use AI chips as...",
-    "scraped_at": "2025-11-05T19:39:09+08:00",
-    "canonical_url": "https://www.reuters.com/world/china/china-bans-foreign-ai-chips-state-funded-data-centres-sources-say-2025-11-05/"
-  },
-  {
-    "title": "I switched from a corporate career to launching an AI-native company with no tech background. I knew the time was now.",
-    "url": "https://www.businessinsider.com/switched-from-corporate-career-to-ai-company-no-tech-background-2025-11",
-    "source": "Business Insider",
-    "published_at": "2025-11-05T19:38:36.193057+08:00",
-    "summary": "Tim DeSoto was a senior director at Walmart before building an AI-native startup. He sees AI entrepreneurship as the least risky career move.",
-    "scraped_at": "2025-11-05T19:39:09+08:00",
-    "canonical_url": "https://www.businessinsider.com/switched-from-corporate-career-to-ai-company-no-tech-background-2025-11"
-  },
-  {
-    "title": "Some thoughts on AI and coding",
-    "url": "https://www.infoworld.com/article/4083424/some-thoughts-on-ai-and-coding.html",
-    "source": "InfoWorld",
-    "published_at": "2025-11-05T19:38:33.056250+08:00",
-    "summary": "Large language models are astonishingly good at coding and getting better. What will this mean for software and software developers? generative AI...",
-    "scraped_at": "2025-11-05T19:39:09+08:00",
-    "canonical_url": "https://www.infoworld.com/article/4083424/some-thoughts-on-ai-and-coding.html"
   },
   {
     "title": "微軟砸97億美元擴充AI算力，合作方IREN旗下「全綠電資料中心」有何亮點？",
