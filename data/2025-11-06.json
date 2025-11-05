@@ -1,5 +1,185 @@
 [
   {
+    "title": "Crucial conversations for an AI era",
+    "url": "https://www.cio.com/article/4085211/crucial-conversations-for-an-ai-era.html",
+    "source": "CIO",
+    "published_at": "2025-11-06T05:37:51.189765+08:00",
+    "summary": "The relationship between the CIO and the CEO has never mattered more. Today, technology isn't just an enabler; it's right at the center of every big...",
+    "scraped_at": "2025-11-06T05:37:51+08:00",
+    "canonical_url": "https://www.cio.com/article/4085211/crucial-conversations-for-an-ai-era.html"
+  },
+  {
+    "title": "Kaupins publishes on how AI is reshaping various industries",
+    "url": "https://www.boisestate.edu/news/2025/11/05/kaupins-publishes-on-how-ai-is-reshaping-various-industries/",
+    "source": "Boise State University",
+    "published_at": "2025-11-06T05:37:48.031193+08:00",
+    "summary": "Gundy Kaupins, professor in management, had his paper, “Artificial Intelligence and Human Abilities: Collaboration with Caution,” published in Choice,...",
+    "scraped_at": "2025-11-06T05:37:51+08:00",
+    "canonical_url": "https://www.boisestate.edu/news/2025/11/05/kaupins-publishes-on-how-ai-is-reshaping-various-industries/"
+  },
+  {
+    "title": "Beware of double agents: How AI can fortify — or fracture — your cybersecurity",
+    "url": "https://blogs.microsoft.com/blog/2025/11/05/beware-of-double-agents-how-ai-can-fortify-or-fracture-your-cybersecurity/",
+    "source": "The Official Microsoft Blog",
+    "published_at": "2025-11-06T05:37:44.863634+08:00",
+    "summary": "AI is rapidly becoming the backbone of our world, promising unprecedented productivity and innovation. But as organizations deploy AI agents to unlock new...",
+    "scraped_at": "2025-11-06T05:37:51+08:00",
+    "canonical_url": "https://blogs.microsoft.com/blog/2025/11/05/beware-of-double-agents-how-ai-can-fortify-or-fracture-your-cybersecurity/"
+  },
+  {
+    "title": "Personal Perspective: Why the human mind and AI live in different realities.",
+    "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202511/ai-and-the-battle-for-time",
+    "source": "Psychology Today",
+    "published_at": "2025-11-06T05:37:41.634404+08:00",
+    "summary": "Personal Perspective: AI isn't just threatening our intelligence; it's challenging our relationship with time.",
+    "scraped_at": "2025-11-06T05:37:51+08:00",
+    "canonical_url": "https://www.psychologytoday.com/us/blog/the-digital-self/202511/ai-and-the-battle-for-time"
+  },
+  {
+    "title": "When AI paints like van Gogh, who gets the credit?",
+    "url": "https://www.uta.edu/news/news-releases/2025/11/05/when-ai-paints-like-van-gogh-who-gets-the-credit",
+    "source": "The University of Texas at Arlington",
+    "published_at": "2025-11-06T05:37:38.386840+08:00",
+    "summary": "UTA's Ananya Singh explores how artificial intelligence challenges originality and raises questions of artistic ownership.",
+    "scraped_at": "2025-11-06T05:37:51+08:00",
+    "canonical_url": "https://www.uta.edu/news/news-releases/2025/11/05/when-ai-paints-like-van-gogh-who-gets-the-credit"
+  },
+  {
+    "title": "AI Mode in Chrome is easier to use on iOS and Android.",
+    "url": "https://blog.google/products/chrome/ai-mode-in-chrome-ios-android/",
+    "source": "blog.google",
+    "published_at": "2025-11-06T05:37:34.662989+08:00",
+    "summary": "Plus, the AI Mode shortcut is expanding to 160 more countries.",
+    "scraped_at": "2025-11-06T05:37:51+08:00",
+    "canonical_url": "https://blog.google/products/chrome/ai-mode-in-chrome-ios-android/"
+  },
+  {
+    "title": "Dutchess Community College Presents “Human-Centered AI” with Dr. Cecilia Aragon",
+    "url": "https://www.sunydutchess.edu/about/facts/news/human-centered-ai.html",
+    "source": "Dutchess Community College | sunydutchess.edu",
+    "published_at": "2025-11-06T05:37:31.349241+08:00",
+    "summary": "DCC invites students, faculty, staff, alumni and community members to join “Human-Centered AI” with Dr. Cecilia Aragon, a thought-provoking virtual...",
+    "scraped_at": "2025-11-06T05:37:51+08:00",
+    "canonical_url": "https://www.sunydutchess.edu/about/facts/news/human-centered-ai.html"
+  },
+  {
+    "title": "How CEOs and CIOs can lead the AI transformation together",
+    "url": "https://www.weforum.org/stories/2025/11/how-ceos-and-cios-can-lead-the-ai-transformation-together/",
+    "source": "The World Economic Forum",
+    "published_at": "2025-11-06T05:37:28.035425+08:00",
+    "summary": "CEOs and CIOs must align vision, data, and strategy to lead AI transformation, overcoming fear and building trust through clear shared leadership.",
+    "scraped_at": "2025-11-06T05:37:51+08:00",
+    "canonical_url": "https://www.weforum.org/stories/2025/11/how-ceos-and-cios-can-lead-the-ai-transformation-together/"
+  },
+  {
+    "title": "Salvatore Falletta: Human resources and AI reach an ethical crossroads",
+    "url": "https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/",
+    "source": "Vanderbilt University",
+    "published_at": "2025-11-06T05:37:24.811330+08:00",
+    "summary": "RESEARCH SPARK: AI is becoming a common tool for Human Resources departments. Learn from new faculty Salvatore Falletta about the ethical lines between...",
+    "scraped_at": "2025-11-06T05:37:51+08:00",
+    "canonical_url": "https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/"
+  },
+  {
+    "title": "Apple to use Google's AI model to run new Siri, Bloomberg News reports",
+    "url": "https://www.reuters.com/business/apple-use-googles-ai-model-run-new-siri-bloomberg-news-reports-2025-11-05/",
+    "source": "Reuters",
+    "published_at": "2025-11-06T05:37:20.968729+08:00",
+    "summary": "Apple plans to use a 1.2 trillion parameter artificial intelligence model developed by Google to help power an overhaul of the Siri voice assistant,...",
+    "scraped_at": "2025-11-06T05:37:51+08:00",
+    "canonical_url": "https://www.reuters.com/business/apple-use-googles-ai-model-run-new-siri-bloomberg-news-reports-2025-11-05/"
+  },
+  {
+    "title": "「AI影響超越經濟範疇！」日月光執行長吳田玉：全球半導體業進入不可逆新時代",
+    "url": "https://tw.news.yahoo.com/ai%E5%BD%B1%E9%9F%BF%E8%B6%85%E8%B6%8A%E7%B6%93%E6%BF%9F%E7%AF%84%E7%96%87-%E6%97%A5%E6%9C%88%E5%85%89%E5%9F%B7%E8%A1%8C%E9%95%B7%E5%90%B3%E7%94%B0%E7%8E%89-%E5%85%A8%E7%90%83%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%A5%AD%E9%80%B2%E5%85%A5%E4%B8%8D%E5%8F%AF%E9%80%86%E6%96%B0%E6%99%82%E4%BB%A3-165957212.html",
+    "source": "奇摩新聞",
+    "published_at": "2025-11-06T05:37:17.421249+08:00",
+    "summary": "日月光投控（ASE Advanced Semiconductor Engineering）執行長、同時也是SEMI國際董事會主席吳田玉博士，日前於美國鳳凰城舉辦的SEMI CEO峰會上發表主題演講。",
+    "scraped_at": "2025-11-06T05:37:51+08:00",
+    "canonical_url": "https://tw.news.yahoo.com/ai%E5%BD%B1%E9%9F%BF%E8%B6%85%E8%B6%8A%E7%B6%93%E6%BF%9F%E7%AF%84%E7%96%87-%E6%97%A5%E6%9C%88%E5%85%89%E5%9F%B7%E8%A1%8C%E9%95%B7%E5%90%B3%E7%94%B0%E7%8E%89-%E5%85%A8%E7%90%83%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%A5%AD%E9%80%B2%E5%85%A5%E4%B8%8D%E5%8F%AF%E9%80%86%E6%96%B0%E6%99%82%E4%BB%A3-165957212.html"
+  },
+  {
+    "title": "興大研發AI聽覺衣服 可聽診、與機器人對話",
+    "url": "https://www.mdnkids.com/content.asp?Link_String_=23B600000ZXRCXS",
+    "source": "國語日報社",
+    "published_at": "2025-11-06T05:37:13.727949+08:00",
+    "summary": "想像超級英雄電影的蜘蛛人、鋼鐵人等角色，可透過超級英雄的衣服，監測生理訊號，同時可透過衣物與他人溝通，甚至與AI機器人對話。國立中興大學材料科學與工程學系教授賴盈...",
+    "scraped_at": "2025-11-06T05:37:51+08:00",
+    "canonical_url": "https://www.mdnkids.com/content.asp"
+  },
+  {
+    "title": "橋水創辦人警告美國經濟不平等 AI 時代令人生產力下降 底層 6 成勞工被邊緣化",
+    "url": "https://www.msn.com/zh-hk/lifestyle/gadget-gift-guide/%E6%A9%8B%E6%B0%B4%E5%89%B5%E8%BE%A6%E4%BA%BA%E8%AD%A6%E5%91%8A%E7%BE%8E%E5%9C%8B%E7%B6%93%E6%BF%9F%E4%B8%8D%E5%B9%B3%E7%AD%89-ai-%E6%99%82%E4%BB%A3%E4%BB%A4%E4%BA%BA%E7%94%9F%E7%94%A2%E5%8A%9B%E4%B8%8B%E9%99%8D-%E5%BA%95%E5%B1%A4-6-%E6%88%90%E5%8B%9E%E5%B7%A5%E8%A2%AB%E9%82%8A%E7%B7%A3%E5%8C%96/ar-AA1PM08s?cvid=690b33eb081e4777bee16aec3f01bca6&ocid=hpmsn",
+    "source": "MSN",
+    "published_at": "2025-11-06T05:37:08.653892+08:00",
+    "summary": "橋水基金創辦人Ray Dalio 在沙烏地阿拉伯《財富全球論壇》警告，美國經濟愈來愈依賴頂層1% 精英勞動者，底層60% 勞工卻在AI 時代被邊緣化，結構性失衡正威脅國家穩定。​.",
+    "scraped_at": "2025-11-06T05:37:51+08:00",
+    "canonical_url": "https://www.msn.com/zh-hk/lifestyle/gadget-gift-guide/%E6%A9%8B%E6%B0%B4%E5%89%B5%E8%BE%A6%E4%BA%BA%E8%AD%A6%E5%91%8A%E7%BE%8E%E5%9C%8B%E7%B6%93%E6%BF%9F%E4%B8%8D%E5%B9%B3%E7%AD%89-ai-%E6%99%82%E4%BB%A3%E4%BB%A4%E4%BA%BA%E7%94%9F%E7%94%A2%E5%8A%9B%E4%B8%8B%E9%99%8D-%E5%BA%95%E5%B1%A4-6-%E6%88%90%E5%8B%9E%E5%B7%A5%E8%A2%AB%E9%82%8A%E7%B7%A3%E5%8C%96/ar-AA1PM08s"
+  },
+  {
+    "title": "英國法院裁定 AI 圖像生成器 Stable Diffusion 不屬於侵權複製",
+    "url": "https://www.newmobilelife.com/2025/11/06/uk-judge-rules-stable-diffusion-no-infringement/",
+    "source": "流動日報",
+    "published_at": "2025-11-06T05:37:05.555076+08:00",
+    "summary": "倫敦高等法院駁回了Getty Images 對Stability AI 提起的主要版權訴訟，這對生成式AI 公司來說是一個關鍵時刻。此案的核心爭議在於，使用受版權保護的圖像來構建AI 模型...",
+    "scraped_at": "2025-11-06T05:37:51+08:00",
+    "canonical_url": "https://www.newmobilelife.com/2025/11/06/uk-judge-rules-stable-diffusion-no-infringement/"
+  },
+  {
+    "title": "Nvidia H20市占降至零…超微MI308 AI晶片獲得輸中國許可",
+    "url": "https://www.worldjournal.com/wj/story/121477/9120450",
+    "source": "世界新聞網",
+    "published_at": "2025-11-06T05:37:02.320773+08:00",
+    "summary": "美國電腦晶片巨頭超微（AMD）4日公布第3季財報時，透露該公司的Instinct MI308人工智慧（AI）晶片已經獲得...",
+    "scraped_at": "2025-11-06T05:37:51+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/121477/9120450"
+  },
+  {
+    "title": "“大空头”回归！迈克尔·伯里警告AI泡沫：这或是下一个“互联网神话”",
+    "url": "https://news.fx168news.com/stock/us/2511/7389613.shtml",
+    "source": "FX168",
+    "published_at": "2025-11-06T05:36:58.672937+08:00",
+    "summary": "FX168财经报社(北美)讯周三（11月5日），传奇基金经理、“大空头”（The Big Short）原型人物迈克尔·伯里（Michael Burry）重返社交平台X（前Twitter），...",
+    "scraped_at": "2025-11-06T05:37:51+08:00",
+    "canonical_url": "https://news.fx168news.com/stock/us/2511/7389613.shtml"
+  },
+  {
+    "title": "151% 的增長背後，它正在成爲 AI 的「新入口」",
+    "url": "https://news.futunn.com/hk/post/64416379",
+    "source": "富途牛牛",
+    "published_at": "2025-11-06T05:36:55.183634+08:00",
+    "summary": "作者｜徐珊編輯｜靖宇浪潮之下，AI語音正以前所未有的速度奔湧。當大家期待AI 能「聽懂」言語，「理解」人心時，AI 產業與技術準備好了嗎？10 月31 日，由聲網與RTE 開發者...",
+    "scraped_at": "2025-11-06T05:37:51+08:00",
+    "canonical_url": "https://news.futunn.com/hk/post/64416379"
+  },
+  {
+    "title": "傳中共禁部分數據中心用外國AI芯片",
+    "url": "https://www.epochtimes.com/b5/25/11/5/n14630320.htm",
+    "source": "大紀元",
+    "published_at": "2025-11-06T05:36:51.113039+08:00",
+    "summary": "週三（11月5日），路透社引述兩名知情人士的消息報導，中共官方已發布內部指導意見，要求所有獲得國家資金的新建數據中心項目只能使用國產人工智能（AI）芯片。",
+    "scraped_at": "2025-11-06T05:37:51+08:00",
+    "canonical_url": "https://www.epochtimes.com/b5/25/11/5/n14630320.htm"
+  },
+  {
+    "title": "蘋果據悉計畫引入谷歌AI技術 助力Siri重大升級",
+    "url": "https://hk.finance.yahoo.com/news/%E8%98%8B%E6%9E%9C%E6%93%9A%E6%82%89%E8%A8%88%E7%95%AB%E5%BC%95%E5%85%A5%E8%B0%B7%E6%AD%8Cai%E6%8A%80%E8%A1%93-%E5%8A%A9%E5%8A%9Bsiri%E9%87%8D%E5%A4%A7%E5%8D%87%E7%B4%9A-203504581.html",
+    "source": "Yahoo 財經",
+    "published_at": "2025-11-06T05:36:47.928893+08:00",
+    "summary": "Samsung uses the Google Gemini chatbot to help power its AI features. 【彭博】-- 據知情人士透露，蘋果公司計畫使用谷歌開發的一款擁有1.",
+    "scraped_at": "2025-11-06T05:37:51+08:00",
+    "canonical_url": "https://hk.finance.yahoo.com/news/%E8%98%8B%E6%9E%9C%E6%93%9A%E6%82%89%E8%A8%88%E7%95%AB%E5%BC%95%E5%85%A5%E8%B0%B7%E6%AD%8Cai%E6%8A%80%E8%A1%93-%E5%8A%A9%E5%8A%9Bsiri%E9%87%8D%E5%A4%A7%E5%8D%87%E7%B4%9A-203504581.html"
+  },
+  {
+    "title": "路透：中國下令新設數據中心停用外國AI晶片",
+    "url": "https://www.worldjournal.com/wj/story/121474/9120770",
+    "source": "世界新聞網",
+    "published_at": "2025-11-06T05:36:44.105699+08:00",
+    "summary": "路透今天引述2名知情人士透露，中國官方數周前發布指導意見，要求所有由國家資金新設的數據中心，必須使用中國自製的人工智慧（AI）晶片，若設置進度低於30%且使用或採購了...",
+    "scraped_at": "2025-11-06T05:37:51+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/121474/9120770"
+  },
+  {
     "title": "AI Companies Have Money and Momentum. But Look Who's Stuck With Their Utility Bill.",
     "url": "https://news.futunn.com/hk/post/64430250/ai-companies-have-money-and-momentum-but-look-who-s",
     "source": "富途牛牛",
@@ -7,87 +187,6 @@
     "summary": "ByMatt Rogers Big Tech's data-center expansion efforts are spurring rate hikes for consumers. They don't have to stand for it.",
     "scraped_at": "2025-11-06T05:17:22+08:00",
     "canonical_url": "https://news.futunn.com/hk/post/64430250/ai-companies-have-money-and-momentum-but-look-who-s"
-  },
-  {
-    "title": "「AI影響超越經濟範疇！」日月光執行長吳田玉：全球半導體業進入不可逆新時代",
-    "url": "https://tw.news.yahoo.com/ai%E5%BD%B1%E9%9F%BF%E8%B6%85%E8%B6%8A%E7%B6%93%E6%BF%9F%E7%AF%84%E7%96%87-%E6%97%A5%E6%9C%88%E5%85%89%E5%9F%B7%E8%A1%8C%E9%95%B7%E5%90%B3%E7%94%B0%E7%8E%89-%E5%85%A8%E7%90%83%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%A5%AD%E9%80%B2%E5%85%A5%E4%B8%8D%E5%8F%AF%E9%80%86%E6%96%B0%E6%99%82%E4%BB%A3-165957212.html",
-    "source": "奇摩新聞",
-    "published_at": "2025-11-06T05:17:16.800229+08:00",
-    "summary": "日月光投控（ASE Advanced Semiconductor Engineering）執行長、同時也是SEMI國際董事會主席吳田玉博士，日前於美國鳳凰城舉辦的SEMI CEO峰會上發表主題演講。",
-    "scraped_at": "2025-11-06T05:17:22+08:00",
-    "canonical_url": "https://tw.news.yahoo.com/ai%E5%BD%B1%E9%9F%BF%E8%B6%85%E8%B6%8A%E7%B6%93%E6%BF%9F%E7%AF%84%E7%96%87-%E6%97%A5%E6%9C%88%E5%85%89%E5%9F%B7%E8%A1%8C%E9%95%B7%E5%90%B3%E7%94%B0%E7%8E%89-%E5%85%A8%E7%90%83%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%A5%AD%E9%80%B2%E5%85%A5%E4%B8%8D%E5%8F%AF%E9%80%86%E6%96%B0%E6%99%82%E4%BB%A3-165957212.html"
-  },
-  {
-    "title": "橋水創辦人警告美國經濟不平等 AI 時代令人生產力下降 底層 6 成勞工被邊緣化",
-    "url": "https://www.msn.com/zh-hk/lifestyle/gadget-gift-guide/%E6%A9%8B%E6%B0%B4%E5%89%B5%E8%BE%A6%E4%BA%BA%E8%AD%A6%E5%91%8A%E7%BE%8E%E5%9C%8B%E7%B6%93%E6%BF%9F%E4%B8%8D%E5%B9%B3%E7%AD%89-ai-%E6%99%82%E4%BB%A3%E4%BB%A4%E4%BA%BA%E7%94%9F%E7%94%A2%E5%8A%9B%E4%B8%8B%E9%99%8D-%E5%BA%95%E5%B1%A4-6-%E6%88%90%E5%8B%9E%E5%B7%A5%E8%A2%AB%E9%82%8A%E7%B7%A3%E5%8C%96/ar-AA1PM08s?cvid=690b33eb081e4777bee16aec3f01bca6&ocid=hpmsn",
-    "source": "MSN",
-    "published_at": "2025-11-06T05:17:12.962703+08:00",
-    "summary": "橋水基金創辦人Ray Dalio 在沙烏地阿拉伯《財富全球論壇》警告，美國經濟愈來愈依賴頂層1% 精英勞動者，底層60% 勞工卻在AI 時代被邊緣化，結構性失衡正威脅國家穩定。​.",
-    "scraped_at": "2025-11-06T05:17:22+08:00",
-    "canonical_url": "https://www.msn.com/zh-hk/lifestyle/gadget-gift-guide/%E6%A9%8B%E6%B0%B4%E5%89%B5%E8%BE%A6%E4%BA%BA%E8%AD%A6%E5%91%8A%E7%BE%8E%E5%9C%8B%E7%B6%93%E6%BF%9F%E4%B8%8D%E5%B9%B3%E7%AD%89-ai-%E6%99%82%E4%BB%A3%E4%BB%A4%E4%BA%BA%E7%94%9F%E7%94%A2%E5%8A%9B%E4%B8%8B%E9%99%8D-%E5%BA%95%E5%B1%A4-6-%E6%88%90%E5%8B%9E%E5%B7%A5%E8%A2%AB%E9%82%8A%E7%B7%A3%E5%8C%96/ar-AA1PM08s"
-  },
-  {
-    "title": "英國法院裁定 AI 圖像生成器 Stable Diffusion 不屬於侵權複製",
-    "url": "https://www.newmobilelife.com/2025/11/06/uk-judge-rules-stable-diffusion-no-infringement/",
-    "source": "流動日報",
-    "published_at": "2025-11-06T05:17:09.855378+08:00",
-    "summary": "倫敦高等法院駁回了Getty Images 對Stability AI 提起的主要版權訴訟，這對生成式AI 公司來說是一個關鍵時刻。此案的核心爭議在於，使用受版權保護的圖像來構建AI 模型...",
-    "scraped_at": "2025-11-06T05:17:22+08:00",
-    "canonical_url": "https://www.newmobilelife.com/2025/11/06/uk-judge-rules-stable-diffusion-no-infringement/"
-  },
-  {
-    "title": "Nvidia H20市占降至零…超微MI308 AI晶片獲得輸中國許可",
-    "url": "https://www.worldjournal.com/wj/story/121477/9120450",
-    "source": "世界新聞網",
-    "published_at": "2025-11-06T05:17:06.717926+08:00",
-    "summary": "美國電腦晶片巨頭超微（AMD）4日公布第3季財報時，透露該公司的Instinct MI308人工智慧（AI）晶片已經獲得...",
-    "scraped_at": "2025-11-06T05:17:22+08:00",
-    "canonical_url": "https://www.worldjournal.com/wj/story/121477/9120450"
-  },
-  {
-    "title": "151% 的增長背後，它正在成爲 AI 的「新入口」",
-    "url": "https://news.futunn.com/hk/post/64416379",
-    "source": "富途牛牛",
-    "published_at": "2025-11-06T05:17:02.980862+08:00",
-    "summary": "作者｜徐珊編輯｜靖宇浪潮之下，AI語音正以前所未有的速度奔湧。當大家期待AI 能「聽懂」言語，「理解」人心時，AI 產業與技術準備好了嗎？10 月31 日，由聲網與RTE 開發者...",
-    "scraped_at": "2025-11-06T05:17:22+08:00",
-    "canonical_url": "https://news.futunn.com/hk/post/64416379"
-  },
-  {
-    "title": "“大空头”回归！迈克尔·伯里警告AI泡沫：这或是下一个“互联网神话”",
-    "url": "https://news.fx168news.com/stock/us/2511/7389613.shtml",
-    "source": "FX168",
-    "published_at": "2025-11-06T05:16:58.138786+08:00",
-    "summary": "FX168财经报社(北美)讯周三（11月5日），传奇基金经理、“大空头”（The Big Short）原型人物迈克尔·伯里（Michael Burry）重返社交平台X（前Twitter），...",
-    "scraped_at": "2025-11-06T05:17:22+08:00",
-    "canonical_url": "https://news.fx168news.com/stock/us/2511/7389613.shtml"
-  },
-  {
-    "title": "傳中共禁部分數據中心用外國AI芯片",
-    "url": "https://www.epochtimes.com/b5/25/11/5/n14630320.htm",
-    "source": "大紀元",
-    "published_at": "2025-11-06T05:16:54.652917+08:00",
-    "summary": "週三（11月5日），路透社引述兩名知情人士的消息報導，中共官方已發布內部指導意見，要求所有獲得國家資金的新建數據中心項目只能使用國產人工智能（AI）芯片。",
-    "scraped_at": "2025-11-06T05:17:22+08:00",
-    "canonical_url": "https://www.epochtimes.com/b5/25/11/5/n14630320.htm"
-  },
-  {
-    "title": "蘋果據悉計畫引入谷歌AI技術 助力Siri重大升級",
-    "url": "https://hk.finance.yahoo.com/news/%E8%98%8B%E6%9E%9C%E6%93%9A%E6%82%89%E8%A8%88%E7%95%AB%E5%BC%95%E5%85%A5%E8%B0%B7%E6%AD%8Cai%E6%8A%80%E8%A1%93-%E5%8A%A9%E5%8A%9Bsiri%E9%87%8D%E5%A4%A7%E5%8D%87%E7%B4%9A-203504581.html",
-    "source": "Yahoo 財經",
-    "published_at": "2025-11-06T05:16:51.522660+08:00",
-    "summary": "Samsung uses the Google Gemini chatbot to help power its AI features. 【彭博】-- 據知情人士透露，蘋果公司計畫使用谷歌開發的一款擁有1.",
-    "scraped_at": "2025-11-06T05:17:22+08:00",
-    "canonical_url": "https://hk.finance.yahoo.com/news/%E8%98%8B%E6%9E%9C%E6%93%9A%E6%82%89%E8%A8%88%E7%95%AB%E5%BC%95%E5%85%A5%E8%B0%B7%E6%AD%8Cai%E6%8A%80%E8%A1%93-%E5%8A%A9%E5%8A%9Bsiri%E9%87%8D%E5%A4%A7%E5%8D%87%E7%B4%9A-203504581.html"
-  },
-  {
-    "title": "路透：中國下令新設數據中心停用外國AI晶片",
-    "url": "https://www.worldjournal.com/wj/story/121474/9120770",
-    "source": "世界新聞網",
-    "published_at": "2025-11-06T05:16:47.759579+08:00",
-    "summary": "路透今天引述2名知情人士透露，中國官方數周前發布指導意見，要求所有由國家資金新設的數據中心，必須使用中國自製的人工智慧（AI）晶片，若設置進度低於30%且使用或採購了...",
-    "scraped_at": "2025-11-06T05:17:22+08:00",
-    "canonical_url": "https://www.worldjournal.com/wj/story/121474/9120770"
   },
   {
     "title": "AI companies need to 'start generating some serious income'",
@@ -115,60 +214,6 @@
     "summary": "Today, nearly half of Americans struggle to afford basic healthcare, and patients wait an average of 38 days to see a doctor. At the same time,...",
     "scraped_at": "2025-11-06T04:54:39+08:00",
     "canonical_url": "https://www.beckerspayer.com/payer/ai-for-health-plans-expanding-access-while-reducing-costs/"
-  },
-  {
-    "title": "Personal Perspective: Why the human mind and AI live in different realities.",
-    "url": "https://www.psychologytoday.com/us/blog/the-digital-self/202511/ai-and-the-battle-for-time",
-    "source": "Psychology Today",
-    "published_at": "2025-11-06T04:54:28.110785+08:00",
-    "summary": "Personal Perspective: AI isn't just threatening our intelligence; it's challenging our relationship with time.",
-    "scraped_at": "2025-11-06T04:54:39+08:00",
-    "canonical_url": "https://www.psychologytoday.com/us/blog/the-digital-self/202511/ai-and-the-battle-for-time"
-  },
-  {
-    "title": "Apple to use Google's AI model to run new Siri, Bloomberg News reports",
-    "url": "https://www.reuters.com/business/apple-use-googles-ai-model-run-new-siri-bloomberg-news-reports-2025-11-05/",
-    "source": "Reuters",
-    "published_at": "2025-11-06T04:54:24.707687+08:00",
-    "summary": "Apple plans to use a 1.2 trillion parameter artificial intelligence model developed by Google to help power an overhaul of the Siri voice assistant,...",
-    "scraped_at": "2025-11-06T04:54:39+08:00",
-    "canonical_url": "https://www.reuters.com/business/apple-use-googles-ai-model-run-new-siri-bloomberg-news-reports-2025-11-05/"
-  },
-  {
-    "title": "When AI paints like van Gogh, who gets the credit?",
-    "url": "https://www.uta.edu/news/news-releases/2025/11/05/when-ai-paints-like-van-gogh-who-gets-the-credit",
-    "source": "The University of Texas at Arlington",
-    "published_at": "2025-11-06T04:54:21.562546+08:00",
-    "summary": "UTA's Ananya Singh explores how artificial intelligence challenges originality and raises questions of artistic ownership.",
-    "scraped_at": "2025-11-06T04:54:39+08:00",
-    "canonical_url": "https://www.uta.edu/news/news-releases/2025/11/05/when-ai-paints-like-van-gogh-who-gets-the-credit"
-  },
-  {
-    "title": "AI Mode in Chrome is easier to use on iOS and Android.",
-    "url": "https://blog.google/products/chrome/ai-mode-in-chrome-ios-android/",
-    "source": "blog.google",
-    "published_at": "2025-11-06T04:54:17.305404+08:00",
-    "summary": "Plus, the AI Mode shortcut is expanding to 160 more countries.",
-    "scraped_at": "2025-11-06T04:54:39+08:00",
-    "canonical_url": "https://blog.google/products/chrome/ai-mode-in-chrome-ios-android/"
-  },
-  {
-    "title": "Dutchess Community College Presents “Human-Centered AI” with Dr. Cecilia Aragon",
-    "url": "https://www.sunydutchess.edu/about/facts/news/human-centered-ai.html",
-    "source": "Dutchess Community College | sunydutchess.edu",
-    "published_at": "2025-11-06T04:54:14.020749+08:00",
-    "summary": "DCC invites students, faculty, staff, alumni and community members to join “Human-Centered AI” with Dr. Cecilia Aragon, a thought-provoking virtual...",
-    "scraped_at": "2025-11-06T04:54:39+08:00",
-    "canonical_url": "https://www.sunydutchess.edu/about/facts/news/human-centered-ai.html"
-  },
-  {
-    "title": "Salvatore Falletta: Human resources and AI reach an ethical crossroads",
-    "url": "https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/",
-    "source": "Vanderbilt University",
-    "published_at": "2025-11-06T04:54:10.681150+08:00",
-    "summary": "RESEARCH SPARK: AI is becoming a common tool for Human Resources departments. Learn from new faculty Salvatore Falletta about the ethical lines between...",
-    "scraped_at": "2025-11-06T04:54:39+08:00",
-    "canonical_url": "https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/"
   },
   {
     "title": "Rants from an optimistic person: Fooled by AI",
@@ -277,15 +322,6 @@
     "summary": "Discover how an AI-first strategy helps organizations deliver 25% better outcomes. Explore Gartner insights on maximizing enterprise impact with artificial...",
     "scraped_at": "2025-11-06T03:41:10+08:00",
     "canonical_url": "https://www.gartner.com/en/articles/ai-first-strategy"
-  },
-  {
-    "title": "Beware of double agents: How AI can fortify — or fracture — your cybersecurity",
-    "url": "https://blogs.microsoft.com/blog/2025/11/05/beware-of-double-agents-how-ai-can-fortify-or-fracture-your-cybersecurity/",
-    "source": "The Official Microsoft Blog",
-    "published_at": "2025-11-06T03:29:53.617825+08:00",
-    "summary": "AI is rapidly becoming the backbone of our world, promising unprecedented productivity and innovation. But as organizations deploy AI agents to unlock new...",
-    "scraped_at": "2025-11-06T03:29:53+08:00",
-    "canonical_url": "https://blogs.microsoft.com/blog/2025/11/05/beware-of-double-agents-how-ai-can-fortify-or-fracture-your-cybersecurity/"
   },
   {
     "title": "Webinar: IP Specific vs. General Purpose AI – Choosing the Right Tool for the Task",
