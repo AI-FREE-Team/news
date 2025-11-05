@@ -45,21 +45,16 @@ jobs:
           ls -l data || true
           git status
 
-      # 自動 commit 變更（若有）
-      - name: Commit & Push
-        if: ${{ !cancelled() }}
+      # commit 變更（若有）
+      - name: Configure git
         run: |
-          set -e
-          if [ -n "$(git status --porcelain)" ]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add data tmp || true
-            git commit -m "chore(data): update news JSON [skip ci]"
-            # 使用 GITHUB_TOKEN 推回
-            git push
-
-          else
-            echo "No changes to commit."
-
-          fi
-      
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+      - name: Commit and push generated images
+        run: |
+          git add images/
+          git commit -m "chore: add data on $(date -u '+%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+          git push origin HEAD:main
+          
