@@ -1,5 +1,95 @@
 [
   {
+    "title": "Are A.I. Therapy Chatbots Safe to Use?",
+    "url": "https://www.nytimes.com/2025/11/06/technology/ai-therapy-chatbots-ash.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-07T07:38:07.987733+08:00",
+    "summary": "Psychologists and technologists see them as the future of therapy. The Food and Drug Administration is exploring whether to regulate them as medical...",
+    "scraped_at": "2025-11-07T07:38:08+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/06/technology/ai-therapy-chatbots-ash.html"
+  },
+  {
+    "title": "Charting the future of AI, from safer answers to faster thinking",
+    "url": "https://news.mit.edu/2025/charting-the-future-of-ai-from-safer-answers-to-faster-thinking-1106",
+    "source": "MIT News",
+    "published_at": "2025-11-07T07:38:04.851819+08:00",
+    "summary": "Five PhD students from the inaugural class of the MIT-IBM Watson AI Lab Summer Program are building AI pipelines with probes, routers, new attention...",
+    "scraped_at": "2025-11-07T07:38:08+08:00",
+    "canonical_url": "https://news.mit.edu/2025/charting-the-future-of-ai-from-safer-answers-to-faster-thinking-1106"
+  },
+  {
+    "title": "A national AI law is critical for small app developers like me",
+    "url": "https://utahnewsdispatch.com/2025/11/06/national-ai-law-is-critical-for-small-app-developers/",
+    "source": "Utah News Dispatch",
+    "published_at": "2025-11-07T07:38:01.599503+08:00",
+    "summary": "Commentary: Small app developers would be better served by smart, comprehensive, national AI legislation over state-by-state laws.",
+    "scraped_at": "2025-11-07T07:38:08+08:00",
+    "canonical_url": "https://utahnewsdispatch.com/2025/11/06/national-ai-law-is-critical-for-small-app-developers/"
+  },
+  {
+    "title": "The founder of MagicSchool says AI Should Be Drafting Special Education Plans",
+    "url": "https://www.chalkbeat.org/2025/11/06/magic-school-founder-adeel-khan-on-ai-ieps-and-cheating/",
+    "source": "Chalkbeat",
+    "published_at": "2025-11-07T07:37:58.429866+08:00",
+    "summary": "Adeel Khan says AI can save time for overworked teachers, but acknowledges that some students are using it to cheat.",
+    "scraped_at": "2025-11-07T07:38:08+08:00",
+    "canonical_url": "https://www.chalkbeat.org/2025/11/06/magic-school-founder-adeel-khan-on-ai-ieps-and-cheating/"
+  },
+  {
+    "title": "Oakland, Calif.’s AI Experiment: Testing Before Buying It",
+    "url": "https://www.govtech.com/artificial-intelligence/oakland-calif-s-ai-experiment-testing-before-buying-it",
+    "source": "GovTech",
+    "published_at": "2025-11-07T07:37:53.879588+08:00",
+    "summary": "The city's new request for information invites innovators — from startups to major tech firms — to apply artificial intelligence solutions to city...",
+    "scraped_at": "2025-11-07T07:38:08+08:00",
+    "canonical_url": "https://www.govtech.com/artificial-intelligence/oakland-calif-s-ai-experiment-testing-before-buying-it"
+  },
+  {
+    "title": "AI and learning: A new chapter for students and educators",
+    "url": "https://blog.google/outreach-initiatives/education/ai-and-learning/",
+    "source": "The Keyword",
+    "published_at": "2025-11-07T07:37:50.610512+08:00",
+    "summary": "Our AI tools for learning support educators and make learning more effective, efficient and engaging. BenGomes_Headshot.jpg. Ben Gomes.",
+    "scraped_at": "2025-11-07T07:38:08+08:00",
+    "canonical_url": "https://blog.google/outreach-initiatives/education/ai-and-learning/"
+  },
+  {
+    "title": "STAFF OPINION: Getting ahead of the AI curve",
+    "url": "https://www.upbeacon.com/article/2025/11/staff-opinion-getting-ahead-of-the-ai-curve",
+    "source": "The Beacon",
+    "published_at": "2025-11-07T07:37:47.353683+08:00",
+    "summary": "AI literacy is a crucial skill for every person entering the workforce — either we can master its potential or lose control over it.",
+    "scraped_at": "2025-11-07T07:38:08+08:00",
+    "canonical_url": "https://www.upbeacon.com/article/2025/11/staff-opinion-getting-ahead-of-the-ai-curve"
+  },
+  {
+    "title": "What the hell is going on with AI and jobs?",
+    "url": "https://www.bloodinthemachine.com/p/what-the-hell-is-going-on-with-ai",
+    "source": "Blood in the Machine | Brian Merchant",
+    "published_at": "2025-11-07T07:37:43.377022+08:00",
+    "summary": "Record-breaking layoff reports, Amazon's mass firings, and a slump in entry level employment. Is AI behind it all?",
+    "scraped_at": "2025-11-07T07:38:08+08:00",
+    "canonical_url": "https://www.bloodinthemachine.com/p/what-the-hell-is-going-on-with-ai"
+  },
+  {
+    "title": "UCR and Cal State to collaborate on AI education",
+    "url": "https://insideucr.ucr.edu/stories/2025/11/06/ucr-and-cal-state-collaborate-ai-education",
+    "source": "Inside UCR",
+    "published_at": "2025-11-07T07:37:40.133580+08:00",
+    "summary": "UC Riverside and Cal State San Bernardino have received $1 million in federal funding to jointly launch interdisciplinary AI undergraduate education...",
+    "scraped_at": "2025-11-07T07:38:08+08:00",
+    "canonical_url": "https://insideucr.ucr.edu/stories/2025/11/06/ucr-and-cal-state-collaborate-ai-education"
+  },
+  {
+    "title": "October Challenger Report: 153,074 Job Cuts on Cost-Cutting & AI",
+    "url": "https://www.challengergray.com/blog/october-challenger-report-153074-job-cuts-on-cost-cutting-ai/",
+    "source": "Challenger, Gray & Christmas, Inc.",
+    "published_at": "2025-11-07T07:37:36.892184+08:00",
+    "summary": "JOB CUTS SURPASS 1 MILLION; HIGHEST OCTOBER TOTAL SINCE 2003. COMPANIES CITE COST-CUTTING, AI IN OCTOBER. Published November 6, 2025.",
+    "scraped_at": "2025-11-07T07:38:08+08:00",
+    "canonical_url": "https://www.challengergray.com/blog/october-challenger-report-153074-job-cuts-on-cost-cutting-ai/"
+  },
+  {
     "title": "Atlantic Council Unveils GeoTech Commission on AI",
     "url": "https://www.executivegov.com/articles/atlantic-council-geotech-ai-commission",
     "source": "ExecutiveGov",
@@ -7,87 +97,6 @@
     "summary": "The Atlantic Council's GeoTech Commission on Artificial Intelligence will focus on six areas, including innovation, supply chains and energy.",
     "scraped_at": "2025-11-07T07:17:23+08:00",
     "canonical_url": "https://www.executivegov.com/articles/atlantic-council-geotech-ai-commission"
-  },
-  {
-    "title": "Are A.I. Therapy Chatbots Safe to Use?",
-    "url": "https://www.nytimes.com/2025/11/06/technology/ai-therapy-chatbots-ash.html",
-    "source": "The New York Times",
-    "published_at": "2025-11-07T07:17:20.147080+08:00",
-    "summary": "Psychologists and technologists see them as the future of therapy. The Food and Drug Administration is exploring whether to regulate them as medical...",
-    "scraped_at": "2025-11-07T07:17:23+08:00",
-    "canonical_url": "https://www.nytimes.com/2025/11/06/technology/ai-therapy-chatbots-ash.html"
-  },
-  {
-    "title": "Charting the future of AI, from safer answers to faster thinking",
-    "url": "https://news.mit.edu/2025/charting-the-future-of-ai-from-safer-answers-to-faster-thinking-1106",
-    "source": "MIT News",
-    "published_at": "2025-11-07T07:17:17.067297+08:00",
-    "summary": "Five PhD students from the inaugural class of the MIT-IBM Watson AI Lab Summer Program are building AI pipelines with probes, routers, new attention...",
-    "scraped_at": "2025-11-07T07:17:23+08:00",
-    "canonical_url": "https://news.mit.edu/2025/charting-the-future-of-ai-from-safer-answers-to-faster-thinking-1106"
-  },
-  {
-    "title": "A national AI law is critical for small app developers like me",
-    "url": "https://utahnewsdispatch.com/2025/11/06/national-ai-law-is-critical-for-small-app-developers/",
-    "source": "Utah News Dispatch",
-    "published_at": "2025-11-07T07:17:13.962987+08:00",
-    "summary": "Commentary: Small app developers would be better served by smart, comprehensive, national AI legislation over state-by-state laws.",
-    "scraped_at": "2025-11-07T07:17:23+08:00",
-    "canonical_url": "https://utahnewsdispatch.com/2025/11/06/national-ai-law-is-critical-for-small-app-developers/"
-  },
-  {
-    "title": "The founder of MagicSchool says AI Should Be Drafting Special Education Plans",
-    "url": "https://www.chalkbeat.org/2025/11/06/magic-school-founder-adeel-khan-on-ai-ieps-and-cheating/",
-    "source": "Chalkbeat",
-    "published_at": "2025-11-07T07:17:10.819863+08:00",
-    "summary": "Adeel Khan says AI can save time for overworked teachers, but acknowledges that some students are using it to cheat.",
-    "scraped_at": "2025-11-07T07:17:23+08:00",
-    "canonical_url": "https://www.chalkbeat.org/2025/11/06/magic-school-founder-adeel-khan-on-ai-ieps-and-cheating/"
-  },
-  {
-    "title": "Oakland, Calif.’s AI Experiment: Testing Before Buying It",
-    "url": "https://www.govtech.com/artificial-intelligence/oakland-calif-s-ai-experiment-testing-before-buying-it",
-    "source": "GovTech",
-    "published_at": "2025-11-07T07:17:07.065824+08:00",
-    "summary": "The city's new request for information invites innovators — from startups to major tech firms — to apply artificial intelligence solutions to city...",
-    "scraped_at": "2025-11-07T07:17:23+08:00",
-    "canonical_url": "https://www.govtech.com/artificial-intelligence/oakland-calif-s-ai-experiment-testing-before-buying-it"
-  },
-  {
-    "title": "AI and learning: A new chapter for students and educators",
-    "url": "https://blog.google/outreach-initiatives/education/ai-and-learning/",
-    "source": "The Keyword",
-    "published_at": "2025-11-07T07:17:03.551582+08:00",
-    "summary": "Our AI tools for learning support educators and make learning more effective, efficient and engaging. BenGomes_Headshot.jpg. Ben Gomes.",
-    "scraped_at": "2025-11-07T07:17:23+08:00",
-    "canonical_url": "https://blog.google/outreach-initiatives/education/ai-and-learning/"
-  },
-  {
-    "title": "STAFF OPINION: Getting ahead of the AI curve",
-    "url": "https://www.upbeacon.com/article/2025/11/staff-opinion-getting-ahead-of-the-ai-curve",
-    "source": "The Beacon",
-    "published_at": "2025-11-07T07:17:00.319519+08:00",
-    "summary": "AI literacy is a crucial skill for every person entering the workforce — either we can master its potential or lose control over it.",
-    "scraped_at": "2025-11-07T07:17:23+08:00",
-    "canonical_url": "https://www.upbeacon.com/article/2025/11/staff-opinion-getting-ahead-of-the-ai-curve"
-  },
-  {
-    "title": "What the hell is going on with AI and jobs?",
-    "url": "https://www.bloodinthemachine.com/p/what-the-hell-is-going-on-with-ai",
-    "source": "Blood in the Machine | Brian Merchant",
-    "published_at": "2025-11-07T07:16:57.108081+08:00",
-    "summary": "Record-breaking layoff reports, Amazon's mass firings, and a slump in entry level employment. Is AI behind it all?",
-    "scraped_at": "2025-11-07T07:17:23+08:00",
-    "canonical_url": "https://www.bloodinthemachine.com/p/what-the-hell-is-going-on-with-ai"
-  },
-  {
-    "title": "October Challenger Report: 153,074 Job Cuts on Cost-Cutting & AI",
-    "url": "https://www.challengergray.com/blog/october-challenger-report-153074-job-cuts-on-cost-cutting-ai/",
-    "source": "Challenger, Gray & Christmas, Inc.",
-    "published_at": "2025-11-07T07:16:53.934301+08:00",
-    "summary": "JOB CUTS SURPASS 1 MILLION; HIGHEST OCTOBER TOTAL SINCE 2003. COMPANIES CITE COST-CUTTING, AI IN OCTOBER. Published November 6, 2025.",
-    "scraped_at": "2025-11-07T07:17:23+08:00",
-    "canonical_url": "https://www.challengergray.com/blog/october-challenger-report-153074-job-cuts-on-cost-cutting-ai/"
   },
   {
     "title": "傳統廣告商瑟瑟發抖、AI助陣 科技巨擘加速稱霸廣告市場",
