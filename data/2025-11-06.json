@@ -1,5 +1,185 @@
 [
   {
+    "title": "Opinion: America is open for AI’s business — China and Europe aren’t even close",
+    "url": "https://www.marketwatch.com/story/america-is-open-for-ais-business-china-and-europe-arent-even-close-03c5d271?gaa_at=eafs&gaa_n=AWEtsqe6wMjrR-qAgz0U8BkvM2KAoRCzuWra4idrGG1ZN9NeAyUMB9RSx416&gaa_ts=690ca451&gaa_sig=9ram0O_cc-hrOg2rVRL_dW4VDxp9IF0MkBQ29o0v2NMT8Sc_glRkUEuNLpcNBzmJeIcIQZMvCMyhKQ1qxD0LvA%3D%3D",
+    "source": "MarketWatch",
+    "published_at": "2025-11-06T21:21:49.448683+08:00",
+    "summary": "AI needs market-driven innovation to thrive. China's top-down approach and Europe's regulations stifle growth.",
+    "scraped_at": "2025-11-06T21:21:49+08:00",
+    "canonical_url": "https://www.marketwatch.com/story/america-is-open-for-ais-business-china-and-europe-arent-even-close-03c5d271"
+  },
+  {
+    "title": "Study: Half of HR Execs Using AI to Hire Top Talent",
+    "url": "https://tech.co/news/hiring-managers-using-ai-ipsos-report",
+    "source": "Tech.co",
+    "published_at": "2025-11-06T21:21:46.331112+08:00",
+    "summary": "According to new research from Ipsos and Google, hiring managers are increasingly turning to AI to solve the hiring crisis.",
+    "scraped_at": "2025-11-06T21:21:49+08:00",
+    "canonical_url": "https://tech.co/news/hiring-managers-using-ai-ipsos-report"
+  },
+  {
+    "title": "Denmark eyes new law to protect citizens from AI deepfakes",
+    "url": "https://apnews.com/article/denmark-deepfakes-artificial-intelligence-ai-law-30ab245dbca6ec834d20738e27fb93c3",
+    "source": "AP News",
+    "published_at": "2025-11-06T21:21:43.191147+08:00",
+    "summary": "Deepfakes have become not only easier to make worldwide but also look or sound exponentially more realistic thanks to technological advances and the...",
+    "scraped_at": "2025-11-06T21:21:49+08:00",
+    "canonical_url": "https://apnews.com/article/denmark-deepfakes-artificial-intelligence-ai-law-30ab245dbca6ec834d20738e27fb93c3"
+  },
+  {
+    "title": "Snap shares surge as $400 million Perplexity deal rekindles AI ambitions",
+    "url": "https://www.reuters.com/business/snap-shares-surge-400-million-perplexity-deal-rekindles-ai-ambitions-2025-11-06/",
+    "source": "Reuters",
+    "published_at": "2025-11-06T21:21:39.308251+08:00",
+    "summary": "Snap shares jumped 18% in premarket trading on Thursday after its $400 million partnership with startup Perplexity AI reassured investors that the social...",
+    "scraped_at": "2025-11-06T21:21:49+08:00",
+    "canonical_url": "https://www.reuters.com/business/snap-shares-surge-400-million-perplexity-deal-rekindles-ai-ambitions-2025-11-06/"
+  },
+  {
+    "title": "Nvidia's Jensen Huang softens his ‘China will win the AI race’ remark to FT",
+    "url": "https://www.cnbc.com/2025/11/06/jensen-huang-says-china-will-win-the-ai-race-before-clarifying-in-a-statement-nvidia-trump-xi.html",
+    "source": "CNBC",
+    "published_at": "2025-11-06T21:21:36.189526+08:00",
+    "summary": "Nvidia CEO Jensen Huang reportedly told the Financial Times that \"China is going to win the AI race,\" before releasing a notably softer statement soon...",
+    "scraped_at": "2025-11-06T21:21:49+08:00",
+    "canonical_url": "https://www.cnbc.com/2025/11/06/jensen-huang-says-china-will-win-the-ai-race-before-clarifying-in-a-statement-nvidia-trump-xi.html"
+  },
+  {
+    "title": "With ambient AI, 93% of doctors can give patients “full attention”",
+    "url": "https://www.ama-assn.org/practice-management/digital-health/ambient-ai-93-doctors-can-give-patients-full-attention",
+    "source": "American Medical Association",
+    "published_at": "2025-11-06T21:21:33.047612+08:00",
+    "summary": "Study also shows drops in self-reported after-hours work and burnout at Sutter Health. Find out how Sutter Health's use of AI is evolving.",
+    "scraped_at": "2025-11-06T21:21:49+08:00",
+    "canonical_url": "https://www.ama-assn.org/practice-management/digital-health/ambient-ai-93-doctors-can-give-patients-full-attention"
+  },
+  {
+    "title": "California backs down on AI laws so more tech leaders don’t flee the state",
+    "url": "https://www.latimes.com/business/story/2025-11-06/as-tech-lobbying-intensifies-california-politicians-make-concessions",
+    "source": "Los Angeles Times",
+    "published_at": "2025-11-06T21:21:29.775756+08:00",
+    "summary": "Advocacy groups and lawmakers say they've gotten mixed results when it comes to trying to rein in the power of Big Tech.",
+    "scraped_at": "2025-11-06T21:21:49+08:00",
+    "canonical_url": "https://www.latimes.com/business/story/2025-11-06/as-tech-lobbying-intensifies-california-politicians-make-concessions"
+  },
+  {
+    "title": "When Humans Add Negative Value: AI Alone vs. Human–AI Synergy",
+    "url": "https://jakobnielsenphd.substack.com/p/humans-negative-value",
+    "source": "Jakob Nielsen on UX",
+    "published_at": "2025-11-06T21:21:26.573375+08:00",
+    "summary": "The prevailing “human in the loop” paradigm for AI use must die or be drastically reduced.",
+    "scraped_at": "2025-11-06T21:21:49+08:00",
+    "canonical_url": "https://jakobnielsenphd.substack.com/p/humans-negative-value"
+  },
+  {
+    "title": "AI executives rebuff questions about valuations",
+    "url": "https://www.axios.com/2025/11/06/openai-sam-altman-alex-karp-mad-investors",
+    "source": "Axios",
+    "published_at": "2025-11-06T21:21:23.492810+08:00",
+    "summary": "OpenAI CEO Sam Altman and Palantir CEO Alex Karp both publicly snubbed questions about fundamentals of their companies this week. Why it matters: AI...",
+    "scraped_at": "2025-11-06T21:21:49+08:00",
+    "canonical_url": "https://www.axios.com/2025/11/06/openai-sam-altman-alex-karp-mad-investors"
+  },
+  {
+    "title": "AI steps in to detect the world's deadliest infectious disease",
+    "url": "https://www.npr.org/sections/goats-and-soda/2025/11/06/g-s1-96448/ai-artificial-intelligence-tb-tuberculosis",
+    "source": "NPR",
+    "published_at": "2025-11-06T21:21:20.385376+08:00",
+    "summary": "There's a global shortage of radiologists. Now artificial intelligence is helping speed up the diagnosis of tuberculosis in hard-to-reach communities.",
+    "scraped_at": "2025-11-06T21:21:49+08:00",
+    "canonical_url": "https://www.npr.org/sections/goats-and-soda/2025/11/06/g-s1-96448/ai-artificial-intelligence-tb-tuberculosis"
+  },
+  {
+    "title": "AI需求增 Google擬建太空資料中心 2027年發射測試衛星",
+    "url": "https://www.worldjournal.com/wj/story/121368/9119180",
+    "source": "世界新聞網",
+    "published_at": "2025-11-06T21:21:16.596934+08:00",
+    "summary": "人工智慧資料中心的需求成長迅猛，以至於地球上的能源不足以支撐其建設。Google的工程師認為他們可能找到了解決方案：將部...",
+    "scraped_at": "2025-11-06T21:21:49+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/121368/9119180"
+  },
+  {
+    "title": "AI熱潮背後盈利未現 分析：須盡快「造血」穩市場信心",
+    "url": "https://hk.finance.yahoo.com/news/ai%E7%86%B1%E6%BD%AE%E8%83%8C%E5%BE%8C%E7%9B%88%E5%88%A9%E6%9C%AA%E7%8F%BE-%E5%88%86%E6%9E%90%EF%BC%9A%E9%A0%88%E7%9B%A1%E5%BF%AB%E3%80%8C%E9%80%A0%E8%A1%80%E3%80%8D%E7%A9%A9%E5%B8%82%E5%A0%B4%E4%BF%A1%E5%BF%83-072706325.html",
+    "source": "Yahoo 財經",
+    "published_at": "2025-11-06T21:21:12.933673+08:00",
+    "summary": "科網巨頭業績理想，惟OpenAI等AI公司仍持續虧損，專家指長遠須展現盈利能力，市場信心方可穩定。",
+    "scraped_at": "2025-11-06T21:21:49+08:00",
+    "canonical_url": "https://hk.finance.yahoo.com/news/ai%E7%86%B1%E6%BD%AE%E8%83%8C%E5%BE%8C%E7%9B%88%E5%88%A9%E6%9C%AA%E7%8F%BE-%E5%88%86%E6%9E%90%EF%BC%9A%E9%A0%88%E7%9B%A1%E5%BF%AB%E3%80%8C%E9%80%A0%E8%A1%80%E3%80%8D%E7%A9%A9%E5%B8%82%E5%A0%B4%E4%BF%A1%E5%BF%83-072706325.html"
+  },
+  {
+    "title": "Celonis發表平台創新成果，協助打造AI 驅動的可組合企業",
+    "url": "https://www.businesswire.com/news/home/20251104277250/zh-HK",
+    "source": "Business Wire",
+    "published_at": "2025-11-06T21:21:09.232940+08:00",
+    "summary": "(美國商業資訊)-- 流程智慧領域的全球領導者Celonis今日在2025年Celosphere大會上宣布重大平台創新成果，協助企業級AI重塑並持續改善業務營運。 Celonis產品長Daniel...",
+    "scraped_at": "2025-11-06T21:21:49+08:00",
+    "canonical_url": "https://www.businesswire.com/news/home/20251104277250/zh-HK"
+  },
+  {
+    "title": "Sony AI 推出全球首個道德數據集　揭示主流 AI 模型全面存在歧視問題 - UNWIRE.PRO 香港",
+    "url": "https://unwire.pro/2025/11/06/sony-ai-fhibe/ai/",
+    "source": "UNWIRE.PRO",
+    "published_at": "2025-11-06T21:21:06.177445+08:00",
+    "summary": "Sony AI 於11 月5 日正式發佈Fair Human-Centric Image Benchmark (FHIBE) 數據集，FHIBE 收錄超過10318 張經同意授權的影像，涵蓋來自81 個國家及地區共1981 名受試者，...",
+    "scraped_at": "2025-11-06T21:21:49+08:00",
+    "canonical_url": "https://unwire.pro/2025/11/06/sony-ai-fhibe/ai/"
+  },
+  {
+    "title": "媒體：中國下令數據中心須採用國產AI晶片",
+    "url": "https://www.dw.com/zh-hant/%E5%AA%92%E9%AB%94%E4%B8%AD%E5%9C%8B%E4%B8%8B%E4%BB%A4%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E9%A0%88%E6%8E%A1%E7%94%A8%E5%9C%8B%E7%94%A2ai%E6%99%B6%E7%89%87/a-74636370",
+    "source": "DW",
+    "published_at": "2025-11-06T21:21:02.922111+08:00",
+    "summary": "路透社引述兩名知情人士說法指，中國官方發佈指引，要求接受國家資金、新設置的數據中心採用國產AI晶片。此舉被視為對美出口管制的反制，也是助推本土晶片發展。",
+    "scraped_at": "2025-11-06T21:21:49+08:00",
+    "canonical_url": "https://www.dw.com/zh-hant/%E5%AA%92%E9%AB%94%E4%B8%AD%E5%9C%8B%E4%B8%8B%E4%BB%A4%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E9%A0%88%E6%8E%A1%E7%94%A8%E5%9C%8B%E7%94%A2ai%E6%99%B6%E7%89%87/a-74636370"
+  },
+  {
+    "title": "遠見高峰會／李開復：進入AI Agents時代 企業領導人務必推動變革",
+    "url": "https://www.worldjournal.com/wj/story/121221/9122874",
+    "source": "世界新聞網",
+    "published_at": "2025-11-06T21:20:59.015117+08:00",
+    "summary": "2025遠見高峰會6日邀請到《時代雜誌》評選全球百位最具影響力的AI專家李開復，以視訊方式演講。他為何認為開源模型生態正...",
+    "scraped_at": "2025-11-06T21:21:49+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/121221/9122874"
+  },
+  {
+    "title": "汽車之家發佈2025年三季度財報：AI與O2O雙輪驅動 生態佈局加速落地",
+    "url": "https://www.prnewswire.com/apac/zh/news-releases/2025aio2o--302607171.html",
+    "source": "PR Newswire",
+    "published_at": "2025-11-06T21:20:55.246104+08:00",
+    "summary": "香港2025年11月6日/美通社/ -- 香港時間2025年11月6日晚，中國領先的汽車互聯網服務平台汽車之家（紐約證券交易所股票代碼：ATHM;...",
+    "scraped_at": "2025-11-06T21:21:49+08:00",
+    "canonical_url": "https://www.prnewswire.com/apac/zh/news-releases/2025aio2o--302607171.html"
+  },
+  {
+    "title": "美國10月裁員數激增175% 成本削減與AI成主因",
+    "url": "https://hk.finance.yahoo.com/news/%E7%BE%8E%E5%9C%8B10%E6%9C%88%E8%A3%81%E5%93%A1%E6%95%B8%E6%BF%80%E5%A2%9E175-%E6%88%90%E6%9C%AC%E5%89%8A%E6%B8%9B%E8%88%87ai%E6%88%90%E4%B8%BB%E5%9B%A0-103005682.html",
+    "source": "Yahoo 財經",
+    "published_at": "2025-11-06T21:20:51.992592+08:00",
+    "summary": "根據全球就業諮詢與高管培訓公司挑戰者集團(Challenger, Gray & Christmas) 周四(6 日) 公布報告，美國雇主在10 月宣布裁員153074 人，相較於2024 年10 月的55597 人，...",
+    "scraped_at": "2025-11-06T21:21:49+08:00",
+    "canonical_url": "https://hk.finance.yahoo.com/news/%E7%BE%8E%E5%9C%8B10%E6%9C%88%E8%A3%81%E5%93%A1%E6%95%B8%E6%BF%80%E5%A2%9E175-%E6%88%90%E6%9C%AC%E5%89%8A%E6%B8%9B%E8%88%87ai%E6%88%90%E4%B8%BB%E5%9B%A0-103005682.html"
+  },
+  {
+    "title": "Datavault AI Inc. 宣佈與Scilex Holding Company 簽署價值1,000",
+    "url": "https://www.globenewswire.com/news-release/2025/11/06/3182260/0/zh-hant/Datavault-AI-Inc-%E5%AE%A3%E4%BD%88%E8%88%87-Scilex-Holding-Company-%E7%B0%BD%E7%BD%B2%E5%83%B9%E5%80%BC-1-000-%E8%90%AC%E7%BE%8E%E5%85%83%E7%9A%84%E5%85%A8%E7%90%83%E5%B0%88%E5%B1%AC%E6%8E%88%E6%AC%8A%E5%8D%94%E8%AD%B0-%E7%94%A8%E6%96%BC%E5%9F%BA%E5%9B%A0%E7%B5%84%E5%AD%B8-DNA-%E6%95%B8%E6%93%9A-%E8%A8%BA%E6%96%B7%E6%B3%95-%E6%B2%BB%E7%99%82%E5%AD%B8-%E9%81%BA%E5%82%B3%E5%AD%B8%E5%8F%8A%E8%97%A5%E7%89%A9%E8%B3%87%E8%A8%8A%E7%AD%89%E7%8F%BE%E5%AF%A6%E4%B8%96%E7%95%8C%E8%B3%87%E7%94%A2-RWA-%E7%9A%84%E4%BB%A3%E5%B9%A3%E5%8C%96%E5%92%8C%E7%9B%88%E5%88%A9%E5%8C%96.html",
+    "source": "GlobeNewswire",
+    "published_at": "2025-11-06T21:20:48.028157+08:00",
+    "summary": "費城, Nov. 06, 2025 (GLOBE NEWSWIRE) -- 透過IBN -- Datavault AI Inc.（簡稱「Datavault AI」或「該公司」）（Nasdaq: DVLT）是專注於數據盈利化、資產代幣化及安全數碼...",
+    "scraped_at": "2025-11-06T21:21:49+08:00",
+    "canonical_url": "https://www.globenewswire.com/news-release/2025/11/06/3182260/0/zh-hant/Datavault-AI-Inc-%E5%AE%A3%E4%BD%88%E8%88%87-Scilex-Holding-Company-%E7%B0%BD%E7%BD%B2%E5%83%B9%E5%80%BC-1-000-%E8%90%AC%E7%BE%8E%E5%85%83%E7%9A%84%E5%85%A8%E7%90%83%E5%B0%88%E5%B1%AC%E6%8E%88%E6%AC%8A%E5%8D%94%E8%AD%B0-%E7%94%A8%E6%96%BC%E5%9F%BA%E5%9B%A0%E7%B5%84%E5%AD%B8-DNA-%E6%95%B8%E6%93%9A-%E8%A8%BA%E6%96%B7%E6%B3%95-%E6%B2%BB%E7%99%82%E5%AD%B8-%E9%81%BA%E5%82%B3%E5%AD%B8%E5%8F%8A%E8%97%A5%E7%89%A9%E8%B3%87%E8%A8%8A%E7%AD%89%E7%8F%BE%E5%AF%A6%E4%B8%96%E7%95%8C%E8%B3%87%E7%94%A2-RWA-%E7%9A%84%E4%BB%A3%E5%B9%A3%E5%8C%96%E5%92%8C%E7%9B%88%E5%88%A9%E5%8C%96.html"
+  },
+  {
+    "title": "Celonis與Databricks達成合作，協助企業級AI 持續改善業務營運",
+    "url": "https://www.businesswire.com/news/home/20251104785174/zh-HK",
+    "source": "Business Wire",
+    "published_at": "2025-11-06T21:20:44.351453+08:00",
+    "summary": "(美國商業資訊)-- 流程智慧領域的全球領導者Celonis今日宣布與資料和AI公司Databricks達成合作，為客戶提供順暢、高效的AI運用路徑。雙方將藉助Delta Sharing技術，...",
+    "scraped_at": "2025-11-06T21:21:49+08:00",
+    "canonical_url": "https://www.businesswire.com/news/home/20251104785174/zh-HK"
+  },
+  {
     "title": "Stop worrying about your AI footprint. Look at the big picture instead.",
     "url": "https://www.technologyreview.com/2025/11/06/1127579/ai-footprint/",
     "source": "MIT Technology Review",
@@ -27,42 +207,6 @@
     "canonical_url": "https://www.oecd-nea.org/jcms/pl_111870/harnessing-ai-first-workshop-of-the-new-nea-joint-project-aixpertise"
   },
   {
-    "title": "Study: Half of HR Execs Using AI to Hire Top Talent",
-    "url": "https://tech.co/news/hiring-managers-using-ai-ipsos-report",
-    "source": "Tech.co",
-    "published_at": "2025-11-06T20:38:32.383062+08:00",
-    "summary": "According to new research from Ipsos and Google, hiring managers are increasingly turning to AI to solve the hiring crisis.",
-    "scraped_at": "2025-11-06T20:38:42+08:00",
-    "canonical_url": "https://tech.co/news/hiring-managers-using-ai-ipsos-report"
-  },
-  {
-    "title": "Denmark eyes new law to protect citizens from AI deepfakes",
-    "url": "https://apnews.com/article/denmark-deepfakes-artificial-intelligence-ai-law-30ab245dbca6ec834d20738e27fb93c3",
-    "source": "AP News",
-    "published_at": "2025-11-06T20:38:29.259584+08:00",
-    "summary": "Deepfakes have become not only easier to make worldwide but also look or sound exponentially more realistic thanks to technological advances and the...",
-    "scraped_at": "2025-11-06T20:38:42+08:00",
-    "canonical_url": "https://apnews.com/article/denmark-deepfakes-artificial-intelligence-ai-law-30ab245dbca6ec834d20738e27fb93c3"
-  },
-  {
-    "title": "California backs down on AI laws so more tech leaders don’t flee the state",
-    "url": "https://www.latimes.com/business/story/2025-11-06/as-tech-lobbying-intensifies-california-politicians-make-concessions",
-    "source": "Los Angeles Times",
-    "published_at": "2025-11-06T20:38:25.788021+08:00",
-    "summary": "Advocacy groups and lawmakers say they've gotten mixed results when it comes to trying to rein in the power of Big Tech.",
-    "scraped_at": "2025-11-06T20:38:42+08:00",
-    "canonical_url": "https://www.latimes.com/business/story/2025-11-06/as-tech-lobbying-intensifies-california-politicians-make-concessions"
-  },
-  {
-    "title": "Nvidia's Jensen Huang softens his ‘China will win the AI race’ remark to FT",
-    "url": "https://www.cnbc.com/2025/11/06/jensen-huang-says-china-will-win-the-ai-race-before-clarifying-in-a-statement-nvidia-trump-xi.html",
-    "source": "CNBC",
-    "published_at": "2025-11-06T20:38:22.498091+08:00",
-    "summary": "Nvidia CEO Jensen Huang reportedly told the Financial Times that \"China is going to win the AI race,\" before releasing a notably softer statement soon...",
-    "scraped_at": "2025-11-06T20:38:42+08:00",
-    "canonical_url": "https://www.cnbc.com/2025/11/06/jensen-huang-says-china-will-win-the-ai-race-before-clarifying-in-a-statement-nvidia-trump-xi.html"
-  },
-  {
     "title": "Streetwise: Is the AI-Driven Market Boom Over?",
     "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-06-2025/card/streetwise-will-the-market-fall-down--hosvTEpA9shHncxjJEnf?gaa_at=eafs&gaa_n=AWEtsqfxE0L7DFo9LQap-WKSlJ2vJ-5jwYYMm4OwZRopnRGS2GKRSgVJpH0N&gaa_ts=690c9a35&gaa_sig=7Z1wJRHIpgCXE8clgjOqnoxMLzjx5rtcUC4usB_vh93XGJIR9ZIVDLEk9wC2af8uQFOCDSG0wDiXglzGhDewbA%3D%3D",
     "source": "The Wall Street Journal",
@@ -70,15 +214,6 @@
     "summary": "Tuesday's selloff unwound some of the speculation that boosted artificial-intelligence stocks and drove the market to new highs. But it also brought AI into...",
     "scraped_at": "2025-11-06T20:38:42+08:00",
     "canonical_url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-06-2025/card/streetwise-will-the-market-fall-down--hosvTEpA9shHncxjJEnf"
-  },
-  {
-    "title": "When Humans Add Negative Value: AI Alone vs. Human–AI Synergy",
-    "url": "https://jakobnielsenphd.substack.com/p/humans-negative-value",
-    "source": "Jakob Nielsen on UX",
-    "published_at": "2025-11-06T20:38:16.057593+08:00",
-    "summary": "The prevailing “human in the loop” paradigm for AI use must die or be drastically reduced.",
-    "scraped_at": "2025-11-06T20:38:42+08:00",
-    "canonical_url": "https://jakobnielsenphd.substack.com/p/humans-negative-value"
   },
   {
     "title": "Is your electric bill going up? AI is partly to blame",
@@ -99,15 +234,6 @@
     "canonical_url": "https://www.globenewswire.com/news-release/2025/11/06/3182128/0/zh-hant/AI-%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%89%B5%E6%96%B0%E4%BC%81%E6%A5%AD-DEEPX-%E6%A6%AE%E7%8D%B2%E7%B4%90%E7%B4%84%E8%AD%89%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80%E5%92%8C%E4%B8%96%E7%95%8C%E7%B6%93%E6%BF%9F%E8%AB%96%E5%A3%87%E8%82%AF%E5%AE%9A.html"
   },
   {
-    "title": "AI需求增 Google擬建太空資料中心 2027年發射測試衛星",
-    "url": "https://www.worldjournal.com/wj/story/121368/9119180",
-    "source": "世界新聞網",
-    "published_at": "2025-11-06T20:38:05.332689+08:00",
-    "summary": "人工智慧資料中心的需求成長迅猛，以至於地球上的能源不足以支撐其建設。Google的工程師認為他們可能找到了解決方案：將部...",
-    "scraped_at": "2025-11-06T20:38:42+08:00",
-    "canonical_url": "https://www.worldjournal.com/wj/story/121368/9119180"
-  },
-  {
     "title": "赴美不是為了川普！緯穎洪麗寗：AI客戶需求爆發 12月美國廠啟動",
     "url": "https://tw.news.yahoo.com/%E8%B5%B4%E7%BE%8E%E4%B8%8D%E6%98%AF%E7%82%BA%E4%BA%86%E5%B7%9D%E6%99%AE-%E7%B7%AF%E7%A9%8E%E6%B4%AA%E9%BA%97%E5%AF%97-ai%E5%AE%A2%E6%88%B6%E9%9C%80%E6%B1%82%E7%88%86%E7%99%BC-12%E6%9C%88%E7%BE%8E%E5%9C%8B%E5%BB%A0%E5%95%9F%E5%8B%95-083900777.html",
     "source": "奇摩新聞",
@@ -117,42 +243,6 @@
     "canonical_url": "https://tw.news.yahoo.com/%E8%B5%B4%E7%BE%8E%E4%B8%8D%E6%98%AF%E7%82%BA%E4%BA%86%E5%B7%9D%E6%99%AE-%E7%B7%AF%E7%A9%8E%E6%B4%AA%E9%BA%97%E5%AF%97-ai%E5%AE%A2%E6%88%B6%E9%9C%80%E6%B1%82%E7%88%86%E7%99%BC-12%E6%9C%88%E7%BE%8E%E5%9C%8B%E5%BB%A0%E5%95%9F%E5%8B%95-083900777.html"
   },
   {
-    "title": "Celonis發表平台創新成果，協助打造AI 驅動的可組合企業",
-    "url": "https://www.businesswire.com/news/home/20251104277250/zh-HK",
-    "source": "Business Wire",
-    "published_at": "2025-11-06T20:37:57.652421+08:00",
-    "summary": "(美國商業資訊)-- 流程智慧領域的全球領導者Celonis今日在2025年Celosphere大會上宣布重大平台創新成果，協助企業級AI重塑並持續改善業務營運。 Celonis產品長Daniel...",
-    "scraped_at": "2025-11-06T20:38:42+08:00",
-    "canonical_url": "https://www.businesswire.com/news/home/20251104277250/zh-HK"
-  },
-  {
-    "title": "Sony AI 推出全球首個道德數據集　揭示主流 AI 模型全面存在歧視問題 - UNWIRE.PRO 香港",
-    "url": "https://unwire.pro/2025/11/06/sony-ai-fhibe/ai/",
-    "source": "UNWIRE.PRO",
-    "published_at": "2025-11-06T20:37:54.431024+08:00",
-    "summary": "Sony AI 於11 月5 日正式發佈Fair Human-Centric Image Benchmark (FHIBE) 數據集，FHIBE 收錄超過10318 張經同意授權的影像，涵蓋來自81 個國家及地區共1981 名受試者，...",
-    "scraped_at": "2025-11-06T20:38:42+08:00",
-    "canonical_url": "https://unwire.pro/2025/11/06/sony-ai-fhibe/ai/"
-  },
-  {
-    "title": "媒體：中國下令數據中心須採用國產AI晶片",
-    "url": "https://www.dw.com/zh-hant/%E5%AA%92%E9%AB%94%E4%B8%AD%E5%9C%8B%E4%B8%8B%E4%BB%A4%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E9%A0%88%E6%8E%A1%E7%94%A8%E5%9C%8B%E7%94%A2ai%E6%99%B6%E7%89%87/a-74636370",
-    "source": "DW",
-    "published_at": "2025-11-06T20:37:51.002361+08:00",
-    "summary": "路透社引述兩名知情人士說法指，中國官方發佈指引，要求接受國家資金、新設置的數據中心採用國產AI晶片。此舉被視為對美出口管制的反制，也是助推本土晶片發展。",
-    "scraped_at": "2025-11-06T20:38:42+08:00",
-    "canonical_url": "https://www.dw.com/zh-hant/%E5%AA%92%E9%AB%94%E4%B8%AD%E5%9C%8B%E4%B8%8B%E4%BB%A4%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E9%A0%88%E6%8E%A1%E7%94%A8%E5%9C%8B%E7%94%A2ai%E6%99%B6%E7%89%87/a-74636370"
-  },
-  {
-    "title": "美國10月裁員數激增175% 成本削減與AI成主因",
-    "url": "https://hk.finance.yahoo.com/news/%E7%BE%8E%E5%9C%8B10%E6%9C%88%E8%A3%81%E5%93%A1%E6%95%B8%E6%BF%80%E5%A2%9E175-%E6%88%90%E6%9C%AC%E5%89%8A%E6%B8%9B%E8%88%87ai%E6%88%90%E4%B8%BB%E5%9B%A0-103005682.html",
-    "source": "Yahoo 財經",
-    "published_at": "2025-11-06T20:37:46.641450+08:00",
-    "summary": "根據全球就業諮詢與高管培訓公司挑戰者集團(Challenger, Gray & Christmas) 周四(6 日) 公布報告，美國雇主在10 月宣布裁員153074 人，相較於2024 年10 月的55597 人，...",
-    "scraped_at": "2025-11-06T20:38:42+08:00",
-    "canonical_url": "https://hk.finance.yahoo.com/news/%E7%BE%8E%E5%9C%8B10%E6%9C%88%E8%A3%81%E5%93%A1%E6%95%B8%E6%BF%80%E5%A2%9E175-%E6%88%90%E6%9C%AC%E5%89%8A%E6%B8%9B%E8%88%87ai%E6%88%90%E4%B8%BB%E5%9B%A0-103005682.html"
-  },
-  {
     "title": "AI對就業影響浮現 美國10月裁員人數創逾20年來同期最大",
     "url": "https://www.worldjournal.com/wj/story/121208/9122634",
     "source": "世界新聞網",
@@ -160,24 +250,6 @@
     "summary": "最新數據顯示，美國企業今年10月宣布裁員人數創下逾20年來同期最大，顯示出人工智慧（AI）正在重塑各行各業，以及企業加速削減成本。 人力資源公司Challenger,...",
     "scraped_at": "2025-11-06T20:38:42+08:00",
     "canonical_url": "https://www.worldjournal.com/wj/story/121208/9122634"
-  },
-  {
-    "title": "Datavault AI Inc. 宣佈與Scilex Holding Company 簽署價值1,000",
-    "url": "https://www.globenewswire.com/news-release/2025/11/06/3182260/0/zh-hant/Datavault-AI-Inc-%E5%AE%A3%E4%BD%88%E8%88%87-Scilex-Holding-Company-%E7%B0%BD%E7%BD%B2%E5%83%B9%E5%80%BC-1-000-%E8%90%AC%E7%BE%8E%E5%85%83%E7%9A%84%E5%85%A8%E7%90%83%E5%B0%88%E5%B1%AC%E6%8E%88%E6%AC%8A%E5%8D%94%E8%AD%B0-%E7%94%A8%E6%96%BC%E5%9F%BA%E5%9B%A0%E7%B5%84%E5%AD%B8-DNA-%E6%95%B8%E6%93%9A-%E8%A8%BA%E6%96%B7%E6%B3%95-%E6%B2%BB%E7%99%82%E5%AD%B8-%E9%81%BA%E5%82%B3%E5%AD%B8%E5%8F%8A%E8%97%A5%E7%89%A9%E8%B3%87%E8%A8%8A%E7%AD%89%E7%8F%BE%E5%AF%A6%E4%B8%96%E7%95%8C%E8%B3%87%E7%94%A2-RWA-%E7%9A%84%E4%BB%A3%E5%B9%A3%E5%8C%96%E5%92%8C%E7%9B%88%E5%88%A9%E5%8C%96.html",
-    "source": "GlobeNewswire",
-    "published_at": "2025-11-06T20:37:38.384837+08:00",
-    "summary": "費城, Nov. 06, 2025 (GLOBE NEWSWIRE) -- 透過IBN -- Datavault AI Inc.（簡稱「Datavault AI」或「該公司」）（Nasdaq: DVLT）是專注於數據盈利化、資產代幣化及安全數碼...",
-    "scraped_at": "2025-11-06T20:38:42+08:00",
-    "canonical_url": "https://www.globenewswire.com/news-release/2025/11/06/3182260/0/zh-hant/Datavault-AI-Inc-%E5%AE%A3%E4%BD%88%E8%88%87-Scilex-Holding-Company-%E7%B0%BD%E7%BD%B2%E5%83%B9%E5%80%BC-1-000-%E8%90%AC%E7%BE%8E%E5%85%83%E7%9A%84%E5%85%A8%E7%90%83%E5%B0%88%E5%B1%AC%E6%8E%88%E6%AC%8A%E5%8D%94%E8%AD%B0-%E7%94%A8%E6%96%BC%E5%9F%BA%E5%9B%A0%E7%B5%84%E5%AD%B8-DNA-%E6%95%B8%E6%93%9A-%E8%A8%BA%E6%96%B7%E6%B3%95-%E6%B2%BB%E7%99%82%E5%AD%B8-%E9%81%BA%E5%82%B3%E5%AD%B8%E5%8F%8A%E8%97%A5%E7%89%A9%E8%B3%87%E8%A8%8A%E7%AD%89%E7%8F%BE%E5%AF%A6%E4%B8%96%E7%95%8C%E8%B3%87%E7%94%A2-RWA-%E7%9A%84%E4%BB%A3%E5%B9%A3%E5%8C%96%E5%92%8C%E7%9B%88%E5%88%A9%E5%8C%96.html"
-  },
-  {
-    "title": "Celonis與Databricks達成合作，協助企業級AI 持續改善業務營運",
-    "url": "https://www.businesswire.com/news/home/20251104785174/zh-HK",
-    "source": "Business Wire",
-    "published_at": "2025-11-06T20:37:34.208380+08:00",
-    "summary": "(美國商業資訊)-- 流程智慧領域的全球領導者Celonis今日宣布與資料和AI公司Databricks達成合作，為客戶提供順暢、高效的AI運用路徑。雙方將藉助Delta Sharing技術，...",
-    "scraped_at": "2025-11-06T20:38:42+08:00",
-    "canonical_url": "https://www.businesswire.com/news/home/20251104785174/zh-HK"
   },
   {
     "title": "黃仁勳：中國將在AI競賽中擊敗美國",
@@ -232,15 +304,6 @@
     "summary": "MEN ARE nothing more than “single-celled organisms”, says Ms Jiao, “so ordinary yet self-assured”. The 22-year-old from Guangzhou has never been in a...",
     "scraped_at": "2025-11-06T19:39:12+08:00",
     "canonical_url": "https://www.economist.com/international/2025/11/06/a-new-industry-of-ai-companions-is-emerging"
-  },
-  {
-    "title": "AI熱潮背後盈利未現 分析：須盡快「造血」穩市場信心",
-    "url": "https://hk.finance.yahoo.com/news/ai%E7%86%B1%E6%BD%AE%E8%83%8C%E5%BE%8C%E7%9B%88%E5%88%A9%E6%9C%AA%E7%8F%BE-%E5%88%86%E6%9E%90%EF%BC%9A%E9%A0%88%E7%9B%A1%E5%BF%AB%E3%80%8C%E9%80%A0%E8%A1%80%E3%80%8D%E7%A9%A9%E5%B8%82%E5%A0%B4%E4%BF%A1%E5%BF%83-072706325.html",
-    "source": "Yahoo 財經",
-    "published_at": "2025-11-06T19:38:29.401103+08:00",
-    "summary": "科網巨頭業績理想，惟OpenAI等AI公司仍持續虧損，專家指長遠須展現盈利能力，市場信心方可穩定。",
-    "scraped_at": "2025-11-06T19:39:12+08:00",
-    "canonical_url": "https://hk.finance.yahoo.com/news/ai%E7%86%B1%E6%BD%AE%E8%83%8C%E5%BE%8C%E7%9B%88%E5%88%A9%E6%9C%AA%E7%8F%BE-%E5%88%86%E6%9E%90%EF%BC%9A%E9%A0%88%E7%9B%A1%E5%BF%AB%E3%80%8C%E9%80%A0%E8%A1%80%E3%80%8D%E7%A9%A9%E5%B8%82%E5%A0%B4%E4%BF%A1%E5%BF%83-072706325.html"
   },
   {
     "title": "日媒：鴻海和三菱電機將在AI資料中心領域合作 已簽署備忘錄",
