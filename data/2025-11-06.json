@@ -1,21 +1,183 @@
 [
   {
+    "title": "Salvatore Falletta: Human resources and AI reach an ethical crossroads",
+    "url": "https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/",
+    "source": "Vanderbilt University",
+    "published_at": "2025-11-06T14:54:12.333558+08:00",
+    "summary": "RESEARCH SPARK: AI is becoming a common tool for Human Resources departments. Learn from new faculty Salvatore Falletta about the ethical lines between...",
+    "scraped_at": "2025-11-06T14:54:12+08:00",
+    "canonical_url": "https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/"
+  },
+  {
+    "title": "Unit 42 AI Threat Readiness",
+    "url": "https://www.paloaltonetworks.com/resources/datasheets/unit-42-ai-threat-readiness",
+    "source": "Palo Alto Networks",
+    "published_at": "2025-11-06T14:54:08.620254+08:00",
+    "summary": "Threat actors are weaponizing AI to accelerate attacks and amplify their impact, demanding that Security Operations Centers (SOCs) deliver ever-increasing...",
+    "scraped_at": "2025-11-06T14:54:12+08:00",
+    "canonical_url": "https://www.paloaltonetworks.com/resources/datasheets/unit-42-ai-threat-readiness"
+  },
+  {
+    "title": "San Jose announces AI education program for the public",
+    "url": "https://www.nbcbayarea.com/news/local/san-jose-announces-ai-for-all/3976169/",
+    "source": "NBC Bay Area",
+    "published_at": "2025-11-06T14:54:05.421937+08:00",
+    "summary": "AI for All will consist of a single city portal with free courses, training paths and certifications from leading AI companies.",
+    "scraped_at": "2025-11-06T14:54:12+08:00",
+    "canonical_url": "https://www.nbcbayarea.com/news/local/san-jose-announces-ai-for-all/3976169/"
+  },
+  {
+    "title": "Nvidia CEO says China on track \"to win the AI race\"",
+    "url": "https://www.axios.com/2025/11/05/ai-nvidia-china-race",
+    "source": "Axios",
+    "published_at": "2025-11-06T14:54:02.290930+08:00",
+    "summary": "Jensen Huang tells the FT that he is concerned about a potential regulatory burden on AI.",
+    "scraped_at": "2025-11-06T14:54:12+08:00",
+    "canonical_url": "https://www.axios.com/2025/11/05/ai-nvidia-china-race"
+  },
+  {
+    "title": "People are going to revolt against AI",
+    "url": "http://miscellanynews.org/2025/11/05/opinions/people-are-going-to-revolt-against-ai/",
+    "source": "The Miscellany News",
+    "published_at": "2025-11-06T14:53:59.191597+08:00",
+    "summary": "Artificial intelligence (AI) is everywhere now. It is in the memes we scroll through on our social media feeds and it is the first in line to give us an...",
+    "scraped_at": "2025-11-06T14:54:12+08:00",
+    "canonical_url": "http://miscellanynews.org/2025/11/05/opinions/people-are-going-to-revolt-against-ai/"
+  },
+  {
+    "title": "Is AI coming for your job? Maybe. See which industries are most, least at risk",
+    "url": "https://www.usatoday.com/story/money/2025/11/04/is-ai-coming-for-your-job-maybe/87065768007/",
+    "source": "USA Today",
+    "published_at": "2025-11-06T14:53:55.863253+08:00",
+    "summary": "As the job market cools and companies announce layoffs or drops in hiring tied to artificial intelligence, Americans are asking a familiar but urgent...",
+    "scraped_at": "2025-11-06T14:54:12+08:00",
+    "canonical_url": "https://www.usatoday.com/story/money/2025/11/04/is-ai-coming-for-your-job-maybe/87065768007/"
+  },
+  {
+    "title": "OpenAI walks back comments about government support for its AI spending",
+    "url": "https://www.marketwatch.com/story/how-will-openai-cover-its-heavy-spending-it-now-suggests-maybe-the-government-could-help-e1ca64f5?gaa_at=eafs&gaa_n=AWEtsqdHbASpmLxnr-xfHO2zGNxq78bpq_ap69BNDeHOb_ESfxKig1yTnzcp&gaa_ts=690c4977&gaa_sig=YNf93NB26eWUAphRW69Nutg4pobbHlxYV4Hl1O8IGeoG_--GG22KB6B8gGo1DBSCdg4gJ11Hpl0Mi59wi3Pvhw%3D%3D",
+    "source": "MarketWatch",
+    "published_at": "2025-11-06T14:53:52.743320+08:00",
+    "summary": "OpenAI's CFO mentioned a potential government “backstop” for AI financing on Wednesday, but later said her choice of words “muddied the point.”",
+    "scraped_at": "2025-11-06T14:54:12+08:00",
+    "canonical_url": "https://www.marketwatch.com/story/how-will-openai-cover-its-heavy-spending-it-now-suggests-maybe-the-government-could-help-e1ca64f5"
+  },
+  {
+    "title": "AI and Practice Innovation: Law Firm, Attorneys, Lawyers",
+    "url": "https://www.honigman.com/firm-practice-innovation",
+    "source": "Honigman Law Firm",
+    "published_at": "2025-11-06T14:53:49.622550+08:00",
+    "summary": "At Honigman, we pride ourselves on keeping clients at the forefront of our legal service delivery. We embrace change and strive to think outside the box,...",
+    "scraped_at": "2025-11-06T14:54:12+08:00",
+    "canonical_url": "https://www.honigman.com/firm-practice-innovation"
+  },
+  {
+    "title": "China’s Security State Sells an A.I. Dream",
+    "url": "https://www.nytimes.com/2025/11/04/world/asia/china-police-ai-surveillance.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-06T14:53:46.186288+08:00",
+    "summary": "China's new national drive to embrace artificial intelligence is also giving the authorities new ways to monitor and control its citizens.",
+    "scraped_at": "2025-11-06T14:54:12+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/04/world/asia/china-police-ai-surveillance.html"
+  },
+  {
+    "title": "These AI Power Users Are Impressing Bosses and Leaving Co-Workers in the Dust",
+    "url": "https://www.wsj.com/tech/ai/these-ai-power-users-are-impressing-bosses-and-leaving-co-workers-in-the-dust-801e96b9?gaa_at=eafs&gaa_n=AWEtsqc2MBXwAvq84ONPpR3SaMoqaMVCR-Hw0WS4u--LZDZR_KhpkwdHHsea&gaa_ts=690c4977&gaa_sig=dwDfoIsxauO08Z3TsPjOiBi10r71afZcN7dvvc-QiPJrmFJA-5dE0pyq3q0Pnoho873JaZnAyw1ErDc0LlOKqQ%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-06T14:53:43.036214+08:00",
+    "summary": "Sarah Krieger recently got the shiniest gold star at work. One of her tips for using artificial intelligence was featured in a trade publication,...",
+    "scraped_at": "2025-11-06T14:54:12+08:00",
+    "canonical_url": "https://www.wsj.com/tech/ai/these-ai-power-users-are-impressing-bosses-and-leaving-co-workers-in-the-dust-801e96b9"
+  },
+  {
     "title": "ChatGPT能診斷車輛問題嗎？技師實測三款AI表現誰最佳",
     "url": "https://www.worldjournal.com/wj/story/121617/9116614",
     "source": "世界新聞網",
-    "published_at": "2025-11-06T14:28:55.785292+08:00",
+    "published_at": "2025-11-06T14:53:39.487828+08:00",
     "summary": "人工智慧（AI）工具發達，人們會用AI寫電子郵件、生成食譜或「診斷」疾病，不難想像當車輛發出怪異聲響時，有些人會向AI求...",
-    "scraped_at": "2025-11-06T14:28:56+08:00",
+    "scraped_at": "2025-11-06T14:54:12+08:00",
     "canonical_url": "https://www.worldjournal.com/wj/story/121617/9116614"
   },
   {
     "title": "財經｜黃仁勳：中國將在AI競賽中擊敗美國",
     "url": "https://hk.finance.yahoo.com/news/%E8%B2%A1%E7%B6%93-%E9%BB%83%E4%BB%81%E5%8B%B3-%E4%B8%AD%E5%9C%8B%E5%B0%87%E5%9C%A8ai%E7%AB%B6%E8%B3%BD%E4%B8%AD%E6%93%8A%E6%95%97%E7%BE%8E%E5%9C%8B-024632071.html",
     "source": "Yahoo 財經",
-    "published_at": "2025-11-06T14:28:52.129631+08:00",
+    "published_at": "2025-11-06T14:53:35.927808+08:00",
     "summary": "中美在人工智能（AI）比賽中競爭激烈，英國《金融時報》報道，英偉達總裁黃仁勳表示，中國將在競賽中擊敗美國，部份原因是能源成本較低且監管較寬鬆。 黃仁勳在《金融時報》...",
-    "scraped_at": "2025-11-06T14:28:56+08:00",
+    "scraped_at": "2025-11-06T14:54:12+08:00",
     "canonical_url": "https://hk.finance.yahoo.com/news/%E8%B2%A1%E7%B6%93-%E9%BB%83%E4%BB%81%E5%8B%B3-%E4%B8%AD%E5%9C%8B%E5%B0%87%E5%9C%A8ai%E7%AB%B6%E8%B3%BD%E4%B8%AD%E6%93%8A%E6%95%97%E7%BE%8E%E5%9C%8B-024632071.html"
+  },
+  {
+    "title": "OpenAI 財務長：現在沒有要 IPO，市場別過度擔憂 AI 泡沫",
+    "url": "https://abmedia.io/openai-cfo-latest-ai-interview",
+    "source": "鏈新聞 ABMedia",
+    "published_at": "2025-11-06T14:53:32.282950+08:00",
+    "summary": "OpenAI 財務長Sarah Friar 在最新受訪表示，外界對AI 泡沫的擔憂太多，反而忽略了這項技術能帶來的巨大實際效益。她強調，市場應該對AI 保有更多信心，而不是陷入恐慌。",
+    "scraped_at": "2025-11-06T14:54:12+08:00",
+    "canonical_url": "https://abmedia.io/openai-cfo-latest-ai-interview"
+  },
+  {
+    "title": "AI Is Accelerating Tech Giants' Dominance of the Ad Market -- WSJ",
+    "url": "https://news.futunn.com/hk/post/64467100/ai-is-accelerating-tech-giants-dominance-of-the-ad-market",
+    "source": "富途牛牛",
+    "published_at": "2025-11-06T14:53:29.036901+08:00",
+    "summary": "BySuzanne Vranica Big tech is spending big on artificial intelligence. In advertising, the fast-evolving technology is already juicing revenue.",
+    "scraped_at": "2025-11-06T14:54:12+08:00",
+    "canonical_url": "https://news.futunn.com/hk/post/64467100/ai-is-accelerating-tech-giants-dominance-of-the-ad-market"
+  },
+  {
+    "title": "Celonis發表平台創新成果，協助打造AI 驅動的可組合企業",
+    "url": "https://www.businesswire.com/news/home/20251104277250/zh-HK",
+    "source": "Business Wire",
+    "published_at": "2025-11-06T14:53:24.488881+08:00",
+    "summary": "(美國商業資訊)-- 流程智慧領域的全球領導者Celonis今日在2025年Celosphere大會上宣布重大平台創新成果，協助企業級AI重塑並持續改善業務營運。 Celonis產品長Daniel...",
+    "scraped_at": "2025-11-06T14:54:12+08:00",
+    "canonical_url": "https://www.businesswire.com/news/home/20251104277250/zh-HK"
+  },
+  {
+    "title": "黃仁勳：中國將在AI競賽中擊敗美國",
+    "url": "https://hk.finance.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3-%E4%B8%AD%E5%9C%8B%E5%B0%87%E5%9C%A8ai%E7%AB%B6%E8%B3%BD%E4%B8%AD%E6%93%8A%E6%95%97%E7%BE%8E%E5%9C%8B-010659179.html",
+    "source": "Yahoo 財經",
+    "published_at": "2025-11-06T14:53:21.332653+08:00",
+    "summary": "英國《金融時報》報道，Nvidia(NVDA)行政總裁黃仁勳警告，中國將在AI競賽中擊敗美國，中國目前在AI領域上僅落後於美國幾納秒，因此美國必須奮起直追，贏得全球開發者的支持，...",
+    "scraped_at": "2025-11-06T14:54:12+08:00",
+    "canonical_url": "https://hk.finance.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3-%E4%B8%AD%E5%9C%8B%E5%B0%87%E5%9C%A8ai%E7%AB%B6%E8%B3%BD%E4%B8%AD%E6%93%8A%E6%95%97%E7%BE%8E%E5%9C%8B-010659179.html"
+  },
+  {
+    "title": "AI需求增 Google擬建太空資料中心 2027年發射測試衛星",
+    "url": "https://www.worldjournal.com/wj/story/121368/9119180",
+    "source": "世界新聞網",
+    "published_at": "2025-11-06T14:53:17.649780+08:00",
+    "summary": "人工智慧資料中心的需求成長迅猛，以至於地球上的能源不足以支撐其建設。Google的工程師認為他們可能找到了解決方案：將部...",
+    "scraped_at": "2025-11-06T14:54:12+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/121368/9119180"
+  },
+  {
+    "title": "AI 半導體創新企業 DEEPX 榮獲紐約證券交易所和世界經濟論壇肯定",
+    "url": "https://www.globenewswire.com/news-release/2025/11/06/3182128/0/zh-hant/AI-%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%89%B5%E6%96%B0%E4%BC%81%E6%A5%AD-DEEPX-%E6%A6%AE%E7%8D%B2%E7%B4%90%E7%B4%84%E8%AD%89%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80%E5%92%8C%E4%B8%96%E7%95%8C%E7%B6%93%E6%BF%9F%E8%AB%96%E5%A3%87%E8%82%AF%E5%AE%9A.html",
+    "source": "GlobeNewswire",
+    "published_at": "2025-11-06T14:53:13.991440+08:00",
+    "summary": "裝置端AI 領域的領導者正在實現實體AI 時代，並吸引了華爾街的關注首爾，南韓, Nov. 06, 2025 (GLOBE NEWSWIRE) -- 隨著AI 開始永續創造實際價值，全球AI 半導體創新...",
+    "scraped_at": "2025-11-06T14:54:12+08:00",
+    "canonical_url": "https://www.globenewswire.com/news-release/2025/11/06/3182128/0/zh-hant/AI-%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%89%B5%E6%96%B0%E4%BC%81%E6%A5%AD-DEEPX-%E6%A6%AE%E7%8D%B2%E7%B4%90%E7%B4%84%E8%AD%89%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80%E5%92%8C%E4%B8%96%E7%95%8C%E7%B6%93%E6%BF%9F%E8%AB%96%E5%A3%87%E8%82%AF%E5%AE%9A.html"
+  },
+  {
+    "title": "媒體：中國下令數據中心須採用國產AI晶片",
+    "url": "https://www.dw.com/zh-hant/%E5%AA%92%E9%AB%94%E4%B8%AD%E5%9C%8B%E4%B8%8B%E4%BB%A4%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E9%A0%88%E6%8E%A1%E7%94%A8%E5%9C%8B%E7%94%A2ai%E6%99%B6%E7%89%87/a-74636370",
+    "source": "DW",
+    "published_at": "2025-11-06T14:53:10.753119+08:00",
+    "summary": "路透社引述兩名知情人士說法指，中國官方發佈指引，要求接受國家資金、新設置的數據中心採用國產AI晶片。此舉被視為對美出口管制的反制，也是助推本土晶片發展。",
+    "scraped_at": "2025-11-06T14:54:12+08:00",
+    "canonical_url": "https://www.dw.com/zh-hant/%E5%AA%92%E9%AB%94%E4%B8%AD%E5%9C%8B%E4%B8%8B%E4%BB%A4%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E9%A0%88%E6%8E%A1%E7%94%A8%E5%9C%8B%E7%94%A2ai%E6%99%B6%E7%89%87/a-74636370"
+  },
+  {
+    "title": "Celonis與Databricks達成合作，協助企業級AI 持續改善業務營運",
+    "url": "https://www.businesswire.com/news/home/20251104785174/zh-HK",
+    "source": "Business Wire",
+    "published_at": "2025-11-06T14:53:07.295367+08:00",
+    "summary": "(美國商業資訊)-- 流程智慧領域的全球領導者Celonis今日宣布與資料和AI公司Databricks達成合作，為客戶提供順暢、高效的AI運用路徑。雙方將藉助Delta Sharing技術，...",
+    "scraped_at": "2025-11-06T14:54:12+08:00",
+    "canonical_url": "https://www.businesswire.com/news/home/20251104785174/zh-HK"
   },
   {
     "title": "輝達CEO 黃仁勳：中國的電幾乎是免費的，將贏得AI競賽",
@@ -25,69 +187,6 @@
     "summary": "全球都想搶得人工智慧（AI）浪潮霸主地位，產業最具代表性的輝達（Nvidia）執行長黃仁勳直接給出答案， 中國將靠「電幾乎是免費的」環境，以及對本地企業毫不手軟的補貼，...",
     "scraped_at": "2025-11-06T14:28:56+08:00",
     "canonical_url": "https://www.msn.com/zh-tw/news/national/%E8%BC%9D%E9%81%94ceo%E9%BB%83%E4%BB%81%E5%8B%B3-%E4%B8%AD%E5%9C%8B%E5%B0%87%E9%9D%A0-%E5%85%A9%E5%A4%A7%E5%84%AA%E5%8B%A2-%E8%B4%8F%E5%BE%97ai%E7%AB%B6%E8%B3%BD/ar-AA1PTevR"
-  },
-  {
-    "title": "AI Is Accelerating Tech Giants' Dominance of the Ad Market -- WSJ",
-    "url": "https://news.futunn.com/hk/post/64467100/ai-is-accelerating-tech-giants-dominance-of-the-ad-market",
-    "source": "富途牛牛",
-    "published_at": "2025-11-06T14:28:45.094429+08:00",
-    "summary": "BySuzanne Vranica Big tech is spending big on artificial intelligence. In advertising, the fast-evolving technology is already juicing revenue.",
-    "scraped_at": "2025-11-06T14:28:56+08:00",
-    "canonical_url": "https://news.futunn.com/hk/post/64467100/ai-is-accelerating-tech-giants-dominance-of-the-ad-market"
-  },
-  {
-    "title": "OpenAI 財務長：現在沒有要 IPO，市場別過度擔憂 AI 泡沫",
-    "url": "https://abmedia.io/openai-cfo-latest-ai-interview",
-    "source": "鏈新聞 ABMedia",
-    "published_at": "2025-11-06T14:28:40.390421+08:00",
-    "summary": "OpenAI 財務長Sarah Friar 在最新受訪表示，外界對AI 泡沫的擔憂太多，反而忽略了這項技術能帶來的巨大實際效益。她強調，市場應該對AI 保有更多信心，而不是陷入恐慌。",
-    "scraped_at": "2025-11-06T14:28:56+08:00",
-    "canonical_url": "https://abmedia.io/openai-cfo-latest-ai-interview"
-  },
-  {
-    "title": "Celonis發表平台創新成果，協助打造AI 驅動的可組合企業",
-    "url": "https://www.businesswire.com/news/home/20251104277250/zh-HK",
-    "source": "Business Wire",
-    "published_at": "2025-11-06T14:28:37.217742+08:00",
-    "summary": "(美國商業資訊)-- 流程智慧領域的全球領導者Celonis今日在2025年Celosphere大會上宣布重大平台創新成果，協助企業級AI重塑並持續改善業務營運。 Celonis產品長Daniel...",
-    "scraped_at": "2025-11-06T14:28:56+08:00",
-    "canonical_url": "https://www.businesswire.com/news/home/20251104277250/zh-HK"
-  },
-  {
-    "title": "AI 半導體創新企業 DEEPX 榮獲紐約證券交易所和世界經濟論壇肯定",
-    "url": "https://www.globenewswire.com/news-release/2025/11/06/3182128/0/zh-hant/AI-%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%89%B5%E6%96%B0%E4%BC%81%E6%A5%AD-DEEPX-%E6%A6%AE%E7%8D%B2%E7%B4%90%E7%B4%84%E8%AD%89%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80%E5%92%8C%E4%B8%96%E7%95%8C%E7%B6%93%E6%BF%9F%E8%AB%96%E5%A3%87%E8%82%AF%E5%AE%9A.html",
-    "source": "GlobeNewswire",
-    "published_at": "2025-11-06T14:28:34.139977+08:00",
-    "summary": "裝置端AI 領域的領導者正在實現實體AI 時代，並吸引了華爾街的關注首爾，南韓, Nov. 06, 2025 (GLOBE NEWSWIRE) -- 隨著AI 開始永續創造實際價值，全球AI 半導體創新...",
-    "scraped_at": "2025-11-06T14:28:56+08:00",
-    "canonical_url": "https://www.globenewswire.com/news-release/2025/11/06/3182128/0/zh-hant/AI-%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%89%B5%E6%96%B0%E4%BC%81%E6%A5%AD-DEEPX-%E6%A6%AE%E7%8D%B2%E7%B4%90%E7%B4%84%E8%AD%89%E5%88%B8%E4%BA%A4%E6%98%93%E6%89%80%E5%92%8C%E4%B8%96%E7%95%8C%E7%B6%93%E6%BF%9F%E8%AB%96%E5%A3%87%E8%82%AF%E5%AE%9A.html"
-  },
-  {
-    "title": "黃仁勳：中國將在AI競賽中擊敗美國",
-    "url": "https://hk.finance.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3-%E4%B8%AD%E5%9C%8B%E5%B0%87%E5%9C%A8ai%E7%AB%B6%E8%B3%BD%E4%B8%AD%E6%93%8A%E6%95%97%E7%BE%8E%E5%9C%8B-010659179.html",
-    "source": "Yahoo 財經",
-    "published_at": "2025-11-06T14:28:30.747839+08:00",
-    "summary": "英國《金融時報》報道，Nvidia(NVDA)行政總裁黃仁勳警告，中國將在AI競賽中擊敗美國，中國目前在AI領域上僅落後於美國幾納秒，因此美國必須奮起直追，贏得全球開發者的支持，...",
-    "scraped_at": "2025-11-06T14:28:56+08:00",
-    "canonical_url": "https://hk.finance.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3-%E4%B8%AD%E5%9C%8B%E5%B0%87%E5%9C%A8ai%E7%AB%B6%E8%B3%BD%E4%B8%AD%E6%93%8A%E6%95%97%E7%BE%8E%E5%9C%8B-010659179.html"
-  },
-  {
-    "title": "AI需求增 Google擬建太空資料中心 2027年發射測試衛星",
-    "url": "https://www.worldjournal.com/wj/story/121368/9119180",
-    "source": "世界新聞網",
-    "published_at": "2025-11-06T14:28:26.830605+08:00",
-    "summary": "人工智慧資料中心的需求成長迅猛，以至於地球上的能源不足以支撐其建設。Google的工程師認為他們可能找到了解決方案：將部...",
-    "scraped_at": "2025-11-06T14:28:56+08:00",
-    "canonical_url": "https://www.worldjournal.com/wj/story/121368/9119180"
-  },
-  {
-    "title": "Celonis與Databricks達成合作，協助企業級AI 持續改善業務營運",
-    "url": "https://www.businesswire.com/news/home/20251104785174/zh-HK",
-    "source": "Business Wire",
-    "published_at": "2025-11-06T14:28:22.937975+08:00",
-    "summary": "(美國商業資訊)-- 流程智慧領域的全球領導者Celonis今日宣布與資料和AI公司Databricks達成合作，為客戶提供順暢、高效的AI運用路徑。雙方將藉助Delta Sharing技術，...",
-    "scraped_at": "2025-11-06T14:28:56+08:00",
-    "canonical_url": "https://www.businesswire.com/news/home/20251104785174/zh-HK"
   },
   {
     "title": "Church won’t use AI to create images of Jesus Christ or to prepare conference talks, apostle says",
@@ -108,15 +207,6 @@
     "canonical_url": "https://www.reuters.com/world/asia-pacific/nvidias-jensen-huang-says-china-will-win-ai-race-with-us-ft-reports-2025-11-05/"
   },
   {
-    "title": "Is AI coming for your job? Maybe. See which industries are most, least at risk",
-    "url": "https://www.usatoday.com/story/money/2025/11/04/is-ai-coming-for-your-job-maybe/87065768007/",
-    "source": "USA Today",
-    "published_at": "2025-11-06T13:52:40.502327+08:00",
-    "summary": "As the job market cools and companies announce layoffs or drops in hiring tied to artificial intelligence, Americans are asking a familiar but urgent...",
-    "scraped_at": "2025-11-06T13:52:47+08:00",
-    "canonical_url": "https://www.usatoday.com/story/money/2025/11/04/is-ai-coming-for-your-job-maybe/87065768007/"
-  },
-  {
     "title": "Chinese autonomous driving firm Pony.ai sees shares drop 14% in Hong Kong debut",
     "url": "https://www.cnbc.com/2025/11/06/china-ponyai-weride-ipo-shares-market-debut.html",
     "source": "CNBC",
@@ -124,15 +214,6 @@
     "summary": "Pony.ai, which is already listed in the U.S., raised 6.71 billion Hong Kong dollars (about $860 million) in its initial public offering.",
     "scraped_at": "2025-11-06T13:52:47+08:00",
     "canonical_url": "https://www.cnbc.com/2025/11/06/china-ponyai-weride-ipo-shares-market-debut.html"
-  },
-  {
-    "title": "Unit 42 AI Threat Readiness",
-    "url": "https://www.paloaltonetworks.com/resources/datasheets/unit-42-ai-threat-readiness",
-    "source": "Palo Alto Networks",
-    "published_at": "2025-11-06T13:52:34.262887+08:00",
-    "summary": "Threat actors are weaponizing AI to accelerate attacks and amplify their impact, demanding that Security Operations Centers (SOCs) deliver ever-increasing...",
-    "scraped_at": "2025-11-06T13:52:47+08:00",
-    "canonical_url": "https://www.paloaltonetworks.com/resources/datasheets/unit-42-ai-threat-readiness"
   },
   {
     "title": "Amazon Sues Perplexity As AI Browser War Escalates",
@@ -144,42 +225,6 @@
     "canonical_url": "https://www.pcmag.com/news/amazon-sends-perplexity-a-cease-and-desist-over-its-ai-agents-shopping"
   },
   {
-    "title": "People are going to revolt against AI",
-    "url": "http://miscellanynews.org/2025/11/05/opinions/people-are-going-to-revolt-against-ai/",
-    "source": "The Miscellany News",
-    "published_at": "2025-11-06T13:52:27.796129+08:00",
-    "summary": "Artificial intelligence (AI) is everywhere now. It is in the memes we scroll through on our social media feeds and it is the first in line to give us an...",
-    "scraped_at": "2025-11-06T13:52:47+08:00",
-    "canonical_url": "http://miscellanynews.org/2025/11/05/opinions/people-are-going-to-revolt-against-ai/"
-  },
-  {
-    "title": "AI and Practice Innovation: Law Firm, Attorneys, Lawyers",
-    "url": "https://www.honigman.com/firm-practice-innovation",
-    "source": "Honigman Law Firm",
-    "published_at": "2025-11-06T13:52:24.464919+08:00",
-    "summary": "At Honigman, we pride ourselves on keeping clients at the forefront of our legal service delivery. We embrace change and strive to think outside the box,...",
-    "scraped_at": "2025-11-06T13:52:47+08:00",
-    "canonical_url": "https://www.honigman.com/firm-practice-innovation"
-  },
-  {
-    "title": "China’s Security State Sells an A.I. Dream",
-    "url": "https://www.nytimes.com/2025/11/04/world/asia/china-police-ai-surveillance.html",
-    "source": "The New York Times",
-    "published_at": "2025-11-06T13:52:21.035764+08:00",
-    "summary": "China's new national drive to embrace artificial intelligence is also giving the authorities new ways to monitor and control its citizens.",
-    "scraped_at": "2025-11-06T13:52:47+08:00",
-    "canonical_url": "https://www.nytimes.com/2025/11/04/world/asia/china-police-ai-surveillance.html"
-  },
-  {
-    "title": "These AI Power Users Are Impressing Bosses and Leaving Co-Workers in the Dust",
-    "url": "https://www.wsj.com/tech/ai/these-ai-power-users-are-impressing-bosses-and-leaving-co-workers-in-the-dust-801e96b9?gaa_at=eafs&gaa_n=AWEtsqe7sJA4zbYvbIGSPShwBeXD5dThmRr2mncDstj0e3Pi6g5mflWi_YQe&gaa_ts=690c3b12&gaa_sig=YnzXufZ8PwfmVVr4D8DOaE8X3pEcDpE8PpzYxh5KYKTLwp-iSAGkYZWB9INmLBilduKcgRrBJ8GOGpfzxj2nvg%3D%3D",
-    "source": "The Wall Street Journal",
-    "published_at": "2025-11-06T13:52:17.917175+08:00",
-    "summary": "Sarah Krieger recently got the shiniest gold star at work. One of her tips for using artificial intelligence was featured in a trade publication,...",
-    "scraped_at": "2025-11-06T13:52:47+08:00",
-    "canonical_url": "https://www.wsj.com/tech/ai/these-ai-power-users-are-impressing-bosses-and-leaving-co-workers-in-the-dust-801e96b9"
-  },
-  {
     "title": "Rants from an optimistic person: Fooled by AI",
     "url": "https://scotscoop.com/rants-from-an-optimistic-person-fooled-by-ai/",
     "source": "Scot Scoop News",
@@ -187,15 +232,6 @@
     "summary": "I once found a video on YouTube featuring study music. It was great! The music was enjoyable and helped me focus. I opened YouTube again the next day to...",
     "scraped_at": "2025-11-06T13:42:47+08:00",
     "canonical_url": "https://scotscoop.com/rants-from-an-optimistic-person-fooled-by-ai/"
-  },
-  {
-    "title": "Nvidia CEO says China on track \"to win the AI race\"",
-    "url": "https://www.axios.com/2025/11/05/ai-nvidia-china-race",
-    "source": "Axios",
-    "published_at": "2025-11-06T13:19:35.532126+08:00",
-    "summary": "Jensen Huang tells the FT that he is concerned about a potential regulatory burden on AI.",
-    "scraped_at": "2025-11-06T13:19:35+08:00",
-    "canonical_url": "https://www.axios.com/2025/11/05/ai-nvidia-china-race"
   },
   {
     "title": "「懂你」的生意：AI陪伴撬動情感經濟",
@@ -214,15 +250,6 @@
     "summary": "Nvidia chief executive Jensen Huang has warned that China will beat the US in the artificial intelligence race, thanks to lower energy costs and looser...",
     "scraped_at": "2025-11-06T13:19:35+08:00",
     "canonical_url": "https://www.ft.com/content/53295276-ba8d-4ec2-b0de-081e73b3ba43"
-  },
-  {
-    "title": "Salvatore Falletta: Human resources and AI reach an ethical crossroads",
-    "url": "https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/",
-    "source": "Vanderbilt University",
-    "published_at": "2025-11-06T12:47:51.899814+08:00",
-    "summary": "RESEARCH SPARK: AI is becoming a common tool for Human Resources departments. Learn from new faculty Salvatore Falletta about the ethical lines between...",
-    "scraped_at": "2025-11-06T12:48:05+08:00",
-    "canonical_url": "https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/"
   },
   {
     "title": "xAI成立特殊目的實體 奇招隱藏AI巨債",
