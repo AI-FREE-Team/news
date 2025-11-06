@@ -1,5 +1,95 @@
 [
   {
+    "title": "Nvidia CEO says China on track \"to win the AI race\"",
+    "url": "https://www.axios.com/2025/11/05/ai-nvidia-china-race",
+    "source": "Axios",
+    "published_at": "2025-11-06T15:50:52.013843+08:00",
+    "summary": "Jensen Huang tells the FT that he is concerned about a potential regulatory burden on AI.",
+    "scraped_at": "2025-11-06T15:50:52+08:00",
+    "canonical_url": "https://www.axios.com/2025/11/05/ai-nvidia-china-race"
+  },
+  {
+    "title": "AI Detects Suicide Risk Missed by Standard Assessments",
+    "url": "https://www.touro.edu/news--events/stories/ai-detects-suicide-risk-missed-by-standard-assessments.php",
+    "source": "Touro University",
+    "published_at": "2025-11-06T15:50:48.929123+08:00",
+    "summary": "Dr. Yosef Sokol, clinical assistant professor at the School of Health Sciences and lead researcher of the study. Researchers at Touro University have found...",
+    "scraped_at": "2025-11-06T15:50:52+08:00",
+    "canonical_url": "https://www.touro.edu/news--events/stories/ai-detects-suicide-risk-missed-by-standard-assessments.php"
+  },
+  {
+    "title": "Humain pushes for an AI-first computing experience — but there are skeptics",
+    "url": "https://www.computerworld.com/article/4085140/humain-pushes-for-an-ai-first-computing-experience-but-there-are-skeptics.html",
+    "source": "Computerworld",
+    "published_at": "2025-11-06T15:50:44.996696+08:00",
+    "summary": "The Saudi Arabia-based company's new 'Humain One' is a full technology stack — from OS to data center — that enables users to verbally tell computers what...",
+    "scraped_at": "2025-11-06T15:50:52+08:00",
+    "canonical_url": "https://www.computerworld.com/article/4085140/humain-pushes-for-an-ai-first-computing-experience-but-there-are-skeptics.html"
+  },
+  {
+    "title": "Is AI coming for your job? Maybe. See which industries are most, least at risk",
+    "url": "https://www.usatoday.com/story/money/2025/11/04/is-ai-coming-for-your-job-maybe/87065768007/",
+    "source": "USA Today",
+    "published_at": "2025-11-06T15:50:41.863621+08:00",
+    "summary": "As the job market cools and companies announce layoffs or drops in hiring tied to artificial intelligence, Americans are asking a familiar but urgent...",
+    "scraped_at": "2025-11-06T15:50:52+08:00",
+    "canonical_url": "https://www.usatoday.com/story/money/2025/11/04/is-ai-coming-for-your-job-maybe/87065768007/"
+  },
+  {
+    "title": "OpenAI walks back comments about government support for its AI spending",
+    "url": "https://www.marketwatch.com/story/how-will-openai-cover-its-heavy-spending-it-now-suggests-maybe-the-government-could-help-e1ca64f5?gaa_at=eafs&gaa_n=AWEtsqcBMxQ3rwY6KASNlOXZLqp0xpKa1PkAbw9FMevyyftJLSJD3j3ZPx0l&gaa_ts=690c56bf&gaa_sig=kl8lCALySzgOXU8UJ1daehxWWK2Injh7Om643XHeZwy2DBVr2MnYCEucQyvGQGr5FqKQOWtiJIqVl2E6XhNqRQ%3D%3D",
+    "source": "MarketWatch",
+    "published_at": "2025-11-06T15:50:38.732477+08:00",
+    "summary": "OpenAI's CFO mentioned a potential government “backstop” for AI financing on Wednesday, but later said her choice of words “muddied the point.”",
+    "scraped_at": "2025-11-06T15:50:52+08:00",
+    "canonical_url": "https://www.marketwatch.com/story/how-will-openai-cover-its-heavy-spending-it-now-suggests-maybe-the-government-could-help-e1ca64f5"
+  },
+  {
+    "title": "AI can be both a bubble and a breakthrough",
+    "url": "https://www.reuters.com/markets/ai-can-be-both-bubble-breakthrough-2025-11-06/",
+    "source": "Reuters",
+    "published_at": "2025-11-06T15:50:35.587484+08:00",
+    "summary": "LONDON, Nov 6 (Reuters) - Bubble or bonanza? AI could be both. Artificial intelligence may well be the future of business and the wider economy,...",
+    "scraped_at": "2025-11-06T15:50:52+08:00",
+    "canonical_url": "https://www.reuters.com/markets/ai-can-be-both-bubble-breakthrough-2025-11-06/"
+  },
+  {
+    "title": "AI and Practice Innovation: Law Firm, Attorneys, Lawyers",
+    "url": "https://www.honigman.com/firm-practice-innovation",
+    "source": "Honigman Law Firm",
+    "published_at": "2025-11-06T15:50:32.438044+08:00",
+    "summary": "At Honigman, we pride ourselves on keeping clients at the forefront of our legal service delivery. We embrace change and strive to think outside the box,...",
+    "scraped_at": "2025-11-06T15:50:52+08:00",
+    "canonical_url": "https://www.honigman.com/firm-practice-innovation"
+  },
+  {
+    "title": "Marylanders are aware of artificial intelligence, and they are ‘wary’ of it, poll finds",
+    "url": "https://marylandmatters.org/2025/11/06/marylanders-are-aware-of-artificial-intelligence-and-they-are-wary-of-it-poll-finds/",
+    "source": "Maryland Matters",
+    "published_at": "2025-11-06T15:50:28.805751+08:00",
+    "summary": "Nearly all Marylanders responding to a new poll said they are aware of artificial intelligence and they have concerns about its use -- but they're not so...",
+    "scraped_at": "2025-11-06T15:50:52+08:00",
+    "canonical_url": "https://marylandmatters.org/2025/11/06/marylanders-are-aware-of-artificial-intelligence-and-they-are-wary-of-it-poll-finds/"
+  },
+  {
+    "title": "China’s Security State Sells an A.I. Dream",
+    "url": "https://www.nytimes.com/2025/11/04/world/asia/china-police-ai-surveillance.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-06T15:50:25.703446+08:00",
+    "summary": "China's new national drive to embrace artificial intelligence is also giving the authorities new ways to monitor and control its citizens.",
+    "scraped_at": "2025-11-06T15:50:52+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/04/world/asia/china-police-ai-surveillance.html"
+  },
+  {
+    "title": "These AI Power Users Are Impressing Bosses and Leaving Co-Workers in the Dust",
+    "url": "https://www.wsj.com/tech/ai/these-ai-power-users-are-impressing-bosses-and-leaving-co-workers-in-the-dust-801e96b9?gaa_at=eafs&gaa_n=AWEtsqdWaXcn6jE_PnPLzbq0CWoOuOdCxwdhBltptfk5MtWQxjPBLnJYJKZj&gaa_ts=690c56bf&gaa_sig=iruh5U6m24PvPSiZoASiPPwBIYkt6b3o1Pq55vMba5V1ptn6jwgFipO5xGspyBOdQuiBENEBnBf8KorwYV6B_A%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-06T15:50:22.630630+08:00",
+    "summary": "Sarah Krieger recently got the shiniest gold star at work. One of her tips for using artificial intelligence was featured in a trade publication,...",
+    "scraped_at": "2025-11-06T15:50:52+08:00",
+    "canonical_url": "https://www.wsj.com/tech/ai/these-ai-power-users-are-impressing-bosses-and-leaving-co-workers-in-the-dust-801e96b9"
+  },
+  {
     "title": "People are going to revolt against AI",
     "url": "http://miscellanynews.org/2025/11/05/opinions/people-are-going-to-revolt-against-ai/",
     "source": "The Miscellany News",
@@ -7,87 +97,6 @@
     "summary": "Artificial intelligence (AI) is everywhere now. It is in the memes we scroll through on our social media feeds and it is the first in line to give us an...",
     "scraped_at": "2025-11-06T15:39:37+08:00",
     "canonical_url": "http://miscellanynews.org/2025/11/05/opinions/people-are-going-to-revolt-against-ai/"
-  },
-  {
-    "title": "AI Detects Suicide Risk Missed by Standard Assessments",
-    "url": "https://www.touro.edu/news--events/stories/ai-detects-suicide-risk-missed-by-standard-assessments.php",
-    "source": "Touro University",
-    "published_at": "2025-11-06T15:39:33.446469+08:00",
-    "summary": "Dr. Yosef Sokol, clinical assistant professor at the School of Health Sciences and lead researcher of the study. Researchers at Touro University have found...",
-    "scraped_at": "2025-11-06T15:39:37+08:00",
-    "canonical_url": "https://www.touro.edu/news--events/stories/ai-detects-suicide-risk-missed-by-standard-assessments.php"
-  },
-  {
-    "title": "Marylanders are aware of artificial intelligence, and they are ‘wary’ of it, poll finds",
-    "url": "https://marylandmatters.org/2025/11/06/marylanders-are-aware-of-artificial-intelligence-and-they-are-wary-of-it-poll-finds/",
-    "source": "Maryland Matters",
-    "published_at": "2025-11-06T15:39:29.209319+08:00",
-    "summary": "Nearly all Marylanders responding to a new poll said they are aware of artificial intelligence and they have concerns about its use -- but they're not so...",
-    "scraped_at": "2025-11-06T15:39:37+08:00",
-    "canonical_url": "https://marylandmatters.org/2025/11/06/marylanders-are-aware-of-artificial-intelligence-and-they-are-wary-of-it-poll-finds/"
-  },
-  {
-    "title": "Humain pushes for an AI-first computing experience — but there are skeptics",
-    "url": "https://www.computerworld.com/article/4085140/humain-pushes-for-an-ai-first-computing-experience-but-there-are-skeptics.html",
-    "source": "Computerworld",
-    "published_at": "2025-11-06T15:39:25.952891+08:00",
-    "summary": "The Saudi Arabia-based company's new 'Humain One' is a full technology stack — from OS to data center — that enables users to verbally tell computers what...",
-    "scraped_at": "2025-11-06T15:39:37+08:00",
-    "canonical_url": "https://www.computerworld.com/article/4085140/humain-pushes-for-an-ai-first-computing-experience-but-there-are-skeptics.html"
-  },
-  {
-    "title": "Is AI coming for your job? Maybe. See which industries are most, least at risk",
-    "url": "https://www.usatoday.com/story/money/2025/11/04/is-ai-coming-for-your-job-maybe/87065768007/",
-    "source": "USA Today",
-    "published_at": "2025-11-06T15:39:22.804786+08:00",
-    "summary": "As the job market cools and companies announce layoffs or drops in hiring tied to artificial intelligence, Americans are asking a familiar but urgent...",
-    "scraped_at": "2025-11-06T15:39:37+08:00",
-    "canonical_url": "https://www.usatoday.com/story/money/2025/11/04/is-ai-coming-for-your-job-maybe/87065768007/"
-  },
-  {
-    "title": "OpenAI walks back comments about government support for its AI spending",
-    "url": "https://www.marketwatch.com/story/how-will-openai-cover-its-heavy-spending-it-now-suggests-maybe-the-government-could-help-e1ca64f5?gaa_at=eafs&gaa_n=AWEtsqdZDt15V4Jvl7p2USc7-JBzirSYwx_Os2p1gQHGvpcYHKIZku1Q1HDd&gaa_ts=690c541b&gaa_sig=fx_2gEK0Jjw6woF7roo2Dp9HfcIamawA5ObJHy4yQrAQLurCi_0ogalRkFIL5-X6vIz9RtAJTDpkn9vURSl7gQ%3D%3D",
-    "source": "MarketWatch",
-    "published_at": "2025-11-06T15:39:19.732144+08:00",
-    "summary": "OpenAI's CFO mentioned a potential government “backstop” for AI financing on Wednesday, but later said her choice of words “muddied the point.”",
-    "scraped_at": "2025-11-06T15:39:37+08:00",
-    "canonical_url": "https://www.marketwatch.com/story/how-will-openai-cover-its-heavy-spending-it-now-suggests-maybe-the-government-could-help-e1ca64f5"
-  },
-  {
-    "title": "AI can be both a bubble and a breakthrough",
-    "url": "https://www.reuters.com/markets/ai-can-be-both-bubble-breakthrough-2025-11-06/",
-    "source": "Reuters",
-    "published_at": "2025-11-06T15:39:16.616266+08:00",
-    "summary": "LONDON, Nov 6 (Reuters) - Bubble or bonanza? AI could be both. Artificial intelligence may well be the future of business and the wider economy,...",
-    "scraped_at": "2025-11-06T15:39:37+08:00",
-    "canonical_url": "https://www.reuters.com/markets/ai-can-be-both-bubble-breakthrough-2025-11-06/"
-  },
-  {
-    "title": "AI and Practice Innovation: Law Firm, Attorneys, Lawyers",
-    "url": "https://www.honigman.com/firm-practice-innovation",
-    "source": "Honigman Law Firm",
-    "published_at": "2025-11-06T15:39:13.496910+08:00",
-    "summary": "At Honigman, we pride ourselves on keeping clients at the forefront of our legal service delivery. We embrace change and strive to think outside the box,...",
-    "scraped_at": "2025-11-06T15:39:37+08:00",
-    "canonical_url": "https://www.honigman.com/firm-practice-innovation"
-  },
-  {
-    "title": "China’s Security State Sells an A.I. Dream",
-    "url": "https://www.nytimes.com/2025/11/04/world/asia/china-police-ai-surveillance.html",
-    "source": "The New York Times",
-    "published_at": "2025-11-06T15:39:09.973492+08:00",
-    "summary": "China's new national drive to embrace artificial intelligence is also giving the authorities new ways to monitor and control its citizens.",
-    "scraped_at": "2025-11-06T15:39:37+08:00",
-    "canonical_url": "https://www.nytimes.com/2025/11/04/world/asia/china-police-ai-surveillance.html"
-  },
-  {
-    "title": "These AI Power Users Are Impressing Bosses and Leaving Co-Workers in the Dust",
-    "url": "https://www.wsj.com/tech/ai/these-ai-power-users-are-impressing-bosses-and-leaving-co-workers-in-the-dust-801e96b9?gaa_at=eafs&gaa_n=AWEtsqeF5jd-pHfZakjX51Uflts2UWh_iYivBkPtgu_EVmWcW82UYFjaDTWx&gaa_ts=690c541b&gaa_sig=zwk4DVyH7J1oaigOno78-5azCqRaxvMNO9gYxVbnJDjTddKHp2KcKP4vQeynxBI0IhfBbnh-KuXyNpbaoNgIMg%3D%3D",
-    "source": "The Wall Street Journal",
-    "published_at": "2025-11-06T15:39:06.906523+08:00",
-    "summary": "Sarah Krieger recently got the shiniest gold star at work. One of her tips for using artificial intelligence was featured in a trade publication,...",
-    "scraped_at": "2025-11-06T15:39:37+08:00",
-    "canonical_url": "https://www.wsj.com/tech/ai/these-ai-power-users-are-impressing-bosses-and-leaving-co-workers-in-the-dust-801e96b9"
   },
   {
     "title": "中國新令：全面採用國產AI晶片 黃仁勳警示：可能在AI 競賽中勝出",
@@ -223,15 +232,6 @@
     "summary": "AI for All will consist of a single city portal with free courses, training paths and certifications from leading AI companies.",
     "scraped_at": "2025-11-06T14:54:12+08:00",
     "canonical_url": "https://www.nbcbayarea.com/news/local/san-jose-announces-ai-for-all/3976169/"
-  },
-  {
-    "title": "Nvidia CEO says China on track \"to win the AI race\"",
-    "url": "https://www.axios.com/2025/11/05/ai-nvidia-china-race",
-    "source": "Axios",
-    "published_at": "2025-11-06T14:54:02.290930+08:00",
-    "summary": "Jensen Huang tells the FT that he is concerned about a potential regulatory burden on AI.",
-    "scraped_at": "2025-11-06T14:54:12+08:00",
-    "canonical_url": "https://www.axios.com/2025/11/05/ai-nvidia-china-race"
   },
   {
     "title": "ChatGPT能診斷車輛問題嗎？技師實測三款AI表現誰最佳",
