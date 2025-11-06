@@ -1,5 +1,95 @@
 [
   {
+    "title": "Nvidia CEO says China on track \"to win the AI race\"",
+    "url": "https://www.axios.com/2025/11/05/ai-nvidia-china-race",
+    "source": "Axios",
+    "published_at": "2025-11-06T09:22:26.461539+08:00",
+    "summary": "Jensen Huang tells the FT that he is concerned about a potential regulatory burden on AI.",
+    "scraped_at": "2025-11-06T09:22:26+08:00",
+    "canonical_url": "https://www.axios.com/2025/11/05/ai-nvidia-china-race"
+  },
+  {
+    "title": "Why Palantir’s success will outlast the AI exuberance",
+    "url": "https://www.economist.com/business/2025/11/05/why-palantirs-success-will-outlast-the-ai-exuberance",
+    "source": "The Economist",
+    "published_at": "2025-11-06T09:22:23.313147+08:00",
+    "summary": "Despite what Alex Karp, the boss of Palantir, says, investors are hardly “batshit crazy” to bet against his company. The seller of whizzy analytics tools...",
+    "scraped_at": "2025-11-06T09:22:26+08:00",
+    "canonical_url": "https://www.economist.com/business/2025/11/05/why-palantirs-success-will-outlast-the-ai-exuberance"
+  },
+  {
+    "title": "AI Data Centers continue plans to expand in Wisconsin, lawmakers hold hearing",
+    "url": "https://www.wsaw.com/2025/11/06/ai-data-centers-continue-plans-expand-wisconsin-lawmakers-hold-hearing/",
+    "source": "WSAW",
+    "published_at": "2025-11-06T09:22:20.139218+08:00",
+    "summary": "More than a dozen experts and industry leaders in AI and data centers testified Wednesday at the Wisconsin State Capitol about these facilities.",
+    "scraped_at": "2025-11-06T09:22:26+08:00",
+    "canonical_url": "https://www.wsaw.com/2025/11/06/ai-data-centers-continue-plans-expand-wisconsin-lawmakers-hold-hearing/"
+  },
+  {
+    "title": "The AI Data Center Boom Is Warping the US Economy",
+    "url": "https://www.wired.com/story/data-center-ai-boom-us-economy-jobs/",
+    "source": "WIRED",
+    "published_at": "2025-11-06T09:22:16.820136+08:00",
+    "summary": "Microsoft, Alphabet, Meta, and Amazon are investing tens of billions in data centers. AI infrastructure is now a key driver of US economic growth.",
+    "scraped_at": "2025-11-06T09:22:26+08:00",
+    "canonical_url": "https://www.wired.com/story/data-center-ai-boom-us-economy-jobs/"
+  },
+  {
+    "title": "Will quantum be bigger than AI?",
+    "url": "https://www.bbc.com/news/articles/c04gvx7egw5o",
+    "source": "BBC",
+    "published_at": "2025-11-06T09:22:13.594949+08:00",
+    "summary": "The highly-complex technology is increasingly being tipped to transform computing.",
+    "scraped_at": "2025-11-06T09:22:26+08:00",
+    "canonical_url": "https://www.bbc.com/news/articles/c04gvx7egw5o"
+  },
+  {
+    "title": "Pepperdine University’s 2025 Faculty Conference Explores Human-Centered AI",
+    "url": "https://www.pepperdine.edu/newsroom/articles/11-5-25-pepperdine-faculty-conference.htm",
+    "source": "Pepperdine University",
+    "published_at": "2025-11-06T09:22:10.356495+08:00",
+    "summary": "On Friday, September 26, 2025, Pepperdine University hosted its annual faculty conference, where professors and administrators from all six schools of the...",
+    "scraped_at": "2025-11-06T09:22:26+08:00",
+    "canonical_url": "https://www.pepperdine.edu/newsroom/articles/11-5-25-pepperdine-faculty-conference.htm"
+  },
+  {
+    "title": "Rants from an optimistic person: Fooled by AI",
+    "url": "https://scotscoop.com/rants-from-an-optimistic-person-fooled-by-ai/",
+    "source": "Scot Scoop News",
+    "published_at": "2025-11-06T09:22:07.017205+08:00",
+    "summary": "I once found a video on YouTube featuring study music. It was great! The music was enjoyable and helped me focus. I opened YouTube again the next day to...",
+    "scraped_at": "2025-11-06T09:22:26+08:00",
+    "canonical_url": "https://scotscoop.com/rants-from-an-optimistic-person-fooled-by-ai/"
+  },
+  {
+    "title": "Nvidia's Jensen Huang: 'China is going to win the AI race,' FT reports",
+    "url": "https://www.reuters.com/world/asia-pacific/nvidias-jensen-huang-says-china-will-win-ai-race-with-us-ft-reports-2025-11-05/",
+    "source": "Reuters",
+    "published_at": "2025-11-06T09:22:03.509651+08:00",
+    "summary": "Nvidia CEO Jensen Huang has warned that China will beat the United States in the artificial intelligence race, the Financial Times reported on Wednesday.",
+    "scraped_at": "2025-11-06T09:22:26+08:00",
+    "canonical_url": "https://www.reuters.com/world/asia-pacific/nvidias-jensen-huang-says-china-will-win-ai-race-with-us-ft-reports-2025-11-05/"
+  },
+  {
+    "title": "Salvatore Falletta: Human resources and AI reach an ethical crossroads",
+    "url": "https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/",
+    "source": "Vanderbilt University",
+    "published_at": "2025-11-06T09:22:00.236811+08:00",
+    "summary": "RESEARCH SPARK: AI is becoming a common tool for Human Resources departments. Learn from new faculty Salvatore Falletta about the ethical lines between...",
+    "scraped_at": "2025-11-06T09:22:26+08:00",
+    "canonical_url": "https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/"
+  },
+  {
+    "title": "AI and Practice Innovation: Law Firm, Attorneys, Lawyers",
+    "url": "https://www.honigman.com/firm-practice-innovation",
+    "source": "Honigman Law Firm",
+    "published_at": "2025-11-06T09:21:56.579285+08:00",
+    "summary": "At Honigman, we pride ourselves on keeping clients at the forefront of our legal service delivery. We embrace change and strive to think outside the box,...",
+    "scraped_at": "2025-11-06T09:22:26+08:00",
+    "canonical_url": "https://www.honigman.com/firm-practice-innovation"
+  },
+  {
     "title": "Is AI coming for your job? Maybe. See which industries are most, least at risk",
     "url": "https://www.usatoday.com/story/money/2025/11/04/is-ai-coming-for-your-job-maybe/87065768007/",
     "source": "USA Today",
@@ -34,60 +124,6 @@
     "summary": "Nvidia ​CEO Jensen ‌Huang has warned ‌that China will beat the United States in ⁠the ‌artificial intelligence race, the ‍Financial Times reported on...",
     "scraped_at": "2025-11-06T07:50:49+08:00",
     "canonical_url": "https://finance.yahoo.com/news/nvidias-jensen-huang-says-china-211900769.html"
-  },
-  {
-    "title": "The AI Data Center Boom Is Warping the US Economy",
-    "url": "https://www.wired.com/story/data-center-ai-boom-us-economy-jobs/",
-    "source": "WIRED",
-    "published_at": "2025-11-06T07:50:35.443328+08:00",
-    "summary": "Microsoft, Alphabet, Meta, and Amazon are investing tens of billions in data centers. AI infrastructure is now a key driver of US economic growth.",
-    "scraped_at": "2025-11-06T07:50:49+08:00",
-    "canonical_url": "https://www.wired.com/story/data-center-ai-boom-us-economy-jobs/"
-  },
-  {
-    "title": "Nvidia's Jensen Huang says China 'will win' AI race with US, FT reports",
-    "url": "https://www.reuters.com/world/asia-pacific/nvidias-jensen-huang-says-china-will-win-ai-race-with-us-ft-reports-2025-11-05/",
-    "source": "Reuters",
-    "published_at": "2025-11-06T07:50:32.139490+08:00",
-    "summary": "Nvidia CEO Jensen Huang has warned that China will beat the United States in the artificial intelligence race, the Financial Times reported on Wednesday.",
-    "scraped_at": "2025-11-06T07:50:49+08:00",
-    "canonical_url": "https://www.reuters.com/world/asia-pacific/nvidias-jensen-huang-says-china-will-win-ai-race-with-us-ft-reports-2025-11-05/"
-  },
-  {
-    "title": "Pepperdine University’s 2025 Faculty Conference Explores Human-Centered AI",
-    "url": "https://www.pepperdine.edu/newsroom/articles/11-5-25-pepperdine-faculty-conference.htm",
-    "source": "Pepperdine University",
-    "published_at": "2025-11-06T07:50:28.791127+08:00",
-    "summary": "On Friday, September 26, 2025, Pepperdine University hosted its annual faculty conference, where professors and administrators from all six schools of the...",
-    "scraped_at": "2025-11-06T07:50:49+08:00",
-    "canonical_url": "https://www.pepperdine.edu/newsroom/articles/11-5-25-pepperdine-faculty-conference.htm"
-  },
-  {
-    "title": "Rants from an optimistic person: Fooled by AI",
-    "url": "https://scotscoop.com/rants-from-an-optimistic-person-fooled-by-ai/",
-    "source": "Scot Scoop News",
-    "published_at": "2025-11-06T07:50:25.222970+08:00",
-    "summary": "I once found a video on YouTube featuring study music. It was great! The music was enjoyable and helped me focus. I opened YouTube again the next day to...",
-    "scraped_at": "2025-11-06T07:50:49+08:00",
-    "canonical_url": "https://scotscoop.com/rants-from-an-optimistic-person-fooled-by-ai/"
-  },
-  {
-    "title": "Salvatore Falletta: Human resources and AI reach an ethical crossroads",
-    "url": "https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/",
-    "source": "Vanderbilt University",
-    "published_at": "2025-11-06T07:50:21.687034+08:00",
-    "summary": "RESEARCH SPARK: AI is becoming a common tool for Human Resources departments. Learn from new faculty Salvatore Falletta about the ethical lines between...",
-    "scraped_at": "2025-11-06T07:50:49+08:00",
-    "canonical_url": "https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/"
-  },
-  {
-    "title": "AI and Practice Innovation: Law Firm, Attorneys, Lawyers",
-    "url": "https://www.honigman.com/firm-practice-innovation",
-    "source": "Honigman Law Firm",
-    "published_at": "2025-11-06T07:50:18.167664+08:00",
-    "summary": "At Honigman, we pride ourselves on keeping clients at the forefront of our legal service delivery. We embrace change and strive to think outside the box,...",
-    "scraped_at": "2025-11-06T07:50:49+08:00",
-    "canonical_url": "https://www.honigman.com/firm-practice-innovation"
   },
   {
     "title": "黃仁勳示警：美國束縛產業　AI競賽恐輸中國",
