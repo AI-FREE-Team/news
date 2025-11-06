@@ -1,5 +1,95 @@
 [
   {
+    "title": "Rants from an optimistic person: Fooled by AI",
+    "url": "https://scotscoop.com/rants-from-an-optimistic-person-fooled-by-ai/",
+    "source": "Scot Scoop News",
+    "published_at": "2025-11-06T12:25:15.975638+08:00",
+    "summary": "I once found a video on YouTube featuring study music. It was great! The music was enjoyable and helped me focus. I opened YouTube again the next day to...",
+    "scraped_at": "2025-11-06T12:25:16+08:00",
+    "canonical_url": "https://scotscoop.com/rants-from-an-optimistic-person-fooled-by-ai/"
+  },
+  {
+    "title": "Nvidia CEO says China on track \"to win the AI race\"",
+    "url": "https://www.axios.com/2025/11/05/ai-nvidia-china-race",
+    "source": "Axios",
+    "published_at": "2025-11-06T12:25:12.494756+08:00",
+    "summary": "Jensen Huang tells the FT that he is concerned about a potential regulatory burden on AI.",
+    "scraped_at": "2025-11-06T12:25:16+08:00",
+    "canonical_url": "https://www.axios.com/2025/11/05/ai-nvidia-china-race"
+  },
+  {
+    "title": "Is AI coming for your job? Maybe. See which industries are most, least at risk",
+    "url": "https://www.usatoday.com/story/money/2025/11/04/is-ai-coming-for-your-job-maybe/87065768007/",
+    "source": "USA Today",
+    "published_at": "2025-11-06T12:25:09.372458+08:00",
+    "summary": "As the job market cools and companies announce layoffs or drops in hiring tied to artificial intelligence, Americans are asking a familiar but urgent...",
+    "scraped_at": "2025-11-06T12:25:16+08:00",
+    "canonical_url": "https://www.usatoday.com/story/money/2025/11/04/is-ai-coming-for-your-job-maybe/87065768007/"
+  },
+  {
+    "title": "Salvatore Falletta: Human resources and AI reach an ethical crossroads",
+    "url": "https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/",
+    "source": "Vanderbilt University",
+    "published_at": "2025-11-06T12:25:06.206066+08:00",
+    "summary": "RESEARCH SPARK: AI is becoming a common tool for Human Resources departments. Learn from new faculty Salvatore Falletta about the ethical lines between...",
+    "scraped_at": "2025-11-06T12:25:16+08:00",
+    "canonical_url": "https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/"
+  },
+  {
+    "title": "AI Is Accelerating Tech Giants’ Dominance of the Ad Market",
+    "url": "https://www.wsj.com/tech/ai/ai-is-accelerating-tech-giants-dominance-of-the-ad-market-060d8dad?gaa_at=eafs&gaa_n=AWEtsqefmvq1wvyr_LcWgkjmrex8FN_vNNOtssaPeIYqZ_Atku97zC8dXs-J&gaa_ts=690c268d&gaa_sig=sVZFWVROU2it3O13RaWKxUkIVfXWWYYA2wSa-9R9Z-60VVlAybq_oPINtjPuQBC8OpugKDBooniRFlmF_r-F9A%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-06T12:25:02.367055+08:00",
+    "summary": "Big tech is spending big on artificial intelligence. In advertising, the fast-evolving technology is already juicing revenue. For more than a decade,...",
+    "scraped_at": "2025-11-06T12:25:16+08:00",
+    "canonical_url": "https://www.wsj.com/tech/ai/ai-is-accelerating-tech-giants-dominance-of-the-ad-market-060d8dad"
+  },
+  {
+    "title": "Chinese autonomous driving firm Pony.ai sees shares drop 12% in Hong Kong debut",
+    "url": "https://www.cnbc.com/2025/11/06/china-ponyai-weride-ipo-shares-market-debut.html",
+    "source": "CNBC",
+    "published_at": "2025-11-06T12:24:59.286773+08:00",
+    "summary": "Pony.ai raised 6.71 billion Hong Kong dollars (about $860 million) in its initial public offering in Hong Kong, while WeRide raised K$2.39 billion.",
+    "scraped_at": "2025-11-06T12:25:16+08:00",
+    "canonical_url": "https://www.cnbc.com/2025/11/06/china-ponyai-weride-ipo-shares-market-debut.html"
+  },
+  {
+    "title": "Unit 42 AI Threat Readiness",
+    "url": "https://www.paloaltonetworks.com/resources/datasheets/unit-42-ai-threat-readiness",
+    "source": "Palo Alto Networks",
+    "published_at": "2025-11-06T12:24:56.118101+08:00",
+    "summary": "Threat actors are weaponizing AI to accelerate attacks and amplify their impact, demanding that Security Operations Centers (SOCs) deliver ever-increasing...",
+    "scraped_at": "2025-11-06T12:25:16+08:00",
+    "canonical_url": "https://www.paloaltonetworks.com/resources/datasheets/unit-42-ai-threat-readiness"
+  },
+  {
+    "title": "Amazon Sues Perplexity As AI Browser War Escalates",
+    "url": "https://www.pcmag.com/news/amazon-sends-perplexity-a-cease-and-desist-over-its-ai-agents-shopping",
+    "source": "PCMag",
+    "published_at": "2025-11-06T12:24:52.376405+08:00",
+    "summary": "Amazon accuses Perplexity of using shady tactics with its Comet browser. Perplexity says Amazon is a bully that's trying to 'make life worse' by blocking...",
+    "scraped_at": "2025-11-06T12:25:16+08:00",
+    "canonical_url": "https://www.pcmag.com/news/amazon-sends-perplexity-a-cease-and-desist-over-its-ai-agents-shopping"
+  },
+  {
+    "title": "People are going to revolt against AI",
+    "url": "http://miscellanynews.org/2025/11/05/opinions/people-are-going-to-revolt-against-ai/",
+    "source": "The Miscellany News",
+    "published_at": "2025-11-06T12:24:49.142099+08:00",
+    "summary": "Artificial intelligence (AI) is everywhere now. It is in the memes we scroll through on our social media feeds and it is the first in line to give us an...",
+    "scraped_at": "2025-11-06T12:25:16+08:00",
+    "canonical_url": "http://miscellanynews.org/2025/11/05/opinions/people-are-going-to-revolt-against-ai/"
+  },
+  {
+    "title": "AI and Practice Innovation: Law Firm, Attorneys, Lawyers",
+    "url": "https://www.honigman.com/firm-practice-innovation",
+    "source": "Honigman Law Firm",
+    "published_at": "2025-11-06T12:24:45.516576+08:00",
+    "summary": "At Honigman, we pride ourselves on keeping clients at the forefront of our legal service delivery. We embrace change and strive to think outside the box,...",
+    "scraped_at": "2025-11-06T12:25:16+08:00",
+    "canonical_url": "https://www.honigman.com/firm-practice-innovation"
+  },
+  {
     "title": "Pepperdine University’s 2025 Faculty Conference Explores Human-Centered AI",
     "url": "https://www.pepperdine.edu/newsroom/articles/11-5-25-pepperdine-faculty-conference.htm",
     "source": "Pepperdine University",
@@ -16,78 +106,6 @@
     "summary": "Microsoft, Alphabet, Meta, and Amazon are investing tens of billions in data centers. AI infrastructure is now a key driver of US economic growth.",
     "scraped_at": "2025-11-06T11:49:59+08:00",
     "canonical_url": "https://www.wired.com/story/data-center-ai-boom-us-economy-jobs/"
-  },
-  {
-    "title": "Rants from an optimistic person: Fooled by AI",
-    "url": "https://scotscoop.com/rants-from-an-optimistic-person-fooled-by-ai/",
-    "source": "Scot Scoop News",
-    "published_at": "2025-11-06T11:49:53.103625+08:00",
-    "summary": "I once found a video on YouTube featuring study music. It was great! The music was enjoyable and helped me focus. I opened YouTube again the next day to...",
-    "scraped_at": "2025-11-06T11:49:59+08:00",
-    "canonical_url": "https://scotscoop.com/rants-from-an-optimistic-person-fooled-by-ai/"
-  },
-  {
-    "title": "Nvidia CEO says China on track \"to win the AI race\"",
-    "url": "https://www.axios.com/2025/11/05/ai-nvidia-china-race",
-    "source": "Axios",
-    "published_at": "2025-11-06T11:49:49.572674+08:00",
-    "summary": "Jensen Huang tells the FT that he is concerned about a potential regulatory burden on AI.",
-    "scraped_at": "2025-11-06T11:49:59+08:00",
-    "canonical_url": "https://www.axios.com/2025/11/05/ai-nvidia-china-race"
-  },
-  {
-    "title": "Is AI coming for your job? Maybe. See which industries are most, least at risk",
-    "url": "https://www.usatoday.com/story/money/2025/11/04/is-ai-coming-for-your-job-maybe/87065768007/",
-    "source": "USA Today",
-    "published_at": "2025-11-06T11:49:46.411091+08:00",
-    "summary": "As the job market cools and companies announce layoffs or drops in hiring tied to artificial intelligence, Americans are asking a familiar but urgent...",
-    "scraped_at": "2025-11-06T11:49:59+08:00",
-    "canonical_url": "https://www.usatoday.com/story/money/2025/11/04/is-ai-coming-for-your-job-maybe/87065768007/"
-  },
-  {
-    "title": "Salvatore Falletta: Human resources and AI reach an ethical crossroads",
-    "url": "https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/",
-    "source": "Vanderbilt University",
-    "published_at": "2025-11-06T11:49:43.311616+08:00",
-    "summary": "RESEARCH SPARK: AI is becoming a common tool for Human Resources departments. Learn from new faculty Salvatore Falletta about the ethical lines between...",
-    "scraped_at": "2025-11-06T11:49:59+08:00",
-    "canonical_url": "https://news.vanderbilt.edu/2025/11/05/salvatore-falletta-human-resources-and-ai-reach-an-ethical-crossroads/"
-  },
-  {
-    "title": "Chinese autonomous driving firm Pony.ai sees shares drop 12% in Hong Kong debut",
-    "url": "https://www.cnbc.com/2025/11/06/china-ponyai-weride-ipo-shares-market-debut.html",
-    "source": "CNBC",
-    "published_at": "2025-11-06T11:49:39.721960+08:00",
-    "summary": "Pony.ai raised 6.71 billion Hong Kong dollars (about $860 million) in its initial public offering in Hong Kong, while WeRide raised K$2.39 billion.",
-    "scraped_at": "2025-11-06T11:49:59+08:00",
-    "canonical_url": "https://www.cnbc.com/2025/11/06/china-ponyai-weride-ipo-shares-market-debut.html"
-  },
-  {
-    "title": "Unit 42 AI Threat Readiness",
-    "url": "https://www.paloaltonetworks.com/resources/datasheets/unit-42-ai-threat-readiness",
-    "source": "Palo Alto Networks",
-    "published_at": "2025-11-06T11:49:36.319334+08:00",
-    "summary": "Threat actors are weaponizing AI to accelerate attacks and amplify their impact, demanding that Security Operations Centers (SOCs) deliver ever-increasing...",
-    "scraped_at": "2025-11-06T11:49:59+08:00",
-    "canonical_url": "https://www.paloaltonetworks.com/resources/datasheets/unit-42-ai-threat-readiness"
-  },
-  {
-    "title": "Amazon Sues Perplexity As AI Browser War Escalates",
-    "url": "https://www.pcmag.com/news/amazon-sends-perplexity-a-cease-and-desist-over-its-ai-agents-shopping",
-    "source": "PCMag",
-    "published_at": "2025-11-06T11:49:33.010424+08:00",
-    "summary": "Amazon accuses Perplexity of using shady tactics with its Comet browser. Perplexity says Amazon is a bully that's trying to 'make life worse' by blocking...",
-    "scraped_at": "2025-11-06T11:49:59+08:00",
-    "canonical_url": "https://www.pcmag.com/news/amazon-sends-perplexity-a-cease-and-desist-over-its-ai-agents-shopping"
-  },
-  {
-    "title": "AI and Practice Innovation: Law Firm, Attorneys, Lawyers",
-    "url": "https://www.honigman.com/firm-practice-innovation",
-    "source": "Honigman Law Firm",
-    "published_at": "2025-11-06T11:49:29.674594+08:00",
-    "summary": "At Honigman, we pride ourselves on keeping clients at the forefront of our legal service delivery. We embrace change and strive to think outside the box,...",
-    "scraped_at": "2025-11-06T11:49:59+08:00",
-    "canonical_url": "https://www.honigman.com/firm-practice-innovation"
   },
   {
     "title": "財經｜黃仁勳：中國將在AI競賽中擊敗美國",
