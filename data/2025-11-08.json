@@ -1,5 +1,185 @@
 [
   {
+    "title": "Benchmarking LLMs on AI-Generated CUDA Code with ComputeEval 2025.2",
+    "url": "https://developer.nvidia.com/blog/benchmarking-llms-on-ai-generated-cuda-code-with-computeeval-2025-2/",
+    "source": "NVIDIA Developer",
+    "published_at": "2025-11-08T00:46:20.073948+08:00",
+    "summary": "Can AI coding assistants write efficient CUDA code? To help measure and improve their capabilities, we created ComputeEval, a robust, open source benchmark...",
+    "scraped_at": "2025-11-08T00:46:20+08:00",
+    "canonical_url": "https://developer.nvidia.com/blog/benchmarking-llms-on-ai-generated-cuda-code-with-computeeval-2025-2/"
+  },
+  {
+    "title": "Reese Witherspoon Visits Harvard—and Talks Women, Media, and AI",
+    "url": "https://www.harvardmagazine.com/university-news/harvard-reese-witherspoon-women-media-ai",
+    "source": "Harvard Magazine",
+    "published_at": "2025-11-08T00:46:16.894649+08:00",
+    "summary": "This line, etched into pop culture and instantly recognizable to almost anyone familiar with early 2000s cinema, comes from Elle Woods: the pink-clad,...",
+    "scraped_at": "2025-11-08T00:46:20+08:00",
+    "canonical_url": "https://www.harvardmagazine.com/university-news/harvard-reese-witherspoon-women-media-ai"
+  },
+  {
+    "title": "EU considers weakening landmark AI Act amid pressure from Trump and U.S. tech giants, news report says",
+    "url": "https://fortune.com/2025/11/07/eu-ai-act-weaken-regulation-delay-big-tech-trump-government/",
+    "source": "Fortune",
+    "published_at": "2025-11-08T00:46:13.786662+08:00",
+    "summary": "The European Commission is considering softening parts of its flagship AI Act amid industry complaints that strict rules could stifle innovation and hurt...",
+    "scraped_at": "2025-11-08T00:46:20+08:00",
+    "canonical_url": "https://fortune.com/2025/11/07/eu-ai-act-weaken-regulation-delay-big-tech-trump-government/"
+  },
+  {
+    "title": "Upskilling court staff: A training plan blueprint for an AI-powered future",
+    "url": "https://www.thomsonreuters.com/en-us/posts/ai-in-courts/upskilling-court-staff/",
+    "source": "Thomson Reuters",
+    "published_at": "2025-11-08T00:46:10.658808+08:00",
+    "summary": "Courts must develop comprehensive, specific AI training programs for all staff in order to successfully integrate AI into their operations.",
+    "scraped_at": "2025-11-08T00:46:20+08:00",
+    "canonical_url": "https://www.thomsonreuters.com/en-us/posts/ai-in-courts/upskilling-court-staff/"
+  },
+  {
+    "title": "Lockheed Martin Launches STAR.OS to Integrate AI Systems",
+    "url": "https://www.executivebiz.com/articles/lockheed-martin-staros-ai-systems",
+    "source": "ExecutiveBiz",
+    "published_at": "2025-11-08T00:46:07.048219+08:00",
+    "summary": "Lockheed Martin's STAR.OS includes STAR.SDK for developers, STAR.IO to connect AI systems and STAR.UI, a user interface.",
+    "scraped_at": "2025-11-08T00:46:20+08:00",
+    "canonical_url": "https://www.executivebiz.com/articles/lockheed-martin-staros-ai-systems"
+  },
+  {
+    "title": "A.I. Abuse Is Reinventing the Law",
+    "url": "https://www.nytimes.com/2025/11/07/business/lawyers-ai-vigilantes.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-08T00:46:03.882934+08:00",
+    "summary": "More lawyers are using artificial intelligence to write legal briefs. Some vigilantes are publicizing the A.I.-generated errors.",
+    "scraped_at": "2025-11-08T00:46:20+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/07/business/lawyers-ai-vigilantes.html"
+  },
+  {
+    "title": "What does OpenAI’s restructuring mean for the future of the AI industry?",
+    "url": "https://news.northeastern.edu/2025/11/07/openai-restructures-organization/",
+    "source": "Northeastern Global News",
+    "published_at": "2025-11-08T00:46:00.806823+08:00",
+    "summary": "Business professor Gaston de los Reyes says this new restructuring significantly increases OpenAI's capital investment opportunities.",
+    "scraped_at": "2025-11-08T00:46:20+08:00",
+    "canonical_url": "https://news.northeastern.edu/2025/11/07/openai-restructures-organization/"
+  },
+  {
+    "title": "Adolescents, Young Adults Use AI Chatbots for Mental Health Advice",
+    "url": "https://www.ajmc.com/view/adolescents-young-adults-use-ai-chatbots-for-mental-health-advice",
+    "source": "AJMC",
+    "published_at": "2025-11-08T00:45:57.608557+08:00",
+    "summary": "As generative AI tools like ChatGPT, Gemini, and My AI gain popularity, new research highlights their growing role in youth mental health support.",
+    "scraped_at": "2025-11-08T00:46:20+08:00",
+    "canonical_url": "https://www.ajmc.com/view/adolescents-young-adults-use-ai-chatbots-for-mental-health-advice"
+  },
+  {
+    "title": "Real or AI? It's Harder Than Ever to Spot AI Videos. These Tips Can Help",
+    "url": "https://www.cnet.com/tech/services-and-software/real-or-ai-its-harder-than-ever-to-spot-ai-videos-these-tips-can-help/",
+    "source": "CNET",
+    "published_at": "2025-11-08T00:45:54.379253+08:00",
+    "summary": "When you run a Sora video through this tool, it'll say the video was \"issued by OpenAI,\" and will include the fact that it's AI-generated. All Sora videos...",
+    "scraped_at": "2025-11-08T00:46:20+08:00",
+    "canonical_url": "https://www.cnet.com/tech/services-and-software/real-or-ai-its-harder-than-ever-to-spot-ai-videos-these-tips-can-help/"
+  },
+  {
+    "title": "Could generative AI be useful in SMA caregiving? I hope not.",
+    "url": "https://smanewstoday.com/columns/could-generative-ai-be-useful-sma-caregiving/",
+    "source": "SMA News Today",
+    "published_at": "2025-11-08T00:45:51.051327+08:00",
+    "summary": "Columnist Sherry Toh can't fathom generative AI replacing human empathy when it comes to caregiving for people with rare diseases.",
+    "scraped_at": "2025-11-08T00:46:20+08:00",
+    "canonical_url": "https://smanewstoday.com/columns/could-generative-ai-be-useful-sma-caregiving/"
+  },
+  {
+    "title": "溫崢嶸全紅嬋遭AI仿冒帶貨 中國盜播亂象叢生",
+    "url": "https://www.epochtimes.com/b5/25/11/7/n14631364.htm",
+    "source": "大紀元",
+    "published_at": "2025-11-08T00:45:47.388969+08:00",
+    "summary": "近幾年在中國，利用AI深度合成知名人物、換臉換聲的視頻層出不窮。近日，演員溫崢嶸自爆曾在凌晨3、4點拍完戲後，刷到有直播間用AI仿冒自己帶貨，她上前質問卻被對方拉黑。",
+    "scraped_at": "2025-11-08T00:46:20+08:00",
+    "canonical_url": "https://www.epochtimes.com/b5/25/11/7/n14631364.htm"
+  },
+  {
+    "title": "OpenAI 創辦人：政府不該替企業擔保，AI 基建發展應靠市場競爭",
+    "url": "https://abmedia.io/openai-sam-altman-bailouts",
+    "source": "鏈新聞 ABMedia",
+    "published_at": "2025-11-08T00:45:44.197042+08:00",
+    "summary": "OpenAI 創辦人Sam Altman 於11/7 發表最新聲明，針對外界質疑公司是否尋求政府為AI 資料中心提供融資或擔保，他明確表示，OpenAI 不希望、也不需要政府擔保，並強調政府不...",
+    "scraped_at": "2025-11-08T00:46:20+08:00",
+    "canonical_url": "https://abmedia.io/openai-sam-altman-bailouts"
+  },
+  {
+    "title": "中國雖在晶片、軟體與AI演算法等高階硬體與技術層面，仍落後於美國，但在AI時代最稀缺、也是最根本的資源電力上，卻有相當穩定的基礎建設。 2024年，中國的總發電量達到 10.1兆度，不僅超過美國的兩倍，更相當於美國、歐盟與印度加總的總和，在全球AI算力競賽",
+    "url": "https://www.facebook.com/yutinghaosfinance/photos/%E4%B8%AD%E5%9C%8B%E9%9B%96%E5%9C%A8%E6%99%B6%E7%89%87%E8%BB%9F%E9%AB%94%E8%88%87ai%E6%BC%94%E7%AE%97%E6%B3%95%E7%AD%89%E9%AB%98%E9%9A%8E%E7%A1%AC%E9%AB%94%E8%88%87%E6%8A%80%E8%A1%93%E5%B1%A4%E9%9D%A2%E4%BB%8D%E8%90%BD%E5%BE%8C%E6%96%BC%E7%BE%8E%E5%9C%8B%E4%BD%86%E5%9C%A8ai%E6%99%82%E4%BB%A3%E6%9C%80%E7%A8%80%E7%BC%BA%E4%B9%9F%E6%98%AF%E6%9C%80%E6%A0%B9%E6%9C%AC%E7%9A%84%E8%B3%87%E6%BA%90%E9%9B%BB%E5%8A%9B%E4%B8%8A%E5%8D%BB%E6%9C%89%E7%9B%B8%E7%95%B6%E7%A9%A9%E5%AE%9A%E7%9A%84%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD2024%E5%B9%B4%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%B8%BD%E7%99%BC%E9%9B%BB%E9%87%8F%E9%81%94%E5%88%B0-101%E5%85%86/879768297947858/",
+    "source": "Facebook",
+    "published_at": "2025-11-08T00:45:40.902961+08:00",
+    "summary": "中國雖在晶片、軟體與AI演算法等高階硬體與技術層面，仍落後於美國，但在AI時代最稀缺、也是最根本的資源電力上，卻有相當穩定的基礎建設。 2024年，中國的總發電量達到 10.1兆度，不僅超過美國的兩倍，更相當於美國、歐盟與印度加總的總和，在全球AI算力競賽",
+    "scraped_at": "2025-11-08T00:46:20+08:00",
+    "canonical_url": "https://www.facebook.com/yutinghaosfinance/photos/%E4%B8%AD%E5%9C%8B%E9%9B%96%E5%9C%A8%E6%99%B6%E7%89%87%E8%BB%9F%E9%AB%94%E8%88%87ai%E6%BC%94%E7%AE%97%E6%B3%95%E7%AD%89%E9%AB%98%E9%9A%8E%E7%A1%AC%E9%AB%94%E8%88%87%E6%8A%80%E8%A1%93%E5%B1%A4%E9%9D%A2%E4%BB%8D%E8%90%BD%E5%BE%8C%E6%96%BC%E7%BE%8E%E5%9C%8B%E4%BD%86%E5%9C%A8ai%E6%99%82%E4%BB%A3%E6%9C%80%E7%A8%80%E7%BC%BA%E4%B9%9F%E6%98%AF%E6%9C%80%E6%A0%B9%E6%9C%AC%E7%9A%84%E8%B3%87%E6%BA%90%E9%9B%BB%E5%8A%9B%E4%B8%8A%E5%8D%BB%E6%9C%89%E7%9B%B8%E7%95%B6%E7%A9%A9%E5%AE%9A%E7%9A%84%E5%9F%BA%E7%A4%8E%E5%BB%BA%E8%A8%AD2024%E5%B9%B4%E4%B8%AD%E5%9C%8B%E7%9A%84%E7%B8%BD%E7%99%BC%E9%9B%BB%E9%87%8F%E9%81%94%E5%88%B0-101%E5%85%86/879768297947858/"
+  },
+  {
+    "title": "AI點金手效應擴散！Gemini、Anthropic的美股「朋友圈」全梳理",
+    "url": "https://news.futunn.com/hk/post/64583817/the-ripple-effect-of-ai-s-midas-touch-a-comprehensive",
+    "source": "富途牛牛",
+    "published_at": "2025-11-08T00:45:37.441641+08:00",
+    "summary": "在OpenAI「點金手」席捲資本市場之際，谷歌Gemini與Anthropic兩大AI陣營的生態佈局同樣悄然成型。其背後輻射的算力芯片、雲基礎設施及企業應用層上市公司，正成爲投資者...",
+    "scraped_at": "2025-11-08T00:46:20+08:00",
+    "canonical_url": "https://news.futunn.com/hk/post/64583817/the-ripple-effect-of-ai-s-midas-touch-a-comprehensive"
+  },
+  {
+    "title": "紐約時報公司涉足AI領域，具潛力但風險需考量-權知道",
+    "url": "https://cmnews.com.tw/article/newsyoudeservetoknow-78bf931a-bbc2-11f0-a1cf-c96a7a5a931d",
+    "source": "cmnews.com.tw",
+    "published_at": "2025-11-08T00:45:32.618744+08:00",
+    "summary": "紐約時報公司(NYT)近期因其在人工智慧(AI)領域的相關業務而受到關注。知名財經評論員Jim Cramer在節目中提及，該公司近期的交易和訴訟情況值得投資人注意。",
+    "scraped_at": "2025-11-08T00:46:20+08:00",
+    "canonical_url": "https://cmnews.com.tw/article/newsyoudeservetoknow-78bf931a-bbc2-11f0-a1cf-c96a7a5a931d"
+  },
+  {
+    "title": "从“AI狂热”到“估值恐慌”：美股科技板块动荡，全球市场情绪趋谨慎",
+    "url": "https://news.fx168news.com/stock/us/2511/7390398.shtml",
+    "source": "FX168",
+    "published_at": "2025-11-08T00:45:28.624140+08:00",
+    "summary": "FX168财经报社(北美)讯尽管AI热潮仍在延续，但越来越多投资者开始对不断被拉高的估值水平表现出审慎甚至悲观的态度。在亚洲市场，日本软银集团（SoftBank G...",
+    "scraped_at": "2025-11-08T00:46:20+08:00",
+    "canonical_url": "https://news.fx168news.com/stock/us/2511/7390398.shtml"
+  },
+  {
+    "title": "談AI時代 京東劉強東：未來人類每周工作1天",
+    "url": "https://www.msn.com/zh-tw/news/world/%E8%AB%87ai%E6%99%82%E4%BB%A3-%E4%BA%AC%E6%9D%B1%E5%8A%89%E5%BC%B7%E6%9D%B1-%E6%9C%AA%E4%BE%86%E4%BA%BA%E9%A1%9E%E6%AF%8F%E5%91%A8%E5%B7%A5%E4%BD%9C1%E5%A4%A9/ar-AA1Q0v82?cvid=690e1d5e07f7445698a69da97244fc5e&ocid=hpmsn",
+    "source": "MSN",
+    "published_at": "2025-11-08T00:45:25.110466+08:00",
+    "summary": "大陸浙江烏鎮正在舉行「世界互聯網大會」，TVBS特派記者也前往現場，體驗最新的AI科技。大陸電商巨頭、京東創辦人劉強東今天(7日)在開幕式上預告，明年京東將啟用全球...",
+    "scraped_at": "2025-11-08T00:46:20+08:00",
+    "canonical_url": "https://www.msn.com/zh-tw/news/world/%E8%AB%87ai%E6%99%82%E4%BB%A3-%E4%BA%AC%E6%9D%B1%E5%8A%89%E5%BC%B7%E6%9D%B1-%E6%9C%AA%E4%BE%86%E4%BA%BA%E9%A1%9E%E6%AF%8F%E5%91%A8%E5%B7%A5%E4%BD%9C1%E5%A4%A9/ar-AA1Q0v82"
+  },
+  {
+    "title": "海信以AI驅動的可持續發展里程碑加速推進ESG戰略",
+    "url": "https://www.prnewswire.com/apac/zh/news-releases/aiesg-302605669.html",
+    "source": "PR Newswire",
+    "published_at": "2025-11-08T00:45:22.007738+08:00",
+    "summary": "青島2025年11月7日/美通社/ -- 全球消費電子與家電領軍品牌海信今日宣佈其環境、社會及治理(ESG)進程取得新進展，正加速推進其在《2024年ESG報告》中提出的戰略升級。",
+    "scraped_at": "2025-11-08T00:46:20+08:00",
+    "canonical_url": "https://www.prnewswire.com/apac/zh/news-releases/aiesg-302605669.html"
+  },
+  {
+    "title": "AI只是藉口？ 全美10個月炒百萬人 科技業裁員最兇",
+    "url": "https://tw.news.yahoo.com/ai%E5%8F%AA%E6%98%AF%E8%97%89%E5%8F%A3-%E5%85%A8%E7%BE%8E10%E5%80%8B%E6%9C%88%E7%82%92%E7%99%BE%E8%90%AC%E4%BA%BA-%E7%A7%91%E6%8A%80%E6%A5%AD%E8%A3%81%E5%93%A1%E6%9C%80%E5%85%87-132022944.html",
+    "source": "奇摩新聞",
+    "published_at": "2025-11-08T00:45:18.763639+08:00",
+    "summary": "美國最新一份就業報告指出，光是10月就有超過15萬人失業，刷新20年來最多紀錄，其中以科技業佔最大宗，而裁員主因不外乎是增加公司AI應用，減少人力成本，但現在有經濟學家...",
+    "scraped_at": "2025-11-08T00:46:20+08:00",
+    "canonical_url": "https://tw.news.yahoo.com/ai%E5%8F%AA%E6%98%AF%E8%97%89%E5%8F%A3-%E5%85%A8%E7%BE%8E10%E5%80%8B%E6%9C%88%E7%82%92%E7%99%BE%E8%90%AC%E4%BA%BA-%E7%A7%91%E6%8A%80%E6%A5%AD%E8%A3%81%E5%93%A1%E6%9C%80%E5%85%87-132022944.html"
+  },
+  {
+    "title": "AI交易機器人：解開加密貨幣市場的炒作與現實",
+    "url": "https://www.markets.com/news/ai-trading-bots-hype-vs-reality-1863-zh-Hant/",
+    "source": "Markets.com",
+    "published_at": "2025-11-08T00:45:15.090771+08:00",
+    "summary": "深入探討加密貨幣市場中由AI驅動的交易機器人，重點關注風險、誤解和潛在益處。",
+    "scraped_at": "2025-11-08T00:46:20+08:00",
+    "canonical_url": "https://www.markets.com/news/ai-trading-bots-hype-vs-reality-1863-zh-Hant/"
+  },
+  {
     "title": "AI 驅動的 dApps 與 x402 協議：革新創作者經濟",
     "url": "https://www.markets.com/news/ai-powered-dapps-x402-protocol-revolutionizing-creator-economy-1850-zh-Hant/",
     "source": "Markets.com",
@@ -7,15 +187,6 @@
     "summary": "探索AI 和x402 協議如何改變創作者經濟，創造自主的商業實體和去中心化應用程式。",
     "scraped_at": "2025-11-08T00:19:33+08:00",
     "canonical_url": "https://www.markets.com/news/ai-powered-dapps-x402-protocol-revolutionizing-creator-economy-1850-zh-Hant/"
-  },
-  {
-    "title": "溫崢嶸全紅嬋遭AI仿冒帶貨 中國盜播亂象叢生",
-    "url": "https://www.epochtimes.com/b5/25/11/7/n14631364.htm",
-    "source": "大紀元",
-    "published_at": "2025-11-08T00:19:28.304472+08:00",
-    "summary": "近幾年在中國，利用AI深度合成知名人物、換臉換聲的視頻層出不窮。近日，演員溫崢嶸自爆曾在凌晨3、4點拍完戲後，刷到有直播間用AI仿冒自己帶貨，她上前質問卻被對方拉黑。",
-    "scraped_at": "2025-11-08T00:19:33+08:00",
-    "canonical_url": "https://www.epochtimes.com/b5/25/11/7/n14631364.htm"
   },
   {
     "title": "本地 AI 模型細到 可在瀏覽器上直接執行 IBM 輕量開源模型 Granite 4.0 Nano",
@@ -27,51 +198,6 @@
     "canonical_url": "https://www.msn.com/zh-hk/lifestyle/gadget-gift-guide/%E6%9C%AC%E5%9C%B0-ai-%E6%A8%A1%E5%9E%8B%E7%B4%B0%E5%88%B0-%E5%8F%AF%E5%9C%A8%E7%80%8F%E8%A6%BD%E5%99%A8%E4%B8%8A%E7%9B%B4%E6%8E%A5%E5%9F%B7%E8%A1%8C-ibm-%E8%BC%95%E9%87%8F%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B-granite-4-0-nano/ar-AA1PyEdg"
   },
   {
-    "title": "OpenAI 創辦人：政府不該替企業擔保，AI 基建發展應靠市場競爭",
-    "url": "https://abmedia.io/openai-sam-altman-bailouts",
-    "source": "鏈新聞 ABMedia",
-    "published_at": "2025-11-08T00:19:22.013045+08:00",
-    "summary": "OpenAI 創辦人Sam Altman 於11/7 發表最新聲明，針對外界質疑公司是否尋求政府為AI 資料中心提供融資或擔保，他明確表示，OpenAI 不希望、也不需要政府擔保，並強調政府不...",
-    "scraped_at": "2025-11-08T00:19:33+08:00",
-    "canonical_url": "https://abmedia.io/openai-sam-altman-bailouts"
-  },
-  {
-    "title": "紐約時報公司涉足AI領域，具潛力但風險需考量-權知道",
-    "url": "https://cmnews.com.tw/article/newsyoudeservetoknow-78bf931a-bbc2-11f0-a1cf-c96a7a5a931d",
-    "source": "cmnews.com.tw",
-    "published_at": "2025-11-08T00:19:18.732897+08:00",
-    "summary": "紐約時報公司(NYT)近期因其在人工智慧(AI)領域的相關業務而受到關注。知名財經評論員Jim Cramer在節目中提及，該公司近期的交易和訴訟情況值得投資人注意。",
-    "scraped_at": "2025-11-08T00:19:33+08:00",
-    "canonical_url": "https://cmnews.com.tw/article/newsyoudeservetoknow-78bf931a-bbc2-11f0-a1cf-c96a7a5a931d"
-  },
-  {
-    "title": "AI點金手效應擴散！Gemini、Anthropic的美股「朋友圈」全梳理",
-    "url": "https://news.futunn.com/hk/post/64583817/the-ripple-effect-of-ai-s-midas-touch-a-comprehensive",
-    "source": "富途牛牛",
-    "published_at": "2025-11-08T00:19:14.689808+08:00",
-    "summary": "在OpenAI「點金手」席捲資本市場之際，谷歌Gemini與Anthropic兩大AI陣營的生態佈局同樣悄然成型。其背後輻射的算力芯片、雲基礎設施及企業應用層上市公司，正成爲投資者...",
-    "scraped_at": "2025-11-08T00:19:33+08:00",
-    "canonical_url": "https://news.futunn.com/hk/post/64583817/the-ripple-effect-of-ai-s-midas-touch-a-comprehensive"
-  },
-  {
-    "title": "从“AI狂热”到“估值恐慌”：美股科技板块动荡，全球市场情绪趋谨慎",
-    "url": "https://news.fx168news.com/stock/us/2511/7390398.shtml",
-    "source": "FX168",
-    "published_at": "2025-11-08T00:19:10.573937+08:00",
-    "summary": "FX168财经报社(北美)讯尽管AI热潮仍在延续，但越来越多投资者开始对不断被拉高的估值水平表现出审慎甚至悲观的态度。在亚洲市场，日本软银集团（SoftBank G...",
-    "scraped_at": "2025-11-08T00:19:33+08:00",
-    "canonical_url": "https://news.fx168news.com/stock/us/2511/7390398.shtml"
-  },
-  {
-    "title": "海信以AI驅動的可持續發展里程碑加速推進ESG戰略",
-    "url": "https://www.prnewswire.com/apac/zh/news-releases/aiesg-302605669.html",
-    "source": "PR Newswire",
-    "published_at": "2025-11-08T00:19:07.130450+08:00",
-    "summary": "青島2025年11月7日/美通社/ -- 全球消費電子與家電領軍品牌海信今日宣佈其環境、社會及治理(ESG)進程取得新進展，正加速推進其在《2024年ESG報告》中提出的戰略升級。",
-    "scraped_at": "2025-11-08T00:19:33+08:00",
-    "canonical_url": "https://www.prnewswire.com/apac/zh/news-releases/aiesg-302605669.html"
-  },
-  {
     "title": "AI已經大到不能倒？美媒：OpenAI財務長言論掀憂慮",
     "url": "https://hk.finance.yahoo.com/news/ai%E5%B7%B2%E7%B6%93%E5%A4%A7%E5%88%B0%E4%B8%8D%E8%83%BD%E5%80%92-%E7%BE%8E%E5%AA%92-openai%E8%B2%A1%E5%8B%99%E9%95%B7-%E5%A0%B4%E6%B4%BB%E5%8B%95%E4%B8%8A%E7%9A%84%E8%A1%A8%E6%85%8B%E7%B5%A6%E5%87%BA%E5%A4%A7%E7%99%BD%E8%A9%B1-075003709.html",
     "source": "Yahoo 財經",
@@ -79,14 +205,5 @@
     "summary": "欠銀行100 美元是你的問題，欠銀行100 萬美元就是銀行的問題」是一句曾警示2008 年金融危機的老話，如今正因AI 領域的巨額融資需求而重新被提到。",
     "scraped_at": "2025-11-08T00:19:33+08:00",
     "canonical_url": "https://hk.finance.yahoo.com/news/ai%E5%B7%B2%E7%B6%93%E5%A4%A7%E5%88%B0%E4%B8%8D%E8%83%BD%E5%80%92-%E7%BE%8E%E5%AA%92-openai%E8%B2%A1%E5%8B%99%E9%95%B7-%E5%A0%B4%E6%B4%BB%E5%8B%95%E4%B8%8A%E7%9A%84%E8%A1%A8%E6%85%8B%E7%B5%A6%E5%87%BA%E5%A4%A7%E7%99%BD%E8%A9%B1-075003709.html"
-  },
-  {
-    "title": "AI交易機器人：解開加密貨幣市場的炒作與現實",
-    "url": "https://www.markets.com/news/ai-trading-bots-hype-vs-reality-1863-zh-Hant/",
-    "source": "Markets.com",
-    "published_at": "2025-11-08T00:19:00.229564+08:00",
-    "summary": "深入探討加密貨幣市場中由AI驅動的交易機器人，重點關注風險、誤解和潛在益處。",
-    "scraped_at": "2025-11-08T00:19:33+08:00",
-    "canonical_url": "https://www.markets.com/news/ai-trading-bots-hype-vs-reality-1863-zh-Hant/"
   }
 ]
