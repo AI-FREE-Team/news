@@ -1,5 +1,95 @@
 [
   {
+    "title": "What’s really going on with AI and jobs?",
+    "url": "https://www.bloodinthemachine.com/p/what-the-hell-is-going-on-with-ai",
+    "source": "Blood in the Machine | Brian Merchant",
+    "published_at": "2025-11-07T19:15:57.754481+08:00",
+    "summary": "Record-breaking layoff reports, Amazon's mass firings, and a slump in entry level employment. Is AI behind it all?",
+    "scraped_at": "2025-11-07T19:15:57+08:00",
+    "canonical_url": "https://www.bloodinthemachine.com/p/what-the-hell-is-going-on-with-ai"
+  },
+  {
+    "title": "‘A new era of learning’: Professors grapple with AI in the classroom",
+    "url": "https://www.dailycardinal.com/article/2025/11/a-new-era-of-learning-professors-grapple-with-ai-in-the-classroom",
+    "source": "The Daily Cardinal",
+    "published_at": "2025-11-07T19:15:54.633555+08:00",
+    "summary": "Professors at the University of Wisconsin-Madison use artificial intelligence in their classrooms to aid student learning. They also grapple with how to...",
+    "scraped_at": "2025-11-07T19:15:57+08:00",
+    "canonical_url": "https://www.dailycardinal.com/article/2025/11/a-new-era-of-learning-professors-grapple-with-ai-in-the-classroom"
+  },
+  {
+    "title": "How Accenture’s Physical AI Orchestrator Simulates Factories",
+    "url": "https://aimagazine.com/news/accenture-the-physical-ai-orchestrator",
+    "source": "AI Magazine",
+    "published_at": "2025-11-07T19:15:51.268773+08:00",
+    "summary": "Accenture has launched Physical AI Orchestrator, a cloud platform combining Nvidia Omniverse simulation technology with AI agents and digital twins.",
+    "scraped_at": "2025-11-07T19:15:57+08:00",
+    "canonical_url": "https://aimagazine.com/news/accenture-the-physical-ai-orchestrator"
+  },
+  {
+    "title": "I Quit College to Run My Company. the 80-Hour Weeks Were Worth It.",
+    "url": "https://www.businessinsider.com/dropped-out-of-college-ai-founder-sacrifice-trade-off-cancer-2025-11",
+    "source": "Business Insider",
+    "published_at": "2025-11-07T19:15:48.160687+08:00",
+    "summary": "This as-told-to essay is based on a conversation with 26-year-old David Kobrosky, the founder of Intros AI, from Brooklyn. The following has been edited for...",
+    "scraped_at": "2025-11-07T19:15:57+08:00",
+    "canonical_url": "https://www.businessinsider.com/dropped-out-of-college-ai-founder-sacrifice-trade-off-cancer-2025-11"
+  },
+  {
+    "title": "AI valuation fears grip global investors as tech bubble concerns grow",
+    "url": "https://www.cnbc.com/2025/11/07/ai-valuation-fears-grip-investors-as-tech-bubble-concerns-heighten.html",
+    "source": "CNBC",
+    "published_at": "2025-11-07T19:15:44.967350+08:00",
+    "summary": "Fears of an AI bubble have heightened this week after U.S. technology shares slumped. The IMF and the Bank of England have sounded the alarm following the...",
+    "scraped_at": "2025-11-07T19:15:57+08:00",
+    "canonical_url": "https://www.cnbc.com/2025/11/07/ai-valuation-fears-grip-investors-as-tech-bubble-concerns-heighten.html"
+  },
+  {
+    "title": "Microsoft Tweaking AI Depictions Of People With Autism, Other Conditions",
+    "url": "https://www.disabilityscoop.com/2025/11/07/microsoft-tweaking-ai-depictions-of-people-with-autism-other-conditions/31720/",
+    "source": "Disability Scoop",
+    "published_at": "2025-11-07T19:15:41.871001+08:00",
+    "summary": "One of the nation's biggest technology companies is taking steps to improve the accuracy of AI-generated images portraying people with disabilities.",
+    "scraped_at": "2025-11-07T19:15:57+08:00",
+    "canonical_url": "https://www.disabilityscoop.com/2025/11/07/microsoft-tweaking-ai-depictions-of-people-with-autism-other-conditions/31720/"
+  },
+  {
+    "title": "To adopt or to ban? Student perceptions and use of generative AI in higher education",
+    "url": "https://www.nature.com/articles/s41599-025-05982-7",
+    "source": "Nature",
+    "published_at": "2025-11-07T19:15:38.654954+08:00",
+    "summary": "The rapid rise of Generative Artificial Intelligence (GenAI) tools such as ChatGPT has sparked debate regarding their impact on higher education.",
+    "scraped_at": "2025-11-07T19:15:57+08:00",
+    "canonical_url": "https://www.nature.com/articles/s41599-025-05982-7"
+  },
+  {
+    "title": "Hubs, AI, and the New Era of Revenue Protection in Patient Access",
+    "url": "https://www.drugchannels.net/2025/11/hubs-ai-and-new-era-of-revenue.html",
+    "source": "Drug Channels",
+    "published_at": "2025-11-07T19:15:34.737281+08:00",
+    "summary": "Today's guest post comes from Steve Randall, Chief Technology Architect at ConnectiveRx. Steve examines how artificial intelligence (AI) is reshaping the...",
+    "scraped_at": "2025-11-07T19:15:57+08:00",
+    "canonical_url": "https://www.drugchannels.net/2025/11/hubs-ai-and-new-era-of-revenue.html"
+  },
+  {
+    "title": "Mass Layoffs Are Scary, but Probably Not a Sign of the A.I. Apocalypse",
+    "url": "https://www.nytimes.com/2025/11/07/business/layoffs-ai-replacement.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-07T19:15:31.216311+08:00",
+    "summary": "Despite fears that Amazon and other employers are already replacing workers with bots, the A.I. transition is likely to play out differently.",
+    "scraped_at": "2025-11-07T19:15:57+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/07/business/layoffs-ai-replacement.html"
+  },
+  {
+    "title": "EU weighs pausing parts of landmark AI act in face of US and big tech pressure, FT reports",
+    "url": "https://www.reuters.com/business/eu-weighs-pausing-parts-landmark-ai-act-face-us-big-tech-pressure-ft-reports-2025-11-07/",
+    "source": "Reuters",
+    "published_at": "2025-11-07T19:15:28.139566+08:00",
+    "summary": "The European Commission is proposing to pause parts of its landmark artificial intelligence (AI) legislation amid intense pressure from big tech companies...",
+    "scraped_at": "2025-11-07T19:15:57+08:00",
+    "canonical_url": "https://www.reuters.com/business/eu-weighs-pausing-parts-landmark-ai-act-face-us-big-tech-pressure-ft-reports-2025-11-07/"
+  },
+  {
     "title": "How Colorado is making its own rules for AI",
     "url": "https://www.axios.com/2025/11/07/colorado-ai-rules",
     "source": "Axios",
@@ -34,60 +124,6 @@
     "summary": "Hardly anyone had artificial intelligence (AI) on their minds three years ago. Have past innovations shaken up the world of business and technology in the...",
     "scraped_at": "2025-11-07T18:54:21+08:00",
     "canonical_url": "https://www.dailycardinal.com/article/2025/11/tech-leaders-reflect-on-current-ai-moment"
-  },
-  {
-    "title": "How Accenture’s Physical AI Orchestrator Simulates Factories",
-    "url": "https://aimagazine.com/news/accenture-the-physical-ai-orchestrator",
-    "source": "AI Magazine",
-    "published_at": "2025-11-07T18:54:07.439441+08:00",
-    "summary": "Accenture has launched Physical AI Orchestrator, a cloud platform combining Nvidia Omniverse simulation technology with AI agents and digital twins.",
-    "scraped_at": "2025-11-07T18:54:21+08:00",
-    "canonical_url": "https://aimagazine.com/news/accenture-the-physical-ai-orchestrator"
-  },
-  {
-    "title": "Mass Layoffs Are Scary, but Probably Not a Sign of the A.I. Apocalypse",
-    "url": "https://www.nytimes.com/2025/11/07/business/layoffs-ai-replacement.html",
-    "source": "The New York Times",
-    "published_at": "2025-11-07T18:54:04.345422+08:00",
-    "summary": "Despite fears that Amazon and other employers are already replacing workers with bots, the A.I. transition is likely to play out differently.",
-    "scraped_at": "2025-11-07T18:54:21+08:00",
-    "canonical_url": "https://www.nytimes.com/2025/11/07/business/layoffs-ai-replacement.html"
-  },
-  {
-    "title": "I Quit College to Run My Company. the 80-Hour Weeks Were Worth It.",
-    "url": "https://www.businessinsider.com/dropped-out-of-college-ai-founder-sacrifice-trade-off-cancer-2025-11",
-    "source": "Business Insider",
-    "published_at": "2025-11-07T18:54:01.245302+08:00",
-    "summary": "This as-told-to essay is based on a conversation with 26-year-old David Kobrosky, the founder of Intros AI, from Brooklyn. The following has been edited for...",
-    "scraped_at": "2025-11-07T18:54:21+08:00",
-    "canonical_url": "https://www.businessinsider.com/dropped-out-of-college-ai-founder-sacrifice-trade-off-cancer-2025-11"
-  },
-  {
-    "title": "AI valuation fears grip global investors as tech bubble concerns grow",
-    "url": "https://www.cnbc.com/2025/11/07/ai-valuation-fears-grip-investors-as-tech-bubble-concerns-heighten.html",
-    "source": "CNBC",
-    "published_at": "2025-11-07T18:53:58.020707+08:00",
-    "summary": "Fears of an AI bubble have heightened this week after U.S. technology shares slumped. The IMF and the Bank of England have sounded the alarm following the...",
-    "scraped_at": "2025-11-07T18:54:21+08:00",
-    "canonical_url": "https://www.cnbc.com/2025/11/07/ai-valuation-fears-grip-investors-as-tech-bubble-concerns-heighten.html"
-  },
-  {
-    "title": "Microsoft Tweaking AI Depictions Of People With Autism, Other Conditions",
-    "url": "https://www.disabilityscoop.com/2025/11/07/microsoft-tweaking-ai-depictions-of-people-with-autism-other-conditions/31720/",
-    "source": "Disability Scoop",
-    "published_at": "2025-11-07T18:53:54.128182+08:00",
-    "summary": "One of the nation's biggest technology companies is taking steps to improve the accuracy of AI-generated images portraying people with disabilities.",
-    "scraped_at": "2025-11-07T18:54:21+08:00",
-    "canonical_url": "https://www.disabilityscoop.com/2025/11/07/microsoft-tweaking-ai-depictions-of-people-with-autism-other-conditions/31720/"
-  },
-  {
-    "title": "EU weighs pausing parts of landmark AI act in face of US and big tech pressure, FT reports",
-    "url": "https://www.reuters.com/business/eu-weighs-pausing-parts-landmark-ai-act-face-us-big-tech-pressure-ft-reports-2025-11-07/",
-    "source": "Reuters",
-    "published_at": "2025-11-07T18:53:50.625918+08:00",
-    "summary": "The European Commission is proposing to pause parts of its landmark artificial intelligence (AI) legislation amid intense pressure from big tech companies...",
-    "scraped_at": "2025-11-07T18:54:21+08:00",
-    "canonical_url": "https://www.reuters.com/business/eu-weighs-pausing-parts-landmark-ai-act-face-us-big-tech-pressure-ft-reports-2025-11-07/"
   },
   {
     "title": "加密貨幣市場洞察：比特幣警訊、AI威脅與馬斯克薪酬方案",
@@ -216,15 +252,6 @@
     "canonical_url": "https://fortune.com/2025/11/07/middle-managers-ai-adoption-linkedin-feon-ang/"
   },
   {
-    "title": "What’s really going on with AI and jobs?",
-    "url": "https://www.bloodinthemachine.com/p/what-the-hell-is-going-on-with-ai",
-    "source": "Blood in the Machine | Brian Merchant",
-    "published_at": "2025-11-07T17:50:44.034993+08:00",
-    "summary": "Record-breaking layoff reports, Amazon's mass firings, and a slump in entry level employment. Is AI behind it all?",
-    "scraped_at": "2025-11-07T17:50:57+08:00",
-    "canonical_url": "https://www.bloodinthemachine.com/p/what-the-hell-is-going-on-with-ai"
-  },
-  {
     "title": "The geopolitical costs of AI",
     "url": "https://www.gisreportsonline.com/r/geopolitical-ai/",
     "source": "GIS Reports",
@@ -331,15 +358,6 @@
     "summary": "Comments come after OpenAI's CFO discussed the role of government in potentially backstopping industry growth, at the WSJ Tech Live event.",
     "scraped_at": "2025-11-07T15:50:26+08:00",
     "canonical_url": "https://www.wsj.com/tech/ai/trump-adviser-sacks-says-there-wont-be-a-federal-bailout-for-ai-391f2024"
-  },
-  {
-    "title": "Hubs, AI, and the New Era of Revenue Protection in Patient Access",
-    "url": "https://www.drugchannels.net/2025/11/hubs-ai-and-new-era-of-revenue.html",
-    "source": "Drug Channels",
-    "published_at": "2025-11-07T15:50:00.662071+08:00",
-    "summary": "Today's guest post comes from Steve Randall, Chief Technology Architect at ConnectiveRx. Steve examines how artificial intelligence (AI) is reshaping the...",
-    "scraped_at": "2025-11-07T15:50:26+08:00",
-    "canonical_url": "https://www.drugchannels.net/2025/11/hubs-ai-and-new-era-of-revenue.html"
   },
   {
     "title": "AWS and OpenAI announce multi-year strategic partnership",
