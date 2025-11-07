@@ -1,92 +1,182 @@
 [
   {
+    "title": "I worked in tech for over 20 years. Now I'm getting a master's in AI because there's too much for me to learn alone.",
+    "url": "https://www.businessinsider.com/executive-tech-industry-20-years-back-to-school-masters-ai-2025-11",
+    "source": "Business Insider",
+    "published_at": "2025-11-07T13:42:35.441274+08:00",
+    "summary": "Michael Lane, 49, said online courses are great for diving deep into concepts, but lack the foundational knowledge a master's degree can provide.",
+    "scraped_at": "2025-11-07T13:42:35+08:00",
+    "canonical_url": "https://www.businessinsider.com/executive-tech-industry-20-years-back-to-school-masters-ai-2025-11"
+  },
+  {
+    "title": "NAM Talks Tax, Trade, Workforce and AI with the Financial Times",
+    "url": "https://nam.org/nam-talks-tax-trade-workforce-and-ai-with-the-financial-times-35125/",
+    "source": "National Association of Manufacturers - NAM",
+    "published_at": "2025-11-07T13:42:32.309466+08:00",
+    "summary": "Manufacturing in the U.S. is seeing major benefits from the Trump administration's tax and regulatory policies—but more must be done to unlock a...",
+    "scraped_at": "2025-11-07T13:42:35+08:00",
+    "canonical_url": "https://nam.org/nam-talks-tax-trade-workforce-and-ai-with-the-financial-times-35125/"
+  },
+  {
+    "title": "The way to get middle managers to embrace AI? Invest in people, not technology, first",
+    "url": "https://fortune.com/2025/11/07/middle-managers-ai-adoption-linkedin-feon-ang/",
+    "source": "Fortune",
+    "published_at": "2025-11-07T13:42:29.050304+08:00",
+    "summary": "Every CEO is grappling with the same problem: You need AI to stay competitive. Boards are demanding it, competitors are implementing it,...",
+    "scraped_at": "2025-11-07T13:42:35+08:00",
+    "canonical_url": "https://fortune.com/2025/11/07/middle-managers-ai-adoption-linkedin-feon-ang/"
+  },
+  {
+    "title": "Musk plans Tesla mega AI chip fab, mulls potential Intel partnership",
+    "url": "https://www.reuters.com/business/autos-transportation/musk-plans-tesla-mega-ai-chip-fab-mulls-potential-intel-partnership-2025-11-07/",
+    "source": "Reuters",
+    "published_at": "2025-11-07T13:42:25.964917+08:00",
+    "summary": "Tesla is designing its fifth-generation AI chip to power its autonomous ambitions.",
+    "scraped_at": "2025-11-07T13:42:35+08:00",
+    "canonical_url": "https://www.reuters.com/business/autos-transportation/musk-plans-tesla-mega-ai-chip-fab-mulls-potential-intel-partnership-2025-11-07/"
+  },
+  {
+    "title": "What’s really going on with AI and jobs?",
+    "url": "https://www.bloodinthemachine.com/p/what-the-hell-is-going-on-with-ai",
+    "source": "Blood in the Machine | Brian Merchant",
+    "published_at": "2025-11-07T13:42:22.654834+08:00",
+    "summary": "Record-breaking layoff reports, Amazon's mass firings, and a slump in entry level employment. Is AI behind it all?",
+    "scraped_at": "2025-11-07T13:42:35+08:00",
+    "canonical_url": "https://www.bloodinthemachine.com/p/what-the-hell-is-going-on-with-ai"
+  },
+  {
+    "title": "A CIO’s First Principles Reference Guide for Securing AI by Design",
+    "url": "https://www.paloaltonetworks.com/blog/2025/11/cios-first-principles-reference-guide-securing-ai-design/",
+    "source": "Palo Alto Networks",
+    "published_at": "2025-11-07T13:42:19.415291+08:00",
+    "summary": "Secure enterprise AI. Learn first principles for AI security, from data protection to supply chain defense, in this CIO's guide to securing AI by design.",
+    "scraped_at": "2025-11-07T13:42:35+08:00",
+    "canonical_url": "https://www.paloaltonetworks.com/blog/2025/11/cios-first-principles-reference-guide-securing-ai-design/"
+  },
+  {
+    "title": "When Algorithms Make the Call: Employment Law in the AI Era",
+    "url": "https://ogletree.com/insights-resources/webinars/2025-11-07/when-algorithms-make-the-call-employment-law-in-the-ai-era/",
+    "source": "Ogletree",
+    "published_at": "2025-11-07T13:42:16.017345+08:00",
+    "summary": "This webinar will explore the intersection of AI and employment law, examining how these systems are reshaping liability, compliance obligations, and risk...",
+    "scraped_at": "2025-11-07T13:42:35+08:00",
+    "canonical_url": "https://ogletree.com/insights-resources/webinars/2025-11-07/when-algorithms-make-the-call-employment-law-in-the-ai-era/"
+  },
+  {
+    "title": "OpenAI CEO Says U.S. Shouldn’t Bail Out AI Companies",
+    "url": "https://www.wsj.com/tech/ai/trump-adviser-sacks-says-there-wont-be-a-federal-bailout-for-ai-391f2024?gaa_at=eafs&gaa_n=AWEtsqezySN3zcCJw9XESHE64qly3__wmKsfdxoZ23J-F-K9dTmMdWJ10qVw&gaa_ts=690d8a2e&gaa_sig=ZNO9vy9bcVMfXr1kDnslDnnpZc5m6rxjMWWOID9xY1enSusC__G5F4q-aTvct_KjJl34ufwJXk2h2SdaP2DLAQ%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-07T13:42:12.724691+08:00",
+    "summary": "Comments come after OpenAI's CFO discussed the role of government in potentially backstopping industry growth, at the WSJ Tech Live event.",
+    "scraped_at": "2025-11-07T13:42:35+08:00",
+    "canonical_url": "https://www.wsj.com/tech/ai/trump-adviser-sacks-says-there-wont-be-a-federal-bailout-for-ai-391f2024"
+  },
+  {
+    "title": "Hubs, AI, and the New Era of Revenue Protection in Patient Access",
+    "url": "https://www.drugchannels.net/2025/11/hubs-ai-and-new-era-of-revenue.html",
+    "source": "Drug Channels",
+    "published_at": "2025-11-07T13:42:09.457296+08:00",
+    "summary": "Today's guest post comes from Steve Randall, Chief Technology Architect at ConnectiveRx. Steve examines how artificial intelligence (AI) is reshaping the...",
+    "scraped_at": "2025-11-07T13:42:35+08:00",
+    "canonical_url": "https://www.drugchannels.net/2025/11/hubs-ai-and-new-era-of-revenue.html"
+  },
+  {
+    "title": "AWS and OpenAI announce multi-year strategic partnership",
+    "url": "https://www.aboutamazon.com/news/aws/aws-open-ai-workloads-compute-infrastructure",
+    "source": "About Amazon",
+    "published_at": "2025-11-07T13:42:06.113311+08:00",
+    "summary": "Partnership will enable OpenAI to run its advanced AI workloads on AWS's world-class infrastructure starting immediately.",
+    "scraped_at": "2025-11-07T13:42:35+08:00",
+    "canonical_url": "https://www.aboutamazon.com/news/aws/aws-open-ai-workloads-compute-infrastructure"
+  },
+  {
     "title": "傳統廣告商瑟瑟發抖、AI助陣 科技巨擘加速稱霸廣告市場",
     "url": "https://www.worldjournal.com/wj/story/121469/9123022",
     "source": "世界新聞網",
-    "published_at": "2025-11-07T13:18:29.512466+08:00",
+    "published_at": "2025-11-07T13:42:02.663989+08:00",
     "summary": "臉書、Instagram、YouTube等數位平台蒐集用戶資料，讓企業能精準投放廣告，賺進大量廣告財。人工智慧（AI）的...",
-    "scraped_at": "2025-11-07T13:18:30+08:00",
+    "scraped_at": "2025-11-07T13:42:35+08:00",
     "canonical_url": "https://www.worldjournal.com/wj/story/121469/9123022"
-  },
-  {
-    "title": "AI正凶猛「加槓桿」",
-    "url": "https://news.futunn.com/hk/post/64545466/ai-is-aggressively-leveraging-up?futusource=news_newspage_recommend",
-    "source": "富途牛牛",
-    "published_at": "2025-11-07T13:18:25.928100+08:00",
-    "summary": "爲滿足AI算力需求，科技巨頭正通過大規模發債融資，今年9-10月美國AI相關投資級債券發行達750億美元，是過去十年年均水平的兩倍多。與此同時，融資渠道已從投資級債券擴展...",
-    "scraped_at": "2025-11-07T13:18:30+08:00",
-    "canonical_url": "https://news.futunn.com/hk/post/64545466/ai-is-aggressively-leveraging-up"
   },
   {
     "title": "AI 國家主權落地，健康數據自主起飛",
     "url": "https://geneonline.news/tsbb-2025-annual-meeting/",
     "source": "GeneOnline News",
-    "published_at": "2025-11-07T13:18:21.139170+08:00",
+    "published_at": "2025-11-07T13:41:59.097253+08:00",
     "summary": "社團法人台灣人體生物資料庫學會（TSBB, 簡稱學會）於11 月4 日假高雄醫學大學附設中和紀念醫院舉行「第七屆台灣人體生物資料庫學會年會暨『建構，AI 國家主權』研討會」...",
-    "scraped_at": "2025-11-07T13:18:30+08:00",
+    "scraped_at": "2025-11-07T13:42:35+08:00",
     "canonical_url": "https://geneonline.news/tsbb-2025-annual-meeting/"
+  },
+  {
+    "title": "AI正凶猛「加槓桿」",
+    "url": "https://news.futunn.com/hk/post/64545466/ai-is-aggressively-leveraging-up?futusource=news_newspage_recommend",
+    "source": "富途牛牛",
+    "published_at": "2025-11-07T13:41:55.720933+08:00",
+    "summary": "爲滿足AI算力需求，科技巨頭正通過大規模發債融資，今年9-10月美國AI相關投資級債券發行達750億美元，是過去十年年均水平的兩倍多。與此同時，融資渠道已從投資級債券擴展...",
+    "scraped_at": "2025-11-07T13:42:35+08:00",
+    "canonical_url": "https://news.futunn.com/hk/post/64545466/ai-is-aggressively-leveraging-up"
   },
   {
     "title": "Datavault AI Inc. 宣佈與Scilex Holding Company 簽署價值1,000",
     "url": "https://www.globenewswire.com/news-release/2025/11/06/3182260/0/zh-hant/Datavault-AI-Inc-%E5%AE%A3%E4%BD%88%E8%88%87-Scilex-Holding-Company-%E7%B0%BD%E7%BD%B2%E5%83%B9%E5%80%BC-1-000-%E8%90%AC%E7%BE%8E%E5%85%83%E7%9A%84%E5%85%A8%E7%90%83%E5%B0%88%E5%B1%AC%E6%8E%88%E6%AC%8A%E5%8D%94%E8%AD%B0-%E7%94%A8%E6%96%BC%E5%9F%BA%E5%9B%A0%E7%B5%84%E5%AD%B8-DNA-%E6%95%B8%E6%93%9A-%E8%A8%BA%E6%96%B7%E6%B3%95-%E6%B2%BB%E7%99%82%E5%AD%B8-%E9%81%BA%E5%82%B3%E5%AD%B8%E5%8F%8A%E8%97%A5%E7%89%A9%E8%B3%87%E8%A8%8A%E7%AD%89%E7%8F%BE%E5%AF%A6%E4%B8%96%E7%95%8C%E8%B3%87%E7%94%A2-RWA-%E7%9A%84%E4%BB%A3%E5%B9%A3%E5%8C%96%E5%92%8C%E7%9B%88%E5%88%A9%E5%8C%96.html",
     "source": "GlobeNewswire",
-    "published_at": "2025-11-07T13:18:17.023594+08:00",
+    "published_at": "2025-11-07T13:41:51.016161+08:00",
     "summary": "費城, Nov. 06, 2025 (GLOBE NEWSWIRE) -- 透過IBN -- Datavault AI Inc.（簡稱「Datavault AI」或「該公司」）（Nasdaq: DVLT）是專注於數據盈利化、資產代幣化及安全數碼...",
-    "scraped_at": "2025-11-07T13:18:30+08:00",
+    "scraped_at": "2025-11-07T13:42:35+08:00",
     "canonical_url": "https://www.globenewswire.com/news-release/2025/11/06/3182260/0/zh-hant/Datavault-AI-Inc-%E5%AE%A3%E4%BD%88%E8%88%87-Scilex-Holding-Company-%E7%B0%BD%E7%BD%B2%E5%83%B9%E5%80%BC-1-000-%E8%90%AC%E7%BE%8E%E5%85%83%E7%9A%84%E5%85%A8%E7%90%83%E5%B0%88%E5%B1%AC%E6%8E%88%E6%AC%8A%E5%8D%94%E8%AD%B0-%E7%94%A8%E6%96%BC%E5%9F%BA%E5%9B%A0%E7%B5%84%E5%AD%B8-DNA-%E6%95%B8%E6%93%9A-%E8%A8%BA%E6%96%B7%E6%B3%95-%E6%B2%BB%E7%99%82%E5%AD%B8-%E9%81%BA%E5%82%B3%E5%AD%B8%E5%8F%8A%E8%97%A5%E7%89%A9%E8%B3%87%E8%A8%8A%E7%AD%89%E7%8F%BE%E5%AF%A6%E4%B8%96%E7%95%8C%E8%B3%87%E7%94%A2-RWA-%E7%9A%84%E4%BB%A3%E5%B9%A3%E5%8C%96%E5%92%8C%E7%9B%88%E5%88%A9%E5%8C%96.html"
   },
   {
     "title": "Google Finance 整合 Polymarket、Kalshi：AI 搜尋輔助用戶預測事件",
     "url": "https://abmedia.io/google-polymarket-kalshi-prediction-markets-data-search",
     "source": "鏈新聞 ABMedia",
-    "published_at": "2025-11-07T13:18:13.480483+08:00",
+    "published_at": "2025-11-07T13:41:46.789515+08:00",
     "summary": "Google Finance 宣布將把預測市場資料整合至搜尋結果，未來用戶只需在搜尋框輸入問題，就能即時看到由Polymarket 與Kalshi 提供的市場機率與趨勢變化。這項AI 強化升級，...",
-    "scraped_at": "2025-11-07T13:18:30+08:00",
+    "scraped_at": "2025-11-07T13:42:35+08:00",
     "canonical_url": "https://abmedia.io/google-polymarket-kalshi-prediction-markets-data-search"
   },
   {
     "title": "美東南玉山協會2025年會繼續深入AI研討",
     "url": "https://www.epochtimes.com/b5/25/11/7/n14631147.htm",
     "source": "大紀元",
-    "published_at": "2025-11-07T13:18:10.202887+08:00",
+    "published_at": "2025-11-07T13:41:43.363647+08:00",
     "summary": "11月1日（星期六）晚，美東南玉山協會在亞特蘭大東北郊的希爾頓酒店舉行2025年會暨頒獎晚宴，繼去年邀請主題專家講解人工智能（AI，人工智慧）在各個領域的應用前景，...",
-    "scraped_at": "2025-11-07T13:18:30+08:00",
+    "scraped_at": "2025-11-07T13:42:35+08:00",
     "canonical_url": "https://www.epochtimes.com/b5/25/11/7/n14631147.htm"
   },
   {
     "title": "AI類股承壓 美股收黑 道瓊跌398點",
     "url": "https://www.worldjournal.com/wj/story/121477/9123459",
     "source": "世界新聞網",
-    "published_at": "2025-11-07T13:18:07.067730+08:00",
+    "published_at": "2025-11-07T13:41:40.176183+08:00",
     "summary": "市場憂心人工智慧（AI）相關企業估值過高，今天AI類股再度面臨拋售壓力，美國股市4大指數收盤盡墨。",
-    "scraped_at": "2025-11-07T13:18:30+08:00",
+    "scraped_at": "2025-11-07T13:42:35+08:00",
     "canonical_url": "https://www.worldjournal.com/wj/story/121477/9123459"
   },
   {
     "title": "Google Cloud 宣布推出 Ironwood TPU 以及全新虛擬機器 Axion，為 AI 推論時代注入動能",
     "url": "https://blog.google/intl/zh-tw/products/cloud/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads/",
     "source": "The Keyword",
-    "published_at": "2025-11-07T13:18:03.407218+08:00",
+    "published_at": "2025-11-07T13:41:36.533724+08:00",
     "summary": "Google Cloud 宣布推出第七代TPU Ironwood 與全新ARM® 架構Axion 虛擬機器，結合客製化晶片與系統級協同設計，為AI 推論時代和代理式工作提供卓越的效能及成本效益，...",
-    "scraped_at": "2025-11-07T13:18:30+08:00",
+    "scraped_at": "2025-11-07T13:42:35+08:00",
     "canonical_url": "https://blog.google/intl/zh-tw/products/cloud/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads/"
   },
   {
     "title": "White House AI czar rules out federal bailout for the sector",
     "url": "https://finance.yahoo.com/news/white-house-ai-czar-rules-193205016.html",
     "source": "Yahoo Finance",
-    "published_at": "2025-11-07T13:18:00.130007+08:00",
+    "published_at": "2025-11-07T13:41:33.256067+08:00",
     "summary": "David Sacks, the White House artificial intelligence and crypto czar, said that there ​will be no federal bailout for AI, as ‌U.",
-    "scraped_at": "2025-11-07T13:18:30+08:00",
+    "scraped_at": "2025-11-07T13:42:35+08:00",
     "canonical_url": "https://finance.yahoo.com/news/white-house-ai-czar-rules-193205016.html"
   },
   {
     "title": "量子科技比人工智慧（AI）更重要嗎？",
     "url": "https://www.bbc.com/zhongwen/articles/cx2pg42n09lo/trad",
     "source": "BBC",
-    "published_at": "2025-11-07T13:17:56.180740+08:00",
+    "published_at": "2025-11-07T13:41:29.288987+08:00",
     "summary": "量子力學令人嘆為觀止的複雜性或許是其目前並不如AI那樣引人注目的原因之一，但前景極為廣闊。",
-    "scraped_at": "2025-11-07T13:18:30+08:00",
+    "scraped_at": "2025-11-07T13:42:35+08:00",
     "canonical_url": "https://www.bbc.com/zhongwen/articles/cx2pg42n09lo/trad"
   },
   {
@@ -133,42 +223,6 @@
     "summary": "The White House has told others in the federal government it won't allow Nvidia to sell its latest scaled-down AI chips to China, The Information reported...",
     "scraped_at": "2025-11-07T12:32:15+08:00",
     "canonical_url": "https://www.reuters.com/world/china/us-block-nvidias-sale-scaled-back-ai-chips-china-information-says-2025-11-07/"
-  },
-  {
-    "title": "I worked in tech for over 20 years. Now I'm getting a master's in AI because there's too much for me to learn alone.",
-    "url": "https://www.businessinsider.com/executive-tech-industry-20-years-back-to-school-masters-ai-2025-11",
-    "source": "Business Insider",
-    "published_at": "2025-11-07T12:31:58.911998+08:00",
-    "summary": "Michael Lane, 49, said online courses are great for diving deep into concepts, but lack the foundational knowledge a master's degree can provide.",
-    "scraped_at": "2025-11-07T12:32:15+08:00",
-    "canonical_url": "https://www.businessinsider.com/executive-tech-industry-20-years-back-to-school-masters-ai-2025-11"
-  },
-  {
-    "title": "NAM Talks Tax, Trade, Workforce and AI with the Financial Times",
-    "url": "https://nam.org/nam-talks-tax-trade-workforce-and-ai-with-the-financial-times-35125/",
-    "source": "National Association of Manufacturers - NAM",
-    "published_at": "2025-11-07T12:31:55.738391+08:00",
-    "summary": "Manufacturing in the U.S. is seeing major benefits from the Trump administration's tax and regulatory policies—but more must be done to unlock a...",
-    "scraped_at": "2025-11-07T12:32:15+08:00",
-    "canonical_url": "https://nam.org/nam-talks-tax-trade-workforce-and-ai-with-the-financial-times-35125/"
-  },
-  {
-    "title": "What’s really going on with AI and jobs?",
-    "url": "https://www.bloodinthemachine.com/p/what-the-hell-is-going-on-with-ai",
-    "source": "Blood in the Machine | Brian Merchant",
-    "published_at": "2025-11-07T12:31:52.403844+08:00",
-    "summary": "Record-breaking layoff reports, Amazon's mass firings, and a slump in entry level employment. Is AI behind it all?",
-    "scraped_at": "2025-11-07T12:32:15+08:00",
-    "canonical_url": "https://www.bloodinthemachine.com/p/what-the-hell-is-going-on-with-ai"
-  },
-  {
-    "title": "OpenAI CEO Says U.S. Shouldn’t Bail Out AI Companies",
-    "url": "https://www.wsj.com/tech/ai/trump-adviser-sacks-says-there-wont-be-a-federal-bailout-for-ai-391f2024?gaa_at=eafs&gaa_n=AWEtsqeEYMln6iYyw2HMWM0BTFsPG1t4NwcrkDkbmC8hhU7hXRVq07ZrQVsR&gaa_ts=690d79b2&gaa_sig=AdUDBT9L8UFvDrNfqWAjqlTDQIbbE-dQt5I8M6DnPmWO_i7d1VjpkjCgQHcwqdI-RwexBRWNqb74aF-A0WaK9Q%3D%3D",
-    "source": "The Wall Street Journal",
-    "published_at": "2025-11-07T12:31:49.148011+08:00",
-    "summary": "Comments come after OpenAI's CFO discussed the role of government in potentially backstopping industry growth, at the WSJ Tech Live event.",
-    "scraped_at": "2025-11-07T12:32:15+08:00",
-    "canonical_url": "https://www.wsj.com/tech/ai/trump-adviser-sacks-says-there-wont-be-a-federal-bailout-for-ai-391f2024"
   },
   {
     "title": "October Challenger Report: 153,074 Job Cuts on Cost-Cutting & AI",
