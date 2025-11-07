@@ -1,5 +1,95 @@
 [
   {
+    "title": "With the rise of AI, California’s data centers require more water, energy. But by how much?",
+    "url": "https://www.capradio.org/articles/2025/11/06/with-the-rise-of-ai-californias-data-centers-require-more-water-energy-but-by-how-much/",
+    "source": "capradio.org",
+    "published_at": "2025-11-07T09:22:14.681945+08:00",
+    "summary": "This year, California lawmakers considered bills to assess the impact generative AI will have on the state's natural resources, as experts say it's driving...",
+    "scraped_at": "2025-11-07T09:22:14+08:00",
+    "canonical_url": "https://www.capradio.org/articles/2025/11/06/with-the-rise-of-ai-californias-data-centers-require-more-water-energy-but-by-how-much/"
+  },
+  {
+    "title": "University of Michigan Symposium on AI emphasized community input and collaboration",
+    "url": "https://seas.umich.edu/news/university-michigan-symposium-ai-emphasized-community-input-and-collaboration",
+    "source": "University of Michigan School for Environment and Sustainability",
+    "published_at": "2025-11-07T09:22:09.573084+08:00",
+    "summary": "U-M symposium launched important conversations around the ethical and sustainability challenges of AI.",
+    "scraped_at": "2025-11-07T09:22:14+08:00",
+    "canonical_url": "https://seas.umich.edu/news/university-michigan-symposium-ai-emphasized-community-input-and-collaboration"
+  },
+  {
+    "title": "What the hell is going on with AI and jobs?",
+    "url": "https://www.bloodinthemachine.com/p/what-the-hell-is-going-on-with-ai",
+    "source": "Blood in the Machine | Brian Merchant",
+    "published_at": "2025-11-07T09:22:06.469658+08:00",
+    "summary": "Record-breaking layoff reports, Amazon's mass firings, and a slump in entry level employment. Is AI behind it all?",
+    "scraped_at": "2025-11-07T09:22:14+08:00",
+    "canonical_url": "https://www.bloodinthemachine.com/p/what-the-hell-is-going-on-with-ai"
+  },
+  {
+    "title": "Editorial: UNC must be cautious in the ‘AI Space Race’",
+    "url": "https://www.dailytarheel.com/article/opinion-editorial-ethical-ai-use-at-unc-20251107",
+    "source": "Daily Tar Heel",
+    "published_at": "2025-11-07T09:22:03.036668+08:00",
+    "summary": "You'd think it was 2050 if you took a closer look at UNC right now. Artificial intelligence has become something of an invasive species in a myriad of...",
+    "scraped_at": "2025-11-07T09:22:14+08:00",
+    "canonical_url": "https://www.dailytarheel.com/article/opinion-editorial-ethical-ai-use-at-unc-20251107"
+  },
+  {
+    "title": "UCR and Cal State to collaborate on AI education",
+    "url": "https://insideucr.ucr.edu/stories/2025/11/06/ucr-and-cal-state-collaborate-ai-education",
+    "source": "Inside UCR",
+    "published_at": "2025-11-07T09:21:59.673205+08:00",
+    "summary": "UC Riverside and Cal State San Bernardino have received $1 million in federal funding to jointly launch interdisciplinary AI undergraduate education...",
+    "scraped_at": "2025-11-07T09:22:14+08:00",
+    "canonical_url": "https://insideucr.ucr.edu/stories/2025/11/06/ucr-and-cal-state-collaborate-ai-education"
+  },
+  {
+    "title": "At Partner Summit, Cisco highlights a massive AI opportunity",
+    "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2025/m11/at-partner-summit-cisco-highlights-a-massive-ai-opportunity.html",
+    "source": "Cisco Newsroom",
+    "published_at": "2025-11-07T09:21:56.503253+08:00",
+    "summary": "Cisco's partners have long been key to its success. No more so than today, as customers demand the best innovation and expertise to navigate profound tech...",
+    "scraped_at": "2025-11-07T09:22:14+08:00",
+    "canonical_url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2025/m11/at-partner-summit-cisco-highlights-a-massive-ai-opportunity.html"
+  },
+  {
+    "title": "STAFF OPINION: Getting ahead of the AI curve",
+    "url": "https://www.upbeacon.com/article/2025/11/staff-opinion-getting-ahead-of-the-ai-curve",
+    "source": "The Beacon",
+    "published_at": "2025-11-07T09:21:53.215713+08:00",
+    "summary": "AI literacy is a crucial skill for every person entering the workforce — either we can master its potential or lose control over it.",
+    "scraped_at": "2025-11-07T09:22:14+08:00",
+    "canonical_url": "https://www.upbeacon.com/article/2025/11/staff-opinion-getting-ahead-of-the-ai-curve"
+  },
+  {
+    "title": "What impact are AI chatbots having on writing skills?",
+    "url": "https://www.k12dive.com/news/what-impact-are-ai-chatbots-having-on-writing-skills/804936/",
+    "source": "K-12 Dive",
+    "published_at": "2025-11-07T09:21:49.826947+08:00",
+    "summary": "Some educators are concerned that students are losing the “thinking work” of writing amid the spread of tools that can produce “B-plus work all the time.”",
+    "scraped_at": "2025-11-07T09:22:14+08:00",
+    "canonical_url": "https://www.k12dive.com/news/what-impact-are-ai-chatbots-having-on-writing-skills/804936/"
+  },
+  {
+    "title": "OpenAI discussed government loan guarantees for chip plants, not data centers, Altman says",
+    "url": "https://www.reuters.com/business/openai-does-not-want-government-guarantees-massive-ai-data-center-buildout-ceo-2025-11-06/",
+    "source": "Reuters",
+    "published_at": "2025-11-07T09:21:46.592672+08:00",
+    "summary": "OpenAI has spoken with the U.S. government about the possibility of federal loan guarantees to spur construction of chip factories in the U.S., but has not...",
+    "scraped_at": "2025-11-07T09:22:14+08:00",
+    "canonical_url": "https://www.reuters.com/business/openai-does-not-want-government-guarantees-massive-ai-data-center-buildout-ceo-2025-11-06/"
+  },
+  {
+    "title": "October Challenger Report: 153,074 Job Cuts on Cost-Cutting & AI",
+    "url": "https://www.challengergray.com/blog/october-challenger-report-153074-job-cuts-on-cost-cutting-ai/",
+    "source": "Challenger, Gray & Christmas, Inc.",
+    "published_at": "2025-11-07T09:21:43.491216+08:00",
+    "summary": "JOB CUTS SURPASS 1 MILLION; HIGHEST OCTOBER TOTAL SINCE 2003. COMPANIES CITE COST-CUTTING, AI IN OCTOBER. Published November 6, 2025.",
+    "scraped_at": "2025-11-07T09:22:14+08:00",
+    "canonical_url": "https://www.challengergray.com/blog/october-challenger-report-153074-job-cuts-on-cost-cutting-ai/"
+  },
+  {
     "title": "The founder of MagicSchool says AI Should Be Drafting Special Education Plans",
     "url": "https://www.chalkbeat.org/2025/11/06/magic-school-founder-adeel-khan-on-ai-ieps-and-cheating/",
     "source": "Chalkbeat",
@@ -34,60 +124,6 @@
     "summary": "State, local and federal elected leaders examined the landscape around AI technology and policymaking Wednesday at the second annual GovAI Coalition Summit...",
     "scraped_at": "2025-11-07T07:50:43+08:00",
     "canonical_url": "https://www.govtech.com/artificial-intelligence/for-local-government-challenge-and-opportunity-in-ai"
-  },
-  {
-    "title": "With the rise of AI, California’s data centers require more water, energy. But by how much?",
-    "url": "https://www.capradio.org/articles/2025/11/06/with-the-rise-of-ai-californias-data-centers-require-more-water-energy-but-by-how-much/",
-    "source": "capradio.org",
-    "published_at": "2025-11-07T07:50:29.253927+08:00",
-    "summary": "This year, California lawmakers considered bills to assess the impact generative AI will have on the state's natural resources, as experts say it's driving...",
-    "scraped_at": "2025-11-07T07:50:43+08:00",
-    "canonical_url": "https://www.capradio.org/articles/2025/11/06/with-the-rise-of-ai-californias-data-centers-require-more-water-energy-but-by-how-much/"
-  },
-  {
-    "title": "STAFF OPINION: Getting ahead of the AI curve",
-    "url": "https://www.upbeacon.com/article/2025/11/staff-opinion-getting-ahead-of-the-ai-curve",
-    "source": "The Beacon",
-    "published_at": "2025-11-07T07:50:24.656528+08:00",
-    "summary": "AI literacy is a crucial skill for every person entering the workforce — either we can master its potential or lose control over it.",
-    "scraped_at": "2025-11-07T07:50:43+08:00",
-    "canonical_url": "https://www.upbeacon.com/article/2025/11/staff-opinion-getting-ahead-of-the-ai-curve"
-  },
-  {
-    "title": "What the hell is going on with AI and jobs?",
-    "url": "https://www.bloodinthemachine.com/p/what-the-hell-is-going-on-with-ai",
-    "source": "Blood in the Machine | Brian Merchant",
-    "published_at": "2025-11-07T07:50:21.040442+08:00",
-    "summary": "Record-breaking layoff reports, Amazon's mass firings, and a slump in entry level employment. Is AI behind it all?",
-    "scraped_at": "2025-11-07T07:50:43+08:00",
-    "canonical_url": "https://www.bloodinthemachine.com/p/what-the-hell-is-going-on-with-ai"
-  },
-  {
-    "title": "UCR and Cal State to collaborate on AI education",
-    "url": "https://insideucr.ucr.edu/stories/2025/11/06/ucr-and-cal-state-collaborate-ai-education",
-    "source": "Inside UCR",
-    "published_at": "2025-11-07T07:50:17.571883+08:00",
-    "summary": "UC Riverside and Cal State San Bernardino have received $1 million in federal funding to jointly launch interdisciplinary AI undergraduate education...",
-    "scraped_at": "2025-11-07T07:50:43+08:00",
-    "canonical_url": "https://insideucr.ucr.edu/stories/2025/11/06/ucr-and-cal-state-collaborate-ai-education"
-  },
-  {
-    "title": "What impact are AI chatbots having on writing skills?",
-    "url": "https://www.k12dive.com/news/what-impact-are-ai-chatbots-having-on-writing-skills/804936/",
-    "source": "K-12 Dive",
-    "published_at": "2025-11-07T07:50:14.394381+08:00",
-    "summary": "Some educators are concerned that students are losing the “thinking work” of writing amid the spread of tools that can produce “B-plus work all the time.”",
-    "scraped_at": "2025-11-07T07:50:43+08:00",
-    "canonical_url": "https://www.k12dive.com/news/what-impact-are-ai-chatbots-having-on-writing-skills/804936/"
-  },
-  {
-    "title": "October Challenger Report: 153,074 Job Cuts on Cost-Cutting & AI",
-    "url": "https://www.challengergray.com/blog/october-challenger-report-153074-job-cuts-on-cost-cutting-ai/",
-    "source": "Challenger, Gray & Christmas, Inc.",
-    "published_at": "2025-11-07T07:50:10.271584+08:00",
-    "summary": "JOB CUTS SURPASS 1 MILLION; HIGHEST OCTOBER TOTAL SINCE 2003. COMPANIES CITE COST-CUTTING, AI IN OCTOBER. Published November 6, 2025.",
-    "scraped_at": "2025-11-07T07:50:43+08:00",
-    "canonical_url": "https://www.challengergray.com/blog/october-challenger-report-153074-job-cuts-on-cost-cutting-ai/"
   },
   {
     "title": "Are A.I. Therapy Chatbots Safe to Use?",
