@@ -1,29 +1,119 @@
 [
   {
+    "title": "AI Chatbots and Mental Health: Missouri Expert Warns of Rising Teen Use",
+    "url": "https://www.missourinet.com/2025/11/07/ai-chatbots-and-mental-health-missouri-expert-warns-of-rising-teen-use/",
+    "source": "Missourinet",
+    "published_at": "2025-11-08T04:51:03.665142+08:00",
+    "summary": "Artificial Intelligence or AI is everywhere, even in mental health care. With demand for services soaring and resources stretched thin, it sounds like the...",
+    "scraped_at": "2025-11-08T04:51:03+08:00",
+    "canonical_url": "https://www.missourinet.com/2025/11/07/ai-chatbots-and-mental-health-missouri-expert-warns-of-rising-teen-use/"
+  },
+  {
+    "title": "The AI bubble in Defense: What to expect in a burst",
+    "url": "https://www.nextgov.com/ideas/2025/11/ai-bubble-defense-what-expect-burst/409410/",
+    "source": "Nextgov/FCW",
+    "published_at": "2025-11-08T04:50:59.260574+08:00",
+    "summary": "Defense organizations have accelerated existing efforts to identify use-cases for AI models and apply them in compliance with existing or new organizati...",
+    "scraped_at": "2025-11-08T04:51:03+08:00",
+    "canonical_url": "https://www.nextgov.com/ideas/2025/11/ai-bubble-defense-what-expect-burst/409410/"
+  },
+  {
+    "title": "Artificial Intelligence (A.I.) Update | Nov. 7, 2025",
+    "url": "https://www.wndu.com/2025/11/07/artificial-intelligence-ai-update-nov-7-2025/",
+    "source": "WNDU",
+    "published_at": "2025-11-08T04:50:55.959519+08:00",
+    "summary": "It's been some time since we last updated you on what's new in A.I. technology, and the month of October had a lot of big news.",
+    "scraped_at": "2025-11-08T04:51:03+08:00",
+    "canonical_url": "https://www.wndu.com/2025/11/07/artificial-intelligence-ai-update-nov-7-2025/"
+  },
+  {
+    "title": "Vigilante Lawyers Expose the Rising Tide of A.I. Slop in Court Filings",
+    "url": "https://www.nytimes.com/2025/11/07/business/lawyers-ai-vigilantes.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-08T04:50:52.643130+08:00",
+    "summary": "More lawyers are using artificial intelligence to write legal briefs. Some colleagues are publicizing the A.I.-generated errors.",
+    "scraped_at": "2025-11-08T04:51:03+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/07/business/lawyers-ai-vigilantes.html"
+  },
+  {
+    "title": "Big Tech may win reprieve as EU mulls easing AI rules, document shows",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/big-tech-may-win-reprieve-eu-mulls-easing-ai-rules-document-shows-2025-11-07/",
+    "source": "Reuters",
+    "published_at": "2025-11-08T04:50:49.551154+08:00",
+    "summary": "Apple , Meta Platforms and other tech giants may win a reprieve from the EU's landmark artificial intelligence rules as regulators consider easing sections...",
+    "scraped_at": "2025-11-08T04:51:03+08:00",
+    "canonical_url": "https://www.reuters.com/sustainability/boards-policy-regulation/big-tech-may-win-reprieve-eu-mulls-easing-ai-rules-document-shows-2025-11-07/"
+  },
+  {
+    "title": "Stock market declines: AI companies suffer big losses",
+    "url": "https://www.nbcnews.com/business/markets/stock-market-update-ai-losses-rcna242592",
+    "source": "NBC News",
+    "published_at": "2025-11-08T04:50:46.335305+08:00",
+    "summary": "Stocks were set to post their first weekly losses in weeks as concerns about the valuations of artificial intelligence companies prompt investors to pull...",
+    "scraped_at": "2025-11-08T04:51:03+08:00",
+    "canonical_url": "https://www.nbcnews.com/business/markets/stock-market-update-ai-losses-rcna242592"
+  },
+  {
+    "title": "AI+Science Conference Comes to Caltech",
+    "url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech",
+    "source": "Caltech",
+    "published_at": "2025-11-08T04:50:43.152180+08:00",
+    "summary": "Large language models (LLMs) such as ChatGPT have quickly shown how artificial intelligence (AI) can impact workflow, content creation, and even our daily...",
+    "scraped_at": "2025-11-08T04:51:03+08:00",
+    "canonical_url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech"
+  },
+  {
+    "title": "Ohio State to hire 100 new faculty with AI expertise",
+    "url": "https://news.osu.edu/ohio-state-to-hire-100-new-faculty-with-ai-expertise/",
+    "source": "Ohio State News",
+    "published_at": "2025-11-08T04:50:40.046594+08:00",
+    "summary": "The Ohio State University has announced a major Artificial Intelligence (AI) Faculty Hiring Initiative that will add 100 new tenure-track faculty with...",
+    "scraped_at": "2025-11-08T04:51:03+08:00",
+    "canonical_url": "https://news.osu.edu/ohio-state-to-hire-100-new-faculty-with-ai-expertise/"
+  },
+  {
+    "title": "How AI is changing medical education",
+    "url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html",
+    "source": "KevinMD.com",
+    "published_at": "2025-11-08T04:50:36.407300+08:00",
+    "summary": "A medical student reflects on how AI is reshaping medicine. The future isn't about machines replacing doctors, but augmenting them to focus on what matters...",
+    "scraped_at": "2025-11-08T04:51:03+08:00",
+    "canonical_url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html"
+  },
+  {
+    "title": "Putting Stronger Guardrails Around AI",
+    "url": "https://today.duke.edu/2025/11/putting-stronger-guardrails-around-ai",
+    "source": "Duke Today",
+    "published_at": "2025-11-08T04:50:32.990094+08:00",
+    "summary": "It's been a busy season for AI policy. The rise of ChatGPT unleashed a frenzy of headlines around the promise and perils of artificial intelligence,...",
+    "scraped_at": "2025-11-08T04:51:03+08:00",
+    "canonical_url": "https://today.duke.edu/2025/11/putting-stronger-guardrails-around-ai"
+  },
+  {
     "title": "More than $1 trillion wiped off US tech giants in AI rout",
     "url": "https://hk.news.yahoo.com/more-1-trillion-wiped-off-183537578.html",
     "source": "YAHOO HK - NEWS",
-    "published_at": "2025-11-08T04:39:05.177617+08:00",
+    "published_at": "2025-11-08T04:50:27.869024+08:00",
     "summary": "Wall Street's most valuable tech companies have lost more than $1 trillion (£760bn) since last week as fears grow that the artificial intelligence (AI) boom...",
-    "scraped_at": "2025-11-08T04:39:06+08:00",
+    "scraped_at": "2025-11-08T04:51:03+08:00",
     "canonical_url": "https://hk.news.yahoo.com/more-1-trillion-wiped-off-183537578.html"
   },
   {
     "title": "AI交易機器人：解開加密貨幣市場的炒作與現實",
     "url": "https://www.markets.com/news/ai-trading-bots-hype-vs-reality-1863-zh-Hant/",
     "source": "Markets.com",
-    "published_at": "2025-11-08T04:39:01.239659+08:00",
+    "published_at": "2025-11-08T04:50:24.089385+08:00",
     "summary": "深入探討加密貨幣市場中由AI驅動的交易機器人，重點關注風險、誤解和潛在益處。",
-    "scraped_at": "2025-11-08T04:39:06+08:00",
+    "scraped_at": "2025-11-08T04:51:03+08:00",
     "canonical_url": "https://www.markets.com/news/ai-trading-bots-hype-vs-reality-1863-zh-Hant/"
   },
   {
     "title": "AI導致美職缺數雪崩式下滑？學者：世界最重要圖表最蠢",
     "url": "https://www.worldjournal.com/wj/story/121477/9125579",
     "source": "世界新聞網",
-    "published_at": "2025-11-08T04:38:57.328058+08:00",
+    "published_at": "2025-11-08T04:50:18.685934+08:00",
     "summary": "各大社群媒體平台近來瘋傳一幅圖表，暗指人工智慧（AI）興起與美國職缺數急遽下滑有關，許多人以全世界「最可怕」或「最重要」...",
-    "scraped_at": "2025-11-08T04:39:06+08:00",
+    "scraped_at": "2025-11-08T04:51:03+08:00",
     "canonical_url": "https://www.worldjournal.com/wj/story/121477/9125579"
   },
   {
@@ -70,42 +160,6 @@
     "summary": "UT San Antonio's School of Nursing kicked off its \"AI in Action Collaborative Series\" with a presentation on the evolving role of artificial intelligence in...",
     "scraped_at": "2025-11-08T03:50:16+08:00",
     "canonical_url": "https://news.uthscsa.edu/lecture-series-explores-ai-in-nursing/"
-  },
-  {
-    "title": "Vigilante Lawyers Expose the Rising Tide of A.I. Slop in Court Filings",
-    "url": "https://www.nytimes.com/2025/11/07/business/lawyers-ai-vigilantes.html",
-    "source": "The New York Times",
-    "published_at": "2025-11-08T03:49:59.525646+08:00",
-    "summary": "More lawyers are using artificial intelligence to write legal briefs. Some colleagues are publicizing the A.I.-generated errors.",
-    "scraped_at": "2025-11-08T03:50:16+08:00",
-    "canonical_url": "https://www.nytimes.com/2025/11/07/business/lawyers-ai-vigilantes.html"
-  },
-  {
-    "title": "AI Chatbots and Mental Health: Missouri Expert Warns of Rising Teen Use",
-    "url": "https://www.missourinet.com/2025/11/07/ai-chatbots-and-mental-health-missouri-expert-warns-of-rising-teen-use/",
-    "source": "Missourinet",
-    "published_at": "2025-11-08T03:49:56.408579+08:00",
-    "summary": "Artificial Intelligence or AI is everywhere, even in mental health care. With demand for services soaring and resources stretched thin, it sounds like the...",
-    "scraped_at": "2025-11-08T03:50:16+08:00",
-    "canonical_url": "https://www.missourinet.com/2025/11/07/ai-chatbots-and-mental-health-missouri-expert-warns-of-rising-teen-use/"
-  },
-  {
-    "title": "Stock market declines: AI companies lose $1 trillion this week",
-    "url": "https://www.nbcnews.com/business/markets/stock-market-update-ai-losses-rcna242592",
-    "source": "NBC News",
-    "published_at": "2025-11-08T03:49:52.982136+08:00",
-    "summary": "Stocks were set to post their first weekly losses in weeks as concerns about the valuations of artificial intelligence companies prompt investors to pull...",
-    "scraped_at": "2025-11-08T03:50:16+08:00",
-    "canonical_url": "https://www.nbcnews.com/business/markets/stock-market-update-ai-losses-rcna242592"
-  },
-  {
-    "title": "Artificial Intelligence (A.I.) Update | Nov. 7, 2025",
-    "url": "https://www.wndu.com/2025/11/07/artificial-intelligence-ai-update-nov-7-2025/",
-    "source": "WNDU",
-    "published_at": "2025-11-08T03:49:49.773848+08:00",
-    "summary": "It's been some time since we last updated you on what's new in A.I. technology, and the month of October had a lot of big news.",
-    "scraped_at": "2025-11-08T03:50:16+08:00",
-    "canonical_url": "https://www.wndu.com/2025/11/07/artificial-intelligence-ai-update-nov-7-2025/"
   },
   {
     "title": "Meta plans $600 billion US spend as AI data centers expand",
