@@ -1,5 +1,95 @@
 [
   {
+    "title": "本地 AI 模型細到 可在瀏覽器上直接執行 IBM 輕量開源模型 Granite 4.0 Nano",
+    "url": "https://www.msn.com/zh-hk/lifestyle/gadget-gift-guide/%E6%9C%AC%E5%9C%B0-ai-%E6%A8%A1%E5%9E%8B%E7%B4%B0%E5%88%B0-%E5%8F%AF%E5%9C%A8%E7%80%8F%E8%A6%BD%E5%99%A8%E4%B8%8A%E7%9B%B4%E6%8E%A5%E5%9F%B7%E8%A1%8C-ibm-%E8%BC%95%E9%87%8F%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B-granite-4-0-nano/ar-AA1PyEdg?cvid=690e0045c1804857943d6451cdbeea39&ocid=mailsignout",
+    "source": "MSN",
+    "published_at": "2025-11-07T23:52:02.880715+08:00",
+    "summary": "IBM 宣佈推出Granite 4.0 Nano 系列，創造了能於瀏覽器內直接本地執行的超小型開源AI 語[…]",
+    "scraped_at": "2025-11-07T23:52:03+08:00",
+    "canonical_url": "https://www.msn.com/zh-hk/lifestyle/gadget-gift-guide/%E6%9C%AC%E5%9C%B0-ai-%E6%A8%A1%E5%9E%8B%E7%B4%B0%E5%88%B0-%E5%8F%AF%E5%9C%A8%E7%80%8F%E8%A6%BD%E5%99%A8%E4%B8%8A%E7%9B%B4%E6%8E%A5%E5%9F%B7%E8%A1%8C-ibm-%E8%BC%95%E9%87%8F%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B-granite-4-0-nano/ar-AA1PyEdg"
+  },
+  {
+    "title": "溫崢嶸全紅嬋遭AI仿冒帶貨 中國盜播亂象叢生",
+    "url": "https://www.epochtimes.com/b5/25/11/7/n14631364.htm",
+    "source": "大紀元",
+    "published_at": "2025-11-07T23:51:59.584771+08:00",
+    "summary": "近幾年在中國，利用AI深度合成知名人物、換臉換聲的視頻層出不窮。近日，演員溫崢嶸自爆曾在凌晨3、4點拍完戲後，刷到有直播間用AI仿冒自己帶貨，她上前質問卻被對方拉黑。",
+    "scraped_at": "2025-11-07T23:52:03+08:00",
+    "canonical_url": "https://www.epochtimes.com/b5/25/11/7/n14631364.htm"
+  },
+  {
+    "title": "OpenAI 創辦人：政府不該替企業擔保，AI 基建發展應靠市場競爭",
+    "url": "https://abmedia.io/openai-sam-altman-bailouts",
+    "source": "鏈新聞 ABMedia",
+    "published_at": "2025-11-07T23:51:56.286918+08:00",
+    "summary": "OpenAI 創辦人Sam Altman 於11/7 發表最新聲明，針對外界質疑公司是否尋求政府為AI 資料中心提供融資或擔保，他明確表示，OpenAI 不希望、也不需要政府擔保，並強調政府不...",
+    "scraped_at": "2025-11-07T23:52:03+08:00",
+    "canonical_url": "https://abmedia.io/openai-sam-altman-bailouts"
+  },
+  {
+    "title": "从“AI狂热”到“估值恐慌”：美股科技板块动荡，全球市场情绪趋谨慎",
+    "url": "https://news.fx168news.com/stock/us/2511/7390398.shtml",
+    "source": "FX168",
+    "published_at": "2025-11-07T23:51:53.013436+08:00",
+    "summary": "FX168财经报社(北美)讯尽管AI热潮仍在延续，但越来越多投资者开始对不断被拉高的估值水平表现出审慎甚至悲观的态度。在亚洲市场，日本软银集团（SoftBank G...",
+    "scraped_at": "2025-11-07T23:52:03+08:00",
+    "canonical_url": "https://news.fx168news.com/stock/us/2511/7390398.shtml"
+  },
+  {
+    "title": "AI點金手效應擴散！Gemini、Anthropic的美股「朋友圈」全梳理",
+    "url": "https://news.futunn.com/hk/post/64583817/the-ripple-effect-of-ai-s-midas-touch-a-comprehensive",
+    "source": "富途牛牛",
+    "published_at": "2025-11-07T23:51:49.557515+08:00",
+    "summary": "在OpenAI「點金手」席捲資本市場之際，谷歌Gemini與Anthropic兩大AI陣營的生態佈局同樣悄然成型。其背後輻射的算力芯片、雲基礎設施及企業應用層上市公司，正成爲投資者...",
+    "scraped_at": "2025-11-07T23:52:03+08:00",
+    "canonical_url": "https://news.futunn.com/hk/post/64583817/the-ripple-effect-of-ai-s-midas-touch-a-comprehensive"
+  },
+  {
+    "title": "Google Cloud 宣布推出 Ironwood TPU 以及全新虛擬機器 Axion，為 AI 推論時代注入動能",
+    "url": "https://blog.google/intl/zh-tw/products/cloud/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads/",
+    "source": "The Keyword",
+    "published_at": "2025-11-07T23:51:45.511125+08:00",
+    "summary": "Google Cloud 宣布推出第七代TPU Ironwood 與全新ARM® 架構Axion 虛擬機器，結合客製化晶片與系統級協同設計，為AI 推論時代和代理式工作提供卓越的效能及成本效益，...",
+    "scraped_at": "2025-11-07T23:52:03+08:00",
+    "canonical_url": "https://blog.google/intl/zh-tw/products/cloud/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads/"
+  },
+  {
+    "title": "AI只是藉口？ 全美10個月炒百萬人 科技業裁員最兇",
+    "url": "https://tw.news.yahoo.com/ai%E5%8F%AA%E6%98%AF%E8%97%89%E5%8F%A3-%E5%85%A8%E7%BE%8E10%E5%80%8B%E6%9C%88%E7%82%92%E7%99%BE%E8%90%AC%E4%BA%BA-%E7%A7%91%E6%8A%80%E6%A5%AD%E8%A3%81%E5%93%A1%E6%9C%80%E5%85%87-132022944.html",
+    "source": "奇摩新聞",
+    "published_at": "2025-11-07T23:51:42.233130+08:00",
+    "summary": "美國最新一份就業報告指出，光是10月就有超過15萬人失業，刷新20年來最多紀錄，其中以科技業佔最大宗，而裁員主因不外乎是增加公司AI應用，減少人力成本，但現在有經濟學家...",
+    "scraped_at": "2025-11-07T23:52:03+08:00",
+    "canonical_url": "https://tw.news.yahoo.com/ai%E5%8F%AA%E6%98%AF%E8%97%89%E5%8F%A3-%E5%85%A8%E7%BE%8E10%E5%80%8B%E6%9C%88%E7%82%92%E7%99%BE%E8%90%AC%E4%BA%BA-%E7%A7%91%E6%8A%80%E6%A5%AD%E8%A3%81%E5%93%A1%E6%9C%80%E5%85%87-132022944.html"
+  },
+  {
+    "title": "量子科技比人工智慧（AI）更重要嗎？",
+    "url": "https://www.bbc.com/zhongwen/articles/cx2pg42n09lo/trad",
+    "source": "BBC",
+    "published_at": "2025-11-07T23:51:38.426593+08:00",
+    "summary": "量子力學令人嘆為觀止的複雜性或許是其目前並不如AI那樣引人注目的原因之一，但前景極為廣闊。",
+    "scraped_at": "2025-11-07T23:52:03+08:00",
+    "canonical_url": "https://www.bbc.com/zhongwen/articles/cx2pg42n09lo/trad"
+  },
+  {
+    "title": "會寫程式能交流 AI「前線部署工程師」職缺增逾8倍",
+    "url": "https://www.worldjournal.com/wj/story/121177/9123484",
+    "source": "世界新聞網",
+    "published_at": "2025-11-07T23:51:35.094615+08:00",
+    "summary": "OpenAI、Anthropic和Cohere等人工智慧（AI）新創公司，正加緊招募一種為數稀少的軟體開發人才：前線部署...",
+    "scraped_at": "2025-11-07T23:52:03+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/121177/9123484"
+  },
+  {
+    "title": "AI交易機器人：解開加密貨幣市場的炒作與現實",
+    "url": "https://www.markets.com/news/ai-trading-bots-hype-vs-reality-1863-zh-Hant/",
+    "source": "Markets.com",
+    "published_at": "2025-11-07T23:51:31.230235+08:00",
+    "summary": "深入探討加密貨幣市場中由AI驅動的交易機器人，重點關注風險、誤解和潛在益處。",
+    "scraped_at": "2025-11-07T23:52:03+08:00",
+    "canonical_url": "https://www.markets.com/news/ai-trading-bots-hype-vs-reality-1863-zh-Hant/"
+  },
+  {
     "title": "Op-ed: AI copyright policy could be a matter of life and death",
     "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/op-ed-ai-copyright-policy-could-be-matter-life-and-death",
     "source": "Fierce Healthcare",
@@ -97,87 +187,6 @@
     "summary": "打從AI下棋能贏過人類棋士起，AI到底會不會取代人類，成為一再討論的話題。如今一家印度新創公司則大膽地宣稱：就是要用來取代人類！LimeChat提出雄心勃勃的目標：要讓客服...",
     "scraped_at": "2025-11-07T23:42:30+08:00",
     "canonical_url": "https://dq.yam.com/post/16735"
-  },
-  {
-    "title": "本地 AI 模型細到 可在瀏覽器上直接執行 IBM 輕量開源模型 Granite 4.0 Nano",
-    "url": "https://www.msn.com/zh-hk/lifestyle/gadget-gift-guide/%E6%9C%AC%E5%9C%B0-ai-%E6%A8%A1%E5%9E%8B%E7%B4%B0%E5%88%B0-%E5%8F%AF%E5%9C%A8%E7%80%8F%E8%A6%BD%E5%99%A8%E4%B8%8A%E7%9B%B4%E6%8E%A5%E5%9F%B7%E8%A1%8C-ibm-%E8%BC%95%E9%87%8F%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B-granite-4-0-nano/ar-AA1PyEdg?cvid=690e0045c1804857943d6451cdbeea39&ocid=mailsignout",
-    "source": "MSN",
-    "published_at": "2025-11-07T23:41:52.553378+08:00",
-    "summary": "IBM 宣佈推出Granite 4.0 Nano 系列，創造了能於瀏覽器內直接本地執行的超小型開源AI 語[…]",
-    "scraped_at": "2025-11-07T23:42:30+08:00",
-    "canonical_url": "https://www.msn.com/zh-hk/lifestyle/gadget-gift-guide/%E6%9C%AC%E5%9C%B0-ai-%E6%A8%A1%E5%9E%8B%E7%B4%B0%E5%88%B0-%E5%8F%AF%E5%9C%A8%E7%80%8F%E8%A6%BD%E5%99%A8%E4%B8%8A%E7%9B%B4%E6%8E%A5%E5%9F%B7%E8%A1%8C-ibm-%E8%BC%95%E9%87%8F%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B-granite-4-0-nano/ar-AA1PyEdg"
-  },
-  {
-    "title": "溫崢嶸全紅嬋遭AI仿冒帶貨 中國盜播亂象叢生",
-    "url": "https://www.epochtimes.com/b5/25/11/7/n14631364.htm",
-    "source": "大紀元",
-    "published_at": "2025-11-07T23:41:49.381431+08:00",
-    "summary": "近幾年在中國，利用AI深度合成知名人物、換臉換聲的視頻層出不窮。近日，演員溫崢嶸自爆曾在凌晨3、4點拍完戲後，刷到有直播間用AI仿冒自己帶貨，她上前質問卻被對方拉黑。",
-    "scraped_at": "2025-11-07T23:42:30+08:00",
-    "canonical_url": "https://www.epochtimes.com/b5/25/11/7/n14631364.htm"
-  },
-  {
-    "title": "OpenAI 創辦人：政府不該替企業擔保，AI 基建發展應靠市場競爭",
-    "url": "https://abmedia.io/openai-sam-altman-bailouts",
-    "source": "鏈新聞 ABMedia",
-    "published_at": "2025-11-07T23:41:46.135207+08:00",
-    "summary": "OpenAI 創辦人Sam Altman 於11/7 發表最新聲明，針對外界質疑公司是否尋求政府為AI 資料中心提供融資或擔保，他明確表示，OpenAI 不希望、也不需要政府擔保，並強調政府不...",
-    "scraped_at": "2025-11-07T23:42:30+08:00",
-    "canonical_url": "https://abmedia.io/openai-sam-altman-bailouts"
-  },
-  {
-    "title": "从“AI狂热”到“估值恐慌”：美股科技板块动荡，全球市场情绪趋谨慎",
-    "url": "https://news.fx168news.com/stock/us/2511/7390398.shtml",
-    "source": "FX168",
-    "published_at": "2025-11-07T23:41:42.833080+08:00",
-    "summary": "FX168财经报社(北美)讯尽管AI热潮仍在延续，但越来越多投资者开始对不断被拉高的估值水平表现出审慎甚至悲观的态度。在亚洲市场，日本软银集团（SoftBank G...",
-    "scraped_at": "2025-11-07T23:42:30+08:00",
-    "canonical_url": "https://news.fx168news.com/stock/us/2511/7390398.shtml"
-  },
-  {
-    "title": "AI點金手效應擴散！Gemini、Anthropic的美股「朋友圈」全梳理",
-    "url": "https://news.futunn.com/hk/post/64583817/the-ripple-effect-of-ai-s-midas-touch-a-comprehensive",
-    "source": "富途牛牛",
-    "published_at": "2025-11-07T23:41:38.399095+08:00",
-    "summary": "在OpenAI「點金手」席捲資本市場之際，谷歌Gemini與Anthropic兩大AI陣營的生態佈局同樣悄然成型。其背後輻射的算力芯片、雲基礎設施及企業應用層上市公司，正成爲投資者...",
-    "scraped_at": "2025-11-07T23:42:30+08:00",
-    "canonical_url": "https://news.futunn.com/hk/post/64583817/the-ripple-effect-of-ai-s-midas-touch-a-comprehensive"
-  },
-  {
-    "title": "Google Cloud 宣布推出 Ironwood TPU 以及全新虛擬機器 Axion，為 AI 推論時代注入動能",
-    "url": "https://blog.google/intl/zh-tw/products/cloud/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads/",
-    "source": "The Keyword",
-    "published_at": "2025-11-07T23:41:33.249807+08:00",
-    "summary": "Google Cloud 宣布推出第七代TPU Ironwood 與全新ARM® 架構Axion 虛擬機器，結合客製化晶片與系統級協同設計，為AI 推論時代和代理式工作提供卓越的效能及成本效益，...",
-    "scraped_at": "2025-11-07T23:42:30+08:00",
-    "canonical_url": "https://blog.google/intl/zh-tw/products/cloud/ironwood-tpus-and-new-axion-based-vms-for-your-ai-workloads/"
-  },
-  {
-    "title": "AI只是藉口？ 全美10個月炒百萬人 科技業裁員最兇",
-    "url": "https://tw.news.yahoo.com/ai%E5%8F%AA%E6%98%AF%E8%97%89%E5%8F%A3-%E5%85%A8%E7%BE%8E10%E5%80%8B%E6%9C%88%E7%82%92%E7%99%BE%E8%90%AC%E4%BA%BA-%E7%A7%91%E6%8A%80%E6%A5%AD%E8%A3%81%E5%93%A1%E6%9C%80%E5%85%87-132022944.html",
-    "source": "奇摩新聞",
-    "published_at": "2025-11-07T23:41:29.898775+08:00",
-    "summary": "美國最新一份就業報告指出，光是10月就有超過15萬人失業，刷新20年來最多紀錄，其中以科技業佔最大宗，而裁員主因不外乎是增加公司AI應用，減少人力成本，但現在有經濟學家...",
-    "scraped_at": "2025-11-07T23:42:30+08:00",
-    "canonical_url": "https://tw.news.yahoo.com/ai%E5%8F%AA%E6%98%AF%E8%97%89%E5%8F%A3-%E5%85%A8%E7%BE%8E10%E5%80%8B%E6%9C%88%E7%82%92%E7%99%BE%E8%90%AC%E4%BA%BA-%E7%A7%91%E6%8A%80%E6%A5%AD%E8%A3%81%E5%93%A1%E6%9C%80%E5%85%87-132022944.html"
-  },
-  {
-    "title": "量子科技比人工智慧（AI）更重要嗎？",
-    "url": "https://www.bbc.com/zhongwen/articles/cx2pg42n09lo/trad",
-    "source": "BBC",
-    "published_at": "2025-11-07T23:41:26.115504+08:00",
-    "summary": "量子力學令人嘆為觀止的複雜性或許是其目前並不如AI那樣引人注目的原因之一，但前景極為廣闊。",
-    "scraped_at": "2025-11-07T23:42:30+08:00",
-    "canonical_url": "https://www.bbc.com/zhongwen/articles/cx2pg42n09lo/trad"
-  },
-  {
-    "title": "會寫程式能交流 AI「前線部署工程師」職缺增逾8倍",
-    "url": "https://www.worldjournal.com/wj/story/121177/9123484",
-    "source": "世界新聞網",
-    "published_at": "2025-11-07T23:41:22.825486+08:00",
-    "summary": "OpenAI、Anthropic和Cohere等人工智慧（AI）新創公司，正加緊招募一種為數稀少的軟體開發人才：前線部署...",
-    "scraped_at": "2025-11-07T23:42:30+08:00",
-    "canonical_url": "https://www.worldjournal.com/wj/story/121177/9123484"
   },
   {
     "title": "紐約時報公司涉足AI領域，具潛力但風險需考量-權知道",
