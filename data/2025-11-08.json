@@ -1,5 +1,104 @@
 [
   {
+    "title": "Democratizing AI: How Thomson Reuters Open Arena supports no-code AI for every professional with Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/democratizing-ai-how-thomson-reuters-open-arena-supports-no-code-ai-for-every-professional-with-amazon-bedrock/",
+    "source": "Amazon Web Services (AWS)",
+    "published_at": "2025-11-08T07:50:43.017397+08:00",
+    "summary": "by Laura Skylaki, Vaibhav Goswami, Ramdev Wudali, Sahar El Khoury, Mike Bezak, Vu San Ha Huynh, and Paul Wright on 07 NOV 2025 in Amazon Bedrock,...",
+    "scraped_at": "2025-11-08T07:50:43+08:00",
+    "canonical_url": "https://aws.amazon.com/blogs/machine-learning/democratizing-ai-how-thomson-reuters-open-arena-supports-no-code-ai-for-every-professional-with-amazon-bedrock/"
+  },
+  {
+    "title": "Lecture series explores AI in nursing",
+    "url": "https://news.uthscsa.edu/lecture-series-explores-ai-in-nursing/",
+    "source": "UT Health San Antonio",
+    "published_at": "2025-11-08T07:50:39.811981+08:00",
+    "summary": "UT San Antonio's School of Nursing kicked off its \"AI in Action Collaborative Series\" with a presentation on the evolving role of artificial intelligence in...",
+    "scraped_at": "2025-11-08T07:50:43+08:00",
+    "canonical_url": "https://news.uthscsa.edu/lecture-series-explores-ai-in-nursing/"
+  },
+  {
+    "title": "Ohio State to hire 100 new faculty with AI expertise",
+    "url": "https://news.osu.edu/ohio-state-to-hire-100-new-faculty-with-ai-expertise/",
+    "source": "Ohio State News",
+    "published_at": "2025-11-08T07:50:36.591872+08:00",
+    "summary": "The Ohio State University has announced a major Artificial Intelligence (AI) Faculty Hiring Initiative that will add 100 new tenure-track faculty with...",
+    "scraped_at": "2025-11-08T07:50:43+08:00",
+    "canonical_url": "https://news.osu.edu/ohio-state-to-hire-100-new-faculty-with-ai-expertise/"
+  },
+  {
+    "title": "Nasdaq has worst week since April amid AI rally jitters, US yields slip",
+    "url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-11-07/",
+    "source": "Reuters",
+    "published_at": "2025-11-08T07:50:32.932607+08:00",
+    "summary": "The Nasdaq ended barely lower on Friday but registered its biggest weekly percentage drop since early April as investors worried about the sustainability of...",
+    "scraped_at": "2025-11-08T07:50:43+08:00",
+    "canonical_url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-11-07/"
+  },
+  {
+    "title": "AI reasoning models that can ‘think’ are more vulnerable to jailbreak attacks, new research suggests",
+    "url": "https://fortune.com/2025/11/07/ai-reasoning-models-more-vulnerable-jailbreak-attacks-study/",
+    "source": "Fortune",
+    "published_at": "2025-11-08T07:50:29.651513+08:00",
+    "summary": "A new study suggests that the advanced reasoning powering today's AI models can weaken their safety systems.",
+    "scraped_at": "2025-11-08T07:50:43+08:00",
+    "canonical_url": "https://fortune.com/2025/11/07/ai-reasoning-models-more-vulnerable-jailbreak-attacks-study/"
+  },
+  {
+    "title": "Michigan Utility Rate Is Intended as Shelter From AI Costs",
+    "url": "https://www.govtech.com/artificial-intelligence/michigan-utility-rate-is-intended-as-shelter-from-ai-costs",
+    "source": "GovTech",
+    "published_at": "2025-11-08T07:50:26.481874+08:00",
+    "summary": "State regulators approved a modified electricity rate for Consumers Energy customers, designed to let it serve data centers but protect consumers from...",
+    "scraped_at": "2025-11-08T07:50:43+08:00",
+    "canonical_url": "https://www.govtech.com/artificial-intelligence/michigan-utility-rate-is-intended-as-shelter-from-ai-costs"
+  },
+  {
+    "title": "Indigenous AI risks and opportunities",
+    "url": "https://www.usatoday.com/story/tech/2025/11/07/indigenous-ai-risks-and-opportunities/86462594007/",
+    "source": "USA Today",
+    "published_at": "2025-11-08T07:50:23.154346+08:00",
+    "summary": "Tribal communities see opportunity and risk in artificial intelligence as they explore ways to enhance Indigenous culture.",
+    "scraped_at": "2025-11-08T07:50:43+08:00",
+    "canonical_url": "https://www.usatoday.com/story/tech/2025/11/07/indigenous-ai-risks-and-opportunities/86462594007/"
+  },
+  {
+    "title": "Putting Stronger Guardrails Around AI",
+    "url": "https://today.duke.edu/2025/11/putting-stronger-guardrails-around-ai",
+    "source": "Duke Today",
+    "published_at": "2025-11-08T07:50:20.030675+08:00",
+    "summary": "It's been a busy season for AI policy. The rise of ChatGPT unleashed a frenzy of headlines around the promise and perils of artificial intelligence,...",
+    "scraped_at": "2025-11-08T07:50:43+08:00",
+    "canonical_url": "https://today.duke.edu/2025/11/putting-stronger-guardrails-around-ai"
+  },
+  {
+    "title": "Recruiting companies are starting to hold job interviews using AI",
+    "url": "https://www.npr.org/2025/11/07/nx-s1-5600127/recruiting-companies-are-starting-to-hold-job-interviews-using-ai",
+    "source": "NPR",
+    "published_at": "2025-11-08T07:50:16.663442+08:00",
+    "summary": "Companies have begun using AI to interview potential employees, and a new study shows a number of job candidates may prefer being interviewed by AI.",
+    "scraped_at": "2025-11-08T07:50:43+08:00",
+    "canonical_url": "https://www.npr.org/2025/11/07/nx-s1-5600127/recruiting-companies-are-starting-to-hold-job-interviews-using-ai"
+  },
+  {
+    "title": "How AI is changing medical education",
+    "url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html",
+    "source": "KevinMD.com",
+    "published_at": "2025-11-08T07:50:13.369869+08:00",
+    "summary": "A medical student reflects on how AI is reshaping medicine. The future isn't about machines replacing doctors, but augmenting them to focus on what matters...",
+    "scraped_at": "2025-11-08T07:50:43+08:00",
+    "canonical_url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html"
+  },
+  {
+    "title": "AI交易機器人：解開加密貨幣市場的炒作與現實",
+    "url": "https://www.markets.com/news/ai-trading-bots-hype-vs-reality-1863-zh-Hant/",
+    "source": "Markets.com",
+    "published_at": "2025-11-08T07:50:08.094129+08:00",
+    "summary": "深入探討加密貨幣市場中由AI驅動的交易機器人，重點關注風險、誤解和潛在益處。",
+    "scraped_at": "2025-11-08T07:50:43+08:00",
+    "canonical_url": "https://www.markets.com/news/ai-trading-bots-hype-vs-reality-1863-zh-Hant/"
+  },
+  {
     "title": "Reese Witherspoon Visits Harvard—and Talks Women, Media, and AI",
     "url": "https://www.harvardmagazine.com/university-news/harvard-reese-witherspoon-women-media-ai",
     "source": "Harvard Magazine",
@@ -25,78 +124,6 @@
     "summary": "Large language models (LLMs) such as ChatGPT have quickly shown how artificial intelligence (AI) can impact workflow, content creation, and even our daily...",
     "scraped_at": "2025-11-08T07:16:49+08:00",
     "canonical_url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech"
-  },
-  {
-    "title": "Democratizing AI: How Thomson Reuters Open Arena supports no-code AI for every professional with Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/democratizing-ai-how-thomson-reuters-open-arena-supports-no-code-ai-for-every-professional-with-amazon-bedrock/",
-    "source": "Amazon Web Services (AWS)",
-    "published_at": "2025-11-08T07:16:39.756493+08:00",
-    "summary": "by Laura Skylaki, Vaibhav Goswami, Ramdev Wudali, Sahar El Khoury, Mike Bezak, Vu San Ha Huynh, and Paul Wright on 07 NOV 2025 in Amazon Bedrock,...",
-    "scraped_at": "2025-11-08T07:16:49+08:00",
-    "canonical_url": "https://aws.amazon.com/blogs/machine-learning/democratizing-ai-how-thomson-reuters-open-arena-supports-no-code-ai-for-every-professional-with-amazon-bedrock/"
-  },
-  {
-    "title": "Ohio State to hire 100 new faculty with AI expertise",
-    "url": "https://news.osu.edu/ohio-state-to-hire-100-new-faculty-with-ai-expertise/",
-    "source": "Ohio State News",
-    "published_at": "2025-11-08T07:16:36.567134+08:00",
-    "summary": "The Ohio State University has announced a major Artificial Intelligence (AI) Faculty Hiring Initiative that will add 100 new tenure-track faculty with...",
-    "scraped_at": "2025-11-08T07:16:49+08:00",
-    "canonical_url": "https://news.osu.edu/ohio-state-to-hire-100-new-faculty-with-ai-expertise/"
-  },
-  {
-    "title": "Recruiting companies are starting to hold job interviews using AI",
-    "url": "https://www.npr.org/2025/11/07/nx-s1-5600127/recruiting-companies-are-starting-to-hold-job-interviews-using-ai",
-    "source": "NPR",
-    "published_at": "2025-11-08T07:16:32.921933+08:00",
-    "summary": "Companies have begun using AI to interview potential employees, and a new study shows a number of job candidates may prefer being interviewed by AI.",
-    "scraped_at": "2025-11-08T07:16:49+08:00",
-    "canonical_url": "https://www.npr.org/2025/11/07/nx-s1-5600127/recruiting-companies-are-starting-to-hold-job-interviews-using-ai"
-  },
-  {
-    "title": "Indigenous AI risks and opportunities",
-    "url": "https://www.usatoday.com/story/tech/2025/11/07/indigenous-ai-risks-and-opportunities/86462594007/",
-    "source": "USA Today",
-    "published_at": "2025-11-08T07:16:29.546236+08:00",
-    "summary": "Tribal communities see opportunity and risk in artificial intelligence as they explore ways to enhance Indigenous culture.",
-    "scraped_at": "2025-11-08T07:16:49+08:00",
-    "canonical_url": "https://www.usatoday.com/story/tech/2025/11/07/indigenous-ai-risks-and-opportunities/86462594007/"
-  },
-  {
-    "title": "Michigan Utility Rate Is Intended as Shelter From AI Costs",
-    "url": "https://www.govtech.com/artificial-intelligence/michigan-utility-rate-is-intended-as-shelter-from-ai-costs",
-    "source": "GovTech",
-    "published_at": "2025-11-08T07:16:26.435768+08:00",
-    "summary": "State regulators approved a modified electricity rate for Consumers Energy customers, designed to let it serve data centers but protect consumers from...",
-    "scraped_at": "2025-11-08T07:16:49+08:00",
-    "canonical_url": "https://www.govtech.com/artificial-intelligence/michigan-utility-rate-is-intended-as-shelter-from-ai-costs"
-  },
-  {
-    "title": "Putting Stronger Guardrails Around AI",
-    "url": "https://today.duke.edu/2025/11/putting-stronger-guardrails-around-ai",
-    "source": "Duke Today",
-    "published_at": "2025-11-08T07:16:23.108337+08:00",
-    "summary": "It's been a busy season for AI policy. The rise of ChatGPT unleashed a frenzy of headlines around the promise and perils of artificial intelligence,...",
-    "scraped_at": "2025-11-08T07:16:49+08:00",
-    "canonical_url": "https://today.duke.edu/2025/11/putting-stronger-guardrails-around-ai"
-  },
-  {
-    "title": "How AI is changing medical education",
-    "url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html",
-    "source": "KevinMD.com",
-    "published_at": "2025-11-08T07:16:19.647376+08:00",
-    "summary": "A medical student reflects on how AI is reshaping medicine. The future isn't about machines replacing doctors, but augmenting them to focus on what matters...",
-    "scraped_at": "2025-11-08T07:16:49+08:00",
-    "canonical_url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html"
-  },
-  {
-    "title": "AI交易機器人：解開加密貨幣市場的炒作與現實",
-    "url": "https://www.markets.com/news/ai-trading-bots-hype-vs-reality-1863-zh-Hant/",
-    "source": "Markets.com",
-    "published_at": "2025-11-08T07:16:13.871015+08:00",
-    "summary": "深入探討加密貨幣市場中由AI驅動的交易機器人，重點關注風險、誤解和潛在益處。",
-    "scraped_at": "2025-11-08T07:16:49+08:00",
-    "canonical_url": "https://www.markets.com/news/ai-trading-bots-hype-vs-reality-1863-zh-Hant/"
   },
   {
     "title": "AI導致美職缺數雪崩式下滑？學者：世界最重要圖表最蠢",
@@ -241,15 +268,6 @@
     "summary": "Sandbar, an \"interface company\" headed by former Meta employees, has unveiled Stream, an AI-powered ring that lets users capture their thoughts through...",
     "scraped_at": "2025-11-08T03:50:16+08:00",
     "canonical_url": "https://www.extremetech.com/electronics/this-ai-ring-lets-you-record-ideas-without-reaching-for-your-phone"
-  },
-  {
-    "title": "Lecture series explores AI in nursing",
-    "url": "https://news.uthscsa.edu/lecture-series-explores-ai-in-nursing/",
-    "source": "UT Health San Antonio",
-    "published_at": "2025-11-08T03:50:02.995162+08:00",
-    "summary": "UT San Antonio's School of Nursing kicked off its \"AI in Action Collaborative Series\" with a presentation on the evolving role of artificial intelligence in...",
-    "scraped_at": "2025-11-08T03:50:16+08:00",
-    "canonical_url": "https://news.uthscsa.edu/lecture-series-explores-ai-in-nursing/"
   },
   {
     "title": "Compliance and AI: Future-Proofing Compliance with AI: Strategies for 2026 and Beyond",
