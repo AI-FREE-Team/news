@@ -1,11 +1,101 @@
 [
   {
+    "title": "Reese Witherspoon Visits Harvard—and Talks Women, Media, and AI",
+    "url": "https://www.harvardmagazine.com/university-news/harvard-reese-witherspoon-women-media-ai",
+    "source": "Harvard Magazine",
+    "published_at": "2025-11-08T07:16:49.458928+08:00",
+    "summary": "This line, etched into pop culture and instantly recognizable to almost anyone familiar with early 2000s cinema, comes from Elle Woods: the pink-clad,...",
+    "scraped_at": "2025-11-08T07:16:49+08:00",
+    "canonical_url": "https://www.harvardmagazine.com/university-news/harvard-reese-witherspoon-women-media-ai"
+  },
+  {
+    "title": "Stock market declines: AI companies suffer big losses",
+    "url": "https://www.nbcnews.com/business/markets/stock-market-update-ai-losses-rcna242592",
+    "source": "NBC News",
+    "published_at": "2025-11-08T07:16:46.321734+08:00",
+    "summary": "Stocks were set to post their first weekly losses in weeks as concerns about the valuations of artificial intelligence companies prompt investors to pull...",
+    "scraped_at": "2025-11-08T07:16:49+08:00",
+    "canonical_url": "https://www.nbcnews.com/business/markets/stock-market-update-ai-losses-rcna242592"
+  },
+  {
+    "title": "AI+Science Conference Comes to Caltech",
+    "url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech",
+    "source": "Caltech",
+    "published_at": "2025-11-08T07:16:42.921179+08:00",
+    "summary": "Large language models (LLMs) such as ChatGPT have quickly shown how artificial intelligence (AI) can impact workflow, content creation, and even our daily...",
+    "scraped_at": "2025-11-08T07:16:49+08:00",
+    "canonical_url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech"
+  },
+  {
+    "title": "Democratizing AI: How Thomson Reuters Open Arena supports no-code AI for every professional with Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/democratizing-ai-how-thomson-reuters-open-arena-supports-no-code-ai-for-every-professional-with-amazon-bedrock/",
+    "source": "Amazon Web Services (AWS)",
+    "published_at": "2025-11-08T07:16:39.756493+08:00",
+    "summary": "by Laura Skylaki, Vaibhav Goswami, Ramdev Wudali, Sahar El Khoury, Mike Bezak, Vu San Ha Huynh, and Paul Wright on 07 NOV 2025 in Amazon Bedrock,...",
+    "scraped_at": "2025-11-08T07:16:49+08:00",
+    "canonical_url": "https://aws.amazon.com/blogs/machine-learning/democratizing-ai-how-thomson-reuters-open-arena-supports-no-code-ai-for-every-professional-with-amazon-bedrock/"
+  },
+  {
+    "title": "Ohio State to hire 100 new faculty with AI expertise",
+    "url": "https://news.osu.edu/ohio-state-to-hire-100-new-faculty-with-ai-expertise/",
+    "source": "Ohio State News",
+    "published_at": "2025-11-08T07:16:36.567134+08:00",
+    "summary": "The Ohio State University has announced a major Artificial Intelligence (AI) Faculty Hiring Initiative that will add 100 new tenure-track faculty with...",
+    "scraped_at": "2025-11-08T07:16:49+08:00",
+    "canonical_url": "https://news.osu.edu/ohio-state-to-hire-100-new-faculty-with-ai-expertise/"
+  },
+  {
+    "title": "Recruiting companies are starting to hold job interviews using AI",
+    "url": "https://www.npr.org/2025/11/07/nx-s1-5600127/recruiting-companies-are-starting-to-hold-job-interviews-using-ai",
+    "source": "NPR",
+    "published_at": "2025-11-08T07:16:32.921933+08:00",
+    "summary": "Companies have begun using AI to interview potential employees, and a new study shows a number of job candidates may prefer being interviewed by AI.",
+    "scraped_at": "2025-11-08T07:16:49+08:00",
+    "canonical_url": "https://www.npr.org/2025/11/07/nx-s1-5600127/recruiting-companies-are-starting-to-hold-job-interviews-using-ai"
+  },
+  {
+    "title": "Indigenous AI risks and opportunities",
+    "url": "https://www.usatoday.com/story/tech/2025/11/07/indigenous-ai-risks-and-opportunities/86462594007/",
+    "source": "USA Today",
+    "published_at": "2025-11-08T07:16:29.546236+08:00",
+    "summary": "Tribal communities see opportunity and risk in artificial intelligence as they explore ways to enhance Indigenous culture.",
+    "scraped_at": "2025-11-08T07:16:49+08:00",
+    "canonical_url": "https://www.usatoday.com/story/tech/2025/11/07/indigenous-ai-risks-and-opportunities/86462594007/"
+  },
+  {
+    "title": "Michigan Utility Rate Is Intended as Shelter From AI Costs",
+    "url": "https://www.govtech.com/artificial-intelligence/michigan-utility-rate-is-intended-as-shelter-from-ai-costs",
+    "source": "GovTech",
+    "published_at": "2025-11-08T07:16:26.435768+08:00",
+    "summary": "State regulators approved a modified electricity rate for Consumers Energy customers, designed to let it serve data centers but protect consumers from...",
+    "scraped_at": "2025-11-08T07:16:49+08:00",
+    "canonical_url": "https://www.govtech.com/artificial-intelligence/michigan-utility-rate-is-intended-as-shelter-from-ai-costs"
+  },
+  {
+    "title": "Putting Stronger Guardrails Around AI",
+    "url": "https://today.duke.edu/2025/11/putting-stronger-guardrails-around-ai",
+    "source": "Duke Today",
+    "published_at": "2025-11-08T07:16:23.108337+08:00",
+    "summary": "It's been a busy season for AI policy. The rise of ChatGPT unleashed a frenzy of headlines around the promise and perils of artificial intelligence,...",
+    "scraped_at": "2025-11-08T07:16:49+08:00",
+    "canonical_url": "https://today.duke.edu/2025/11/putting-stronger-guardrails-around-ai"
+  },
+  {
+    "title": "How AI is changing medical education",
+    "url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html",
+    "source": "KevinMD.com",
+    "published_at": "2025-11-08T07:16:19.647376+08:00",
+    "summary": "A medical student reflects on how AI is reshaping medicine. The future isn't about machines replacing doctors, but augmenting them to focus on what matters...",
+    "scraped_at": "2025-11-08T07:16:49+08:00",
+    "canonical_url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html"
+  },
+  {
     "title": "AI交易機器人：解開加密貨幣市場的炒作與現實",
     "url": "https://www.markets.com/news/ai-trading-bots-hype-vs-reality-1863-zh-Hant/",
     "source": "Markets.com",
-    "published_at": "2025-11-08T06:50:03.576171+08:00",
+    "published_at": "2025-11-08T07:16:13.871015+08:00",
     "summary": "深入探討加密貨幣市場中由AI驅動的交易機器人，重點關注風險、誤解和潛在益處。",
-    "scraped_at": "2025-11-08T06:50:05+08:00",
+    "scraped_at": "2025-11-08T07:16:49+08:00",
     "canonical_url": "https://www.markets.com/news/ai-trading-bots-hype-vs-reality-1863-zh-Hant/"
   },
   {
@@ -61,51 +151,6 @@
     "summary": "More lawyers are using artificial intelligence to write legal briefs. Some colleagues are publicizing the A.I.-generated errors.",
     "scraped_at": "2025-11-08T05:39:20+08:00",
     "canonical_url": "https://www.nytimes.com/2025/11/07/business/lawyers-ai-vigilantes.html"
-  },
-  {
-    "title": "Stock market declines: AI companies suffer big losses",
-    "url": "https://www.nbcnews.com/business/markets/stock-market-update-ai-losses-rcna242592",
-    "source": "NBC News",
-    "published_at": "2025-11-08T05:39:02.932007+08:00",
-    "summary": "Stocks were set to post their first weekly losses in weeks as concerns about the valuations of artificial intelligence companies prompt investors to pull...",
-    "scraped_at": "2025-11-08T05:39:20+08:00",
-    "canonical_url": "https://www.nbcnews.com/business/markets/stock-market-update-ai-losses-rcna242592"
-  },
-  {
-    "title": "AI+Science Conference Comes to Caltech",
-    "url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech",
-    "source": "Caltech",
-    "published_at": "2025-11-08T05:38:59.645389+08:00",
-    "summary": "Large language models (LLMs) such as ChatGPT have quickly shown how artificial intelligence (AI) can impact workflow, content creation, and even our daily...",
-    "scraped_at": "2025-11-08T05:39:20+08:00",
-    "canonical_url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech"
-  },
-  {
-    "title": "Ohio State to hire 100 new faculty with AI expertise",
-    "url": "https://news.osu.edu/ohio-state-to-hire-100-new-faculty-with-ai-expertise/",
-    "source": "Ohio State News",
-    "published_at": "2025-11-08T05:38:56.497804+08:00",
-    "summary": "The Ohio State University has announced a major Artificial Intelligence (AI) Faculty Hiring Initiative that will add 100 new tenure-track faculty with...",
-    "scraped_at": "2025-11-08T05:39:20+08:00",
-    "canonical_url": "https://news.osu.edu/ohio-state-to-hire-100-new-faculty-with-ai-expertise/"
-  },
-  {
-    "title": "How AI is changing medical education",
-    "url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html",
-    "source": "KevinMD.com",
-    "published_at": "2025-11-08T05:38:52.321923+08:00",
-    "summary": "A medical student reflects on how AI is reshaping medicine. The future isn't about machines replacing doctors, but augmenting them to focus on what matters...",
-    "scraped_at": "2025-11-08T05:39:20+08:00",
-    "canonical_url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html"
-  },
-  {
-    "title": "Putting Stronger Guardrails Around AI",
-    "url": "https://today.duke.edu/2025/11/putting-stronger-guardrails-around-ai",
-    "source": "Duke Today",
-    "published_at": "2025-11-08T05:38:48.930091+08:00",
-    "summary": "It's been a busy season for AI policy. The rise of ChatGPT unleashed a frenzy of headlines around the promise and perils of artificial intelligence,...",
-    "scraped_at": "2025-11-08T05:39:20+08:00",
-    "canonical_url": "https://today.duke.edu/2025/11/putting-stronger-guardrails-around-ai"
   },
   {
     "title": "AI只是藉口？ 全美10 個月炒百萬人科技業裁員最兇",
@@ -214,15 +259,6 @@
     "summary": "What is the role of Artificial Intelligence in compliance? What about Machine Learning? Are you using ChatGPT? These questions are just three of the...",
     "scraped_at": "2025-11-08T03:15:35+08:00",
     "canonical_url": "https://www.jdsupra.com/legalnews/compliance-and-ai-future-proofing-compl-10712/"
-  },
-  {
-    "title": "Reese Witherspoon Visits Harvard—and Talks Women, Media, and AI",
-    "url": "https://www.harvardmagazine.com/university-news/harvard-reese-witherspoon-women-media-ai",
-    "source": "Harvard Magazine",
-    "published_at": "2025-11-08T03:15:31.973724+08:00",
-    "summary": "This line, etched into pop culture and instantly recognizable to almost anyone familiar with early 2000s cinema, comes from Elle Woods: the pink-clad,...",
-    "scraped_at": "2025-11-08T03:15:35+08:00",
-    "canonical_url": "https://www.harvardmagazine.com/university-news/harvard-reese-witherspoon-women-media-ai"
   },
   {
     "title": "AI只是藉口？ 全美10個月炒百萬人 科技業裁員最兇",
