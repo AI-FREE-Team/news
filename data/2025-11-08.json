@@ -1,5 +1,32 @@
 [
   {
+    "title": "Amazon 推出 AI 電子書翻譯服務「Kindle Translate」",
+    "url": "https://tw.news.yahoo.com/amazon-%E6%8E%A8%E5%87%BA-ai-%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%BF%BB%E8%AD%AF%E6%9C%8D%E5%8B%99%E3%80%8Ckindle-translate%E3%80%8D-033036047.html",
+    "source": "奇摩新聞",
+    "published_at": "2025-11-08T11:54:04.248714+08:00",
+    "summary": "Amazon 推出以AI 驅動的電子書翻譯服務「Kindle Translate」，以幫助在Kindle 上著書籍上架的作者去擴展海外讀者群。",
+    "scraped_at": "2025-11-08T11:54:05+08:00",
+    "canonical_url": "https://tw.news.yahoo.com/amazon-%E6%8E%A8%E5%87%BA-ai-%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%BF%BB%E8%AD%AF%E6%9C%8D%E5%8B%99%E3%80%8Ckindle-translate%E3%80%8D-033036047.html"
+  },
+  {
+    "title": "AI 資金疑慮引發科技股拋售潮",
+    "url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant",
+    "source": "Markets.com",
+    "published_at": "2025-11-08T11:54:00.553417+08:00",
+    "summary": "主要科技股因對大規模AI 專案（尤其是OpenAI 的計畫）的資金問題感到擔憂而下跌。",
+    "scraped_at": "2025-11-08T11:54:05+08:00",
+    "canonical_url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant"
+  },
+  {
+    "title": "AI副駕幫你找餐廳、報路況 谷歌地圖一句話全搞定",
+    "url": "https://www.worldjournal.com/wj/story/122693/9123788",
+    "source": "世界新聞網",
+    "published_at": "2025-11-08T11:53:56.869437+08:00",
+    "summary": "隨著各大科技公司競相開發人工智能（AI）應用方案，谷歌即將把其AI助理Gemini整合到谷歌地圖（Google Maps...",
+    "scraped_at": "2025-11-08T11:54:05+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/122693/9123788"
+  },
+  {
     "title": "DeepSeek研究員憂AI長期風險",
     "url": "https://hk.finance.yahoo.com/news/deepseek%E7%A0%94%E7%A9%B6%E5%93%A1%E6%86%82ai%E9%95%B7%E6%9C%9F%E9%A2%A8%E9%9A%AA-183900398.html",
     "source": "Yahoo 財經",
@@ -7,24 +34,6 @@
     "summary": "內地人工智能（AI）開發商DeepSeek資深研究員陳德里在世界互聯網大會烏鎮峰會上表示，對於AI未來對人類的影響持悲觀態度。",
     "scraped_at": "2025-11-08T10:46:12+08:00",
     "canonical_url": "https://hk.finance.yahoo.com/news/deepseek%E7%A0%94%E7%A9%B6%E5%93%A1%E6%86%82ai%E9%95%B7%E6%9C%9F%E9%A2%A8%E9%9A%AA-183900398.html"
-  },
-  {
-    "title": "AI 資金疑慮引發科技股拋售潮",
-    "url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant",
-    "source": "Markets.com",
-    "published_at": "2025-11-08T10:46:06.148889+08:00",
-    "summary": "主要科技股因對大規模AI 專案（尤其是OpenAI 的計畫）的資金問題感到擔憂而下跌。",
-    "scraped_at": "2025-11-08T10:46:12+08:00",
-    "canonical_url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant"
-  },
-  {
-    "title": "AI副駕幫你找餐廳、報路況 谷歌地圖一句話全搞定",
-    "url": "https://www.worldjournal.com/wj/story/122693/9123788",
-    "source": "世界新聞網",
-    "published_at": "2025-11-08T10:46:02.037402+08:00",
-    "summary": "隨著各大科技公司競相開發人工智能（AI）應用方案，谷歌即將把其AI助理Gemini整合到谷歌地圖（Google Maps...",
-    "scraped_at": "2025-11-08T10:46:12+08:00",
-    "canonical_url": "https://www.worldjournal.com/wj/story/122693/9123788"
   },
   {
     "title": "AI reasoning models that can ‘think’ are more vulnerable to jailbreak attacks, new research suggests",
