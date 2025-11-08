@@ -1,5 +1,95 @@
 [
   {
+    "title": "Wearable Tech Takes a Leap Forward With AI",
+    "url": "https://www.wsj.com/tech/personal-tech/stream-ring-wearable-ai-c135a21f?gaa_at=eafs&gaa_n=AWEtsqfT1XU4iafauBf_DjTRVcTXR-HVIEQ7BM9BEVwPZ0tCcdG2SKnTwZIe&gaa_ts=690f818e&gaa_sig=kzL7osMx_3bLjz_zyF2JEyzRLbsF09sh-3OYos5HtXy4lZsAzFxLgtvEhW3WGn4ggGW9z0S3rIe7XXOsJ3O9EQ%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-09T01:30:20.036123+08:00",
+    "summary": "Mina Fahmi, co-founder and CEO of Sandbar, on the company's new wearable Stream Ring.",
+    "scraped_at": "2025-11-09T01:30:20+08:00",
+    "canonical_url": "https://www.wsj.com/tech/personal-tech/stream-ring-wearable-ai-c135a21f"
+  },
+  {
+    "title": "Mothers say AI chatbots encouraged their sons to kill themselves",
+    "url": "https://www.bbc.com/news/articles/ce3xgwyywe4o",
+    "source": "BBC",
+    "published_at": "2025-11-09T01:30:16.944411+08:00",
+    "summary": "In her first UK interview Megan Garcia speaks to Laura Kuenssberg about the death of her teenage son.",
+    "scraped_at": "2025-11-09T01:30:20+08:00",
+    "canonical_url": "https://www.bbc.com/news/articles/ce3xgwyywe4o"
+  },
+  {
+    "title": "Have 10 Hours A Week And $500? This New AI Platform Generates Business Ideas Tailored To Your Life Right Now",
+    "url": "https://finance.yahoo.com/news/10-hours-week-500-ai-170116436.html",
+    "source": "Yahoo Finance",
+    "published_at": "2025-11-09T01:30:13.825232+08:00",
+    "summary": "Entrepreneurs with limited hours and modest budgets now have access to artificial intelligence tools that create business ideas around their existing...",
+    "scraped_at": "2025-11-09T01:30:20+08:00",
+    "canonical_url": "https://finance.yahoo.com/news/10-hours-week-500-ai-170116436.html"
+  },
+  {
+    "title": "AI’s hidden recession: How fewer jobs and cultural backlash create a governance crisis",
+    "url": "https://fortune.com/2025/11/08/ai-hidden-recession-gender-inequality-patriarchy/",
+    "source": "Fortune",
+    "published_at": "2025-11-09T01:30:09.714395+08:00",
+    "summary": "AI will redefine how humans create value. Whether it also redefines who is allowed to create value will depend on the choices leaders make now.",
+    "scraped_at": "2025-11-09T01:30:20+08:00",
+    "canonical_url": "https://fortune.com/2025/11/08/ai-hidden-recession-gender-inequality-patriarchy/"
+  },
+  {
+    "title": "Your Turn | Fear of AI is rooted in fear of ourselves",
+    "url": "https://www.vcstar.com/story/opinion/2025/11/08/your-turn-fear-of-ai-is-rooted-in-fear-of-ourselves/87108436007/",
+    "source": "Ventura County Star",
+    "published_at": "2025-11-09T01:30:06.590472+08:00",
+    "summary": "Our view of artificial intelligence is crucial because it directly shapes how we use it, as AI is a double-edged sword.",
+    "scraped_at": "2025-11-09T01:30:20+08:00",
+    "canonical_url": "https://www.vcstar.com/story/opinion/2025/11/08/your-turn-fear-of-ai-is-rooted-in-fear-of-ourselves/87108436007/"
+  },
+  {
+    "title": "Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic",
+    "url": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html",
+    "source": "The Hacker News",
+    "published_at": "2025-11-09T01:30:03.351834+08:00",
+    "summary": "Microsoft's Whisper Leak shows encrypted AI chats can secretly reveal user topics through subtle traffic patterns.",
+    "scraped_at": "2025-11-09T01:30:20+08:00",
+    "canonical_url": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html"
+  },
+  {
+    "title": "Too early to bet against AI trade, State Street suggests",
+    "url": "https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html",
+    "source": "CNBC",
+    "published_at": "2025-11-09T01:30:00.125130+08:00",
+    "summary": "State Street' Anna Paglia is reiterating her bullish stance on artificial intelligence stocks despite the Nasdaq's worst week since April.",
+    "scraped_at": "2025-11-09T01:30:20+08:00",
+    "canonical_url": "https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html"
+  },
+  {
+    "title": "Gen AI Is Going Mainstream: Here’s What’s Coming Next",
+    "url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/",
+    "source": "Josh Bersin",
+    "published_at": "2025-11-09T01:29:56.877585+08:00",
+    "summary": "84% of leaders now use GenAI every week, and 45% daily. Now that AI has gone mainstream, what happens next?",
+    "scraped_at": "2025-11-09T01:30:20+08:00",
+    "canonical_url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/"
+  },
+  {
+    "title": "Debt Has Entered the A.I. Boom",
+    "url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-09T01:29:53.571560+08:00",
+    "summary": "To fund heavy spending on infrastructure for artificial intelligence, companies have leveraged a growing list of complex debt-financing options.",
+    "scraped_at": "2025-11-09T01:30:20+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html"
+  },
+  {
+    "title": "New Holland Introduces AI-Powered Visual Parts Search on mycnhstore at AGRITECHNICA",
+    "url": "https://media.cnh.com/EMEA/new-holland/nha-latest-news/new-holland-introduces-ai-powered-visual-parts-search-on-mycnhstore-at-agritechnica/s/4c42468f-54b8-46de-9537-6b199e334b4d?cat=new-holland%7Cnha-latest-news",
+    "source": "CNH Newsroom",
+    "published_at": "2025-11-09T01:29:50.387749+08:00",
+    "summary": "Groundbreaking technology in the segment uses AI to streamline purchasing and reduce errors in product selection. At AGRITECHNICA 2025, New Holland will...",
+    "scraped_at": "2025-11-09T01:30:20+08:00",
+    "canonical_url": "https://media.cnh.com/EMEA/new-holland/nha-latest-news/new-holland-introduces-ai-powered-visual-parts-search-on-mycnhstore-at-agritechnica/s/4c42468f-54b8-46de-9537-6b199e334b4d"
+  },
+  {
     "title": "AI假巴菲特橫行YouTube教投資 股神：世上只有一個我！",
     "url": "https://www.msn.com/zh-tw/news/world/ai%E5%81%87%E5%B7%B4%E8%8F%B2%E7%89%B9%E6%A9%AB%E8%A1%8Cyoutube%E6%95%99%E6%8A%95%E8%B3%87-%E8%82%A1%E7%A5%9E-%E4%B8%96%E4%B8%8A%E5%8F%AA%E6%9C%89%E4%B8%80%E5%80%8B%E6%88%91/ar-AA1Q2FPF?ocid=finance-verthp-feeds",
     "source": "MSN",
@@ -106,69 +196,6 @@
     "summary": "A series of events sent technology and AI-linked stocks into their worst week since April's tariff-driven sell-off.",
     "scraped_at": "2025-11-09T00:43:00+08:00",
     "canonical_url": "https://www.freep.com/story/money/business/2025/11/08/main-street-job-fears-wall-street-ai-rally/87147357007/"
-  },
-  {
-    "title": "Mothers say AI chatbots encouraged their sons to kill themselves",
-    "url": "https://www.bbc.com/news/articles/ce3xgwyywe4o",
-    "source": "BBC",
-    "published_at": "2025-11-09T00:42:50.359648+08:00",
-    "summary": "In her first UK interview Megan Garcia speaks to Laura Kuenssberg about the death of her teenage son.",
-    "scraped_at": "2025-11-09T00:43:00+08:00",
-    "canonical_url": "https://www.bbc.com/news/articles/ce3xgwyywe4o"
-  },
-  {
-    "title": "Wearable Tech Takes a Leap Forward With AI",
-    "url": "https://www.wsj.com/tech/personal-tech/stream-ring-wearable-ai-c135a21f?gaa_at=eafs&gaa_n=AWEtsqdRlWwuRPWLSfPtlQp_a43bsXYZsX15Iz95TXwgWb97xRmES6DCYd0O&gaa_ts=690f7677&gaa_sig=ZefODYeQlC1-W0H1ywDETmBq6GdyGC_liDs4Y92uELbgMZhtWeL2BD5UiIezSaPJEtWmpTfSh8OPcuWI2VWRqQ%3D%3D",
-    "source": "The Wall Street Journal",
-    "published_at": "2025-11-09T00:42:46.819142+08:00",
-    "summary": "Mina Fahmi, co-founder and CEO of Sandbar, on the company's new wearable Stream Ring.",
-    "scraped_at": "2025-11-09T00:43:00+08:00",
-    "canonical_url": "https://www.wsj.com/tech/personal-tech/stream-ring-wearable-ai-c135a21f"
-  },
-  {
-    "title": "Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic",
-    "url": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html",
-    "source": "The Hacker News",
-    "published_at": "2025-11-09T00:42:43.632119+08:00",
-    "summary": "Microsoft's Whisper Leak shows encrypted AI chats can secretly reveal user topics through subtle traffic patterns.",
-    "scraped_at": "2025-11-09T00:43:00+08:00",
-    "canonical_url": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html"
-  },
-  {
-    "title": "AI’s hidden recession: How fewer jobs and cultural backlash create a governance crisis",
-    "url": "https://fortune.com/2025/11/08/ai-hidden-recession-gender-inequality-patriarchy/",
-    "source": "Fortune",
-    "published_at": "2025-11-09T00:42:40.432798+08:00",
-    "summary": "AI will redefine how humans create value. Whether it also redefines who is allowed to create value will depend on the choices leaders make now.",
-    "scraped_at": "2025-11-09T00:43:00+08:00",
-    "canonical_url": "https://fortune.com/2025/11/08/ai-hidden-recession-gender-inequality-patriarchy/"
-  },
-  {
-    "title": "Your Turn | Fear of AI is rooted in fear of ourselves",
-    "url": "https://www.vcstar.com/story/opinion/2025/11/08/your-turn-fear-of-ai-is-rooted-in-fear-of-ourselves/87108436007/",
-    "source": "Ventura County Star",
-    "published_at": "2025-11-09T00:42:37.270877+08:00",
-    "summary": "Our view of artificial intelligence is crucial because it directly shapes how we use it, as AI is a double-edged sword.",
-    "scraped_at": "2025-11-09T00:43:00+08:00",
-    "canonical_url": "https://www.vcstar.com/story/opinion/2025/11/08/your-turn-fear-of-ai-is-rooted-in-fear-of-ourselves/87108436007/"
-  },
-  {
-    "title": "Gen AI Is Going Mainstream: Here’s What’s Coming Next",
-    "url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/",
-    "source": "Josh Bersin",
-    "published_at": "2025-11-09T00:42:33.867482+08:00",
-    "summary": "84% of leaders now use GenAI every week, and 45% daily. Now that AI has gone mainstream, what happens next?",
-    "scraped_at": "2025-11-09T00:43:00+08:00",
-    "canonical_url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/"
-  },
-  {
-    "title": "Debt Has Entered the A.I. Boom",
-    "url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html",
-    "source": "The New York Times",
-    "published_at": "2025-11-09T00:42:30.574502+08:00",
-    "summary": "To fund heavy spending on infrastructure for artificial intelligence, companies have leveraged a growing list of complex debt-financing options.",
-    "scraped_at": "2025-11-09T00:43:00+08:00",
-    "canonical_url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html"
   },
   {
     "title": "陸將贏AI競賽？輝達澄清： 美要贏得世界開發者才能領先",
