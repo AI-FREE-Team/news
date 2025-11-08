@@ -1,5 +1,95 @@
 [
   {
+    "title": "Recruiting companies are starting to hold job interviews using AI",
+    "url": "https://www.npr.org/2025/11/07/nx-s1-5600127/recruiting-companies-are-starting-to-hold-job-interviews-using-ai",
+    "source": "NPR",
+    "published_at": "2025-11-08T12:42:40.999197+08:00",
+    "summary": "Companies have begun using AI to interview potential employees, and a new study shows a number of job candidates may prefer being interviewed by AI.",
+    "scraped_at": "2025-11-08T12:42:41+08:00",
+    "canonical_url": "https://www.npr.org/2025/11/07/nx-s1-5600127/recruiting-companies-are-starting-to-hold-job-interviews-using-ai"
+  },
+  {
+    "title": "UW Language Institute hosts discussion on need for ethical guidelines in AI research",
+    "url": "https://badgerherald.com/news/campus/2025/11/07/uw-language-institute-hosts-discussion-on-need-for-ethical-guidelines-in-ai-research/",
+    "source": "The Badger Herald",
+    "published_at": "2025-11-08T12:42:37.521728+08:00",
+    "summary": "University of Wisconsin Language Institute hosted a brownbag discussion titled “AI and Questionable Research Practices: Ethical Considerations for Authors,...",
+    "scraped_at": "2025-11-08T12:42:41+08:00",
+    "canonical_url": "https://badgerherald.com/news/campus/2025/11/07/uw-language-institute-hosts-discussion-on-need-for-ethical-guidelines-in-ai-research/"
+  },
+  {
+    "title": "Indigenous AI risks and opportunities",
+    "url": "https://www.usatoday.com/story/tech/2025/11/07/indigenous-ai-risks-and-opportunities/86462594007/",
+    "source": "USA Today",
+    "published_at": "2025-11-08T12:42:33.784256+08:00",
+    "summary": "Tribal communities see opportunity and risk in artificial intelligence as they explore ways to enhance Indigenous culture.",
+    "scraped_at": "2025-11-08T12:42:41+08:00",
+    "canonical_url": "https://www.usatoday.com/story/tech/2025/11/07/indigenous-ai-risks-and-opportunities/86462594007/"
+  },
+  {
+    "title": "ChatGPT, Gemini: Why OpenAI, Google and Perplexity are offering free AI in India?",
+    "url": "https://www.bbc.com/news/articles/c14pr0enjr6o",
+    "source": "BBC",
+    "published_at": "2025-11-08T12:42:30.585849+08:00",
+    "summary": "Experts say India's vast, diverse and young user base makes it a key market for global AI expansion.",
+    "scraped_at": "2025-11-08T12:42:41+08:00",
+    "canonical_url": "https://www.bbc.com/news/articles/c14pr0enjr6o"
+  },
+  {
+    "title": "Nasdaq has worst week since April amid AI rally jitters, US yields slip",
+    "url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-11-07/",
+    "source": "Reuters",
+    "published_at": "2025-11-08T12:42:27.019883+08:00",
+    "summary": "The Nasdaq ended slightly lower on Friday but registered its biggest weekly percentage drop since early April as investors worried about the sustainability...",
+    "scraped_at": "2025-11-08T12:42:41+08:00",
+    "canonical_url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-11-07/"
+  },
+  {
+    "title": "Beyond the Hype: 5 Questions to Find the AI Use Cases That Matter",
+    "url": "https://www.shrm.org/labs/resources/beyond-the-hype--5-questions-to-find-the-ai-use-cases-that-matter",
+    "source": "SHRM",
+    "published_at": "2025-11-08T12:42:23.609680+08:00",
+    "summary": "The push to adopt artificial intelligence in HR is everywhere. Executives are asking how it can be implemented, and HR teams are eager to find tools that...",
+    "scraped_at": "2025-11-08T12:42:41+08:00",
+    "canonical_url": "https://www.shrm.org/labs/resources/beyond-the-hype--5-questions-to-find-the-ai-use-cases-that-matter"
+  },
+  {
+    "title": "How AI is changing medical education",
+    "url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html",
+    "source": "KevinMD.com",
+    "published_at": "2025-11-08T12:42:20.003059+08:00",
+    "summary": "A medical student reflects on how AI is reshaping medicine. The future isn't about machines replacing doctors, but augmenting them to focus on what matters...",
+    "scraped_at": "2025-11-08T12:42:41+08:00",
+    "canonical_url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html"
+  },
+  {
+    "title": "AI+Science Conference Comes to Caltech",
+    "url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech",
+    "source": "Caltech",
+    "published_at": "2025-11-08T12:42:16.668184+08:00",
+    "summary": "Large language models (LLMs) such as ChatGPT have quickly shown how artificial intelligence (AI) can impact workflow, content creation, and even our daily...",
+    "scraped_at": "2025-11-08T12:42:41+08:00",
+    "canonical_url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech"
+  },
+  {
+    "title": "A.I. Sweeps Through Newsrooms, but Is It a Journalist or a Tool?",
+    "url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-08T12:42:13.461357+08:00",
+    "summary": "A.I. has set off industrywide soul-searching about its potential and pitfalls.",
+    "scraped_at": "2025-11-08T12:42:41+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html"
+  },
+  {
+    "title": "The Boss Has a Message: Use AI or You’re Fired",
+    "url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df?gaa_at=eafs&gaa_n=AWEtsqeEuwpvKsCTMtPfezVNyU_bU2teAtISp2uD-D61qeW_f-AJSHPMbOJm&gaa_ts=690ecda2&gaa_sig=PXsfmThYEEtr25sb2nIMrevmosKWaLTI-zXih8O3bAKJJSxj1qbO0Kz-kxtq-n3jyzZQk4Sz_h8_Ptzo2xKKCQ%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-08T12:42:10.216224+08:00",
+    "summary": "At companies big and small, employees have feared being replaced by AI. The new threat: Being replaced by someone who knows AI.",
+    "scraped_at": "2025-11-08T12:42:41+08:00",
+    "canonical_url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df"
+  },
+  {
     "title": "AI 資金疑慮引發科技股拋售潮",
     "url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant",
     "source": "Markets.com",
@@ -72,60 +162,6 @@
     "canonical_url": "https://today.duke.edu/2025/11/putting-stronger-guardrails-around-ai"
   },
   {
-    "title": "Recruiting companies are starting to hold job interviews using AI",
-    "url": "https://www.npr.org/2025/11/07/nx-s1-5600127/recruiting-companies-are-starting-to-hold-job-interviews-using-ai",
-    "source": "NPR",
-    "published_at": "2025-11-08T09:17:52.752398+08:00",
-    "summary": "Companies have begun using AI to interview potential employees, and a new study shows a number of job candidates may prefer being interviewed by AI.",
-    "scraped_at": "2025-11-08T09:18:06+08:00",
-    "canonical_url": "https://www.npr.org/2025/11/07/nx-s1-5600127/recruiting-companies-are-starting-to-hold-job-interviews-using-ai"
-  },
-  {
-    "title": "Indigenous AI risks and opportunities",
-    "url": "https://www.usatoday.com/story/tech/2025/11/07/indigenous-ai-risks-and-opportunities/86462594007/",
-    "source": "USA Today",
-    "published_at": "2025-11-08T09:17:49.537677+08:00",
-    "summary": "Tribal communities see opportunity and risk in artificial intelligence as they explore ways to enhance Indigenous culture.",
-    "scraped_at": "2025-11-08T09:18:06+08:00",
-    "canonical_url": "https://www.usatoday.com/story/tech/2025/11/07/indigenous-ai-risks-and-opportunities/86462594007/"
-  },
-  {
-    "title": "How AI is changing medical education",
-    "url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html",
-    "source": "KevinMD.com",
-    "published_at": "2025-11-08T09:17:46.327251+08:00",
-    "summary": "A medical student reflects on how AI is reshaping medicine. The future isn't about machines replacing doctors, but augmenting them to focus on what matters...",
-    "scraped_at": "2025-11-08T09:18:06+08:00",
-    "canonical_url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html"
-  },
-  {
-    "title": "The Boss Has a Message: Use AI or You’re Fired",
-    "url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df?gaa_at=eafs&gaa_n=AWEtsqda-Xz3rTUD_eksgu5IpLh80f6B4z2RFX8PeXbOtUZqoLOi0UkyJsET&gaa_ts=690e9db1&gaa_sig=ramqsI3V-uzmYmZUEOMINQe2UTiWWhO1jI58LvRchwrsbf3JjPAPIzxSYQkDDdmzAqZKx6ViH11w-AaeoDXYQw%3D%3D",
-    "source": "The Wall Street Journal",
-    "published_at": "2025-11-08T09:17:42.951291+08:00",
-    "summary": "At companies big and small, employees have feared being replaced by AI. The new threat: Being replaced by someone who knows AI.",
-    "scraped_at": "2025-11-08T09:18:06+08:00",
-    "canonical_url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df"
-  },
-  {
-    "title": "AI+Science Conference Comes to Caltech",
-    "url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech",
-    "source": "Caltech",
-    "published_at": "2025-11-08T09:17:39.746217+08:00",
-    "summary": "Large language models (LLMs) such as ChatGPT have quickly shown how artificial intelligence (AI) can impact workflow, content creation, and even our daily...",
-    "scraped_at": "2025-11-08T09:18:06+08:00",
-    "canonical_url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech"
-  },
-  {
-    "title": "A.I. Sweeps Through Newsrooms, but Is It a Journalist or a Tool?",
-    "url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html",
-    "source": "The New York Times",
-    "published_at": "2025-11-08T09:17:36.623178+08:00",
-    "summary": "Ryan Sabalow, a reporter for the newsroom CalMatters, noticed something peculiar when he began covering California lawmakers in 2023.",
-    "scraped_at": "2025-11-08T09:18:06+08:00",
-    "canonical_url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html"
-  },
-  {
     "title": "Democratizing AI: How Thomson Reuters Open Arena supports no-code AI for every professional with Amazon Bedrock",
     "url": "https://aws.amazon.com/blogs/machine-learning/democratizing-ai-how-thomson-reuters-open-arena-supports-no-code-ai-for-every-professional-with-amazon-bedrock/",
     "source": "Amazon Web Services (AWS)",
@@ -151,15 +187,6 @@
     "summary": "The Ohio State University has announced a major Artificial Intelligence (AI) Faculty Hiring Initiative that will add 100 new tenure-track faculty with...",
     "scraped_at": "2025-11-08T07:50:43+08:00",
     "canonical_url": "https://news.osu.edu/ohio-state-to-hire-100-new-faculty-with-ai-expertise/"
-  },
-  {
-    "title": "Nasdaq has worst week since April amid AI rally jitters, US yields slip",
-    "url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-11-07/",
-    "source": "Reuters",
-    "published_at": "2025-11-08T07:50:32.932607+08:00",
-    "summary": "The Nasdaq ended barely lower on Friday but registered its biggest weekly percentage drop since early April as investors worried about the sustainability of...",
-    "scraped_at": "2025-11-08T07:50:43+08:00",
-    "canonical_url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-11-07/"
   },
   {
     "title": "Michigan Utility Rate Is Intended as Shelter From AI Costs",
