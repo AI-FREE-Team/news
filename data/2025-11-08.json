@@ -1,12 +1,93 @@
 [
   {
+    "title": "Agentic AI startup Trase emerges from stealth with a $10.5 million pre-seed",
+    "url": "https://technical.ly/entrepreneurship/agentic-ai-startup-trase-raises-10m/",
+    "source": "Technical.ly",
+    "published_at": "2025-11-08T21:05:45.020291+08:00",
+    "summary": "Trase, a Northern Virginia agentic AI startup that only charges companies if its platform actually makes them more efficient, emerged from stealth this week...",
+    "scraped_at": "2025-11-08T21:05:45+08:00",
+    "canonical_url": "https://technical.ly/entrepreneurship/agentic-ai-startup-trase-raises-10m/"
+  },
+  {
+    "title": "AI+Science Conference Comes to Caltech",
+    "url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech",
+    "source": "Caltech",
+    "published_at": "2025-11-08T21:05:41.801377+08:00",
+    "summary": "Large language models (LLMs) such as ChatGPT have quickly shown how artificial intelligence (AI) can impact workflow, content creation, and even our daily...",
+    "scraped_at": "2025-11-08T21:05:45+08:00",
+    "canonical_url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech"
+  },
+  {
+    "title": "Prospective Study Shows Capability of CXR AI to Detect Early-Stage Lung Cancer in Young Patients and Never Smokers",
+    "url": "https://www.diagnosticimaging.com/view/prospective-study-cxr-ai-detect-early-stage-lung-cancer-young-patients-never-smokers",
+    "source": "Diagnostic Imaging",
+    "published_at": "2025-11-08T21:05:38.734735+08:00",
+    "summary": "In a recent interview, Hari Kishan Gonuguntla, M.D., discussed AI-powered evaluation of chest X-rays with the Lung Nodule Malignancy Score software and key...",
+    "scraped_at": "2025-11-08T21:05:45+08:00",
+    "canonical_url": "https://www.diagnosticimaging.com/view/prospective-study-cxr-ai-detect-early-stage-lung-cancer-young-patients-never-smokers"
+  },
+  {
     "title": "During The AI Journey To AGI There Is Concern That We Will Be Like Frogs In A Slowly Boiling Pot",
     "url": "https://www.forbes.com/sites/lanceeliot/2025/11/08/during-the-ai-journey-to-agi-there-is-concern-that-we-will-be-like-frogs-in-a-slowly-boiling-pot/",
     "source": "Forbes",
-    "published_at": "2025-11-08T20:32:47.316090+08:00",
+    "published_at": "2025-11-08T21:05:34.926527+08:00",
     "summary": "The boiling frog theory says that we can be immersed in a process that leads to a bad outcome and not realize it. Is this true for AI-to-AGI?",
-    "scraped_at": "2025-11-08T20:32:47+08:00",
+    "scraped_at": "2025-11-08T21:05:45+08:00",
     "canonical_url": "https://www.forbes.com/sites/lanceeliot/2025/11/08/during-the-ai-journey-to-agi-there-is-concern-that-we-will-be-like-frogs-in-a-slowly-boiling-pot/"
+  },
+  {
+    "title": "Libraries open their archives to train AI chatbots with books spanning centuries of human knowledge",
+    "url": "https://www.milwaukeeindependent.com/newswire/libraries-open-archives-train-ai-chatbots-books-spanning-centuries-human-knowledge/",
+    "source": "Milwaukee Independent",
+    "published_at": "2025-11-08T21:05:31.792995+08:00",
+    "summary": "Everything ever said on the internet was just the start of teaching artificial intelligence about humanity. Tech companies are now tapping into an older...",
+    "scraped_at": "2025-11-08T21:05:45+08:00",
+    "canonical_url": "https://www.milwaukeeindependent.com/newswire/libraries-open-archives-train-ai-chatbots-books-spanning-centuries-human-knowledge/"
+  },
+  {
+    "title": "Transcript: How to Use AI to Make Money, Save Time, and Be More Productive: Allie K. Miller",
+    "url": "https://singjupost.com/transcript-how-to-use-ai-to-make-money-save-time-and-be-more-productive-allie-k-miller/",
+    "source": "The Singju Post",
+    "published_at": "2025-11-08T21:05:28.288477+08:00",
+    "summary": "Read the full transcript of AI leader Allie K. Miller's interview on The Mel Robbins Podcast episode titled ” How to Use AI to Make Money, Save Time,...",
+    "scraped_at": "2025-11-08T21:05:45+08:00",
+    "canonical_url": "https://singjupost.com/transcript-how-to-use-ai-to-make-money-save-time-and-be-more-productive-allie-k-miller/"
+  },
+  {
+    "title": "As AI becomes all-encompassing, Rochester Public Schools tries to find balance",
+    "url": "https://www.postbulletin.com/news/local/as-ai-becomes-all-encompassing-rochester-public-schools-tries-to-find-balance",
+    "source": "Post Bulletin",
+    "published_at": "2025-11-08T21:05:23.192512+08:00",
+    "summary": "One of the worst things people in education can do around AI is nothing,” said Naomi Hughes, a media specialist. “Because kids are already using it.”",
+    "scraped_at": "2025-11-08T21:05:45+08:00",
+    "canonical_url": "https://www.postbulletin.com/news/local/as-ai-becomes-all-encompassing-rochester-public-schools-tries-to-find-balance"
+  },
+  {
+    "title": "A.I. Isn’t the Only Thing Pushing Up Electricity Bills. (But It’s Mostly A.I.)",
+    "url": "https://www.nytimes.com/2025/11/08/business/exelon-calvin-butler-ai-data-centers.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-08T21:05:20.074273+08:00",
+    "summary": "Calvin Butler, the chief executive of Exelon, one of the nation's largest utility companies, is trying to keep the lights on.",
+    "scraped_at": "2025-11-08T21:05:45+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/08/business/exelon-calvin-butler-ai-data-centers.html"
+  },
+  {
+    "title": "Manager Support Drives Employee AI Adoption",
+    "url": "https://www.gallup.com/workplace/694682/manager-support-drives-employee-adoption.aspx",
+    "source": "Gallup.com",
+    "published_at": "2025-11-08T21:05:17.025606+08:00",
+    "summary": "Despite rising investment, few firms see AI ROI. The missing link: managers who encourage the adoption of AI by guiding employees and workflows.",
+    "scraped_at": "2025-11-08T21:05:45+08:00",
+    "canonical_url": "https://www.gallup.com/workplace/694682/manager-support-drives-employee-adoption.aspx"
+  },
+  {
+    "title": "Main Street's job fears hit Wall Street as AI rally falters",
+    "url": "https://www.freep.com/story/money/business/2025/11/08/main-street-job-fears-wall-street-ai-rally/87147357007/",
+    "source": "Detroit Free Press",
+    "published_at": "2025-11-08T21:05:13.764684+08:00",
+    "summary": "A series of events sent technology and AI-linked stocks into their worst week since April's tariff-driven sell-off.",
+    "scraped_at": "2025-11-08T21:05:45+08:00",
+    "canonical_url": "https://www.freep.com/story/money/business/2025/11/08/main-street-job-fears-wall-street-ai-rally/87147357007/"
   },
   {
     "title": "Warren Buffett's cash fortress Berkshire closes gap with S&P 500 as AI worries depress Wall Street",
@@ -18,15 +99,6 @@
     "canonical_url": "https://www.cnbc.com/2025/11/08/warren-buffetts-cash-fortress-berkshire-closes-gap-with-sp-500-as-ai-worries-depress-wall-street.html"
   },
   {
-    "title": "Agentic AI startup Trase emerges from stealth with a $10.5 million pre-seed",
-    "url": "https://technical.ly/entrepreneurship/agentic-ai-startup-trase-raises-10m/",
-    "source": "Technical.ly",
-    "published_at": "2025-11-08T20:32:40.714095+08:00",
-    "summary": "Trase, a Northern Virginia agentic AI startup that only charges companies if its platform actually makes them more efficient, emerged from stealth this week...",
-    "scraped_at": "2025-11-08T20:32:47+08:00",
-    "canonical_url": "https://technical.ly/entrepreneurship/agentic-ai-startup-trase-raises-10m/"
-  },
-  {
     "title": "The Boss Has a Message: Use AI or You’re Fired",
     "url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df?gaa_at=eafs&gaa_n=AWEtsqdsExKyqujtljeuq47Av9qrPxc-z9ZxtYXc8IssDRVPKA8yehLuSfPv&gaa_ts=690f3bd1&gaa_sig=Ffc_TUJhcaH4JmjmVdzIKnU21DHYArLaoTfQu0iu9Go8TjYW8jK7V6DmkMkpfz4aQFvxaqojj7rf4OnW3_pztw%3D%3D",
     "source": "The Wall Street Journal",
@@ -34,60 +106,6 @@
     "summary": "At companies big and small, employees have feared being replaced by AI. The new threat: Being replaced by someone who knows AI.",
     "scraped_at": "2025-11-08T20:32:47+08:00",
     "canonical_url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df"
-  },
-  {
-    "title": "AI+Science Conference Comes to Caltech",
-    "url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech",
-    "source": "Caltech",
-    "published_at": "2025-11-08T20:32:33.914620+08:00",
-    "summary": "Large language models (LLMs) such as ChatGPT have quickly shown how artificial intelligence (AI) can impact workflow, content creation, and even our daily...",
-    "scraped_at": "2025-11-08T20:32:47+08:00",
-    "canonical_url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech"
-  },
-  {
-    "title": "Prospective Study Shows Capability of CXR AI to Detect Early-Stage Lung Cancer in Young Patients and Never Smokers",
-    "url": "https://www.diagnosticimaging.com/view/prospective-study-cxr-ai-detect-early-stage-lung-cancer-young-patients-never-smokers",
-    "source": "Diagnostic Imaging",
-    "published_at": "2025-11-08T20:32:30.826030+08:00",
-    "summary": "In a recent interview, Hari Kishan Gonuguntla, M.D., discussed AI-powered evaluation of chest X-rays with the Lung Nodule Malignancy Score software and key...",
-    "scraped_at": "2025-11-08T20:32:47+08:00",
-    "canonical_url": "https://www.diagnosticimaging.com/view/prospective-study-cxr-ai-detect-early-stage-lung-cancer-young-patients-never-smokers"
-  },
-  {
-    "title": "Libraries open their archives to train AI chatbots with books spanning centuries of human knowledge",
-    "url": "https://www.milwaukeeindependent.com/newswire/libraries-open-archives-train-ai-chatbots-books-spanning-centuries-human-knowledge/",
-    "source": "Milwaukee Independent",
-    "published_at": "2025-11-08T20:32:26.829066+08:00",
-    "summary": "Everything ever said on the internet was just the start of teaching artificial intelligence about humanity. Tech companies are now tapping into an older...",
-    "scraped_at": "2025-11-08T20:32:47+08:00",
-    "canonical_url": "https://www.milwaukeeindependent.com/newswire/libraries-open-archives-train-ai-chatbots-books-spanning-centuries-human-knowledge/"
-  },
-  {
-    "title": "A.I. Isn’t the Only Thing Pushing Up Electricity Bills. (But It’s Mostly A.I.)",
-    "url": "https://www.nytimes.com/2025/11/08/business/exelon-calvin-butler-ai-data-centers.html",
-    "source": "The New York Times",
-    "published_at": "2025-11-08T20:32:23.432101+08:00",
-    "summary": "Calvin Butler, the chief executive of Exelon, one of the nation's largest utility companies, is trying to keep the lights on.",
-    "scraped_at": "2025-11-08T20:32:47+08:00",
-    "canonical_url": "https://www.nytimes.com/2025/11/08/business/exelon-calvin-butler-ai-data-centers.html"
-  },
-  {
-    "title": "Manager Support Drives Employee AI Adoption",
-    "url": "https://www.gallup.com/workplace/694682/manager-support-drives-employee-adoption.aspx",
-    "source": "Gallup.com",
-    "published_at": "2025-11-08T20:32:20.267010+08:00",
-    "summary": "Despite rising investment, few firms see AI ROI. The missing link: managers who encourage the adoption of AI by guiding employees and workflows.",
-    "scraped_at": "2025-11-08T20:32:47+08:00",
-    "canonical_url": "https://www.gallup.com/workplace/694682/manager-support-drives-employee-adoption.aspx"
-  },
-  {
-    "title": "Main Street's job fears hit Wall Street as AI rally falters",
-    "url": "https://www.freep.com/story/money/business/2025/11/08/main-street-job-fears-wall-street-ai-rally/87147357007/",
-    "source": "Detroit Free Press",
-    "published_at": "2025-11-08T20:32:16.834638+08:00",
-    "summary": "A series of events sent technology and AI-linked stocks into their worst week since April's tariff-driven sell-off.",
-    "scraped_at": "2025-11-08T20:32:47+08:00",
-    "canonical_url": "https://www.freep.com/story/money/business/2025/11/08/main-street-job-fears-wall-street-ai-rally/87147357007/"
   },
   {
     "title": "AI Superstars Nvidia and Palantir Are Teaming Up. Here's Which Stock I'm Buying Now.",
