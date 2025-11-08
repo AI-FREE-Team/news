@@ -1,5 +1,149 @@
 [
   {
+    "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
+    "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
+    "source": "CNBC",
+    "published_at": "2025-11-08T23:50:38.177728+08:00",
+    "summary": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job...",
+    "scraped_at": "2025-11-08T23:50:38+08:00",
+    "canonical_url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html"
+  },
+  {
+    "title": "Wearable Tech Takes a Leap Forward With AI",
+    "url": "https://www.wsj.com/tech/personal-tech/stream-ring-wearable-ai-c135a21f?gaa_at=eafs&gaa_n=AWEtsqfdRPeL9ceCgBqvebihVgz-vkNGGKRmkQhl27l6h4VDOmugRYTW_Rez&gaa_ts=690f6a31&gaa_sig=By9zqbwMxP6jhVwGwnDn8kWqraer127H-raO8fhhwfbLmleomW_PU8zal0IMEHzJCRzdYYnTfJbVCV8Px4XLyw%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-08T23:50:34.945403+08:00",
+    "summary": "Mina Fahmi, co-founder and CEO of Sandbar, on the company's new wearable Stream Ring.",
+    "scraped_at": "2025-11-08T23:50:38+08:00",
+    "canonical_url": "https://www.wsj.com/tech/personal-tech/stream-ring-wearable-ai-c135a21f"
+  },
+  {
+    "title": "Manager Support Drives Employee AI Adoption",
+    "url": "https://www.gallup.com/workplace/694682/manager-support-drives-employee-adoption.aspx",
+    "source": "Gallup.com",
+    "published_at": "2025-11-08T23:50:31.734874+08:00",
+    "summary": "Despite rising investment, few firms see AI ROI. The missing link: managers who encourage the adoption of AI by guiding employees and workflows.",
+    "scraped_at": "2025-11-08T23:50:38+08:00",
+    "canonical_url": "https://www.gallup.com/workplace/694682/manager-support-drives-employee-adoption.aspx"
+  },
+  {
+    "title": "Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic",
+    "url": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html",
+    "source": "The Hacker News",
+    "published_at": "2025-11-08T23:50:28.280269+08:00",
+    "summary": "Microsoft's Whisper Leak shows encrypted AI chats can secretly reveal user topics through subtle traffic patterns.",
+    "scraped_at": "2025-11-08T23:50:38+08:00",
+    "canonical_url": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html"
+  },
+  {
+    "title": "Mothers say AI chatbots encouraged their sons to kill themselves",
+    "url": "https://www.bbc.com/news/articles/ce3xgwyywe4o",
+    "source": "BBC",
+    "published_at": "2025-11-08T23:50:25.066852+08:00",
+    "summary": "In her first UK interview Megan Garcia speaks to Laura Kuenssberg about the death of her teenage son.",
+    "scraped_at": "2025-11-08T23:50:38+08:00",
+    "canonical_url": "https://www.bbc.com/news/articles/ce3xgwyywe4o"
+  },
+  {
+    "title": "Main Street's job fears hit Wall Street as AI rally falters",
+    "url": "https://www.freep.com/story/money/business/2025/11/08/main-street-job-fears-wall-street-ai-rally/87147357007/",
+    "source": "Detroit Free Press",
+    "published_at": "2025-11-08T23:50:21.768911+08:00",
+    "summary": "A series of events sent technology and AI-linked stocks into their worst week since April's tariff-driven sell-off.",
+    "scraped_at": "2025-11-08T23:50:38+08:00",
+    "canonical_url": "https://www.freep.com/story/money/business/2025/11/08/main-street-job-fears-wall-street-ai-rally/87147357007/"
+  },
+  {
+    "title": "Your Turn | Fear of AI is rooted in fear of ourselves",
+    "url": "https://www.vcstar.com/story/opinion/2025/11/08/your-turn-fear-of-ai-is-rooted-in-fear-of-ourselves/87108436007/",
+    "source": "Ventura County Star",
+    "published_at": "2025-11-08T23:50:18.540378+08:00",
+    "summary": "Our view of artificial intelligence is crucial because it directly shapes how we use it, as AI is a double-edged sword.",
+    "scraped_at": "2025-11-08T23:50:38+08:00",
+    "canonical_url": "https://www.vcstar.com/story/opinion/2025/11/08/your-turn-fear-of-ai-is-rooted-in-fear-of-ourselves/87108436007/"
+  },
+  {
+    "title": "AI’s hidden recession: How fewer jobs and cultural backlash create a governance crisis",
+    "url": "https://fortune.com/2025/11/08/ai-hidden-recession-gender-inequality-patriarchy/",
+    "source": "Fortune",
+    "published_at": "2025-11-08T23:50:15.266735+08:00",
+    "summary": "AI will redefine how humans create value. Whether it also redefines who is allowed to create value will depend on the choices leaders make now.",
+    "scraped_at": "2025-11-08T23:50:38+08:00",
+    "canonical_url": "https://fortune.com/2025/11/08/ai-hidden-recession-gender-inequality-patriarchy/"
+  },
+  {
+    "title": "Gen AI Is Going Mainstream: Here’s What’s Coming Next",
+    "url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/",
+    "source": "Josh Bersin",
+    "published_at": "2025-11-08T23:50:12.095203+08:00",
+    "summary": "84% of leaders now use GenAI every week, and 45% daily. Now that AI has gone mainstream, what happens next?",
+    "scraped_at": "2025-11-08T23:50:38+08:00",
+    "canonical_url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/"
+  },
+  {
+    "title": "Debt Has Entered the A.I. Boom",
+    "url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-08T23:50:08.839552+08:00",
+    "summary": "To fund heavy spending on infrastructure for artificial intelligence, companies have leveraged a growing list of complex debt-financing options.",
+    "scraped_at": "2025-11-08T23:50:38+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html"
+  },
+  {
+    "title": "Conow Launches CBE2000 Pro: Redefining Home Energy Management with AI",
+    "url": "https://www.macaubusiness.com/conow-launches-cbe2000-pro-redefining-home-energy-management-with-ai-2/",
+    "source": "Macau Business",
+    "published_at": "2025-11-08T23:50:04.635226+08:00",
+    "summary": "DÜSSELDORF, GERMANY – Media OutReach Newswire – 8 November 2025 – Global AI energy brand Conow has officially launched the next-generation home micro-energy...",
+    "scraped_at": "2025-11-08T23:50:38+08:00",
+    "canonical_url": "https://www.macaubusiness.com/conow-launches-cbe2000-pro-redefining-home-energy-management-with-ai-2/"
+  },
+  {
+    "title": "不實AI造假影射影片流傳 能源署譴責",
+    "url": "https://tw.news.yahoo.com/%E4%B8%8D%E5%AF%A6ai%E9%80%A0%E5%81%87%E5%BD%B1%E5%B0%84%E5%BD%B1%E7%89%87%E6%B5%81%E5%82%B3-%E8%83%BD%E6%BA%90%E7%BD%B2%E8%AD%B4%E8%B2%AC-081949482.html",
+    "source": "奇摩新聞",
+    "published_at": "2025-11-08T23:49:58.109721+08:00",
+    "summary": "某些網路人士多次利用AI軟體製作及散播不實資訊等造假影射影片，意圖利用假訊息、假影像創造民眾恐慌及聲量，實不可取。經濟部能源署再次嚴正譴責造謠生事的造假行為。",
+    "scraped_at": "2025-11-08T23:50:38+08:00",
+    "canonical_url": "https://tw.news.yahoo.com/%E4%B8%8D%E5%AF%A6ai%E9%80%A0%E5%81%87%E5%BD%B1%E5%B0%84%E5%BD%B1%E7%89%87%E6%B5%81%E5%82%B3-%E8%83%BD%E6%BA%90%E7%BD%B2%E8%AD%B4%E8%B2%AC-081949482.html"
+  },
+  {
+    "title": "AI 資金疑慮引發科技股拋售潮",
+    "url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant",
+    "source": "Markets.com",
+    "published_at": "2025-11-08T23:49:54.262663+08:00",
+    "summary": "主要科技股因對大規模AI 專案（尤其是OpenAI 的計畫）的資金問題感到擔憂而下跌。",
+    "scraped_at": "2025-11-08T23:50:38+08:00",
+    "canonical_url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant"
+  },
+  {
+    "title": "科技備份、AI修復舊照片別拖延 防範珍貴回憶瞬間消失",
+    "url": "https://www.worldjournal.com/wj/amp/story/122693/9126037",
+    "source": "世界新聞網",
+    "published_at": "2025-11-08T23:49:50.638526+08:00",
+    "summary": "KTLA 5電視台報導，許多人家中一角，可能堆滿與家人親友的回憶照片，手機也存放著幾千甚至幾萬張照片。然這些回憶，有一天可能以想像不到的速度快速消失。",
+    "scraped_at": "2025-11-08T23:50:38+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/amp/story/122693/9126037"
+  },
+  {
+    "title": "Symphony AI推出Sensa風險智慧， 利用成熟的人工智慧專業知識實現財務合規現代化",
+    "url": "https://www.businesswire.com/news/home/20251104704243/zh-HK",
+    "source": "Business Wire",
+    "published_at": "2025-11-08T23:49:47.451666+08:00",
+    "summary": "(美國商業資訊)-- 垂直人工智慧產品平臺的全球領導者SymphonyAI今天宣佈推出Sensa Risk Intelligence（SRI），這是一個基於數十年監管和金融犯罪專業知識的人工智慧原生...",
+    "scraped_at": "2025-11-08T23:50:38+08:00",
+    "canonical_url": "https://www.businesswire.com/news/home/20251104704243/zh-HK"
+  },
+  {
+    "title": "Datavault AI 與 Rodney's Comedy Club",
+    "url": "https://www.globenewswire.com/news-release/2025/11/08/3184044/0/zh-hant/Datavault-AI-%E8%88%87-Rodney-s-Comedy-Club-%E8%81%AF%E6%89%8B%E5%90%88%E4%BD%9C-%E9%80%8F%E9%81%8E%E7%8F%BE%E5%A0%B4%E7%AC%91%E8%A9%B1%E7%89%88%E6%AC%8A%E8%AA%8D%E8%AD%89%E5%8F%8A%E6%A5%AD%E7%95%8C%E9%A6%96%E5%89%B5%E6%AD%A1%E7%AC%91%E6%8C%87%E6%95%B8-%E7%82%BA%E7%8F%BE%E5%A0%B4%E5%A8%9B%E6%A8%82%E8%A1%A8%E6%BC%94%E6%B3%A8%E5%85%A5%E6%95%B8%E7%A2%BC%E5%89%B5%E6%96%B0%E5%8B%95%E5%8A%9B.html",
+    "source": "GlobeNewswire",
+    "published_at": "2025-11-08T23:49:44.276963+08:00",
+    "summary": "Datavault AI™ 將其VerifyU 憑證平台及ADIO 互動技術擴展至娛樂版權及夜生活領域，這個飛快發展的市場對真實數碼驗證及即時數據盈利化需求殷切...",
+    "scraped_at": "2025-11-08T23:50:38+08:00",
+    "canonical_url": "https://www.globenewswire.com/news-release/2025/11/08/3184044/0/zh-hant/Datavault-AI-%E8%88%87-Rodney-s-Comedy-Club-%E8%81%AF%E6%89%8B%E5%90%88%E4%BD%9C-%E9%80%8F%E9%81%8E%E7%8F%BE%E5%A0%B4%E7%AC%91%E8%A9%B1%E7%89%88%E6%AC%8A%E8%AA%8D%E8%AD%89%E5%8F%8A%E6%A5%AD%E7%95%8C%E9%A6%96%E5%89%B5%E6%AD%A1%E7%AC%91%E6%8C%87%E6%95%B8-%E7%82%BA%E7%8F%BE%E5%A0%B4%E5%A8%9B%E6%A8%82%E8%A1%A8%E6%BC%94%E6%B3%A8%E5%85%A5%E6%95%B8%E7%A2%BC%E5%89%B5%E6%96%B0%E5%8B%95%E5%8A%9B.html"
+  },
+  {
     "title": "NVIDIA at HPE Discover 2025 | Barcelona | Dec 3–4",
     "url": "https://www.nvidia.com/en-eu/events/hpe-discover/",
     "source": "NVIDIA",
@@ -7,87 +151,6 @@
     "summary": "Join us Dec 3–4 at Fira Barcelona Gran Via to explore AI, hybrid cloud, and edge-to-cloud solutions redefining enterprise IT with NVIDIA and HPE.",
     "scraped_at": "2025-11-08T23:37:44+08:00",
     "canonical_url": "https://www.nvidia.com/en-eu/events/hpe-discover/"
-  },
-  {
-    "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
-    "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
-    "source": "CNBC",
-    "published_at": "2025-11-08T23:37:40.744786+08:00",
-    "summary": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job...",
-    "scraped_at": "2025-11-08T23:37:44+08:00",
-    "canonical_url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html"
-  },
-  {
-    "title": "Wearable Tech Takes a Leap Forward With AI",
-    "url": "https://www.wsj.com/tech/personal-tech/stream-ring-wearable-ai-c135a21f?gaa_at=eafs&gaa_n=AWEtsqcOhkj8DU6ehaLkDyubpjHnZwnziyr23iWxc7PG6OPO-S7HaoH2ihJf&gaa_ts=690f672b&gaa_sig=HR2ySNCQDC-efJDa9T4Kk2wi_cuwbtpogNyR1rSUCMT6OvBb20Pfs33sEBLLY8kMMN_0OlqZn9LHR6wd_9UsHQ%3D%3D",
-    "source": "The Wall Street Journal",
-    "published_at": "2025-11-08T23:37:37.542750+08:00",
-    "summary": "Mina Fahmi, co-founder and CEO of Sandbar, on the company's new wearable Stream Ring.",
-    "scraped_at": "2025-11-08T23:37:44+08:00",
-    "canonical_url": "https://www.wsj.com/tech/personal-tech/stream-ring-wearable-ai-c135a21f"
-  },
-  {
-    "title": "Your Turn | Fear of AI is rooted in fear of ourselves",
-    "url": "https://www.vcstar.com/story/opinion/2025/11/08/your-turn-fear-of-ai-is-rooted-in-fear-of-ourselves/87108436007/",
-    "source": "Ventura County Star",
-    "published_at": "2025-11-08T23:37:34.305931+08:00",
-    "summary": "Our view of artificial intelligence is crucial because it directly shapes how we use it, as AI is a double-edged sword.",
-    "scraped_at": "2025-11-08T23:37:44+08:00",
-    "canonical_url": "https://www.vcstar.com/story/opinion/2025/11/08/your-turn-fear-of-ai-is-rooted-in-fear-of-ourselves/87108436007/"
-  },
-  {
-    "title": "Manager Support Drives Employee AI Adoption",
-    "url": "https://www.gallup.com/workplace/694682/manager-support-drives-employee-adoption.aspx",
-    "source": "Gallup.com",
-    "published_at": "2025-11-08T23:37:30.837703+08:00",
-    "summary": "Despite rising investment, few firms see AI ROI. The missing link: managers who encourage the adoption of AI by guiding employees and workflows.",
-    "scraped_at": "2025-11-08T23:37:44+08:00",
-    "canonical_url": "https://www.gallup.com/workplace/694682/manager-support-drives-employee-adoption.aspx"
-  },
-  {
-    "title": "Mothers say AI chatbots encouraged their sons to kill themselves",
-    "url": "https://www.bbc.com/news/articles/ce3xgwyywe4o",
-    "source": "BBC",
-    "published_at": "2025-11-08T23:37:27.530073+08:00",
-    "summary": "In her first UK interview Megan Garcia speaks to Laura Kuenssberg about the death of her teenage son.",
-    "scraped_at": "2025-11-08T23:37:44+08:00",
-    "canonical_url": "https://www.bbc.com/news/articles/ce3xgwyywe4o"
-  },
-  {
-    "title": "Main Street's job fears hit Wall Street as AI rally falters",
-    "url": "https://www.freep.com/story/money/business/2025/11/08/main-street-job-fears-wall-street-ai-rally/87147357007/",
-    "source": "Detroit Free Press",
-    "published_at": "2025-11-08T23:37:24.170271+08:00",
-    "summary": "A series of events sent technology and AI-linked stocks into their worst week since April's tariff-driven sell-off.",
-    "scraped_at": "2025-11-08T23:37:44+08:00",
-    "canonical_url": "https://www.freep.com/story/money/business/2025/11/08/main-street-job-fears-wall-street-ai-rally/87147357007/"
-  },
-  {
-    "title": "AI’s hidden recession: How fewer jobs and cultural backlash create a governance crisis",
-    "url": "https://fortune.com/2025/11/08/ai-hidden-recession-gender-inequality-patriarchy/",
-    "source": "Fortune",
-    "published_at": "2025-11-08T23:37:20.896124+08:00",
-    "summary": "AI will redefine how humans create value. Whether it also redefines who is allowed to create value will depend on the choices leaders make now.",
-    "scraped_at": "2025-11-08T23:37:44+08:00",
-    "canonical_url": "https://fortune.com/2025/11/08/ai-hidden-recession-gender-inequality-patriarchy/"
-  },
-  {
-    "title": "Gen AI Is Going Mainstream: Here’s What’s Coming Next",
-    "url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/",
-    "source": "Josh Bersin",
-    "published_at": "2025-11-08T23:37:17.752975+08:00",
-    "summary": "84% of leaders now use GenAI every week, and 45% daily. Now that AI has gone mainstream, what happens next?",
-    "scraped_at": "2025-11-08T23:37:44+08:00",
-    "canonical_url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/"
-  },
-  {
-    "title": "Debt Has Entered the A.I. Boom",
-    "url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html",
-    "source": "The New York Times",
-    "published_at": "2025-11-08T23:37:14.461462+08:00",
-    "summary": "To fund heavy spending on infrastructure for artificial intelligence, companies have leveraged a growing list of complex debt-financing options.",
-    "scraped_at": "2025-11-08T23:37:44+08:00",
-    "canonical_url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html"
   },
   {
     "title": "AI-Based Digital Pathology Confirms Histological Fibrosis Improvements with Eruxifermin",
@@ -108,15 +171,6 @@
     "canonical_url": "https://www.postbulletin.com/news/local/as-ai-becomes-all-encompassing-rochester-public-schools-tries-to-find-balance"
   },
   {
-    "title": "不實AI造假影射影片流傳 能源署譴責",
-    "url": "https://tw.news.yahoo.com/%E4%B8%8D%E5%AF%A6ai%E9%80%A0%E5%81%87%E5%BD%B1%E5%B0%84%E5%BD%B1%E7%89%87%E6%B5%81%E5%82%B3-%E8%83%BD%E6%BA%90%E7%BD%B2%E8%AD%B4%E8%B2%AC-081949482.html",
-    "source": "奇摩新聞",
-    "published_at": "2025-11-08T23:16:04.341342+08:00",
-    "summary": "某些網路人士多次利用AI軟體製作及散播不實資訊等造假影射影片，意圖利用假訊息、假影像創造民眾恐慌及聲量，實不可取。經濟部能源署再次嚴正譴責造謠生事的造假行為。",
-    "scraped_at": "2025-11-08T23:16:42+08:00",
-    "canonical_url": "https://tw.news.yahoo.com/%E4%B8%8D%E5%AF%A6ai%E9%80%A0%E5%81%87%E5%BD%B1%E5%B0%84%E5%BD%B1%E7%89%87%E6%B5%81%E5%82%B3-%E8%83%BD%E6%BA%90%E7%BD%B2%E8%AD%B4%E8%B2%AC-081949482.html"
-  },
-  {
     "title": "AI副駕幫你找餐廳、報路況 谷歌地圖一句話全搞定",
     "url": "https://www.worldjournal.com/wj/story/122693/9123788",
     "source": "世界新聞網",
@@ -124,24 +178,6 @@
     "summary": "隨著各大科技公司競相開發人工智能（AI）應用方案，谷歌即將把其AI助理Gemini整合到谷歌地圖（Google Maps...",
     "scraped_at": "2025-11-08T23:16:42+08:00",
     "canonical_url": "https://www.worldjournal.com/wj/story/122693/9123788"
-  },
-  {
-    "title": "Symphony AI推出Sensa風險智慧， 利用成熟的人工智慧專業知識實現財務合規現代化",
-    "url": "https://www.businesswire.com/news/home/20251104704243/zh-HK",
-    "source": "Business Wire",
-    "published_at": "2025-11-08T23:15:56.806172+08:00",
-    "summary": "(美國商業資訊)-- 垂直人工智慧產品平臺的全球領導者SymphonyAI今天宣佈推出Sensa Risk Intelligence（SRI），這是一個基於數十年監管和金融犯罪專業知識的人工智慧原生...",
-    "scraped_at": "2025-11-08T23:16:42+08:00",
-    "canonical_url": "https://www.businesswire.com/news/home/20251104704243/zh-HK"
-  },
-  {
-    "title": "Datavault AI 與 Rodney's Comedy Club",
-    "url": "https://www.globenewswire.com/news-release/2025/11/08/3184044/0/zh-hant/Datavault-AI-%E8%88%87-Rodney-s-Comedy-Club-%E8%81%AF%E6%89%8B%E5%90%88%E4%BD%9C-%E9%80%8F%E9%81%8E%E7%8F%BE%E5%A0%B4%E7%AC%91%E8%A9%B1%E7%89%88%E6%AC%8A%E8%AA%8D%E8%AD%89%E5%8F%8A%E6%A5%AD%E7%95%8C%E9%A6%96%E5%89%B5%E6%AD%A1%E7%AC%91%E6%8C%87%E6%95%B8-%E7%82%BA%E7%8F%BE%E5%A0%B4%E5%A8%9B%E6%A8%82%E8%A1%A8%E6%BC%94%E6%B3%A8%E5%85%A5%E6%95%B8%E7%A2%BC%E5%89%B5%E6%96%B0%E5%8B%95%E5%8A%9B.html",
-    "source": "GlobeNewswire",
-    "published_at": "2025-11-08T23:15:53.586898+08:00",
-    "summary": "Datavault AI™ 將其VerifyU 憑證平台及ADIO 互動技術擴展至娛樂版權及夜生活領域，這個飛快發展的市場對真實數碼驗證及即時數據盈利化需求殷切...",
-    "scraped_at": "2025-11-08T23:16:42+08:00",
-    "canonical_url": "https://www.globenewswire.com/news-release/2025/11/08/3184044/0/zh-hant/Datavault-AI-%E8%88%87-Rodney-s-Comedy-Club-%E8%81%AF%E6%89%8B%E5%90%88%E4%BD%9C-%E9%80%8F%E9%81%8E%E7%8F%BE%E5%A0%B4%E7%AC%91%E8%A9%B1%E7%89%88%E6%AC%8A%E8%AA%8D%E8%AD%89%E5%8F%8A%E6%A5%AD%E7%95%8C%E9%A6%96%E5%89%B5%E6%AD%A1%E7%AC%91%E6%8C%87%E6%95%B8-%E7%82%BA%E7%8F%BE%E5%A0%B4%E5%A8%9B%E6%A8%82%E8%A1%A8%E6%BC%94%E6%B3%A8%E5%85%A5%E6%95%B8%E7%A2%BC%E5%89%B5%E6%96%B0%E5%8B%95%E5%8A%9B.html"
   },
   {
     "title": "Applied Digital brings first 50 MW online at Ellendale AI factory",
@@ -295,24 +331,6 @@
     "summary": "2025年世界互聯網大會烏鎮峰會舉行「海峽兩岸暨港澳互聯網發展論壇」，由中山大學與旺旺集團主辦。旺旺中時媒體集團總裁蔡紹中致詞時表示，2025年是人工智慧的爆發年，...",
     "scraped_at": "2025-11-08T19:51:17+08:00",
     "canonical_url": "https://tw.news.yahoo.com/ai%E9%9D%9E%E5%8F%96%E4%BB%A3%E4%BA%BA%E9%A1%9E-%E8%94%A1%E7%B4%B9%E4%B8%AD%E7%83%8F%E9%8E%AE%E5%B3%B0%E6%9C%83%E8%87%B4%E8%A9%9E-%E7%B1%B2%E5%A0%85%E6%8C%81%E9%95%B7%E6%9C%9F%E4%B8%BB%E7%BE%A9%E5%89%B5%E6%95%B8%E4%BD%8D%E6%9C%AA%E4%BE%86-082528941.html"
-  },
-  {
-    "title": "Conow Launches CBE2000 Pro: Redefining Home Energy Management with AI",
-    "url": "https://www.macaubusiness.com/conow-launches-cbe2000-pro-redefining-home-energy-management-with-ai-2/",
-    "source": "Macau Business",
-    "published_at": "2025-11-08T19:50:31.891912+08:00",
-    "summary": "DÜSSELDORF, GERMANY – Media OutReach Newswire – 8 November 2025 – Global AI energy brand Conow has officially launched the next-generation home micro-energy...",
-    "scraped_at": "2025-11-08T19:51:17+08:00",
-    "canonical_url": "https://www.macaubusiness.com/conow-launches-cbe2000-pro-redefining-home-energy-management-with-ai-2/"
-  },
-  {
-    "title": "AI 資金疑慮引發科技股拋售潮",
-    "url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant",
-    "source": "Markets.com",
-    "published_at": "2025-11-08T19:50:27.967262+08:00",
-    "summary": "主要科技股因對大規模AI 專案（尤其是OpenAI 的計畫）的資金問題感到擔憂而下跌。",
-    "scraped_at": "2025-11-08T19:51:17+08:00",
-    "canonical_url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant"
   },
   {
     "title": "AI約會網站搞噱頭 逾200單身男女浪漫邂逅好市多",
