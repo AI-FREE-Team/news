@@ -1,5 +1,95 @@
 [
   {
+    "title": "What Writer’s AI Leaders Forum Revealed About Enterprise AI",
+    "url": "https://www.forbes.com/sites/stevenwolfepereira/2025/11/08/what-writers-ai-leaders-forum-revealed-about-enterprise-ai/",
+    "source": "Forbes",
+    "published_at": "2025-11-08T15:36:38.740867+08:00",
+    "summary": "At Writer's AI Leaders Forum, executives from e.l.f. Beauty, Marriott and Qualcomm revealed how they're making AI agents work inside of the enterprise.",
+    "scraped_at": "2025-11-08T15:36:38+08:00",
+    "canonical_url": "https://www.forbes.com/sites/stevenwolfepereira/2025/11/08/what-writers-ai-leaders-forum-revealed-about-enterprise-ai/"
+  },
+  {
+    "title": "How AI is changing medical education",
+    "url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html",
+    "source": "KevinMD.com",
+    "published_at": "2025-11-08T15:36:35.422520+08:00",
+    "summary": "A medical student reflects on how AI is reshaping medicine. The future isn't about machines replacing doctors, but augmenting them to focus on what matters...",
+    "scraped_at": "2025-11-08T15:36:38+08:00",
+    "canonical_url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html"
+  },
+  {
+    "title": "Nasdaq has worst week since April amid AI rally jitters, US yields slip",
+    "url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-11-07/",
+    "source": "Reuters",
+    "published_at": "2025-11-08T15:36:32.113724+08:00",
+    "summary": "The Nasdaq ended slightly lower on Friday but registered its biggest weekly percentage drop since early April as investors worried about the sustainability...",
+    "scraped_at": "2025-11-08T15:36:38+08:00",
+    "canonical_url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-11-07/"
+  },
+  {
+    "title": "UW Language Institute hosts discussion on need for ethical guidelines in AI research",
+    "url": "https://badgerherald.com/news/campus/2025/11/07/uw-language-institute-hosts-discussion-on-need-for-ethical-guidelines-in-ai-research/",
+    "source": "The Badger Herald",
+    "published_at": "2025-11-08T15:36:28.942982+08:00",
+    "summary": "University of Wisconsin Language Institute hosted a brownbag discussion titled “AI and Questionable Research Practices: Ethical Considerations for Authors,...",
+    "scraped_at": "2025-11-08T15:36:38+08:00",
+    "canonical_url": "https://badgerherald.com/news/campus/2025/11/07/uw-language-institute-hosts-discussion-on-need-for-ethical-guidelines-in-ai-research/"
+  },
+  {
+    "title": "ChatGPT, Gemini: Why OpenAI, Google and Perplexity are offering free AI in India?",
+    "url": "https://www.bbc.com/news/articles/c14pr0enjr6o",
+    "source": "BBC",
+    "published_at": "2025-11-08T15:36:25.300671+08:00",
+    "summary": "Experts say India's vast, diverse and young user base makes it a key market for global AI expansion.",
+    "scraped_at": "2025-11-08T15:36:38+08:00",
+    "canonical_url": "https://www.bbc.com/news/articles/c14pr0enjr6o"
+  },
+  {
+    "title": "Beyond the Hype: 5 Questions to Find the AI Use Cases That Matter",
+    "url": "https://www.shrm.org/labs/resources/beyond-the-hype--5-questions-to-find-the-ai-use-cases-that-matter",
+    "source": "SHRM",
+    "published_at": "2025-11-08T15:36:20.119777+08:00",
+    "summary": "The push to adopt artificial intelligence in HR is everywhere. Executives are asking how it can be implemented, and HR teams are eager to find tools that...",
+    "scraped_at": "2025-11-08T15:36:38+08:00",
+    "canonical_url": "https://www.shrm.org/labs/resources/beyond-the-hype--5-questions-to-find-the-ai-use-cases-that-matter"
+  },
+  {
+    "title": "AI+Science Conference Comes to Caltech",
+    "url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech",
+    "source": "Caltech",
+    "published_at": "2025-11-08T15:36:16.556172+08:00",
+    "summary": "Large language models (LLMs) such as ChatGPT have quickly shown how artificial intelligence (AI) can impact workflow, content creation, and even our daily...",
+    "scraped_at": "2025-11-08T15:36:38+08:00",
+    "canonical_url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech"
+  },
+  {
+    "title": "Cal Poly Pomona Hosts Regional Symposium for AI and Robotics Innovation",
+    "url": "https://www.cpp.edu/news/content/2025/11/cal-poly-pomona-hosts-regional-symposium-for-ai-and-robotics-innovation/index.shtml",
+    "source": "Cal Poly Pomona",
+    "published_at": "2025-11-08T15:36:13.371758+08:00",
+    "summary": "November 07, 2025 | sedat ozer. Share. SCAIR 2025 Keynote Speakers and panlists. Cal Poly Pomona recently hosted the Southern California AI & Robotics...",
+    "scraped_at": "2025-11-08T15:36:38+08:00",
+    "canonical_url": "https://www.cpp.edu/news/content/2025/11/cal-poly-pomona-hosts-regional-symposium-for-ai-and-robotics-innovation/index.shtml"
+  },
+  {
+    "title": "The Boss Has a Message: Use AI or You’re Fired",
+    "url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df?gaa_at=eafs&gaa_n=AWEtsqeJ7R37boiF1Yxsxx1qeFnnZqeG8inNfHD02hG8nZi-xLvelYafzVyJ&gaa_ts=690ef667&gaa_sig=6hOjqmkmcDvFpTRnRmbgO4Z6yTFhMu_kkhGHZPekBqHHq1RrRBQUZHQi3_MU5byGo_S80qjmP-fZNhRvw71FtA%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-08T15:36:09.989000+08:00",
+    "summary": "At companies big and small, employees have feared being replaced by AI. The new threat: Being replaced by someone who knows AI.",
+    "scraped_at": "2025-11-08T15:36:38+08:00",
+    "canonical_url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df"
+  },
+  {
+    "title": "A.I. Sweeps Through Newsrooms, but Is It a Journalist or a Tool?",
+    "url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-08T15:36:06.818197+08:00",
+    "summary": "A.I. has set off industrywide soul-searching about its potential and pitfalls.",
+    "scraped_at": "2025-11-08T15:36:38+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html"
+  },
+  {
     "title": "Conow Launches CBE2000 Pro: Redefining Home Energy Management with AI",
     "url": "https://www.macaubusiness.com/conow-launches-cbe2000-pro-redefining-home-energy-management-with-ai-2/",
     "source": "Macau Business",
@@ -45,78 +135,6 @@
     "canonical_url": "https://today.duke.edu/2025/11/putting-stronger-guardrails-around-ai"
   },
   {
-    "title": "How AI is changing medical education",
-    "url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html",
-    "source": "KevinMD.com",
-    "published_at": "2025-11-08T14:24:39.025844+08:00",
-    "summary": "A medical student reflects on how AI is reshaping medicine. The future isn't about machines replacing doctors, but augmenting them to focus on what matters...",
-    "scraped_at": "2025-11-08T14:24:45+08:00",
-    "canonical_url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html"
-  },
-  {
-    "title": "Nasdaq has worst week since April amid AI rally jitters, US yields slip",
-    "url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-11-07/",
-    "source": "Reuters",
-    "published_at": "2025-11-08T14:24:35.595090+08:00",
-    "summary": "The Nasdaq ended slightly lower on Friday but registered its biggest weekly percentage drop since early April as investors worried about the sustainability...",
-    "scraped_at": "2025-11-08T14:24:45+08:00",
-    "canonical_url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-11-07/"
-  },
-  {
-    "title": "UW Language Institute hosts discussion on need for ethical guidelines in AI research",
-    "url": "https://badgerherald.com/news/campus/2025/11/07/uw-language-institute-hosts-discussion-on-need-for-ethical-guidelines-in-ai-research/",
-    "source": "The Badger Herald",
-    "published_at": "2025-11-08T14:24:32.291206+08:00",
-    "summary": "University of Wisconsin Language Institute hosted a brownbag discussion titled “AI and Questionable Research Practices: Ethical Considerations for Authors,...",
-    "scraped_at": "2025-11-08T14:24:45+08:00",
-    "canonical_url": "https://badgerherald.com/news/campus/2025/11/07/uw-language-institute-hosts-discussion-on-need-for-ethical-guidelines-in-ai-research/"
-  },
-  {
-    "title": "Beyond the Hype: 5 Questions to Find the AI Use Cases That Matter",
-    "url": "https://www.shrm.org/labs/resources/beyond-the-hype--5-questions-to-find-the-ai-use-cases-that-matter",
-    "source": "SHRM",
-    "published_at": "2025-11-08T14:24:28.698782+08:00",
-    "summary": "The push to adopt artificial intelligence in HR is everywhere. Executives are asking how it can be implemented, and HR teams are eager to find tools that...",
-    "scraped_at": "2025-11-08T14:24:45+08:00",
-    "canonical_url": "https://www.shrm.org/labs/resources/beyond-the-hype--5-questions-to-find-the-ai-use-cases-that-matter"
-  },
-  {
-    "title": "AI+Science Conference Comes to Caltech",
-    "url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech",
-    "source": "Caltech",
-    "published_at": "2025-11-08T14:24:25.421516+08:00",
-    "summary": "Large language models (LLMs) such as ChatGPT have quickly shown how artificial intelligence (AI) can impact workflow, content creation, and even our daily...",
-    "scraped_at": "2025-11-08T14:24:45+08:00",
-    "canonical_url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech"
-  },
-  {
-    "title": "Cal Poly Pomona Hosts Regional Symposium for AI and Robotics Innovation",
-    "url": "https://www.cpp.edu/news/content/2025/11/cal-poly-pomona-hosts-regional-symposium-for-ai-and-robotics-innovation/index.shtml",
-    "source": "Cal Poly Pomona",
-    "published_at": "2025-11-08T14:24:22.303124+08:00",
-    "summary": "November 07, 2025 | sedat ozer. Share. SCAIR 2025 Keynote Speakers and panlists. Cal Poly Pomona recently hosted the Southern California AI & Robotics...",
-    "scraped_at": "2025-11-08T14:24:45+08:00",
-    "canonical_url": "https://www.cpp.edu/news/content/2025/11/cal-poly-pomona-hosts-regional-symposium-for-ai-and-robotics-innovation/index.shtml"
-  },
-  {
-    "title": "The Boss Has a Message: Use AI or You’re Fired",
-    "url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df?gaa_at=eafs&gaa_n=AWEtsqfA1eXvIftO3PZziFBYSLbHjfDzXbBannaYFLvD8CLF8fdhAc_5FWHm&gaa_ts=690ee590&gaa_sig=hVbSatQ4w33I9h57f20nt-zeUSAL-zyzyKmSIXDOT0fcyoAxnVINpuo5ukWeyCmsX-sBe-4SKPOKENqMmLEYcw%3D%3D",
-    "source": "The Wall Street Journal",
-    "published_at": "2025-11-08T14:24:18.978089+08:00",
-    "summary": "At companies big and small, employees have feared being replaced by AI. The new threat: Being replaced by someone who knows AI.",
-    "scraped_at": "2025-11-08T14:24:45+08:00",
-    "canonical_url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df"
-  },
-  {
-    "title": "A.I. Sweeps Through Newsrooms, but Is It a Journalist or a Tool?",
-    "url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html",
-    "source": "The New York Times",
-    "published_at": "2025-11-08T14:24:15.653889+08:00",
-    "summary": "A.I. has set off industrywide soul-searching about its potential and pitfalls.",
-    "scraped_at": "2025-11-08T14:24:45+08:00",
-    "canonical_url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html"
-  },
-  {
     "title": "How AI Is Redefining The Future Of Work: A Chief HR Officer Conversation",
     "url": "https://www.forbes.com/sites/paulocarvao/2025/11/07/how-ai-is-redefining-the-future-of-work-a-chief-hr-officer-conversation/",
     "source": "Forbes",
@@ -160,15 +178,6 @@
     "summary": "隨著各大科技公司競相開發人工智能（AI）應用方案，谷歌即將把其AI助理Gemini整合到谷歌地圖（Google Maps...",
     "scraped_at": "2025-11-08T12:52:14+08:00",
     "canonical_url": "https://www.worldjournal.com/wj/story/122693/9123788"
-  },
-  {
-    "title": "ChatGPT, Gemini: Why OpenAI, Google and Perplexity are offering free AI in India?",
-    "url": "https://www.bbc.com/news/articles/c14pr0enjr6o",
-    "source": "BBC",
-    "published_at": "2025-11-08T12:42:30.585849+08:00",
-    "summary": "Experts say India's vast, diverse and young user base makes it a key market for global AI expansion.",
-    "scraped_at": "2025-11-08T12:42:41+08:00",
-    "canonical_url": "https://www.bbc.com/news/articles/c14pr0enjr6o"
   },
   {
     "title": "DeepSeek研究員憂AI長期風險",
