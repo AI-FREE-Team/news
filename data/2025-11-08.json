@@ -1,5 +1,32 @@
 [
   {
+    "title": "DeepSeek研究員憂AI長期風險",
+    "url": "https://hk.finance.yahoo.com/news/deepseek%E7%A0%94%E7%A9%B6%E5%93%A1%E6%86%82ai%E9%95%B7%E6%9C%9F%E9%A2%A8%E9%9A%AA-183900398.html",
+    "source": "Yahoo 財經",
+    "published_at": "2025-11-08T10:46:09.978256+08:00",
+    "summary": "內地人工智能（AI）開發商DeepSeek資深研究員陳德里在世界互聯網大會烏鎮峰會上表示，對於AI未來對人類的影響持悲觀態度。",
+    "scraped_at": "2025-11-08T10:46:12+08:00",
+    "canonical_url": "https://hk.finance.yahoo.com/news/deepseek%E7%A0%94%E7%A9%B6%E5%93%A1%E6%86%82ai%E9%95%B7%E6%9C%9F%E9%A2%A8%E9%9A%AA-183900398.html"
+  },
+  {
+    "title": "AI 資金疑慮引發科技股拋售潮",
+    "url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant",
+    "source": "Markets.com",
+    "published_at": "2025-11-08T10:46:06.148889+08:00",
+    "summary": "主要科技股因對大規模AI 專案（尤其是OpenAI 的計畫）的資金問題感到擔憂而下跌。",
+    "scraped_at": "2025-11-08T10:46:12+08:00",
+    "canonical_url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant"
+  },
+  {
+    "title": "AI副駕幫你找餐廳、報路況 谷歌地圖一句話全搞定",
+    "url": "https://www.worldjournal.com/wj/story/122693/9123788",
+    "source": "世界新聞網",
+    "published_at": "2025-11-08T10:46:02.037402+08:00",
+    "summary": "隨著各大科技公司競相開發人工智能（AI）應用方案，谷歌即將把其AI助理Gemini整合到谷歌地圖（Google Maps...",
+    "scraped_at": "2025-11-08T10:46:12+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/122693/9123788"
+  },
+  {
     "title": "AI reasoning models that can ‘think’ are more vulnerable to jailbreak attacks, new research suggests",
     "url": "https://fortune.com/2025/11/07/ai-reasoning-models-more-vulnerable-jailbreak-attacks-study/",
     "source": "Fortune",
@@ -88,33 +115,6 @@
     "summary": "Ryan Sabalow, a reporter for the newsroom CalMatters, noticed something peculiar when he began covering California lawmakers in 2023.",
     "scraped_at": "2025-11-08T09:18:06+08:00",
     "canonical_url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html"
-  },
-  {
-    "title": "DeepSeek研究員憂AI長期風險",
-    "url": "https://hk.finance.yahoo.com/news/deepseek%E7%A0%94%E7%A9%B6%E5%93%A1%E6%86%82ai%E9%95%B7%E6%9C%9F%E9%A2%A8%E9%9A%AA-183900398.html",
-    "source": "Yahoo 財經",
-    "published_at": "2025-11-08T09:17:31.619697+08:00",
-    "summary": "內地人工智能（AI）開發商DeepSeek資深研究員陳德里在世界互聯網大會烏鎮峰會上表示，對於AI未來對人類的影響持悲觀態度。",
-    "scraped_at": "2025-11-08T09:18:06+08:00",
-    "canonical_url": "https://hk.finance.yahoo.com/news/deepseek%E7%A0%94%E7%A9%B6%E5%93%A1%E6%86%82ai%E9%95%B7%E6%9C%9F%E9%A2%A8%E9%9A%AA-183900398.html"
-  },
-  {
-    "title": "AI 資金疑慮引發科技股拋售潮",
-    "url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant",
-    "source": "Markets.com",
-    "published_at": "2025-11-08T09:17:27.731921+08:00",
-    "summary": "主要科技股因對大規模AI 專案（尤其是OpenAI 的計畫）的資金問題感到擔憂而下跌。",
-    "scraped_at": "2025-11-08T09:18:06+08:00",
-    "canonical_url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant"
-  },
-  {
-    "title": "AI副駕幫你找餐廳、報路況 谷歌地圖一句話全搞定",
-    "url": "https://www.worldjournal.com/wj/story/122693/9123788",
-    "source": "世界新聞網",
-    "published_at": "2025-11-08T09:17:24.074430+08:00",
-    "summary": "隨著各大科技公司競相開發人工智能（AI）應用方案，谷歌即將把其AI助理Gemini整合到谷歌地圖（Google Maps...",
-    "scraped_at": "2025-11-08T09:18:06+08:00",
-    "canonical_url": "https://www.worldjournal.com/wj/story/122693/9123788"
   },
   {
     "title": "Democratizing AI: How Thomson Reuters Open Arena supports no-code AI for every professional with Amazon Bedrock",
