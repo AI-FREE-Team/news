@@ -1,5 +1,32 @@
 [
   {
+    "title": "Amazon 推出 AI 電子書翻譯服務「Kindle Translate」",
+    "url": "https://tw.news.yahoo.com/amazon-%E6%8E%A8%E5%87%BA-ai-%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%BF%BB%E8%AD%AF%E6%9C%8D%E5%8B%99%E3%80%8Ckindle-translate%E3%80%8D-033036047.html",
+    "source": "奇摩新聞",
+    "published_at": "2025-11-08T12:52:13.025097+08:00",
+    "summary": "Amazon 推出以AI 驅動的電子書翻譯服務「Kindle Translate」，以幫助在Kindle 上著書籍上架的作者去擴展海外讀者群。",
+    "scraped_at": "2025-11-08T12:52:14+08:00",
+    "canonical_url": "https://tw.news.yahoo.com/amazon-%E6%8E%A8%E5%87%BA-ai-%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%BF%BB%E8%AD%AF%E6%9C%8D%E5%8B%99%E3%80%8Ckindle-translate%E3%80%8D-033036047.html"
+  },
+  {
+    "title": "AI 資金疑慮引發科技股拋售潮",
+    "url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant",
+    "source": "Markets.com",
+    "published_at": "2025-11-08T12:52:09.337270+08:00",
+    "summary": "主要科技股因對大規模AI 專案（尤其是OpenAI 的計畫）的資金問題感到擔憂而下跌。",
+    "scraped_at": "2025-11-08T12:52:14+08:00",
+    "canonical_url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant"
+  },
+  {
+    "title": "AI副駕幫你找餐廳、報路況 谷歌地圖一句話全搞定",
+    "url": "https://www.worldjournal.com/wj/story/122693/9123788",
+    "source": "世界新聞網",
+    "published_at": "2025-11-08T12:52:05.708351+08:00",
+    "summary": "隨著各大科技公司競相開發人工智能（AI）應用方案，谷歌即將把其AI助理Gemini整合到谷歌地圖（Google Maps...",
+    "scraped_at": "2025-11-08T12:52:14+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/122693/9123788"
+  },
+  {
     "title": "Recruiting companies are starting to hold job interviews using AI",
     "url": "https://www.npr.org/2025/11/07/nx-s1-5600127/recruiting-companies-are-starting-to-hold-job-interviews-using-ai",
     "source": "NPR",
@@ -88,33 +115,6 @@
     "summary": "At companies big and small, employees have feared being replaced by AI. The new threat: Being replaced by someone who knows AI.",
     "scraped_at": "2025-11-08T12:42:41+08:00",
     "canonical_url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df"
-  },
-  {
-    "title": "AI 資金疑慮引發科技股拋售潮",
-    "url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant",
-    "source": "Markets.com",
-    "published_at": "2025-11-08T12:20:26.616318+08:00",
-    "summary": "主要科技股因對大規模AI 專案（尤其是OpenAI 的計畫）的資金問題感到擔憂而下跌。",
-    "scraped_at": "2025-11-08T12:20:28+08:00",
-    "canonical_url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant"
-  },
-  {
-    "title": "AI副駕幫你找餐廳、報路況 谷歌地圖一句話全搞定",
-    "url": "https://www.worldjournal.com/wj/story/122693/9123788",
-    "source": "世界新聞網",
-    "published_at": "2025-11-08T12:20:22.033438+08:00",
-    "summary": "隨著各大科技公司競相開發人工智能（AI）應用方案，谷歌即將把其AI助理Gemini整合到谷歌地圖（Google Maps...",
-    "scraped_at": "2025-11-08T12:20:28+08:00",
-    "canonical_url": "https://www.worldjournal.com/wj/story/122693/9123788"
-  },
-  {
-    "title": "Amazon 推出 AI 電子書翻譯服務「Kindle Translate」",
-    "url": "https://tw.news.yahoo.com/amazon-%E6%8E%A8%E5%87%BA-ai-%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%BF%BB%E8%AD%AF%E6%9C%8D%E5%8B%99%E3%80%8Ckindle-translate%E3%80%8D-033036047.html",
-    "source": "奇摩新聞",
-    "published_at": "2025-11-08T11:54:04.248714+08:00",
-    "summary": "Amazon 推出以AI 驅動的電子書翻譯服務「Kindle Translate」，以幫助在Kindle 上著書籍上架的作者去擴展海外讀者群。",
-    "scraped_at": "2025-11-08T11:54:05+08:00",
-    "canonical_url": "https://tw.news.yahoo.com/amazon-%E6%8E%A8%E5%87%BA-ai-%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%BF%BB%E8%AD%AF%E6%9C%8D%E5%8B%99%E3%80%8Ckindle-translate%E3%80%8D-033036047.html"
   },
   {
     "title": "DeepSeek研究員憂AI長期風險",
