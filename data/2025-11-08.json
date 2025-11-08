@@ -1,5 +1,122 @@
 [
   {
+    "title": "UW Language Institute hosts discussion on need for ethical guidelines in AI research",
+    "url": "https://badgerherald.com/news/campus/2025/11/07/uw-language-institute-hosts-discussion-on-need-for-ethical-guidelines-in-ai-research/",
+    "source": "The Badger Herald",
+    "published_at": "2025-11-08T16:21:48.018797+08:00",
+    "summary": "University of Wisconsin Language Institute hosted a brownbag discussion titled “AI and Questionable Research Practices: Ethical Considerations for Authors,...",
+    "scraped_at": "2025-11-08T16:21:48+08:00",
+    "canonical_url": "https://badgerherald.com/news/campus/2025/11/07/uw-language-institute-hosts-discussion-on-need-for-ethical-guidelines-in-ai-research/"
+  },
+  {
+    "title": "Internal Audit’s role in strengthening AI governance",
+    "url": "https://www.deloitte.com/us/en/services/audit-assurance/blogs/accounting-finance/audit-ai-risk-management.html",
+    "source": "Deloitte",
+    "published_at": "2025-11-08T16:21:44.232783+08:00",
+    "summary": "Deloitte's leading practices can guide internal audit teams in helping organizations strengthen AI governance, risk management, and controls.",
+    "scraped_at": "2025-11-08T16:21:48+08:00",
+    "canonical_url": "https://www.deloitte.com/us/en/services/audit-assurance/blogs/accounting-finance/audit-ai-risk-management.html"
+  },
+  {
+    "title": "ChatGPT, Gemini: Why OpenAI, Google and Perplexity are offering free AI in India?",
+    "url": "https://www.bbc.com/news/articles/c14pr0enjr6o",
+    "source": "BBC",
+    "published_at": "2025-11-08T16:21:40.389157+08:00",
+    "summary": "Experts say India's vast, diverse and young user base makes it a key market for global AI expansion.",
+    "scraped_at": "2025-11-08T16:21:48+08:00",
+    "canonical_url": "https://www.bbc.com/news/articles/c14pr0enjr6o"
+  },
+  {
+    "title": "Beyond the Hype: 5 Questions to Find the AI Use Cases That Matter",
+    "url": "https://www.shrm.org/labs/resources/beyond-the-hype--5-questions-to-find-the-ai-use-cases-that-matter",
+    "source": "SHRM",
+    "published_at": "2025-11-08T16:21:37.075680+08:00",
+    "summary": "The push to adopt artificial intelligence in HR is everywhere. Executives are asking how it can be implemented, and HR teams are eager to find tools that...",
+    "scraped_at": "2025-11-08T16:21:48+08:00",
+    "canonical_url": "https://www.shrm.org/labs/resources/beyond-the-hype--5-questions-to-find-the-ai-use-cases-that-matter"
+  },
+  {
+    "title": "How AI is changing medical education",
+    "url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html",
+    "source": "KevinMD.com",
+    "published_at": "2025-11-08T16:21:33.642717+08:00",
+    "summary": "A medical student reflects on how AI is reshaping medicine. The future isn't about machines replacing doctors, but augmenting them to focus on what matters...",
+    "scraped_at": "2025-11-08T16:21:48+08:00",
+    "canonical_url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html"
+  },
+  {
+    "title": "AI+Science Conference Comes to Caltech",
+    "url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech",
+    "source": "Caltech",
+    "published_at": "2025-11-08T16:21:30.181997+08:00",
+    "summary": "Large language models (LLMs) such as ChatGPT have quickly shown how artificial intelligence (AI) can impact workflow, content creation, and even our daily...",
+    "scraped_at": "2025-11-08T16:21:48+08:00",
+    "canonical_url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech"
+  },
+  {
+    "title": "Cal Poly Pomona Hosts Regional Symposium for AI and Robotics Innovation",
+    "url": "https://www.cpp.edu/news/content/2025/11/cal-poly-pomona-hosts-regional-symposium-for-ai-and-robotics-innovation/index.shtml",
+    "source": "Cal Poly Pomona",
+    "published_at": "2025-11-08T16:21:27.004865+08:00",
+    "summary": "November 07, 2025 | sedat ozer. Share. SCAIR 2025 Keynote Speakers and panlists. Cal Poly Pomona recently hosted the Southern California AI & Robotics...",
+    "scraped_at": "2025-11-08T16:21:48+08:00",
+    "canonical_url": "https://www.cpp.edu/news/content/2025/11/cal-poly-pomona-hosts-regional-symposium-for-ai-and-robotics-innovation/index.shtml"
+  },
+  {
+    "title": "What parents need to know about Sora, the generative AI video app blurring the line between real and fake",
+    "url": "https://abcnews.go.com/GMA/Family/what-is-sora/story?id=127188940",
+    "source": "ABC News",
+    "published_at": "2025-11-08T16:21:23.746515+08:00",
+    "summary": "OpenAI's Sora app creates lifelike AI-generated videos in seconds. Experts say it's a powerful but risky tool for kids, raising new safety and privacy...",
+    "scraped_at": "2025-11-08T16:21:48+08:00",
+    "canonical_url": "https://abcnews.go.com/GMA/Family/what-is-sora/story?id=127188940"
+  },
+  {
+    "title": "The Boss Has a Message: Use AI or You’re Fired",
+    "url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df?gaa_at=eafs&gaa_n=AWEtsqdAATdkVBB33dMiDbNxivjVEwJCixy_2tN8BUz3cL1Ql32PI5KbRN8D&gaa_ts=690f00fd&gaa_sig=hLIfuB2m98y6PjiGDxoYzmzqIMHLjXTcdXokoQ3gw2BT3cZAYT54gM_vVRPwOc1VUVnTh18jxMRo7cKZ9dzlDA%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-08T16:21:20.411007+08:00",
+    "summary": "At companies big and small, employees have feared being replaced by AI. The new threat: Being replaced by someone who knows AI.",
+    "scraped_at": "2025-11-08T16:21:48+08:00",
+    "canonical_url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df"
+  },
+  {
+    "title": "A.I. Sweeps Through Newsrooms, but Is It a Journalist or a Tool?",
+    "url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-08T16:21:17.184842+08:00",
+    "summary": "A.I. has set off industrywide soul-searching about its potential and pitfalls.",
+    "scraped_at": "2025-11-08T16:21:48+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html"
+  },
+  {
+    "title": "Conow Launches CBE2000 Pro: Redefining Home Energy Management with AI",
+    "url": "https://www.macaubusiness.com/conow-launches-cbe2000-pro-redefining-home-energy-management-with-ai-2/",
+    "source": "Macau Business",
+    "published_at": "2025-11-08T16:21:12.095826+08:00",
+    "summary": "DÜSSELDORF, GERMANY – Media OutReach Newswire – 8 November 2025 – Global AI energy brand Conow has officially launched the next-generation home micro-energy...",
+    "scraped_at": "2025-11-08T16:21:48+08:00",
+    "canonical_url": "https://www.macaubusiness.com/conow-launches-cbe2000-pro-redefining-home-energy-management-with-ai-2/"
+  },
+  {
+    "title": "加密貨幣市場綜合分析：DeFi、AI、Web3 與市場趨勢",
+    "url": "https://www.markets.com/news/crypto-defi-ai-web3-market-analysis-1897-zh-Hant/",
+    "source": "Markets.com",
+    "published_at": "2025-11-08T16:21:08.844707+08:00",
+    "summary": "深入探討加密貨幣領域的最新發展，重點關注DeFi、去中心化金融中的AI 應用、Web3 的進步，以及對當前市場趨勢的全面分析。",
+    "scraped_at": "2025-11-08T16:21:48+08:00",
+    "canonical_url": "https://www.markets.com/news/crypto-defi-ai-web3-market-analysis-1897-zh-Hant/"
+  },
+  {
+    "title": "AI瀏覽器Atlas可攻破付費牆 成媒體業者一大難題",
+    "url": "https://www.worldjournal.com/wj/story/121209/9126130",
+    "source": "世界新聞網",
+    "published_at": "2025-11-08T16:21:04.623414+08:00",
+    "summary": "人工智慧（AI）瀏覽器市場百家爭鳴，OpenAI在10月下旬釋出自家的AI瀏覽器Atlas，與Perplexity旗下的...",
+    "scraped_at": "2025-11-08T16:21:48+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/121209/9126130"
+  },
+  {
     "title": "What Writer’s AI Leaders Forum Revealed About Enterprise AI",
     "url": "https://www.forbes.com/sites/stevenwolfepereira/2025/11/08/what-writers-ai-leaders-forum-revealed-about-enterprise-ai/",
     "source": "Forbes",
@@ -7,15 +124,6 @@
     "summary": "At Writer's AI Leaders Forum, executives from e.l.f. Beauty, Marriott and Qualcomm revealed how they're making AI agents work inside of the enterprise.",
     "scraped_at": "2025-11-08T15:36:38+08:00",
     "canonical_url": "https://www.forbes.com/sites/stevenwolfepereira/2025/11/08/what-writers-ai-leaders-forum-revealed-about-enterprise-ai/"
-  },
-  {
-    "title": "How AI is changing medical education",
-    "url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html",
-    "source": "KevinMD.com",
-    "published_at": "2025-11-08T15:36:35.422520+08:00",
-    "summary": "A medical student reflects on how AI is reshaping medicine. The future isn't about machines replacing doctors, but augmenting them to focus on what matters...",
-    "scraped_at": "2025-11-08T15:36:38+08:00",
-    "canonical_url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html"
   },
   {
     "title": "Nasdaq has worst week since April amid AI rally jitters, US yields slip",
@@ -27,78 +135,6 @@
     "canonical_url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-11-07/"
   },
   {
-    "title": "UW Language Institute hosts discussion on need for ethical guidelines in AI research",
-    "url": "https://badgerherald.com/news/campus/2025/11/07/uw-language-institute-hosts-discussion-on-need-for-ethical-guidelines-in-ai-research/",
-    "source": "The Badger Herald",
-    "published_at": "2025-11-08T15:36:28.942982+08:00",
-    "summary": "University of Wisconsin Language Institute hosted a brownbag discussion titled “AI and Questionable Research Practices: Ethical Considerations for Authors,...",
-    "scraped_at": "2025-11-08T15:36:38+08:00",
-    "canonical_url": "https://badgerherald.com/news/campus/2025/11/07/uw-language-institute-hosts-discussion-on-need-for-ethical-guidelines-in-ai-research/"
-  },
-  {
-    "title": "ChatGPT, Gemini: Why OpenAI, Google and Perplexity are offering free AI in India?",
-    "url": "https://www.bbc.com/news/articles/c14pr0enjr6o",
-    "source": "BBC",
-    "published_at": "2025-11-08T15:36:25.300671+08:00",
-    "summary": "Experts say India's vast, diverse and young user base makes it a key market for global AI expansion.",
-    "scraped_at": "2025-11-08T15:36:38+08:00",
-    "canonical_url": "https://www.bbc.com/news/articles/c14pr0enjr6o"
-  },
-  {
-    "title": "Beyond the Hype: 5 Questions to Find the AI Use Cases That Matter",
-    "url": "https://www.shrm.org/labs/resources/beyond-the-hype--5-questions-to-find-the-ai-use-cases-that-matter",
-    "source": "SHRM",
-    "published_at": "2025-11-08T15:36:20.119777+08:00",
-    "summary": "The push to adopt artificial intelligence in HR is everywhere. Executives are asking how it can be implemented, and HR teams are eager to find tools that...",
-    "scraped_at": "2025-11-08T15:36:38+08:00",
-    "canonical_url": "https://www.shrm.org/labs/resources/beyond-the-hype--5-questions-to-find-the-ai-use-cases-that-matter"
-  },
-  {
-    "title": "AI+Science Conference Comes to Caltech",
-    "url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech",
-    "source": "Caltech",
-    "published_at": "2025-11-08T15:36:16.556172+08:00",
-    "summary": "Large language models (LLMs) such as ChatGPT have quickly shown how artificial intelligence (AI) can impact workflow, content creation, and even our daily...",
-    "scraped_at": "2025-11-08T15:36:38+08:00",
-    "canonical_url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech"
-  },
-  {
-    "title": "Cal Poly Pomona Hosts Regional Symposium for AI and Robotics Innovation",
-    "url": "https://www.cpp.edu/news/content/2025/11/cal-poly-pomona-hosts-regional-symposium-for-ai-and-robotics-innovation/index.shtml",
-    "source": "Cal Poly Pomona",
-    "published_at": "2025-11-08T15:36:13.371758+08:00",
-    "summary": "November 07, 2025 | sedat ozer. Share. SCAIR 2025 Keynote Speakers and panlists. Cal Poly Pomona recently hosted the Southern California AI & Robotics...",
-    "scraped_at": "2025-11-08T15:36:38+08:00",
-    "canonical_url": "https://www.cpp.edu/news/content/2025/11/cal-poly-pomona-hosts-regional-symposium-for-ai-and-robotics-innovation/index.shtml"
-  },
-  {
-    "title": "The Boss Has a Message: Use AI or You’re Fired",
-    "url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df?gaa_at=eafs&gaa_n=AWEtsqeJ7R37boiF1Yxsxx1qeFnnZqeG8inNfHD02hG8nZi-xLvelYafzVyJ&gaa_ts=690ef667&gaa_sig=6hOjqmkmcDvFpTRnRmbgO4Z6yTFhMu_kkhGHZPekBqHHq1RrRBQUZHQi3_MU5byGo_S80qjmP-fZNhRvw71FtA%3D%3D",
-    "source": "The Wall Street Journal",
-    "published_at": "2025-11-08T15:36:09.989000+08:00",
-    "summary": "At companies big and small, employees have feared being replaced by AI. The new threat: Being replaced by someone who knows AI.",
-    "scraped_at": "2025-11-08T15:36:38+08:00",
-    "canonical_url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df"
-  },
-  {
-    "title": "A.I. Sweeps Through Newsrooms, but Is It a Journalist or a Tool?",
-    "url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html",
-    "source": "The New York Times",
-    "published_at": "2025-11-08T15:36:06.818197+08:00",
-    "summary": "A.I. has set off industrywide soul-searching about its potential and pitfalls.",
-    "scraped_at": "2025-11-08T15:36:38+08:00",
-    "canonical_url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html"
-  },
-  {
-    "title": "Conow Launches CBE2000 Pro: Redefining Home Energy Management with AI",
-    "url": "https://www.macaubusiness.com/conow-launches-cbe2000-pro-redefining-home-energy-management-with-ai-2/",
-    "source": "Macau Business",
-    "published_at": "2025-11-08T15:15:56.341140+08:00",
-    "summary": "DÜSSELDORF, GERMANY – Media OutReach Newswire – 8 November 2025 – Global AI energy brand Conow has officially launched the next-generation home micro-energy...",
-    "scraped_at": "2025-11-08T15:15:58+08:00",
-    "canonical_url": "https://www.macaubusiness.com/conow-launches-cbe2000-pro-redefining-home-energy-management-with-ai-2/"
-  },
-  {
     "title": "AI 資金疑慮引發科技股拋售潮",
     "url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant",
     "source": "Markets.com",
@@ -106,15 +142,6 @@
     "summary": "主要科技股因對大規模AI 專案（尤其是OpenAI 的計畫）的資金問題感到擔憂而下跌。",
     "scraped_at": "2025-11-08T15:15:58+08:00",
     "canonical_url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant"
-  },
-  {
-    "title": "AI瀏覽器Atlas可攻破付費牆 成媒體業者一大難題",
-    "url": "https://www.worldjournal.com/wj/story/121209/9126130",
-    "source": "世界新聞網",
-    "published_at": "2025-11-08T15:15:48.024145+08:00",
-    "summary": "人工智慧（AI）瀏覽器市場百家爭鳴，OpenAI在10月下旬釋出自家的AI瀏覽器Atlas，與Perplexity旗下的...",
-    "scraped_at": "2025-11-08T15:15:58+08:00",
-    "canonical_url": "https://www.worldjournal.com/wj/story/121209/9126130"
   },
   {
     "title": "Indigenous AI risks and opportunities",
