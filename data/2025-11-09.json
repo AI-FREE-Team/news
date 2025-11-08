@@ -1,5 +1,95 @@
 [
   {
+    "title": "FTC launches inquiry into tech companies offering AI chatbots to kids",
+    "url": "https://mashable.com/article/ftc-ai-chatbots-kids",
+    "source": "Mashable",
+    "published_at": "2025-11-09T02:23:44.578897+08:00",
+    "summary": "The FTC is \"interested in particular\" about how chatbots and AI companions impact children and how companies that offer them are mitigating negative impacts,...",
+    "scraped_at": "2025-11-09T02:23:44+08:00",
+    "canonical_url": "https://mashable.com/article/ftc-ai-chatbots-kids"
+  },
+  {
+    "title": "Faster, better health care one of the practical benefits AI can provide, UT experts agree",
+    "url": "https://www.toledoblade.com/business/technology/2025/11/08/faster-better-health-care-practical-benefits-ai/stories/20251107100",
+    "source": "Toledo Blade",
+    "published_at": "2025-11-09T02:23:41.183167+08:00",
+    "summary": "Of all the ways in which artificial intelligence has been improving our lives — from more organized shopping to faster delivery of household products ...",
+    "scraped_at": "2025-11-09T02:23:44+08:00",
+    "canonical_url": "https://www.toledoblade.com/business/technology/2025/11/08/faster-better-health-care-practical-benefits-ai/stories/20251107100"
+  },
+  {
+    "title": "Have 10 Hours A Week And $500? This New AI Platform Generates Business Ideas Tailored To Your Life Right Now",
+    "url": "https://finance.yahoo.com/news/10-hours-week-500-ai-170116436.html",
+    "source": "Yahoo Finance",
+    "published_at": "2025-11-09T02:23:37.619130+08:00",
+    "summary": "Entrepreneurs with limited hours and modest budgets now have access to artificial intelligence tools that create business ideas around their existing...",
+    "scraped_at": "2025-11-09T02:23:44+08:00",
+    "canonical_url": "https://finance.yahoo.com/news/10-hours-week-500-ai-170116436.html"
+  },
+  {
+    "title": "AI’s hidden recession: How fewer jobs and cultural backlash create a governance crisis",
+    "url": "https://fortune.com/2025/11/08/ai-hidden-recession-gender-inequality-patriarchy/",
+    "source": "Fortune",
+    "published_at": "2025-11-09T02:23:33.409718+08:00",
+    "summary": "AI will redefine how humans create value. Whether it also redefines who is allowed to create value will depend on the choices leaders make now.",
+    "scraped_at": "2025-11-09T02:23:44+08:00",
+    "canonical_url": "https://fortune.com/2025/11/08/ai-hidden-recession-gender-inequality-patriarchy/"
+  },
+  {
+    "title": "Your Turn | Fear of AI is rooted in fear of ourselves",
+    "url": "https://www.vcstar.com/story/opinion/2025/11/08/your-turn-fear-of-ai-is-rooted-in-fear-of-ourselves/87108436007/",
+    "source": "Ventura County Star",
+    "published_at": "2025-11-09T02:23:30.117745+08:00",
+    "summary": "Our view of artificial intelligence is crucial because it directly shapes how we use it, as AI is a double-edged sword.",
+    "scraped_at": "2025-11-09T02:23:44+08:00",
+    "canonical_url": "https://www.vcstar.com/story/opinion/2025/11/08/your-turn-fear-of-ai-is-rooted-in-fear-of-ourselves/87108436007/"
+  },
+  {
+    "title": "Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic",
+    "url": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html",
+    "source": "The Hacker News",
+    "published_at": "2025-11-09T02:23:26.705127+08:00",
+    "summary": "Microsoft's Whisper Leak shows encrypted AI chats can secretly reveal user topics through subtle traffic patterns.",
+    "scraped_at": "2025-11-09T02:23:44+08:00",
+    "canonical_url": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html"
+  },
+  {
+    "title": "Manager Support Drives Employee AI Adoption",
+    "url": "https://www.gallup.com/workplace/694682/manager-support-drives-employee-adoption.aspx",
+    "source": "Gallup",
+    "published_at": "2025-11-09T02:23:23.394961+08:00",
+    "summary": "Despite rising investment, few firms see AI ROI. The missing link: managers who encourage the adoption of AI by guiding employees and workflows.",
+    "scraped_at": "2025-11-09T02:23:44+08:00",
+    "canonical_url": "https://www.gallup.com/workplace/694682/manager-support-drives-employee-adoption.aspx"
+  },
+  {
+    "title": "Too early to bet against AI trade, State Street suggests",
+    "url": "https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html",
+    "source": "CNBC",
+    "published_at": "2025-11-09T02:23:19.760960+08:00",
+    "summary": "State Street' Anna Paglia is reiterating her bullish stance on artificial intelligence stocks despite the Nasdaq's worst week since April.",
+    "scraped_at": "2025-11-09T02:23:44+08:00",
+    "canonical_url": "https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html"
+  },
+  {
+    "title": "Debt Has Entered the A.I. Boom",
+    "url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-09T02:23:15.782546+08:00",
+    "summary": "To fund heavy spending on infrastructure for artificial intelligence, companies have leveraged a growing list of complex debt-financing options.",
+    "scraped_at": "2025-11-09T02:23:44+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html"
+  },
+  {
+    "title": "New Holland Introduces AI-Powered Visual Parts Search on mycnhstore at AGRITECHNICA",
+    "url": "https://media.cnh.com/EMEA/new-holland/nha-latest-news/new-holland-introduces-ai-powered-visual-parts-search-on-mycnhstore-at-agritechnica/s/4c42468f-54b8-46de-9537-6b199e334b4d?cat=new-holland%7Cnha-latest-news",
+    "source": "CNH Newsroom",
+    "published_at": "2025-11-09T02:23:12.596401+08:00",
+    "summary": "Groundbreaking technology in the segment uses AI to streamline purchasing and reduce errors in product selection. At AGRITECHNICA 2025, New Holland will...",
+    "scraped_at": "2025-11-09T02:23:44+08:00",
+    "canonical_url": "https://media.cnh.com/EMEA/new-holland/nha-latest-news/new-holland-introduces-ai-powered-visual-parts-search-on-mycnhstore-at-agritechnica/s/4c42468f-54b8-46de-9537-6b199e334b4d"
+  },
+  {
     "title": "AI假巴菲特橫行YouTube教投資 股神：世上只有一個我！",
     "url": "https://www.msn.com/zh-tw/news/world/ai%E5%81%87%E5%B7%B4%E8%8F%B2%E7%89%B9%E6%A9%AB%E8%A1%8Cyoutube%E6%95%99%E6%8A%95%E8%B3%87-%E8%82%A1%E7%A5%9E-%E4%B8%96%E4%B8%8A%E5%8F%AA%E6%9C%89%E4%B8%80%E5%80%8B%E6%88%91/ar-AA1Q2FPF?ocid=finance-verthp-feeds",
     "source": "MSN",
@@ -90,51 +180,6 @@
     "canonical_url": "https://www.bbc.com/news/articles/ce3xgwyywe4o"
   },
   {
-    "title": "Have 10 Hours A Week And $500? This New AI Platform Generates Business Ideas Tailored To Your Life Right Now",
-    "url": "https://finance.yahoo.com/news/10-hours-week-500-ai-170116436.html",
-    "source": "Yahoo Finance",
-    "published_at": "2025-11-09T01:41:51.087248+08:00",
-    "summary": "Entrepreneurs with limited hours and modest budgets now have access to artificial intelligence tools that create business ideas around their existing...",
-    "scraped_at": "2025-11-09T01:41:58+08:00",
-    "canonical_url": "https://finance.yahoo.com/news/10-hours-week-500-ai-170116436.html"
-  },
-  {
-    "title": "AI’s hidden recession: How fewer jobs and cultural backlash create a governance crisis",
-    "url": "https://fortune.com/2025/11/08/ai-hidden-recession-gender-inequality-patriarchy/",
-    "source": "Fortune",
-    "published_at": "2025-11-09T01:41:46.921674+08:00",
-    "summary": "AI will redefine how humans create value. Whether it also redefines who is allowed to create value will depend on the choices leaders make now.",
-    "scraped_at": "2025-11-09T01:41:58+08:00",
-    "canonical_url": "https://fortune.com/2025/11/08/ai-hidden-recession-gender-inequality-patriarchy/"
-  },
-  {
-    "title": "Your Turn | Fear of AI is rooted in fear of ourselves",
-    "url": "https://www.vcstar.com/story/opinion/2025/11/08/your-turn-fear-of-ai-is-rooted-in-fear-of-ourselves/87108436007/",
-    "source": "Ventura County Star",
-    "published_at": "2025-11-09T01:41:43.811459+08:00",
-    "summary": "Our view of artificial intelligence is crucial because it directly shapes how we use it, as AI is a double-edged sword.",
-    "scraped_at": "2025-11-09T01:41:58+08:00",
-    "canonical_url": "https://www.vcstar.com/story/opinion/2025/11/08/your-turn-fear-of-ai-is-rooted-in-fear-of-ourselves/87108436007/"
-  },
-  {
-    "title": "Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic",
-    "url": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html",
-    "source": "The Hacker News",
-    "published_at": "2025-11-09T01:41:40.449088+08:00",
-    "summary": "Microsoft's Whisper Leak shows encrypted AI chats can secretly reveal user topics through subtle traffic patterns.",
-    "scraped_at": "2025-11-09T01:41:58+08:00",
-    "canonical_url": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html"
-  },
-  {
-    "title": "Too early to bet against AI trade, State Street suggests",
-    "url": "https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html",
-    "source": "CNBC",
-    "published_at": "2025-11-09T01:41:37.221221+08:00",
-    "summary": "State Street' Anna Paglia is reiterating her bullish stance on artificial intelligence stocks despite the Nasdaq's worst week since April.",
-    "scraped_at": "2025-11-09T01:41:58+08:00",
-    "canonical_url": "https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html"
-  },
-  {
     "title": "Gen AI Is Going Mainstream: Here’s What’s Coming Next",
     "url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/",
     "source": "Josh Bersin",
@@ -142,24 +187,6 @@
     "summary": "84% of leaders now use GenAI every week, and 45% daily. Now that AI has gone mainstream, what happens next?",
     "scraped_at": "2025-11-09T01:41:58+08:00",
     "canonical_url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/"
-  },
-  {
-    "title": "Debt Has Entered the A.I. Boom",
-    "url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html",
-    "source": "The New York Times",
-    "published_at": "2025-11-09T01:41:30.657927+08:00",
-    "summary": "To fund heavy spending on infrastructure for artificial intelligence, companies have leveraged a growing list of complex debt-financing options.",
-    "scraped_at": "2025-11-09T01:41:58+08:00",
-    "canonical_url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html"
-  },
-  {
-    "title": "New Holland Introduces AI-Powered Visual Parts Search on mycnhstore at AGRITECHNICA",
-    "url": "https://media.cnh.com/EMEA/new-holland/nha-latest-news/new-holland-introduces-ai-powered-visual-parts-search-on-mycnhstore-at-agritechnica/s/4c42468f-54b8-46de-9537-6b199e334b4d?cat=new-holland%7Cnha-latest-news",
-    "source": "CNH Newsroom",
-    "published_at": "2025-11-09T01:41:27.595451+08:00",
-    "summary": "Groundbreaking technology in the segment uses AI to streamline purchasing and reduce errors in product selection. At AGRITECHNICA 2025, New Holland will...",
-    "scraped_at": "2025-11-09T01:41:58+08:00",
-    "canonical_url": "https://media.cnh.com/EMEA/new-holland/nha-latest-news/new-holland-introduces-ai-powered-visual-parts-search-on-mycnhstore-at-agritechnica/s/4c42468f-54b8-46de-9537-6b199e334b4d"
   },
   {
     "title": "陸將贏AI競賽？輝達澄清： 美要贏得世界開發者才能領先",
