@@ -1,29 +1,128 @@
 [
   {
+    "title": "Applied Digital brings first 50 MW online at Ellendale AI factory",
+    "url": "https://www.jamestownsun.com/news/local/applied-digital-brings-first-50-mw-online-at-ellendale-ai-factory",
+    "source": "Jamestown Sun",
+    "published_at": "2025-11-08T22:32:26.507548+08:00",
+    "summary": "The Polaris Forge 1 AI Factory campus is designed to power CoreWeave's artificial intelligence and high-performance computing initiatives.",
+    "scraped_at": "2025-11-08T22:32:26+08:00",
+    "canonical_url": "https://www.jamestownsun.com/news/local/applied-digital-brings-first-50-mw-online-at-ellendale-ai-factory"
+  },
+  {
+    "title": "Libraries open their archives to train AI chatbots with books spanning centuries of human knowledge",
+    "url": "https://www.milwaukeeindependent.com/newswire/libraries-open-archives-train-ai-chatbots-books-spanning-centuries-human-knowledge/",
+    "source": "Milwaukee Independent",
+    "published_at": "2025-11-08T22:32:22.662839+08:00",
+    "summary": "Everything ever said on the internet was just the start of teaching artificial intelligence about humanity. Tech companies are now tapping into an older...",
+    "scraped_at": "2025-11-08T22:32:26+08:00",
+    "canonical_url": "https://www.milwaukeeindependent.com/newswire/libraries-open-archives-train-ai-chatbots-books-spanning-centuries-human-knowledge/"
+  },
+  {
+    "title": "Rotary Club Hosts Kathryn Born On AI For Humanity",
+    "url": "https://ladailypost.com/rotary-club-hosts-kathryn-born-on-ai-for-humanity/",
+    "source": "Los Alamos Daily Post",
+    "published_at": "2025-11-08T22:32:18.947116+08:00",
+    "summary": "At its lunch meeting Tuesday, the Rotary Club of Los Alamos featured Kathryn Born, co-founder of the Dusoma Foundation, who presented a talk on the...",
+    "scraped_at": "2025-11-08T22:32:26+08:00",
+    "canonical_url": "https://ladailypost.com/rotary-club-hosts-kathryn-born-on-ai-for-humanity/"
+  },
+  {
+    "title": "Transcript: How to Use AI to Make Money, Save Time, and Be More Productive: Allie K. Miller",
+    "url": "https://singjupost.com/transcript-how-to-use-ai-to-make-money-save-time-and-be-more-productive-allie-k-miller/",
+    "source": "The Singju Post",
+    "published_at": "2025-11-08T22:32:15.040798+08:00",
+    "summary": "Read the full transcript of AI leader Allie K. Miller's interview on The Mel Robbins Podcast episode titled ” How to Use AI to Make Money, Save Time,...",
+    "scraped_at": "2025-11-08T22:32:26+08:00",
+    "canonical_url": "https://singjupost.com/transcript-how-to-use-ai-to-make-money-save-time-and-be-more-productive-allie-k-miller/"
+  },
+  {
+    "title": "As AI becomes all-encompassing, Rochester Public Schools tries to find balance",
+    "url": "https://www.postbulletin.com/news/local/as-ai-becomes-all-encompassing-rochester-public-schools-tries-to-find-balance",
+    "source": "Post Bulletin",
+    "published_at": "2025-11-08T22:32:10.422991+08:00",
+    "summary": "One of the worst things people in education can do around AI is nothing,” said Naomi Hughes, a media specialist. “Because kids are already using it.”",
+    "scraped_at": "2025-11-08T22:32:26+08:00",
+    "canonical_url": "https://www.postbulletin.com/news/local/as-ai-becomes-all-encompassing-rochester-public-schools-tries-to-find-balance"
+  },
+  {
+    "title": "AI’s hidden recession: How fewer jobs and cultural backlash create a governance crisis",
+    "url": "https://fortune.com/2025/11/08/ai-hidden-recession-gender-inequality-patriarchy/",
+    "source": "Fortune",
+    "published_at": "2025-11-08T22:32:07.020299+08:00",
+    "summary": "AI will redefine how humans create value. Whether it also redefines who is allowed to create value will depend on the choices leaders make now.",
+    "scraped_at": "2025-11-08T22:32:26+08:00",
+    "canonical_url": "https://fortune.com/2025/11/08/ai-hidden-recession-gender-inequality-patriarchy/"
+  },
+  {
+    "title": "Manager Support Drives Employee AI Adoption",
+    "url": "https://www.gallup.com/workplace/694682/manager-support-drives-employee-adoption.aspx",
+    "source": "Gallup.com",
+    "published_at": "2025-11-08T22:32:03.835230+08:00",
+    "summary": "Despite rising investment, few firms see AI ROI. The missing link: managers who encourage the adoption of AI by guiding employees and workflows.",
+    "scraped_at": "2025-11-08T22:32:26+08:00",
+    "canonical_url": "https://www.gallup.com/workplace/694682/manager-support-drives-employee-adoption.aspx"
+  },
+  {
+    "title": "Main Street's job fears hit Wall Street as AI rally falters",
+    "url": "https://www.freep.com/story/money/business/2025/11/08/main-street-job-fears-wall-street-ai-rally/87147357007/",
+    "source": "Detroit Free Press",
+    "published_at": "2025-11-08T22:32:00.559219+08:00",
+    "summary": "A series of events sent technology and AI-linked stocks into their worst week since April's tariff-driven sell-off.",
+    "scraped_at": "2025-11-08T22:32:26+08:00",
+    "canonical_url": "https://www.freep.com/story/money/business/2025/11/08/main-street-job-fears-wall-street-ai-rally/87147357007/"
+  },
+  {
+    "title": "Gen AI Is Going Mainstream: Here’s What’s Coming Next",
+    "url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/",
+    "source": "Josh Bersin",
+    "published_at": "2025-11-08T22:31:57.322643+08:00",
+    "summary": "84% of leaders now use GenAI every week, and 45% daily. Now that AI has gone mainstream, what happens next?",
+    "scraped_at": "2025-11-08T22:32:26+08:00",
+    "canonical_url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/"
+  },
+  {
+    "title": "Debt Has Entered the A.I. Boom",
+    "url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-08T22:31:54.016162+08:00",
+    "summary": "To fund heavy spending on infrastructure for artificial intelligence, companies have leveraged a growing list of complex debt-financing options.",
+    "scraped_at": "2025-11-08T22:32:26+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html"
+  },
+  {
+    "title": "不實AI造假影射影片流傳 能源署譴責",
+    "url": "https://tw.news.yahoo.com/%E4%B8%8D%E5%AF%A6ai%E9%80%A0%E5%81%87%E5%BD%B1%E5%B0%84%E5%BD%B1%E7%89%87%E6%B5%81%E5%82%B3-%E8%83%BD%E6%BA%90%E7%BD%B2%E8%AD%B4%E8%B2%AC-081949482.html",
+    "source": "奇摩新聞",
+    "published_at": "2025-11-08T22:31:49.623290+08:00",
+    "summary": "某些網路人士多次利用AI軟體製作及散播不實資訊等造假影射影片，意圖利用假訊息、假影像創造民眾恐慌及聲量，實不可取。經濟部能源署再次嚴正譴責造謠生事的造假行為。",
+    "scraped_at": "2025-11-08T22:32:26+08:00",
+    "canonical_url": "https://tw.news.yahoo.com/%E4%B8%8D%E5%AF%A6ai%E9%80%A0%E5%81%87%E5%BD%B1%E5%B0%84%E5%BD%B1%E7%89%87%E6%B5%81%E5%82%B3-%E8%83%BD%E6%BA%90%E7%BD%B2%E8%AD%B4%E8%B2%AC-081949482.html"
+  },
+  {
     "title": "AI副駕幫你找餐廳、報路況 谷歌地圖一句話全搞定",
     "url": "https://www.worldjournal.com/wj/story/122693/9123788",
     "source": "世界新聞網",
-    "published_at": "2025-11-08T21:49:48.500352+08:00",
+    "published_at": "2025-11-08T22:31:45.844426+08:00",
     "summary": "隨著各大科技公司競相開發人工智能（AI）應用方案，谷歌即將把其AI助理Gemini整合到谷歌地圖（Google Maps...",
-    "scraped_at": "2025-11-08T21:49:49+08:00",
+    "scraped_at": "2025-11-08T22:32:26+08:00",
     "canonical_url": "https://www.worldjournal.com/wj/story/122693/9123788"
   },
   {
     "title": "Symphony AI推出Sensa風險智慧， 利用成熟的人工智慧專業知識實現財務合規現代化",
     "url": "https://www.businesswire.com/news/home/20251104704243/zh-HK",
     "source": "Business Wire",
-    "published_at": "2025-11-08T21:49:44.849077+08:00",
+    "published_at": "2025-11-08T22:31:42.110065+08:00",
     "summary": "(美國商業資訊)-- 垂直人工智慧產品平臺的全球領導者SymphonyAI今天宣佈推出Sensa Risk Intelligence（SRI），這是一個基於數十年監管和金融犯罪專業知識的人工智慧原生...",
-    "scraped_at": "2025-11-08T21:49:49+08:00",
+    "scraped_at": "2025-11-08T22:32:26+08:00",
     "canonical_url": "https://www.businesswire.com/news/home/20251104704243/zh-HK"
   },
   {
     "title": "Datavault AI 與 Rodney's Comedy Club",
     "url": "https://www.globenewswire.com/news-release/2025/11/08/3184044/0/zh-hant/Datavault-AI-%E8%88%87-Rodney-s-Comedy-Club-%E8%81%AF%E6%89%8B%E5%90%88%E4%BD%9C-%E9%80%8F%E9%81%8E%E7%8F%BE%E5%A0%B4%E7%AC%91%E8%A9%B1%E7%89%88%E6%AC%8A%E8%AA%8D%E8%AD%89%E5%8F%8A%E6%A5%AD%E7%95%8C%E9%A6%96%E5%89%B5%E6%AD%A1%E7%AC%91%E6%8C%87%E6%95%B8-%E7%82%BA%E7%8F%BE%E5%A0%B4%E5%A8%9B%E6%A8%82%E8%A1%A8%E6%BC%94%E6%B3%A8%E5%85%A5%E6%95%B8%E7%A2%BC%E5%89%B5%E6%96%B0%E5%8B%95%E5%8A%9B.html",
     "source": "GlobeNewswire",
-    "published_at": "2025-11-08T21:49:41.625929+08:00",
+    "published_at": "2025-11-08T22:31:38.842340+08:00",
     "summary": "Datavault AI™ 將其VerifyU 憑證平台及ADIO 互動技術擴展至娛樂版權及夜生活領域，這個飛快發展的市場對真實數碼驗證及即時數據盈利化需求殷切...",
-    "scraped_at": "2025-11-08T21:49:49+08:00",
+    "scraped_at": "2025-11-08T22:32:26+08:00",
     "canonical_url": "https://www.globenewswire.com/news-release/2025/11/08/3184044/0/zh-hant/Datavault-AI-%E8%88%87-Rodney-s-Comedy-Club-%E8%81%AF%E6%89%8B%E5%90%88%E4%BD%9C-%E9%80%8F%E9%81%8E%E7%8F%BE%E5%A0%B4%E7%AC%91%E8%A9%B1%E7%89%88%E6%AC%8A%E8%AA%8D%E8%AD%89%E5%8F%8A%E6%A5%AD%E7%95%8C%E9%A6%96%E5%89%B5%E6%AD%A1%E7%AC%91%E6%8C%87%E6%95%B8-%E7%82%BA%E7%8F%BE%E5%A0%B4%E5%A8%9B%E6%A8%82%E8%A1%A8%E6%BC%94%E6%B3%A8%E5%85%A5%E6%95%B8%E7%A2%BC%E5%89%B5%E6%96%B0%E5%8B%95%E5%8A%9B.html"
   },
   {
@@ -63,33 +162,6 @@
     "canonical_url": "https://www.forbes.com/sites/lanceeliot/2025/11/08/during-the-ai-journey-to-agi-there-is-concern-that-we-will-be-like-frogs-in-a-slowly-boiling-pot/"
   },
   {
-    "title": "Libraries open their archives to train AI chatbots with books spanning centuries of human knowledge",
-    "url": "https://www.milwaukeeindependent.com/newswire/libraries-open-archives-train-ai-chatbots-books-spanning-centuries-human-knowledge/",
-    "source": "Milwaukee Independent",
-    "published_at": "2025-11-08T21:05:31.792995+08:00",
-    "summary": "Everything ever said on the internet was just the start of teaching artificial intelligence about humanity. Tech companies are now tapping into an older...",
-    "scraped_at": "2025-11-08T21:05:45+08:00",
-    "canonical_url": "https://www.milwaukeeindependent.com/newswire/libraries-open-archives-train-ai-chatbots-books-spanning-centuries-human-knowledge/"
-  },
-  {
-    "title": "Transcript: How to Use AI to Make Money, Save Time, and Be More Productive: Allie K. Miller",
-    "url": "https://singjupost.com/transcript-how-to-use-ai-to-make-money-save-time-and-be-more-productive-allie-k-miller/",
-    "source": "The Singju Post",
-    "published_at": "2025-11-08T21:05:28.288477+08:00",
-    "summary": "Read the full transcript of AI leader Allie K. Miller's interview on The Mel Robbins Podcast episode titled ” How to Use AI to Make Money, Save Time,...",
-    "scraped_at": "2025-11-08T21:05:45+08:00",
-    "canonical_url": "https://singjupost.com/transcript-how-to-use-ai-to-make-money-save-time-and-be-more-productive-allie-k-miller/"
-  },
-  {
-    "title": "As AI becomes all-encompassing, Rochester Public Schools tries to find balance",
-    "url": "https://www.postbulletin.com/news/local/as-ai-becomes-all-encompassing-rochester-public-schools-tries-to-find-balance",
-    "source": "Post Bulletin",
-    "published_at": "2025-11-08T21:05:23.192512+08:00",
-    "summary": "One of the worst things people in education can do around AI is nothing,” said Naomi Hughes, a media specialist. “Because kids are already using it.”",
-    "scraped_at": "2025-11-08T21:05:45+08:00",
-    "canonical_url": "https://www.postbulletin.com/news/local/as-ai-becomes-all-encompassing-rochester-public-schools-tries-to-find-balance"
-  },
-  {
     "title": "A.I. Isn’t the Only Thing Pushing Up Electricity Bills. (But It’s Mostly A.I.)",
     "url": "https://www.nytimes.com/2025/11/08/business/exelon-calvin-butler-ai-data-centers.html",
     "source": "The New York Times",
@@ -97,24 +169,6 @@
     "summary": "Calvin Butler, the chief executive of Exelon, one of the nation's largest utility companies, is trying to keep the lights on.",
     "scraped_at": "2025-11-08T21:05:45+08:00",
     "canonical_url": "https://www.nytimes.com/2025/11/08/business/exelon-calvin-butler-ai-data-centers.html"
-  },
-  {
-    "title": "Manager Support Drives Employee AI Adoption",
-    "url": "https://www.gallup.com/workplace/694682/manager-support-drives-employee-adoption.aspx",
-    "source": "Gallup.com",
-    "published_at": "2025-11-08T21:05:17.025606+08:00",
-    "summary": "Despite rising investment, few firms see AI ROI. The missing link: managers who encourage the adoption of AI by guiding employees and workflows.",
-    "scraped_at": "2025-11-08T21:05:45+08:00",
-    "canonical_url": "https://www.gallup.com/workplace/694682/manager-support-drives-employee-adoption.aspx"
-  },
-  {
-    "title": "Main Street's job fears hit Wall Street as AI rally falters",
-    "url": "https://www.freep.com/story/money/business/2025/11/08/main-street-job-fears-wall-street-ai-rally/87147357007/",
-    "source": "Detroit Free Press",
-    "published_at": "2025-11-08T21:05:13.764684+08:00",
-    "summary": "A series of events sent technology and AI-linked stocks into their worst week since April's tariff-driven sell-off.",
-    "scraped_at": "2025-11-08T21:05:45+08:00",
-    "canonical_url": "https://www.freep.com/story/money/business/2025/11/08/main-street-job-fears-wall-street-ai-rally/87147357007/"
   },
   {
     "title": "Warren Buffett's cash fortress Berkshire closes gap with S&P 500 as AI worries depress Wall Street",
