@@ -1,12 +1,93 @@
 [
   {
+    "title": "Nvidia's AI Dominance: Data Center Revenue Poised for 165% Surge by 2027",
+    "url": "https://www.fool.com/investing/2025/11/08/nvidias-ai-dominance-data-center-revenue-poised-fo/",
+    "source": "The Motley Fool",
+    "published_at": "2025-11-08T17:16:50.472670+08:00",
+    "summary": "Nvidia's biggest business can keep growing at a terrific pace over the next couple of years.",
+    "scraped_at": "2025-11-08T17:16:50+08:00",
+    "canonical_url": "https://www.fool.com/investing/2025/11/08/nvidias-ai-dominance-data-center-revenue-poised-fo/"
+  },
+  {
     "title": "During The AI Journey To AGI There Is Concern That We Will Be Like Frogs In A Slowly Boiling Pot",
     "url": "https://www.forbes.com/sites/lanceeliot/2025/11/08/during-the-ai-journey-to-agi-there-is-concern-that-we-will-be-like-frogs-in-a-slowly-boiling-pot/",
     "source": "Forbes",
-    "published_at": "2025-11-08T16:44:25.524143+08:00",
+    "published_at": "2025-11-08T17:16:47.219493+08:00",
     "summary": "The boiling frog theory says that we can be immersed in a process that leads to a bad outcome and not realize it. Is this true for AI-to-AGI?",
-    "scraped_at": "2025-11-08T16:44:25+08:00",
+    "scraped_at": "2025-11-08T17:16:50+08:00",
     "canonical_url": "https://www.forbes.com/sites/lanceeliot/2025/11/08/during-the-ai-journey-to-agi-there-is-concern-that-we-will-be-like-frogs-in-a-slowly-boiling-pot/"
+  },
+  {
+    "title": "Beyond the Hype: 5 Questions to Find the AI Use Cases That Matter",
+    "url": "https://www.shrm.org/labs/resources/beyond-the-hype--5-questions-to-find-the-ai-use-cases-that-matter",
+    "source": "SHRM",
+    "published_at": "2025-11-08T17:16:44.009819+08:00",
+    "summary": "The push to adopt artificial intelligence in HR is everywhere. Executives are asking how it can be implemented, and HR teams are eager to find tools that...",
+    "scraped_at": "2025-11-08T17:16:50+08:00",
+    "canonical_url": "https://www.shrm.org/labs/resources/beyond-the-hype--5-questions-to-find-the-ai-use-cases-that-matter"
+  },
+  {
+    "title": "Cal Poly Pomona Hosts Regional Symposium for AI and Robotics Innovation",
+    "url": "https://www.cpp.edu/news/content/2025/11/cal-poly-pomona-hosts-regional-symposium-for-ai-and-robotics-innovation/index.shtml",
+    "source": "Cal Poly Pomona",
+    "published_at": "2025-11-08T17:16:40.585506+08:00",
+    "summary": "November 07, 2025 | sedat ozer. Share. SCAIR 2025 Keynote Speakers and panlists. Cal Poly Pomona recently hosted the Southern California AI & Robotics...",
+    "scraped_at": "2025-11-08T17:16:50+08:00",
+    "canonical_url": "https://www.cpp.edu/news/content/2025/11/cal-poly-pomona-hosts-regional-symposium-for-ai-and-robotics-innovation/index.shtml"
+  },
+  {
+    "title": "How AI is changing medical education",
+    "url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html",
+    "source": "KevinMD.com",
+    "published_at": "2025-11-08T17:16:37.203724+08:00",
+    "summary": "A medical student reflects on how AI is reshaping medicine. The future isn't about machines replacing doctors, but augmenting them to focus on what matters...",
+    "scraped_at": "2025-11-08T17:16:50+08:00",
+    "canonical_url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html"
+  },
+  {
+    "title": "AI+Science Conference Comes to Caltech",
+    "url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech",
+    "source": "Caltech",
+    "published_at": "2025-11-08T17:16:33.815320+08:00",
+    "summary": "Large language models (LLMs) such as ChatGPT have quickly shown how artificial intelligence (AI) can impact workflow, content creation, and even our daily...",
+    "scraped_at": "2025-11-08T17:16:50+08:00",
+    "canonical_url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech"
+  },
+  {
+    "title": "The Boss Has a Message: Use AI or You’re Fired",
+    "url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df?gaa_at=eafs&gaa_n=AWEtsqem-QrsO7vd_HytiuK4ISgoE6Vr-BenRObYYaMhzRBsPOkeFYEJ_Mhw&gaa_ts=690f0de5&gaa_sig=HthM0Z3H11IPFY-TBkOz0etnyrefvrklJVx6RU-YrkPvaHhh-sfxigzdv7Qh6yjDz_BmZ6rYMNs4AFDVFK1dBQ%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-08T17:16:30.706823+08:00",
+    "summary": "At companies big and small, employees have feared being replaced by AI. The new threat: Being replaced by someone who knows AI.",
+    "scraped_at": "2025-11-08T17:16:50+08:00",
+    "canonical_url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df"
+  },
+  {
+    "title": "What parents need to know about Sora, the generative AI video app blurring the line between real and fake",
+    "url": "https://abcnews.go.com/GMA/Family/what-is-sora/story?id=127188940",
+    "source": "ABC News",
+    "published_at": "2025-11-08T17:16:27.523415+08:00",
+    "summary": "OpenAI's Sora app creates lifelike AI-generated videos in seconds. Experts say it's a powerful but risky tool for kids, raising new safety and privacy...",
+    "scraped_at": "2025-11-08T17:16:50+08:00",
+    "canonical_url": "https://abcnews.go.com/GMA/Family/what-is-sora/story?id=127188940"
+  },
+  {
+    "title": "When Algorithms Make the Call: Employment Law in the AI Era",
+    "url": "https://ogletree.com/insights-resources/webinars/2025-11-07/when-algorithms-make-the-call-employment-law-in-the-ai-era/",
+    "source": "Ogletree",
+    "published_at": "2025-11-08T17:16:24.239906+08:00",
+    "summary": "This webinar will explore the intersection of AI and employment law, examining how these systems are reshaping liability, compliance obligations, and risk...",
+    "scraped_at": "2025-11-08T17:16:50+08:00",
+    "canonical_url": "https://ogletree.com/insights-resources/webinars/2025-11-07/when-algorithms-make-the-call-employment-law-in-the-ai-era/"
+  },
+  {
+    "title": "A.I. Sweeps Through Newsrooms, but Is It a Journalist or a Tool?",
+    "url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-08T17:16:21.023349+08:00",
+    "summary": "A.I. has set off industrywide soul-searching about its potential and pitfalls.",
+    "scraped_at": "2025-11-08T17:16:50+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html"
   },
   {
     "title": "ChatGPT, Gemini: Why OpenAI, Google and Perplexity are offering free AI in India?",
@@ -16,78 +97,6 @@
     "summary": "Experts say India's vast, diverse and young user base makes it a key market for global AI expansion.",
     "scraped_at": "2025-11-08T16:44:25+08:00",
     "canonical_url": "https://www.bbc.com/news/articles/c14pr0enjr6o"
-  },
-  {
-    "title": "Nvidia's AI Dominance: Data Center Revenue Poised for 165% Surge by 2027",
-    "url": "https://www.fool.com/investing/2025/11/08/nvidias-ai-dominance-data-center-revenue-poised-fo/",
-    "source": "The Motley Fool",
-    "published_at": "2025-11-08T16:44:18.969262+08:00",
-    "summary": "Nvidia's biggest business can keep growing at a terrific pace over the next couple of years.",
-    "scraped_at": "2025-11-08T16:44:25+08:00",
-    "canonical_url": "https://www.fool.com/investing/2025/11/08/nvidias-ai-dominance-data-center-revenue-poised-fo/"
-  },
-  {
-    "title": "Beyond the Hype: 5 Questions to Find the AI Use Cases That Matter",
-    "url": "https://www.shrm.org/labs/resources/beyond-the-hype--5-questions-to-find-the-ai-use-cases-that-matter",
-    "source": "SHRM",
-    "published_at": "2025-11-08T16:44:15.653311+08:00",
-    "summary": "The push to adopt artificial intelligence in HR is everywhere. Executives are asking how it can be implemented, and HR teams are eager to find tools that...",
-    "scraped_at": "2025-11-08T16:44:25+08:00",
-    "canonical_url": "https://www.shrm.org/labs/resources/beyond-the-hype--5-questions-to-find-the-ai-use-cases-that-matter"
-  },
-  {
-    "title": "How AI is changing medical education",
-    "url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html",
-    "source": "KevinMD.com",
-    "published_at": "2025-11-08T16:44:12.059559+08:00",
-    "summary": "A medical student reflects on how AI is reshaping medicine. The future isn't about machines replacing doctors, but augmenting them to focus on what matters...",
-    "scraped_at": "2025-11-08T16:44:25+08:00",
-    "canonical_url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html"
-  },
-  {
-    "title": "AI+Science Conference Comes to Caltech",
-    "url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech",
-    "source": "Caltech",
-    "published_at": "2025-11-08T16:44:08.797935+08:00",
-    "summary": "Large language models (LLMs) such as ChatGPT have quickly shown how artificial intelligence (AI) can impact workflow, content creation, and even our daily...",
-    "scraped_at": "2025-11-08T16:44:25+08:00",
-    "canonical_url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech"
-  },
-  {
-    "title": "Cal Poly Pomona Hosts Regional Symposium for AI and Robotics Innovation",
-    "url": "https://www.cpp.edu/news/content/2025/11/cal-poly-pomona-hosts-regional-symposium-for-ai-and-robotics-innovation/index.shtml",
-    "source": "Cal Poly Pomona",
-    "published_at": "2025-11-08T16:44:05.725224+08:00",
-    "summary": "November 07, 2025 | sedat ozer. Share. SCAIR 2025 Keynote Speakers and panlists. Cal Poly Pomona recently hosted the Southern California AI & Robotics...",
-    "scraped_at": "2025-11-08T16:44:25+08:00",
-    "canonical_url": "https://www.cpp.edu/news/content/2025/11/cal-poly-pomona-hosts-regional-symposium-for-ai-and-robotics-innovation/index.shtml"
-  },
-  {
-    "title": "The Boss Has a Message: Use AI or You’re Fired",
-    "url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df?gaa_at=eafs&gaa_n=AWEtsqcYoJcV7tunryOoZrr6Nu9bInx1Mdgvev1RV3zLN4ErC5IfHsy3Zh7z&gaa_ts=690f064d&gaa_sig=RvhvDm0-XJvZYxa_dfoWS55FB-HxbxLxW1Su-NDP-KkcYpLpUuVseyfDJ6Ga2484HOMqYFurWTYzcwKZuhB2kQ%3D%3D",
-    "source": "The Wall Street Journal",
-    "published_at": "2025-11-08T16:44:02.542353+08:00",
-    "summary": "At companies big and small, employees have feared being replaced by AI. The new threat: Being replaced by someone who knows AI.",
-    "scraped_at": "2025-11-08T16:44:25+08:00",
-    "canonical_url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df"
-  },
-  {
-    "title": "What parents need to know about Sora, the generative AI video app blurring the line between real and fake",
-    "url": "https://abcnews.go.com/GMA/Family/what-is-sora/story?id=127188940",
-    "source": "ABC News",
-    "published_at": "2025-11-08T16:43:59.444748+08:00",
-    "summary": "OpenAI's Sora app creates lifelike AI-generated videos in seconds. Experts say it's a powerful but risky tool for kids, raising new safety and privacy...",
-    "scraped_at": "2025-11-08T16:44:25+08:00",
-    "canonical_url": "https://abcnews.go.com/GMA/Family/what-is-sora/story?id=127188940"
-  },
-  {
-    "title": "A.I. Sweeps Through Newsrooms, but Is It a Journalist or a Tool?",
-    "url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html",
-    "source": "The New York Times",
-    "published_at": "2025-11-08T16:43:56.242561+08:00",
-    "summary": "A.I. has set off industrywide soul-searching about its potential and pitfalls.",
-    "scraped_at": "2025-11-08T16:44:25+08:00",
-    "canonical_url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html"
   },
   {
     "title": "UW Language Institute hosts discussion on need for ethical guidelines in AI research",
