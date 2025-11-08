@@ -1,5 +1,95 @@
 [
   {
+    "title": "Indigenous AI risks and opportunities",
+    "url": "https://www.usatoday.com/story/tech/2025/11/07/indigenous-ai-risks-and-opportunities/86462594007/",
+    "source": "USA Today",
+    "published_at": "2025-11-08T14:24:45.687302+08:00",
+    "summary": "Tribal communities see opportunity and risk in artificial intelligence as they explore ways to enhance Indigenous culture.",
+    "scraped_at": "2025-11-08T14:24:45+08:00",
+    "canonical_url": "https://www.usatoday.com/story/tech/2025/11/07/indigenous-ai-risks-and-opportunities/86462594007/"
+  },
+  {
+    "title": "Putting Stronger Guardrails Around AI",
+    "url": "https://today.duke.edu/2025/11/putting-stronger-guardrails-around-ai",
+    "source": "Duke Today",
+    "published_at": "2025-11-08T14:24:42.463535+08:00",
+    "summary": "It's been a busy season for AI policy. The rise of ChatGPT unleashed a frenzy of headlines around the promise and perils of artificial intelligence,...",
+    "scraped_at": "2025-11-08T14:24:45+08:00",
+    "canonical_url": "https://today.duke.edu/2025/11/putting-stronger-guardrails-around-ai"
+  },
+  {
+    "title": "How AI is changing medical education",
+    "url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html",
+    "source": "KevinMD.com",
+    "published_at": "2025-11-08T14:24:39.025844+08:00",
+    "summary": "A medical student reflects on how AI is reshaping medicine. The future isn't about machines replacing doctors, but augmenting them to focus on what matters...",
+    "scraped_at": "2025-11-08T14:24:45+08:00",
+    "canonical_url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html"
+  },
+  {
+    "title": "Nasdaq has worst week since April amid AI rally jitters, US yields slip",
+    "url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-11-07/",
+    "source": "Reuters",
+    "published_at": "2025-11-08T14:24:35.595090+08:00",
+    "summary": "The Nasdaq ended slightly lower on Friday but registered its biggest weekly percentage drop since early April as investors worried about the sustainability...",
+    "scraped_at": "2025-11-08T14:24:45+08:00",
+    "canonical_url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-11-07/"
+  },
+  {
+    "title": "UW Language Institute hosts discussion on need for ethical guidelines in AI research",
+    "url": "https://badgerherald.com/news/campus/2025/11/07/uw-language-institute-hosts-discussion-on-need-for-ethical-guidelines-in-ai-research/",
+    "source": "The Badger Herald",
+    "published_at": "2025-11-08T14:24:32.291206+08:00",
+    "summary": "University of Wisconsin Language Institute hosted a brownbag discussion titled “AI and Questionable Research Practices: Ethical Considerations for Authors,...",
+    "scraped_at": "2025-11-08T14:24:45+08:00",
+    "canonical_url": "https://badgerherald.com/news/campus/2025/11/07/uw-language-institute-hosts-discussion-on-need-for-ethical-guidelines-in-ai-research/"
+  },
+  {
+    "title": "Beyond the Hype: 5 Questions to Find the AI Use Cases That Matter",
+    "url": "https://www.shrm.org/labs/resources/beyond-the-hype--5-questions-to-find-the-ai-use-cases-that-matter",
+    "source": "SHRM",
+    "published_at": "2025-11-08T14:24:28.698782+08:00",
+    "summary": "The push to adopt artificial intelligence in HR is everywhere. Executives are asking how it can be implemented, and HR teams are eager to find tools that...",
+    "scraped_at": "2025-11-08T14:24:45+08:00",
+    "canonical_url": "https://www.shrm.org/labs/resources/beyond-the-hype--5-questions-to-find-the-ai-use-cases-that-matter"
+  },
+  {
+    "title": "AI+Science Conference Comes to Caltech",
+    "url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech",
+    "source": "Caltech",
+    "published_at": "2025-11-08T14:24:25.421516+08:00",
+    "summary": "Large language models (LLMs) such as ChatGPT have quickly shown how artificial intelligence (AI) can impact workflow, content creation, and even our daily...",
+    "scraped_at": "2025-11-08T14:24:45+08:00",
+    "canonical_url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech"
+  },
+  {
+    "title": "Cal Poly Pomona Hosts Regional Symposium for AI and Robotics Innovation",
+    "url": "https://www.cpp.edu/news/content/2025/11/cal-poly-pomona-hosts-regional-symposium-for-ai-and-robotics-innovation/index.shtml",
+    "source": "Cal Poly Pomona",
+    "published_at": "2025-11-08T14:24:22.303124+08:00",
+    "summary": "November 07, 2025 | sedat ozer. Share. SCAIR 2025 Keynote Speakers and panlists. Cal Poly Pomona recently hosted the Southern California AI & Robotics...",
+    "scraped_at": "2025-11-08T14:24:45+08:00",
+    "canonical_url": "https://www.cpp.edu/news/content/2025/11/cal-poly-pomona-hosts-regional-symposium-for-ai-and-robotics-innovation/index.shtml"
+  },
+  {
+    "title": "The Boss Has a Message: Use AI or You’re Fired",
+    "url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df?gaa_at=eafs&gaa_n=AWEtsqfA1eXvIftO3PZziFBYSLbHjfDzXbBannaYFLvD8CLF8fdhAc_5FWHm&gaa_ts=690ee590&gaa_sig=hVbSatQ4w33I9h57f20nt-zeUSAL-zyzyKmSIXDOT0fcyoAxnVINpuo5ukWeyCmsX-sBe-4SKPOKENqMmLEYcw%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-08T14:24:18.978089+08:00",
+    "summary": "At companies big and small, employees have feared being replaced by AI. The new threat: Being replaced by someone who knows AI.",
+    "scraped_at": "2025-11-08T14:24:45+08:00",
+    "canonical_url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df"
+  },
+  {
+    "title": "A.I. Sweeps Through Newsrooms, but Is It a Journalist or a Tool?",
+    "url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-08T14:24:15.653889+08:00",
+    "summary": "A.I. has set off industrywide soul-searching about its potential and pitfalls.",
+    "scraped_at": "2025-11-08T14:24:45+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html"
+  },
+  {
     "title": "How AI Is Redefining The Future Of Work: A Chief HR Officer Conversation",
     "url": "https://www.forbes.com/sites/paulocarvao/2025/11/07/how-ai-is-redefining-the-future-of-work-a-chief-hr-officer-conversation/",
     "source": "Forbes",
@@ -18,15 +108,6 @@
     "canonical_url": "https://statescoop.com/texas-ai-advisory-board-members-2025/"
   },
   {
-    "title": "Indigenous AI risks and opportunities",
-    "url": "https://www.usatoday.com/story/tech/2025/11/07/indigenous-ai-risks-and-opportunities/86462594007/",
-    "source": "USA Today",
-    "published_at": "2025-11-08T13:40:17.981709+08:00",
-    "summary": "Tribal communities see opportunity and risk in artificial intelligence as they explore ways to enhance Indigenous culture.",
-    "scraped_at": "2025-11-08T13:40:24+08:00",
-    "canonical_url": "https://www.usatoday.com/story/tech/2025/11/07/indigenous-ai-risks-and-opportunities/86462594007/"
-  },
-  {
     "title": "Recruiting companies are starting to hold job interviews using AI",
     "url": "https://www.npr.org/2025/11/07/nx-s1-5600127/recruiting-companies-are-starting-to-hold-job-interviews-using-ai",
     "source": "NPR",
@@ -34,69 +115,6 @@
     "summary": "Companies have begun using AI to interview potential employees, and a new study shows a number of job candidates may prefer being interviewed by AI.",
     "scraped_at": "2025-11-08T13:40:24+08:00",
     "canonical_url": "https://www.npr.org/2025/11/07/nx-s1-5600127/recruiting-companies-are-starting-to-hold-job-interviews-using-ai"
-  },
-  {
-    "title": "Nasdaq has worst week since April amid AI rally jitters, US yields slip",
-    "url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-11-07/",
-    "source": "Reuters",
-    "published_at": "2025-11-08T13:40:11.570483+08:00",
-    "summary": "The Nasdaq ended slightly lower on Friday but registered its biggest weekly percentage drop since early April as investors worried about the sustainability...",
-    "scraped_at": "2025-11-08T13:40:24+08:00",
-    "canonical_url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-11-07/"
-  },
-  {
-    "title": "UW Language Institute hosts discussion on need for ethical guidelines in AI research",
-    "url": "https://badgerherald.com/news/campus/2025/11/07/uw-language-institute-hosts-discussion-on-need-for-ethical-guidelines-in-ai-research/",
-    "source": "The Badger Herald",
-    "published_at": "2025-11-08T13:40:08.293591+08:00",
-    "summary": "University of Wisconsin Language Institute hosted a brownbag discussion titled “AI and Questionable Research Practices: Ethical Considerations for Authors,...",
-    "scraped_at": "2025-11-08T13:40:24+08:00",
-    "canonical_url": "https://badgerherald.com/news/campus/2025/11/07/uw-language-institute-hosts-discussion-on-need-for-ethical-guidelines-in-ai-research/"
-  },
-  {
-    "title": "How AI is changing medical education",
-    "url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html",
-    "source": "KevinMD.com",
-    "published_at": "2025-11-08T13:40:04.727300+08:00",
-    "summary": "A medical student reflects on how AI is reshaping medicine. The future isn't about machines replacing doctors, but augmenting them to focus on what matters...",
-    "scraped_at": "2025-11-08T13:40:24+08:00",
-    "canonical_url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html"
-  },
-  {
-    "title": "Beyond the Hype: 5 Questions to Find the AI Use Cases That Matter",
-    "url": "https://www.shrm.org/labs/resources/beyond-the-hype--5-questions-to-find-the-ai-use-cases-that-matter",
-    "source": "SHRM",
-    "published_at": "2025-11-08T13:40:01.211351+08:00",
-    "summary": "The push to adopt artificial intelligence in HR is everywhere. Executives are asking how it can be implemented, and HR teams are eager to find tools that...",
-    "scraped_at": "2025-11-08T13:40:24+08:00",
-    "canonical_url": "https://www.shrm.org/labs/resources/beyond-the-hype--5-questions-to-find-the-ai-use-cases-that-matter"
-  },
-  {
-    "title": "AI+Science Conference Comes to Caltech",
-    "url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech",
-    "source": "Caltech",
-    "published_at": "2025-11-08T13:39:57.912103+08:00",
-    "summary": "Large language models (LLMs) such as ChatGPT have quickly shown how artificial intelligence (AI) can impact workflow, content creation, and even our daily...",
-    "scraped_at": "2025-11-08T13:40:24+08:00",
-    "canonical_url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech"
-  },
-  {
-    "title": "The Boss Has a Message: Use AI or You’re Fired",
-    "url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df?gaa_at=eafs&gaa_n=AWEtsqdare5Vi-I45_qknAdC9YkgiwW7WHoDKAmyrKOF5AAXsvGfC2yyh7oC&gaa_ts=690edb2b&gaa_sig=bozurS3Qgf98SScQ10tbVPQAv5e_Rw3NJLvzjMA4ttvz54MEuvoQSoIce6wRitsh4kNaPxjjpfHM0gOjvt-qrA%3D%3D",
-    "source": "The Wall Street Journal",
-    "published_at": "2025-11-08T13:39:54.755634+08:00",
-    "summary": "At companies big and small, employees have feared being replaced by AI. The new threat: Being replaced by someone who knows AI.",
-    "scraped_at": "2025-11-08T13:40:24+08:00",
-    "canonical_url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df"
-  },
-  {
-    "title": "A.I. Sweeps Through Newsrooms, but Is It a Journalist or a Tool?",
-    "url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html",
-    "source": "The New York Times",
-    "published_at": "2025-11-08T13:16:35.091713+08:00",
-    "summary": "A.I. has set off industrywide soul-searching about its potential and pitfalls.",
-    "scraped_at": "2025-11-08T13:17:01+08:00",
-    "canonical_url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html"
   },
   {
     "title": "Amazon 推出 AI 電子書翻譯服務「Kindle Translate」",
@@ -169,15 +187,6 @@
     "summary": "The Nasdaq had its worst week since the April global market plunge tied to Trump's \"Liberation Day\" tariffs. Traders work on the floor.",
     "scraped_at": "2025-11-08T09:18:06+08:00",
     "canonical_url": "https://www.nbcnews.com/business/markets/stock-market-update-ai-losses-rcna242592"
-  },
-  {
-    "title": "Putting Stronger Guardrails Around AI",
-    "url": "https://today.duke.edu/2025/11/putting-stronger-guardrails-around-ai",
-    "source": "Duke Today",
-    "published_at": "2025-11-08T09:17:56.019188+08:00",
-    "summary": "It's been a busy season for AI policy. The rise of ChatGPT unleashed a frenzy of headlines around the promise and perils of artificial intelligence,...",
-    "scraped_at": "2025-11-08T09:18:06+08:00",
-    "canonical_url": "https://today.duke.edu/2025/11/putting-stronger-guardrails-around-ai"
   },
   {
     "title": "Democratizing AI: How Thomson Reuters Open Arena supports no-code AI for every professional with Amazon Bedrock",
