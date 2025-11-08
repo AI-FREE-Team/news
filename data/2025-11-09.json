@@ -1,5 +1,95 @@
 [
   {
+    "title": "Too early to bet against AI trade, State Street suggests",
+    "url": "https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html",
+    "source": "CNBC",
+    "published_at": "2025-11-09T06:15:18.452282+08:00",
+    "summary": "State Street' Anna Paglia is reiterating her bullish stance on artificial intelligence stocks despite the Nasdaq's worst week since April.",
+    "scraped_at": "2025-11-09T06:15:18+08:00",
+    "canonical_url": "https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html"
+  },
+  {
+    "title": "Pope Leo XIV Asks the AI Industry to 'Cultivate Moral Discernment'",
+    "url": "https://www.businessinsider.com/pope-leo-xiv-ai-morality-justice-2025-11",
+    "source": "Business Insider",
+    "published_at": "2025-11-09T06:15:14.793727+08:00",
+    "summary": "Pope Leo XIV addressed AI developers in an X post on Friday, about six months after he said the tech poses \"new challenges\" to \"human dignity.\"",
+    "scraped_at": "2025-11-09T06:15:18+08:00",
+    "canonical_url": "https://www.businessinsider.com/pope-leo-xiv-ai-morality-justice-2025-11"
+  },
+  {
+    "title": "Data centers, and AI, are going to be big news topics",
+    "url": "https://www.lansingstatejournal.com/story/opinion/columnists/2025/11/08/data-centers-and-ai-are-going-to-be-big-news-topics/87169833007/",
+    "source": "Lansing State Journal",
+    "published_at": "2025-11-09T06:15:11.609896+08:00",
+    "summary": "Artificial intelligence is in the news a lot lately, and we're beginning to hear more about data centers, buildings that hold the massive computing capacity...",
+    "scraped_at": "2025-11-09T06:15:18+08:00",
+    "canonical_url": "https://www.lansingstatejournal.com/story/opinion/columnists/2025/11/08/data-centers-and-ai-are-going-to-be-big-news-topics/87169833007/"
+  },
+  {
+    "title": "Gen AI Is Going Mainstream: Here’s What’s Coming Next",
+    "url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/",
+    "source": "Josh Bersin",
+    "published_at": "2025-11-09T06:15:08.369879+08:00",
+    "summary": "84% of leaders now use GenAI every week, and 45% daily. Now that AI has gone mainstream, what happens next?",
+    "scraped_at": "2025-11-09T06:15:18+08:00",
+    "canonical_url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/"
+  },
+  {
+    "title": "Debt Has Entered the A.I. Boom",
+    "url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-09T06:15:04.924891+08:00",
+    "summary": "To fund heavy spending on infrastructure for artificial intelligence, companies have leveraged a growing list of complex debt-financing options.",
+    "scraped_at": "2025-11-09T06:15:18+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html"
+  },
+  {
+    "title": "Character.AI to shut down chats for teens",
+    "url": "https://mashable.com/article/character-ai-teens-no-longer-allowed-open-ended-chats-with-chatbots",
+    "source": "Mashable",
+    "published_at": "2025-11-09T06:15:01.853084+08:00",
+    "summary": "In an interview with Mashable, Character.AI's CEO Karandeep Anand described the new policy as \"bold\" and denied that curtailing open-ended chatbot conversations...",
+    "scraped_at": "2025-11-09T06:15:18+08:00",
+    "canonical_url": "https://mashable.com/article/character-ai-teens-no-longer-allowed-open-ended-chats-with-chatbots"
+  },
+  {
+    "title": "Some people love AI, others hate it. Here's why.",
+    "url": "https://www.livescience.com/technology/artificial-intelligence/some-people-love-ai-others-hate-it-heres-why",
+    "source": "Live Science",
+    "published_at": "2025-11-09T06:14:58.548948+08:00",
+    "summary": "From ChatGPT crafting emails, to AI systems recommending TV shows and even helping diagnose disease, the presence of machine intelligence in everyday life...",
+    "scraped_at": "2025-11-09T06:15:18+08:00",
+    "canonical_url": "https://www.livescience.com/technology/artificial-intelligence/some-people-love-ai-others-hate-it-heres-why"
+  },
+  {
+    "title": "Is Wall Street losing faith in AI?",
+    "url": "https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/",
+    "source": "TechCrunch",
+    "published_at": "2025-11-09T06:14:55.415781+08:00",
+    "summary": "A rough week for tech stocks might signal a loss of investor confidence in artificial intelligence.",
+    "scraped_at": "2025-11-09T06:15:18+08:00",
+    "canonical_url": "https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/"
+  },
+  {
+    "title": "The Most Terrifying Graph I Have Ever Seen",
+    "url": "https://wlockett.medium.com/the-most-terrifying-graph-i-have-ever-seen-34dad4408f85",
+    "source": "Medium",
+    "published_at": "2025-11-09T06:14:52.236726+08:00",
+    "summary": "The AI boom is idiotic, needlessly complex, and wrapped up in a huge amount of convoluted propaganda that makes it nearly impossible to unpick it all and...",
+    "scraped_at": "2025-11-09T06:15:18+08:00",
+    "canonical_url": "https://wlockett.medium.com/the-most-terrifying-graph-i-have-ever-seen-34dad4408f85"
+  },
+  {
+    "title": "We Hired a Witch to Curse A.I.",
+    "url": "https://www.pablo.show/p/we-hired-a-witch-to-curse-ai",
+    "source": "PABLO TORRE FINDS OUT | Substack",
+    "published_at": "2025-11-09T06:14:49.085956+08:00",
+    "summary": "We've been doing this thing on the show recently where my friend Michael Cruz Kayne and I sit down with a person of interest who has absolutely no idea who...",
+    "scraped_at": "2025-11-09T06:15:18+08:00",
+    "canonical_url": "https://www.pablo.show/p/we-hired-a-witch-to-curse-ai"
+  },
+  {
     "title": "AI scientists can’t optimize worsening energy efficiency: Why behind-the-scenes AI is costing you",
     "url": "https://www.msnbc.com/ali-velshi/watch/ai-scientists-can-t-optimize-worsening-energy-efficiency-why-behind-the-scenes-ai-is-costing-you-251617861758",
     "source": "MSNBC News",
@@ -25,69 +115,6 @@
     "summary": "Lopez Research founder Maribel Lopez joins Market Catalysts host Julie Hyman to discuss Big Tech valuation concerns and to explain how investors can...",
     "scraped_at": "2025-11-09T05:50:56+08:00",
     "canonical_url": "https://finance.yahoo.com/video/spot-non-infrastructure-ai-plays-190056072.html"
-  },
-  {
-    "title": "Too early to bet against AI trade, State Street suggests",
-    "url": "https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html",
-    "source": "CNBC",
-    "published_at": "2025-11-09T05:50:46.256168+08:00",
-    "summary": "State Street' Anna Paglia is reiterating her bullish stance on artificial intelligence stocks despite the Nasdaq's worst week since April.",
-    "scraped_at": "2025-11-09T05:50:56+08:00",
-    "canonical_url": "https://www.cnbc.com/2025/11/08/ai-big-tech-bull-case-despite-nasdaqs-worst-week-since-april-.html"
-  },
-  {
-    "title": "Debt Has Entered the A.I. Boom",
-    "url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html",
-    "source": "The New York Times",
-    "published_at": "2025-11-09T05:50:41.588187+08:00",
-    "summary": "To fund heavy spending on infrastructure for artificial intelligence, companies have leveraged a growing list of complex debt-financing options.",
-    "scraped_at": "2025-11-09T05:50:56+08:00",
-    "canonical_url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html"
-  },
-  {
-    "title": "Gen AI Is Going Mainstream: Here’s What’s Coming Next",
-    "url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/",
-    "source": "Josh Bersin",
-    "published_at": "2025-11-09T05:50:38.370923+08:00",
-    "summary": "84% of leaders now use GenAI every week, and 45% daily. Now that AI has gone mainstream, what happens next?",
-    "scraped_at": "2025-11-09T05:50:56+08:00",
-    "canonical_url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/"
-  },
-  {
-    "title": "Data centers, and AI, are going to be big news topics",
-    "url": "https://www.lansingstatejournal.com/story/opinion/columnists/2025/11/08/data-centers-and-ai-are-going-to-be-big-news-topics/87169833007/",
-    "source": "Lansing State Journal",
-    "published_at": "2025-11-09T05:50:35.121701+08:00",
-    "summary": "Artificial intelligence is in the news a lot lately, and we're beginning to hear more about data centers, buildings that hold the massive computing capacity...",
-    "scraped_at": "2025-11-09T05:50:56+08:00",
-    "canonical_url": "https://www.lansingstatejournal.com/story/opinion/columnists/2025/11/08/data-centers-and-ai-are-going-to-be-big-news-topics/87169833007/"
-  },
-  {
-    "title": "Character.AI to shut down chats for teens",
-    "url": "https://mashable.com/article/character-ai-teens-no-longer-allowed-open-ended-chats-with-chatbots",
-    "source": "Mashable",
-    "published_at": "2025-11-09T05:50:31.756295+08:00",
-    "summary": "In an interview with Mashable, Character.AI's CEO Karandeep Anand described the new policy as \"bold\" and denied that curtailing open-ended chatbot conversations...",
-    "scraped_at": "2025-11-09T05:50:56+08:00",
-    "canonical_url": "https://mashable.com/article/character-ai-teens-no-longer-allowed-open-ended-chats-with-chatbots"
-  },
-  {
-    "title": "Is Wall Street losing faith in AI?",
-    "url": "https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/",
-    "source": "TechCrunch",
-    "published_at": "2025-11-09T05:50:28.465252+08:00",
-    "summary": "A rough week for tech stocks might signal a loss of investor confidence in artificial intelligence.",
-    "scraped_at": "2025-11-09T05:50:56+08:00",
-    "canonical_url": "https://techcrunch.com/2025/11/08/is-wall-street-losing-faith-in-ai/"
-  },
-  {
-    "title": "Some people love AI, others hate it. Here's why.",
-    "url": "https://www.livescience.com/technology/artificial-intelligence/some-people-love-ai-others-hate-it-heres-why",
-    "source": "Live Science",
-    "published_at": "2025-11-09T05:50:25.273777+08:00",
-    "summary": "From ChatGPT crafting emails, to AI systems recommending TV shows and even helping diagnose disease, the presence of machine intelligence in everyday life...",
-    "scraped_at": "2025-11-09T05:50:56+08:00",
-    "canonical_url": "https://www.livescience.com/technology/artificial-intelligence/some-people-love-ai-others-hate-it-heres-why"
   },
   {
     "title": "As AI becomes all-encompassing, schools try to find balance",
