@@ -1,5 +1,95 @@
 [
   {
+    "title": "NVIDIA at HPE Discover 2025 | Barcelona | Dec 3–4",
+    "url": "https://www.nvidia.com/en-eu/events/hpe-discover/",
+    "source": "NVIDIA",
+    "published_at": "2025-11-08T23:37:44.028226+08:00",
+    "summary": "Join us Dec 3–4 at Fira Barcelona Gran Via to explore AI, hybrid cloud, and edge-to-cloud solutions redefining enterprise IT with NVIDIA and HPE.",
+    "scraped_at": "2025-11-08T23:37:44+08:00",
+    "canonical_url": "https://www.nvidia.com/en-eu/events/hpe-discover/"
+  },
+  {
+    "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
+    "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
+    "source": "CNBC",
+    "published_at": "2025-11-08T23:37:40.744786+08:00",
+    "summary": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job...",
+    "scraped_at": "2025-11-08T23:37:44+08:00",
+    "canonical_url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html"
+  },
+  {
+    "title": "Wearable Tech Takes a Leap Forward With AI",
+    "url": "https://www.wsj.com/tech/personal-tech/stream-ring-wearable-ai-c135a21f?gaa_at=eafs&gaa_n=AWEtsqcOhkj8DU6ehaLkDyubpjHnZwnziyr23iWxc7PG6OPO-S7HaoH2ihJf&gaa_ts=690f672b&gaa_sig=HR2ySNCQDC-efJDa9T4Kk2wi_cuwbtpogNyR1rSUCMT6OvBb20Pfs33sEBLLY8kMMN_0OlqZn9LHR6wd_9UsHQ%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-08T23:37:37.542750+08:00",
+    "summary": "Mina Fahmi, co-founder and CEO of Sandbar, on the company's new wearable Stream Ring.",
+    "scraped_at": "2025-11-08T23:37:44+08:00",
+    "canonical_url": "https://www.wsj.com/tech/personal-tech/stream-ring-wearable-ai-c135a21f"
+  },
+  {
+    "title": "Your Turn | Fear of AI is rooted in fear of ourselves",
+    "url": "https://www.vcstar.com/story/opinion/2025/11/08/your-turn-fear-of-ai-is-rooted-in-fear-of-ourselves/87108436007/",
+    "source": "Ventura County Star",
+    "published_at": "2025-11-08T23:37:34.305931+08:00",
+    "summary": "Our view of artificial intelligence is crucial because it directly shapes how we use it, as AI is a double-edged sword.",
+    "scraped_at": "2025-11-08T23:37:44+08:00",
+    "canonical_url": "https://www.vcstar.com/story/opinion/2025/11/08/your-turn-fear-of-ai-is-rooted-in-fear-of-ourselves/87108436007/"
+  },
+  {
+    "title": "Manager Support Drives Employee AI Adoption",
+    "url": "https://www.gallup.com/workplace/694682/manager-support-drives-employee-adoption.aspx",
+    "source": "Gallup.com",
+    "published_at": "2025-11-08T23:37:30.837703+08:00",
+    "summary": "Despite rising investment, few firms see AI ROI. The missing link: managers who encourage the adoption of AI by guiding employees and workflows.",
+    "scraped_at": "2025-11-08T23:37:44+08:00",
+    "canonical_url": "https://www.gallup.com/workplace/694682/manager-support-drives-employee-adoption.aspx"
+  },
+  {
+    "title": "Mothers say AI chatbots encouraged their sons to kill themselves",
+    "url": "https://www.bbc.com/news/articles/ce3xgwyywe4o",
+    "source": "BBC",
+    "published_at": "2025-11-08T23:37:27.530073+08:00",
+    "summary": "In her first UK interview Megan Garcia speaks to Laura Kuenssberg about the death of her teenage son.",
+    "scraped_at": "2025-11-08T23:37:44+08:00",
+    "canonical_url": "https://www.bbc.com/news/articles/ce3xgwyywe4o"
+  },
+  {
+    "title": "Main Street's job fears hit Wall Street as AI rally falters",
+    "url": "https://www.freep.com/story/money/business/2025/11/08/main-street-job-fears-wall-street-ai-rally/87147357007/",
+    "source": "Detroit Free Press",
+    "published_at": "2025-11-08T23:37:24.170271+08:00",
+    "summary": "A series of events sent technology and AI-linked stocks into their worst week since April's tariff-driven sell-off.",
+    "scraped_at": "2025-11-08T23:37:44+08:00",
+    "canonical_url": "https://www.freep.com/story/money/business/2025/11/08/main-street-job-fears-wall-street-ai-rally/87147357007/"
+  },
+  {
+    "title": "AI’s hidden recession: How fewer jobs and cultural backlash create a governance crisis",
+    "url": "https://fortune.com/2025/11/08/ai-hidden-recession-gender-inequality-patriarchy/",
+    "source": "Fortune",
+    "published_at": "2025-11-08T23:37:20.896124+08:00",
+    "summary": "AI will redefine how humans create value. Whether it also redefines who is allowed to create value will depend on the choices leaders make now.",
+    "scraped_at": "2025-11-08T23:37:44+08:00",
+    "canonical_url": "https://fortune.com/2025/11/08/ai-hidden-recession-gender-inequality-patriarchy/"
+  },
+  {
+    "title": "Gen AI Is Going Mainstream: Here’s What’s Coming Next",
+    "url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/",
+    "source": "Josh Bersin",
+    "published_at": "2025-11-08T23:37:17.752975+08:00",
+    "summary": "84% of leaders now use GenAI every week, and 45% daily. Now that AI has gone mainstream, what happens next?",
+    "scraped_at": "2025-11-08T23:37:44+08:00",
+    "canonical_url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/"
+  },
+  {
+    "title": "Debt Has Entered the A.I. Boom",
+    "url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-08T23:37:14.461462+08:00",
+    "summary": "To fund heavy spending on infrastructure for artificial intelligence, companies have leveraged a growing list of complex debt-financing options.",
+    "scraped_at": "2025-11-08T23:37:44+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html"
+  },
+  {
     "title": "AI-Based Digital Pathology Confirms Histological Fibrosis Improvements with Eruxifermin",
     "url": "https://www.hcplive.com/view/ai-based-digital-pathology-confirms-histological-fibrosis-improvements-with-eruxifermin",
     "source": "HCPLive",
@@ -16,78 +106,6 @@
     "summary": "One of the worst things people in education can do around AI is nothing,” said Naomi Hughes, a media specialist. “Because kids are already using it.”",
     "scraped_at": "2025-11-08T23:16:42+08:00",
     "canonical_url": "https://www.postbulletin.com/news/local/as-ai-becomes-all-encompassing-rochester-public-schools-tries-to-find-balance"
-  },
-  {
-    "title": "NVIDIA at HPE Discover 2025 | Barcelona | Dec 3–4",
-    "url": "https://www.nvidia.com/en-eu/events/hpe-discover/",
-    "source": "NVIDIA",
-    "published_at": "2025-11-08T23:16:36.133025+08:00",
-    "summary": "Join us Dec 3–4 at Fira Barcelona Gran Via to explore AI, hybrid cloud, and edge-to-cloud solutions redefining enterprise IT with NVIDIA and HPE.",
-    "scraped_at": "2025-11-08T23:16:42+08:00",
-    "canonical_url": "https://www.nvidia.com/en-eu/events/hpe-discover/"
-  },
-  {
-    "title": "Your Turn | Fear of AI is rooted in fear of ourselves",
-    "url": "https://www.vcstar.com/story/opinion/2025/11/08/your-turn-fear-of-ai-is-rooted-in-fear-of-ourselves/87108436007/",
-    "source": "Ventura County Star",
-    "published_at": "2025-11-08T23:16:32.593952+08:00",
-    "summary": "Our view of artificial intelligence is crucial because it directly shapes how we use it, as AI is a double-edged sword.",
-    "scraped_at": "2025-11-08T23:16:42+08:00",
-    "canonical_url": "https://www.vcstar.com/story/opinion/2025/11/08/your-turn-fear-of-ai-is-rooted-in-fear-of-ourselves/87108436007/"
-  },
-  {
-    "title": "Wearable Tech Takes a Leap Forward With AI",
-    "url": "https://www.wsj.com/tech/personal-tech/stream-ring-wearable-ai-c135a21f?gaa_at=eafs&gaa_n=AWEtsqc7OPW9IVqykYV2SMDS-LAZy6qCO1gNO_6A3u_BoIcflGA1yOQL8bk9&gaa_ts=690f623d&gaa_sig=1Mu3v4SPevSiPx_xhtkBTZTxtNjSoL78yhLZk3aZ5LR5-1jckGmfc6wI1TOtQcaeTXacWw25B_WiqSTC6bNA-Q%3D%3D",
-    "source": "The Wall Street Journal",
-    "published_at": "2025-11-08T23:16:29.320005+08:00",
-    "summary": "Mina Fahmi, co-founder and CEO of Sandbar, on the company's new wearable Stream Ring.",
-    "scraped_at": "2025-11-08T23:16:42+08:00",
-    "canonical_url": "https://www.wsj.com/tech/personal-tech/stream-ring-wearable-ai-c135a21f"
-  },
-  {
-    "title": "Manager Support Drives Employee AI Adoption",
-    "url": "https://www.gallup.com/workplace/694682/manager-support-drives-employee-adoption.aspx",
-    "source": "Gallup.com",
-    "published_at": "2025-11-08T23:16:26.139347+08:00",
-    "summary": "Despite rising investment, few firms see AI ROI. The missing link: managers who encourage the adoption of AI by guiding employees and workflows.",
-    "scraped_at": "2025-11-08T23:16:42+08:00",
-    "canonical_url": "https://www.gallup.com/workplace/694682/manager-support-drives-employee-adoption.aspx"
-  },
-  {
-    "title": "Main Street's job fears hit Wall Street as AI rally falters",
-    "url": "https://www.freep.com/story/money/business/2025/11/08/main-street-job-fears-wall-street-ai-rally/87147357007/",
-    "source": "Detroit Free Press",
-    "published_at": "2025-11-08T23:16:22.653751+08:00",
-    "summary": "A series of events sent technology and AI-linked stocks into their worst week since April's tariff-driven sell-off.",
-    "scraped_at": "2025-11-08T23:16:42+08:00",
-    "canonical_url": "https://www.freep.com/story/money/business/2025/11/08/main-street-job-fears-wall-street-ai-rally/87147357007/"
-  },
-  {
-    "title": "AI’s hidden recession: How fewer jobs and cultural backlash create a governance crisis",
-    "url": "https://fortune.com/2025/11/08/ai-hidden-recession-gender-inequality-patriarchy/",
-    "source": "Fortune",
-    "published_at": "2025-11-08T23:16:19.424574+08:00",
-    "summary": "AI will redefine how humans create value. Whether it also redefines who is allowed to create value will depend on the choices leaders make now.",
-    "scraped_at": "2025-11-08T23:16:42+08:00",
-    "canonical_url": "https://fortune.com/2025/11/08/ai-hidden-recession-gender-inequality-patriarchy/"
-  },
-  {
-    "title": "Gen AI Is Going Mainstream: Here’s What’s Coming Next",
-    "url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/",
-    "source": "Josh Bersin",
-    "published_at": "2025-11-08T23:16:16.317778+08:00",
-    "summary": "84% of leaders now use GenAI every week, and 45% daily. Now that AI has gone mainstream, what happens next?",
-    "scraped_at": "2025-11-08T23:16:42+08:00",
-    "canonical_url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/"
-  },
-  {
-    "title": "Debt Has Entered the A.I. Boom",
-    "url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html",
-    "source": "The New York Times",
-    "published_at": "2025-11-08T23:16:13.002526+08:00",
-    "summary": "To fund heavy spending on infrastructure for artificial intelligence, companies have leveraged a growing list of complex debt-financing options.",
-    "scraped_at": "2025-11-08T23:16:42+08:00",
-    "canonical_url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html"
   },
   {
     "title": "不實AI造假影射影片流傳 能源署譴責",
