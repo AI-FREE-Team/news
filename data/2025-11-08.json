@@ -1,5 +1,122 @@
 [
   {
+    "title": "AI reasoning models that can ‘think’ are more vulnerable to jailbreak attacks, new research suggests",
+    "url": "https://fortune.com/2025/11/07/ai-reasoning-models-more-vulnerable-jailbreak-attacks-study/",
+    "source": "Fortune",
+    "published_at": "2025-11-08T09:18:06.091936+08:00",
+    "summary": "A new study suggests that the advanced reasoning powering today's AI models can weaken their safety systems.",
+    "scraped_at": "2025-11-08T09:18:06+08:00",
+    "canonical_url": "https://fortune.com/2025/11/07/ai-reasoning-models-more-vulnerable-jailbreak-attacks-study/"
+  },
+  {
+    "title": "How to Better Use AI and Machine Learning in Dermatology, With Renata Block, MMS, PA-C",
+    "url": "https://www.hcplive.com/view/how-to-better-use-ai-machine-learning-dermatology-renata-block-mms-pa-c",
+    "source": "HCPLive",
+    "published_at": "2025-11-08T09:18:02.934279+08:00",
+    "summary": "Renata Block spoke at the 2025 SDPA Fall Conference about her session on the use of artificial intelligence tools in clinical practice.",
+    "scraped_at": "2025-11-08T09:18:06+08:00",
+    "canonical_url": "https://www.hcplive.com/view/how-to-better-use-ai-machine-learning-dermatology-renata-block-mms-pa-c"
+  },
+  {
+    "title": "Stock market update: Tech, AI companies suffer big losses",
+    "url": "https://www.nbcnews.com/business/markets/stock-market-update-ai-losses-rcna242592",
+    "source": "NBC News",
+    "published_at": "2025-11-08T09:17:59.715648+08:00",
+    "summary": "The Nasdaq had its worst week since the April global market plunge tied to Trump's \"Liberation Day\" tariffs. Traders work on the floor.",
+    "scraped_at": "2025-11-08T09:18:06+08:00",
+    "canonical_url": "https://www.nbcnews.com/business/markets/stock-market-update-ai-losses-rcna242592"
+  },
+  {
+    "title": "Putting Stronger Guardrails Around AI",
+    "url": "https://today.duke.edu/2025/11/putting-stronger-guardrails-around-ai",
+    "source": "Duke Today",
+    "published_at": "2025-11-08T09:17:56.019188+08:00",
+    "summary": "It's been a busy season for AI policy. The rise of ChatGPT unleashed a frenzy of headlines around the promise and perils of artificial intelligence,...",
+    "scraped_at": "2025-11-08T09:18:06+08:00",
+    "canonical_url": "https://today.duke.edu/2025/11/putting-stronger-guardrails-around-ai"
+  },
+  {
+    "title": "Recruiting companies are starting to hold job interviews using AI",
+    "url": "https://www.npr.org/2025/11/07/nx-s1-5600127/recruiting-companies-are-starting-to-hold-job-interviews-using-ai",
+    "source": "NPR",
+    "published_at": "2025-11-08T09:17:52.752398+08:00",
+    "summary": "Companies have begun using AI to interview potential employees, and a new study shows a number of job candidates may prefer being interviewed by AI.",
+    "scraped_at": "2025-11-08T09:18:06+08:00",
+    "canonical_url": "https://www.npr.org/2025/11/07/nx-s1-5600127/recruiting-companies-are-starting-to-hold-job-interviews-using-ai"
+  },
+  {
+    "title": "Indigenous AI risks and opportunities",
+    "url": "https://www.usatoday.com/story/tech/2025/11/07/indigenous-ai-risks-and-opportunities/86462594007/",
+    "source": "USA Today",
+    "published_at": "2025-11-08T09:17:49.537677+08:00",
+    "summary": "Tribal communities see opportunity and risk in artificial intelligence as they explore ways to enhance Indigenous culture.",
+    "scraped_at": "2025-11-08T09:18:06+08:00",
+    "canonical_url": "https://www.usatoday.com/story/tech/2025/11/07/indigenous-ai-risks-and-opportunities/86462594007/"
+  },
+  {
+    "title": "How AI is changing medical education",
+    "url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html",
+    "source": "KevinMD.com",
+    "published_at": "2025-11-08T09:17:46.327251+08:00",
+    "summary": "A medical student reflects on how AI is reshaping medicine. The future isn't about machines replacing doctors, but augmenting them to focus on what matters...",
+    "scraped_at": "2025-11-08T09:18:06+08:00",
+    "canonical_url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html"
+  },
+  {
+    "title": "The Boss Has a Message: Use AI or You’re Fired",
+    "url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df?gaa_at=eafs&gaa_n=AWEtsqda-Xz3rTUD_eksgu5IpLh80f6B4z2RFX8PeXbOtUZqoLOi0UkyJsET&gaa_ts=690e9db1&gaa_sig=ramqsI3V-uzmYmZUEOMINQe2UTiWWhO1jI58LvRchwrsbf3JjPAPIzxSYQkDDdmzAqZKx6ViH11w-AaeoDXYQw%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-08T09:17:42.951291+08:00",
+    "summary": "At companies big and small, employees have feared being replaced by AI. The new threat: Being replaced by someone who knows AI.",
+    "scraped_at": "2025-11-08T09:18:06+08:00",
+    "canonical_url": "https://www.wsj.com/tech/ai/ai-work-use-performance-reviews-1e8975df"
+  },
+  {
+    "title": "AI+Science Conference Comes to Caltech",
+    "url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech",
+    "source": "Caltech",
+    "published_at": "2025-11-08T09:17:39.746217+08:00",
+    "summary": "Large language models (LLMs) such as ChatGPT have quickly shown how artificial intelligence (AI) can impact workflow, content creation, and even our daily...",
+    "scraped_at": "2025-11-08T09:18:06+08:00",
+    "canonical_url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech"
+  },
+  {
+    "title": "A.I. Sweeps Through Newsrooms, but Is It a Journalist or a Tool?",
+    "url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-08T09:17:36.623178+08:00",
+    "summary": "Ryan Sabalow, a reporter for the newsroom CalMatters, noticed something peculiar when he began covering California lawmakers in 2023.",
+    "scraped_at": "2025-11-08T09:18:06+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/07/business/media/ai-news-media.html"
+  },
+  {
+    "title": "DeepSeek研究員憂AI長期風險",
+    "url": "https://hk.finance.yahoo.com/news/deepseek%E7%A0%94%E7%A9%B6%E5%93%A1%E6%86%82ai%E9%95%B7%E6%9C%9F%E9%A2%A8%E9%9A%AA-183900398.html",
+    "source": "Yahoo 財經",
+    "published_at": "2025-11-08T09:17:31.619697+08:00",
+    "summary": "內地人工智能（AI）開發商DeepSeek資深研究員陳德里在世界互聯網大會烏鎮峰會上表示，對於AI未來對人類的影響持悲觀態度。",
+    "scraped_at": "2025-11-08T09:18:06+08:00",
+    "canonical_url": "https://hk.finance.yahoo.com/news/deepseek%E7%A0%94%E7%A9%B6%E5%93%A1%E6%86%82ai%E9%95%B7%E6%9C%9F%E9%A2%A8%E9%9A%AA-183900398.html"
+  },
+  {
+    "title": "AI 資金疑慮引發科技股拋售潮",
+    "url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant",
+    "source": "Markets.com",
+    "published_at": "2025-11-08T09:17:27.731921+08:00",
+    "summary": "主要科技股因對大規模AI 專案（尤其是OpenAI 的計畫）的資金問題感到擔憂而下跌。",
+    "scraped_at": "2025-11-08T09:18:06+08:00",
+    "canonical_url": "https://www.markets.com/analysis/ai-funding-concerns-trigger-tech-stock-sell-off-1890-zh-Hant"
+  },
+  {
+    "title": "AI副駕幫你找餐廳、報路況 谷歌地圖一句話全搞定",
+    "url": "https://www.worldjournal.com/wj/story/122693/9123788",
+    "source": "世界新聞網",
+    "published_at": "2025-11-08T09:17:24.074430+08:00",
+    "summary": "隨著各大科技公司競相開發人工智能（AI）應用方案，谷歌即將把其AI助理Gemini整合到谷歌地圖（Google Maps...",
+    "scraped_at": "2025-11-08T09:18:06+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/122693/9123788"
+  },
+  {
     "title": "Democratizing AI: How Thomson Reuters Open Arena supports no-code AI for every professional with Amazon Bedrock",
     "url": "https://aws.amazon.com/blogs/machine-learning/democratizing-ai-how-thomson-reuters-open-arena-supports-no-code-ai-for-every-professional-with-amazon-bedrock/",
     "source": "Amazon Web Services (AWS)",
@@ -36,15 +153,6 @@
     "canonical_url": "https://www.reuters.com/world/china/global-markets-global-markets-2025-11-07/"
   },
   {
-    "title": "AI reasoning models that can ‘think’ are more vulnerable to jailbreak attacks, new research suggests",
-    "url": "https://fortune.com/2025/11/07/ai-reasoning-models-more-vulnerable-jailbreak-attacks-study/",
-    "source": "Fortune",
-    "published_at": "2025-11-08T07:50:29.651513+08:00",
-    "summary": "A new study suggests that the advanced reasoning powering today's AI models can weaken their safety systems.",
-    "scraped_at": "2025-11-08T07:50:43+08:00",
-    "canonical_url": "https://fortune.com/2025/11/07/ai-reasoning-models-more-vulnerable-jailbreak-attacks-study/"
-  },
-  {
     "title": "Michigan Utility Rate Is Intended as Shelter From AI Costs",
     "url": "https://www.govtech.com/artificial-intelligence/michigan-utility-rate-is-intended-as-shelter-from-ai-costs",
     "source": "GovTech",
@@ -52,42 +160,6 @@
     "summary": "State regulators approved a modified electricity rate for Consumers Energy customers, designed to let it serve data centers but protect consumers from...",
     "scraped_at": "2025-11-08T07:50:43+08:00",
     "canonical_url": "https://www.govtech.com/artificial-intelligence/michigan-utility-rate-is-intended-as-shelter-from-ai-costs"
-  },
-  {
-    "title": "Indigenous AI risks and opportunities",
-    "url": "https://www.usatoday.com/story/tech/2025/11/07/indigenous-ai-risks-and-opportunities/86462594007/",
-    "source": "USA Today",
-    "published_at": "2025-11-08T07:50:23.154346+08:00",
-    "summary": "Tribal communities see opportunity and risk in artificial intelligence as they explore ways to enhance Indigenous culture.",
-    "scraped_at": "2025-11-08T07:50:43+08:00",
-    "canonical_url": "https://www.usatoday.com/story/tech/2025/11/07/indigenous-ai-risks-and-opportunities/86462594007/"
-  },
-  {
-    "title": "Putting Stronger Guardrails Around AI",
-    "url": "https://today.duke.edu/2025/11/putting-stronger-guardrails-around-ai",
-    "source": "Duke Today",
-    "published_at": "2025-11-08T07:50:20.030675+08:00",
-    "summary": "It's been a busy season for AI policy. The rise of ChatGPT unleashed a frenzy of headlines around the promise and perils of artificial intelligence,...",
-    "scraped_at": "2025-11-08T07:50:43+08:00",
-    "canonical_url": "https://today.duke.edu/2025/11/putting-stronger-guardrails-around-ai"
-  },
-  {
-    "title": "Recruiting companies are starting to hold job interviews using AI",
-    "url": "https://www.npr.org/2025/11/07/nx-s1-5600127/recruiting-companies-are-starting-to-hold-job-interviews-using-ai",
-    "source": "NPR",
-    "published_at": "2025-11-08T07:50:16.663442+08:00",
-    "summary": "Companies have begun using AI to interview potential employees, and a new study shows a number of job candidates may prefer being interviewed by AI.",
-    "scraped_at": "2025-11-08T07:50:43+08:00",
-    "canonical_url": "https://www.npr.org/2025/11/07/nx-s1-5600127/recruiting-companies-are-starting-to-hold-job-interviews-using-ai"
-  },
-  {
-    "title": "How AI is changing medical education",
-    "url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html",
-    "source": "KevinMD.com",
-    "published_at": "2025-11-08T07:50:13.369869+08:00",
-    "summary": "A medical student reflects on how AI is reshaping medicine. The future isn't about machines replacing doctors, but augmenting them to focus on what matters...",
-    "scraped_at": "2025-11-08T07:50:43+08:00",
-    "canonical_url": "https://kevinmd.com/2025/11/how-ai-is-changing-medical-education.html"
   },
   {
     "title": "AI交易機器人：解開加密貨幣市場的炒作與現實",
@@ -106,24 +178,6 @@
     "summary": "This line, etched into pop culture and instantly recognizable to almost anyone familiar with early 2000s cinema, comes from Elle Woods: the pink-clad,...",
     "scraped_at": "2025-11-08T07:16:49+08:00",
     "canonical_url": "https://www.harvardmagazine.com/university-news/harvard-reese-witherspoon-women-media-ai"
-  },
-  {
-    "title": "Stock market declines: AI companies suffer big losses",
-    "url": "https://www.nbcnews.com/business/markets/stock-market-update-ai-losses-rcna242592",
-    "source": "NBC News",
-    "published_at": "2025-11-08T07:16:46.321734+08:00",
-    "summary": "Stocks were set to post their first weekly losses in weeks as concerns about the valuations of artificial intelligence companies prompt investors to pull...",
-    "scraped_at": "2025-11-08T07:16:49+08:00",
-    "canonical_url": "https://www.nbcnews.com/business/markets/stock-market-update-ai-losses-rcna242592"
-  },
-  {
-    "title": "AI+Science Conference Comes to Caltech",
-    "url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech",
-    "source": "Caltech",
-    "published_at": "2025-11-08T07:16:42.921179+08:00",
-    "summary": "Large language models (LLMs) such as ChatGPT have quickly shown how artificial intelligence (AI) can impact workflow, content creation, and even our daily...",
-    "scraped_at": "2025-11-08T07:16:49+08:00",
-    "canonical_url": "https://www.caltech.edu/about/news/aiscience-conference-comes-to-caltech"
   },
   {
     "title": "AI導致美職缺數雪崩式下滑？學者：世界最重要圖表最蠢",
