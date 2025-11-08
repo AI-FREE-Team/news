@@ -1,5 +1,95 @@
 [
   {
+    "title": "People with ADHD, autism, dyslexia say AI agents are helping them succeed at work",
+    "url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html",
+    "source": "CNBC",
+    "published_at": "2025-11-09T00:43:00.376189+08:00",
+    "summary": "Neurodiverse professionals see benefits from AI tools, giving people with conditions like ADHD, autism, and dyslexia a more level playing field in job...",
+    "scraped_at": "2025-11-09T00:43:00+08:00",
+    "canonical_url": "https://www.cnbc.com/2025/11/08/adhd-autism-dyslexia-jobs-careers-ai-agents-success.html"
+  },
+  {
+    "title": "How to filter out AI on Pinterest",
+    "url": "https://mashable.com/article/pinterest-ai-how-to-turn-off",
+    "source": "Mashable",
+    "published_at": "2025-11-09T00:42:56.997677+08:00",
+    "summary": "How to filter out AI on Pinterest · Step 1: Click the settings gear · Step 2: Refine your recommendations · Step 3: Click GenAI interests · Step 4: Toggle off...",
+    "scraped_at": "2025-11-09T00:43:00+08:00",
+    "canonical_url": "https://mashable.com/article/pinterest-ai-how-to-turn-off"
+  },
+  {
+    "title": "Main Street's job fears hit Wall Street as AI rally falters",
+    "url": "https://www.freep.com/story/money/business/2025/11/08/main-street-job-fears-wall-street-ai-rally/87147357007/",
+    "source": "Detroit Free Press",
+    "published_at": "2025-11-09T00:42:53.793459+08:00",
+    "summary": "A series of events sent technology and AI-linked stocks into their worst week since April's tariff-driven sell-off.",
+    "scraped_at": "2025-11-09T00:43:00+08:00",
+    "canonical_url": "https://www.freep.com/story/money/business/2025/11/08/main-street-job-fears-wall-street-ai-rally/87147357007/"
+  },
+  {
+    "title": "Mothers say AI chatbots encouraged their sons to kill themselves",
+    "url": "https://www.bbc.com/news/articles/ce3xgwyywe4o",
+    "source": "BBC",
+    "published_at": "2025-11-09T00:42:50.359648+08:00",
+    "summary": "In her first UK interview Megan Garcia speaks to Laura Kuenssberg about the death of her teenage son.",
+    "scraped_at": "2025-11-09T00:43:00+08:00",
+    "canonical_url": "https://www.bbc.com/news/articles/ce3xgwyywe4o"
+  },
+  {
+    "title": "Wearable Tech Takes a Leap Forward With AI",
+    "url": "https://www.wsj.com/tech/personal-tech/stream-ring-wearable-ai-c135a21f?gaa_at=eafs&gaa_n=AWEtsqdRlWwuRPWLSfPtlQp_a43bsXYZsX15Iz95TXwgWb97xRmES6DCYd0O&gaa_ts=690f7677&gaa_sig=ZefODYeQlC1-W0H1ywDETmBq6GdyGC_liDs4Y92uELbgMZhtWeL2BD5UiIezSaPJEtWmpTfSh8OPcuWI2VWRqQ%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-09T00:42:46.819142+08:00",
+    "summary": "Mina Fahmi, co-founder and CEO of Sandbar, on the company's new wearable Stream Ring.",
+    "scraped_at": "2025-11-09T00:43:00+08:00",
+    "canonical_url": "https://www.wsj.com/tech/personal-tech/stream-ring-wearable-ai-c135a21f"
+  },
+  {
+    "title": "Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic",
+    "url": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html",
+    "source": "The Hacker News",
+    "published_at": "2025-11-09T00:42:43.632119+08:00",
+    "summary": "Microsoft's Whisper Leak shows encrypted AI chats can secretly reveal user topics through subtle traffic patterns.",
+    "scraped_at": "2025-11-09T00:43:00+08:00",
+    "canonical_url": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html"
+  },
+  {
+    "title": "AI’s hidden recession: How fewer jobs and cultural backlash create a governance crisis",
+    "url": "https://fortune.com/2025/11/08/ai-hidden-recession-gender-inequality-patriarchy/",
+    "source": "Fortune",
+    "published_at": "2025-11-09T00:42:40.432798+08:00",
+    "summary": "AI will redefine how humans create value. Whether it also redefines who is allowed to create value will depend on the choices leaders make now.",
+    "scraped_at": "2025-11-09T00:43:00+08:00",
+    "canonical_url": "https://fortune.com/2025/11/08/ai-hidden-recession-gender-inequality-patriarchy/"
+  },
+  {
+    "title": "Your Turn | Fear of AI is rooted in fear of ourselves",
+    "url": "https://www.vcstar.com/story/opinion/2025/11/08/your-turn-fear-of-ai-is-rooted-in-fear-of-ourselves/87108436007/",
+    "source": "Ventura County Star",
+    "published_at": "2025-11-09T00:42:37.270877+08:00",
+    "summary": "Our view of artificial intelligence is crucial because it directly shapes how we use it, as AI is a double-edged sword.",
+    "scraped_at": "2025-11-09T00:43:00+08:00",
+    "canonical_url": "https://www.vcstar.com/story/opinion/2025/11/08/your-turn-fear-of-ai-is-rooted-in-fear-of-ourselves/87108436007/"
+  },
+  {
+    "title": "Gen AI Is Going Mainstream: Here’s What’s Coming Next",
+    "url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/",
+    "source": "Josh Bersin",
+    "published_at": "2025-11-09T00:42:33.867482+08:00",
+    "summary": "84% of leaders now use GenAI every week, and 45% daily. Now that AI has gone mainstream, what happens next?",
+    "scraped_at": "2025-11-09T00:43:00+08:00",
+    "canonical_url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/"
+  },
+  {
+    "title": "Debt Has Entered the A.I. Boom",
+    "url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-09T00:42:30.574502+08:00",
+    "summary": "To fund heavy spending on infrastructure for artificial intelligence, companies have leveraged a growing list of complex debt-financing options.",
+    "scraped_at": "2025-11-09T00:43:00+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/08/business/dealbook/debt-has-entered-the-ai-boom.html"
+  },
+  {
     "title": "不實AI造假影射影片流傳 能源署譴責",
     "url": "https://tw.news.yahoo.com/%E4%B8%8D%E5%AF%A6ai%E9%80%A0%E5%81%87%E5%BD%B1%E5%B0%84%E5%BD%B1%E7%89%87%E6%B5%81%E5%82%B3-%E8%83%BD%E6%BA%90%E7%BD%B2%E8%AD%B4%E8%B2%AC-081949482.html",
     "source": "奇摩新聞",
