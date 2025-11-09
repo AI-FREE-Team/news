@@ -1,5 +1,68 @@
 [
   {
+    "title": "The dimming job market's bright spot: AI skills",
+    "url": "https://www.axios.com/2025/11/09/job-market-ai-skills",
+    "source": "Axios",
+    "published_at": "2025-11-10T01:50:48.622011+08:00",
+    "summary": "Hiring is slowing, but demand for AI skills is spiking. Why it matters: Business leaders are beginning to see an emerging gap between workers who embrace AI...",
+    "scraped_at": "2025-11-10T01:50:53+08:00",
+    "canonical_url": "https://www.axios.com/2025/11/09/job-market-ai-skills"
+  },
+  {
+    "title": "Douglas Flora: Announcing the 2025 \"State of AI in Precision Oncology\" Virtual Global Summit",
+    "url": "https://oncodaily.com/voices/precision-oncology-406079",
+    "source": "Oncodaily",
+    "published_at": "2025-11-10T01:50:45.538702+08:00",
+    "summary": "Douglas Flora: Announcing the 2025 \"State of AI in Precision Oncology\" Virtual Global Summit / cancer, Douglas Flora, OncoDaily, Oncology,...",
+    "scraped_at": "2025-11-10T01:50:53+08:00",
+    "canonical_url": "https://oncodaily.com/voices/precision-oncology-406079"
+  },
+  {
+    "title": "Adobe Firefly Is the Best-Kept Secret in Generative AI. Here’s How to Use It",
+    "url": "https://www.wired.com/story/what-is-adobe-firefly/",
+    "source": "WIRED",
+    "published_at": "2025-11-10T01:50:42.312709+08:00",
+    "summary": "Adobe Firefly is a deceptively powerful AI playground to generate images, videos, and more. Here's how to make the most of it.",
+    "scraped_at": "2025-11-10T01:50:53+08:00",
+    "canonical_url": "https://www.wired.com/story/what-is-adobe-firefly/"
+  },
+  {
+    "title": "The Slop Cycle—How Every Media Revolution Breeds Rubbish and Art",
+    "url": "https://www.scientificamerican.com/article/ai-slop-how-every-media-revolution-breeds-rubbish-and-art/",
+    "source": "Scientific American",
+    "published_at": "2025-11-10T01:50:39.194063+08:00",
+    "summary": "The popularization of the term “slop” for AI output follows a centuries-long pattern where new tools flood the zone, audiences adapt and some of tomorrow's...",
+    "scraped_at": "2025-11-10T01:50:53+08:00",
+    "canonical_url": "https://www.scientificamerican.com/article/ai-slop-how-every-media-revolution-breeds-rubbish-and-art/"
+  },
+  {
+    "title": "I’m a committed introvert – but no AI will take away the joy I get from other people | Emma Beddington",
+    "url": "https://www.theguardian.com/commentisfree/2025/nov/09/no-ai-will-take-away-the-joy-i-get-from-other-people",
+    "source": "The Guardian",
+    "published_at": "2025-11-10T01:50:36.057464+08:00",
+    "summary": "While it might be soothing to think you could replace social interactions like book clubs with ChatGPT, subcontracting human thought out to a bot will never...",
+    "scraped_at": "2025-11-10T01:50:53+08:00",
+    "canonical_url": "https://www.theguardian.com/commentisfree/2025/nov/09/no-ai-will-take-away-the-joy-i-get-from-other-people"
+  },
+  {
+    "title": "Has Palantir Technologies Become a Better Artificial Intelligence (AI) Stock to Buy Than Nvidia?",
+    "url": "https://finance.yahoo.com/news/palantir-technologies-become-better-artificial-143500789.html",
+    "source": "Yahoo Finance",
+    "published_at": "2025-11-10T01:50:32.806784+08:00",
+    "summary": "Palantir's growth rate accelerated in its most recent quarter, while Nvidia's growth rate has been slowing. Nvidia, however, trades at a far more reasonable...",
+    "scraped_at": "2025-11-10T01:50:53+08:00",
+    "canonical_url": "https://finance.yahoo.com/news/palantir-technologies-become-better-artificial-143500789.html"
+  },
+  {
+    "title": "How I spent 48 hours without AI",
+    "url": "https://www.seattletimes.com/business/how-i-spent-48-hours-without-ai/",
+    "source": "The Seattle Times",
+    "published_at": "2025-11-10T01:50:28.864452+08:00",
+    "summary": "The reporter didn't expect that his attempt to avoid all interactions with AI and machine learning would affect nearly every part of his life — what he ate,...",
+    "scraped_at": "2025-11-10T01:50:53+08:00",
+    "canonical_url": "https://www.seattletimes.com/business/how-i-spent-48-hours-without-ai/"
+  },
+  {
     "title": "全美正上演AI監控AI。由於過去兩年，不少青少年因使用AI，出現輕生、自殘、暴力等現象，全美越來越多學區購買如 GoGuardian、Lightspeed Systems 等AI軟體，讓系統即時掃描學生與聊天機器人的對話內容，一旦偵測到自殺或暴力傾向，立即通知學校輔導員或警方。",
     "url": "https://www.facebook.com/story.php?story_fbid=881604904430864&id=100077440885932",
     "source": "Facebook",
@@ -88,42 +151,6 @@
     "summary": "雲端與AI巨頭微軟、Alphabet（Google 母公司）、Meta、亞馬遜相繼公布最新季度財報。口袋證券觀察，整體營...",
     "scraped_at": "2025-11-10T01:30:07+08:00",
     "canonical_url": "https://www.worldjournal.com/wj/story/121208/9128010"
-  },
-  {
-    "title": "I’m a committed introvert – but no AI will take away the joy I get from other people | Emma Beddington",
-    "url": "https://www.theguardian.com/commentisfree/2025/nov/09/no-ai-will-take-away-the-joy-i-get-from-other-people",
-    "source": "The Guardian",
-    "published_at": "2025-11-10T00:43:04.640972+08:00",
-    "summary": "While it might be soothing to think you could replace social interactions like book clubs with ChatGPT, subcontracting human thought out to a bot will never...",
-    "scraped_at": "2025-11-10T00:43:09+08:00",
-    "canonical_url": "https://www.theguardian.com/commentisfree/2025/nov/09/no-ai-will-take-away-the-joy-i-get-from-other-people"
-  },
-  {
-    "title": "Adobe Firefly Is the Best-Kept Secret in Generative AI. Here’s How to Use It",
-    "url": "https://www.wired.com/story/what-is-adobe-firefly/",
-    "source": "WIRED",
-    "published_at": "2025-11-10T00:43:01.451303+08:00",
-    "summary": "Adobe Firefly is a deceptively powerful AI playground to generate images, videos, and more. Here's how to make the most of it.",
-    "scraped_at": "2025-11-10T00:43:09+08:00",
-    "canonical_url": "https://www.wired.com/story/what-is-adobe-firefly/"
-  },
-  {
-    "title": "The Slop Cycle—How Every Media Revolution Breeds Rubbish and Art",
-    "url": "https://www.scientificamerican.com/article/ai-slop-how-every-media-revolution-breeds-rubbish-and-art/",
-    "source": "Scientific American",
-    "published_at": "2025-11-10T00:42:58.203399+08:00",
-    "summary": "The popularization of the term “slop” for AI output follows a centuries-long pattern where new tools flood the zone, audiences adapt and some of tomorrow's...",
-    "scraped_at": "2025-11-10T00:43:09+08:00",
-    "canonical_url": "https://www.scientificamerican.com/article/ai-slop-how-every-media-revolution-breeds-rubbish-and-art/"
-  },
-  {
-    "title": "The dimming job market's bright spot: AI skills",
-    "url": "https://www.axios.com/2025/11/09/job-market-ai-skills",
-    "source": "Axios",
-    "published_at": "2025-11-10T00:42:55.007553+08:00",
-    "summary": "Hiring is slowing, but demand for AI skills is spiking. Why it matters: Business leaders are beginning to see an emerging gap between workers who embrace AI...",
-    "scraped_at": "2025-11-10T00:43:09+08:00",
-    "canonical_url": "https://www.axios.com/2025/11/09/job-market-ai-skills"
   },
   {
     "title": "前Meta員工打造AI智慧戒指Stream Ring，導入觸控麥克風、AI語音筆記與手勢操控",
