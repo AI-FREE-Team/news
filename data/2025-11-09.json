@@ -1,12 +1,93 @@
 [
   {
+    "title": "Finding a need for God in the AI era",
+    "url": "https://www.jpost.com/opinion/article-873003",
+    "source": "The Jerusalem Post",
+    "published_at": "2025-11-09T16:20:30.253677+08:00",
+    "summary": "Can – or perhaps should – any individual Jew who is looking to fulfill God's word direct his or her halachic question to AI, and then be obligated to follow...",
+    "scraped_at": "2025-11-09T16:20:30+08:00",
+    "canonical_url": "https://www.jpost.com/opinion/article-873003"
+  },
+  {
+    "title": "Removing Unnecessary Legal Hurdles in Copyright and Data Privacy for AI-Driven Research: Transatlantic Perspectives from the EU, UK and US",
+    "url": "https://law.stanford.edu/transatlantic-technology-law-forum/projects/removing-unnecessary-legal-hurdles-in-copyright-and-data-privacy-for-ai-driven-research-transatlantic-perspectives-from-the-eu-uk-and-us/",
+    "source": "Stanford Law School",
+    "published_at": "2025-11-09T16:20:27.064512+08:00",
+    "summary": "Investigator: Zihao Li Abstract: Artificial intelligence holds unprecedented potential to accelerate scientific discovery, yet researchers face persis.",
+    "scraped_at": "2025-11-09T16:20:30+08:00",
+    "canonical_url": "https://law.stanford.edu/transatlantic-technology-law-forum/projects/removing-unnecessary-legal-hurdles-in-copyright-and-data-privacy-for-ai-driven-research-transatlantic-perspectives-from-the-eu-uk-and-us/"
+  },
+  {
+    "title": "China’s DeepSeek makes rare comment, calls for AI ‘whistle-blower’ on job losses",
+    "url": "https://www.scmp.com/tech/big-tech/article/3332086/chinas-deepseek-makes-rare-public-comment-calls-ai-whistle-blower-job-losses",
+    "source": "South China Morning Post",
+    "published_at": "2025-11-09T16:20:23.833499+08:00",
+    "summary": "Chinese artificial intelligence start-up DeepSeek made a rare appearance at a state-backed industry event on Friday as a senior researcher reaffirmed the AI...",
+    "scraped_at": "2025-11-09T16:20:30+08:00",
+    "canonical_url": "https://www.scmp.com/tech/big-tech/article/3332086/chinas-deepseek-makes-rare-public-comment-calls-ai-whistle-blower-job-losses"
+  },
+  {
     "title": "How Generative AI Could Save 371,000 Lives and Slash U.S. Healthcare Costs",
     "url": "https://thefulcrum.us/health/generative-ai-healthcare-saves-lives-costs",
     "source": "The Fulcrum",
-    "published_at": "2025-11-09T15:36:25.451322+08:00",
+    "published_at": "2025-11-09T16:20:20.713360+08:00",
     "summary": "Generative AI could save hundreds of thousands of lives, make healthcare affordable for every American, and let clinicians spend more time with their...",
-    "scraped_at": "2025-11-09T15:36:25+08:00",
+    "scraped_at": "2025-11-09T16:20:30+08:00",
     "canonical_url": "https://thefulcrum.us/health/generative-ai-healthcare-saves-lives-costs"
+  },
+  {
+    "title": "How AI helped me decipher my dead dad’s parting words",
+    "url": "https://www.independent.co.uk/tech/ai-chatgpt-gemini-b2860317.html",
+    "source": "The Independent",
+    "published_at": "2025-11-09T16:20:17.609138+08:00",
+    "summary": "Artificial intelligence can decode half-destroyed ancient texts and translate undeciphered languages. Using this technology, Anthony Cuthbertson tries to...",
+    "scraped_at": "2025-11-09T16:20:30+08:00",
+    "canonical_url": "https://www.independent.co.uk/tech/ai-chatgpt-gemini-b2860317.html"
+  },
+  {
+    "title": "Character.AI to shut down chats for teens",
+    "url": "https://mashable.com/article/character-ai-teens-no-longer-allowed-open-ended-chats-with-chatbots",
+    "source": "Mashable",
+    "published_at": "2025-11-09T16:20:14.334952+08:00",
+    "summary": "In an interview with Mashable, Character.AI's CEO Karandeep Anand described the new policy as \"bold\" and denied that curtailing open-ended chatbot conversations...",
+    "scraped_at": "2025-11-09T16:20:30+08:00",
+    "canonical_url": "https://mashable.com/article/character-ai-teens-no-longer-allowed-open-ended-chats-with-chatbots"
+  },
+  {
+    "title": "California backs down on AI laws so more tech leaders don’t flee the state",
+    "url": "https://www.latimes.com/business/story/2025-11-06/as-tech-lobbying-intensifies-california-politicians-make-concessions",
+    "source": "Los Angeles Times",
+    "published_at": "2025-11-09T16:20:10.942142+08:00",
+    "summary": "Tech companies spent millions lobbying California policymakers and threatened to relocate, pressuring Gov. Newsom to veto AI safety bills protecting...",
+    "scraped_at": "2025-11-09T16:20:30+08:00",
+    "canonical_url": "https://www.latimes.com/business/story/2025-11-06/as-tech-lobbying-intensifies-california-politicians-make-concessions"
+  },
+  {
+    "title": "How New AI Contracts Are Reshaping Applied Digital’s Growth and Analyst Expectations",
+    "url": "https://finance.yahoo.com/news/ai-contracts-reshaping-applied-digital-061804468.html",
+    "source": "Yahoo Finance",
+    "published_at": "2025-11-09T16:20:07.746874+08:00",
+    "summary": "Applied Digital's consensus analyst price target has been reaffirmed at $43.70 per share, reflecting continued confidence in the company's long-term...",
+    "scraped_at": "2025-11-09T16:20:30+08:00",
+    "canonical_url": "https://finance.yahoo.com/news/ai-contracts-reshaping-applied-digital-061804468.html"
+  },
+  {
+    "title": "Global week ahead: AI wobble casts shadow over 'Davos for geeks'",
+    "url": "https://www.cnbc.com/2025/11/09/global-week-ahead-ai-wobble-casts-shadow-over-davos-for-geeks.html",
+    "source": "CNBC",
+    "published_at": "2025-11-09T16:20:03.761953+08:00",
+    "summary": "After a volatile week for AI stocks and the tech sector more broadly, CNBC travels to Web Summit in Lisbon — 'Davos for geeks' — to assess sentiment.",
+    "scraped_at": "2025-11-09T16:20:30+08:00",
+    "canonical_url": "https://www.cnbc.com/2025/11/09/global-week-ahead-ai-wobble-casts-shadow-over-davos-for-geeks.html"
+  },
+  {
+    "title": "We Hired a Witch to Curse A.I.",
+    "url": "https://www.pablo.show/p/we-hired-a-witch-to-curse-ai",
+    "source": "PABLO TORRE FINDS OUT | Substack",
+    "published_at": "2025-11-09T16:20:00.544718+08:00",
+    "summary": "We've been doing this thing on the show recently where my friend Michael Cruz Kayne and I sit down with a person of interest who has absolutely no idea who...",
+    "scraped_at": "2025-11-09T16:20:30+08:00",
+    "canonical_url": "https://www.pablo.show/p/we-hired-a-witch-to-curse-ai"
   },
   {
     "title": "Is Wall Street losing faith in AI?",
@@ -27,60 +108,6 @@
     "canonical_url": "https://joshbersin.com/2025/11/gen-ai-is-going-mainstream-heres-whats-coming-next/"
   },
   {
-    "title": "Finding a need for God in the AI era",
-    "url": "https://www.jpost.com/opinion/article-873003",
-    "source": "The Jerusalem Post",
-    "published_at": "2025-11-09T15:36:15.684224+08:00",
-    "summary": "Can – or perhaps should – any individual Jew who is looking to fulfill God's word direct his or her halachic question to AI, and then be obligated to follow...",
-    "scraped_at": "2025-11-09T15:36:25+08:00",
-    "canonical_url": "https://www.jpost.com/opinion/article-873003"
-  },
-  {
-    "title": "How New AI Contracts Are Reshaping Applied Digital’s Growth and Analyst Expectations",
-    "url": "https://finance.yahoo.com/news/ai-contracts-reshaping-applied-digital-061804468.html",
-    "source": "Yahoo Finance",
-    "published_at": "2025-11-09T15:36:12.494856+08:00",
-    "summary": "Applied Digital's consensus analyst price target has been reaffirmed at $43.70 per share, reflecting continued confidence in the company's long-term...",
-    "scraped_at": "2025-11-09T15:36:25+08:00",
-    "canonical_url": "https://finance.yahoo.com/news/ai-contracts-reshaping-applied-digital-061804468.html"
-  },
-  {
-    "title": "Removing Unnecessary Legal Hurdles in Copyright and Data Privacy for AI-Driven Research: Transatlantic Perspectives from the EU, UK and US",
-    "url": "https://law.stanford.edu/transatlantic-technology-law-forum/projects/removing-unnecessary-legal-hurdles-in-copyright-and-data-privacy-for-ai-driven-research-transatlantic-perspectives-from-the-eu-uk-and-us/",
-    "source": "Stanford Law School",
-    "published_at": "2025-11-09T15:36:08.445889+08:00",
-    "summary": "Investigator: Zihao Li Abstract: Artificial intelligence holds unprecedented potential to accelerate scientific discovery, yet researchers face persis.",
-    "scraped_at": "2025-11-09T15:36:25+08:00",
-    "canonical_url": "https://law.stanford.edu/transatlantic-technology-law-forum/projects/removing-unnecessary-legal-hurdles-in-copyright-and-data-privacy-for-ai-driven-research-transatlantic-perspectives-from-the-eu-uk-and-us/"
-  },
-  {
-    "title": "California backs down on AI laws so more tech leaders don’t flee the state",
-    "url": "https://www.latimes.com/business/story/2025-11-06/as-tech-lobbying-intensifies-california-politicians-make-concessions",
-    "source": "Los Angeles Times",
-    "published_at": "2025-11-09T15:36:05.253258+08:00",
-    "summary": "Tech companies spent millions lobbying California policymakers and threatened to relocate, pressuring Gov. Newsom to veto AI safety bills protecting...",
-    "scraped_at": "2025-11-09T15:36:25+08:00",
-    "canonical_url": "https://www.latimes.com/business/story/2025-11-06/as-tech-lobbying-intensifies-california-politicians-make-concessions"
-  },
-  {
-    "title": "Global week ahead: AI wobble casts shadow over 'Davos for geeks'",
-    "url": "https://www.cnbc.com/2025/11/09/global-week-ahead-ai-wobble-casts-shadow-over-davos-for-geeks.html",
-    "source": "CNBC",
-    "published_at": "2025-11-09T15:36:01.963730+08:00",
-    "summary": "After a volatile week for AI stocks and the tech sector more broadly, CNBC travels to Web Summit in Lisbon — 'Davos for geeks' — to assess sentiment.",
-    "scraped_at": "2025-11-09T15:36:25+08:00",
-    "canonical_url": "https://www.cnbc.com/2025/11/09/global-week-ahead-ai-wobble-casts-shadow-over-davos-for-geeks.html"
-  },
-  {
-    "title": "We Hired a Witch to Curse A.I.",
-    "url": "https://www.pablo.show/p/we-hired-a-witch-to-curse-ai",
-    "source": "PABLO TORRE FINDS OUT | Substack",
-    "published_at": "2025-11-09T15:35:58.677228+08:00",
-    "summary": "We've been doing this thing on the show recently where my friend Michael Cruz Kayne and I sit down with a person of interest who has absolutely no idea who...",
-    "scraped_at": "2025-11-09T15:36:25+08:00",
-    "canonical_url": "https://www.pablo.show/p/we-hired-a-witch-to-curse-ai"
-  },
-  {
     "title": "Bring your imagination to life with this AI image generator, now $40 for life",
     "url": "https://mashable.com/article/oct-17-imagiyo-ai-image-generator-standard-plan-lifetime-subscription",
     "source": "Mashable",
@@ -88,15 +115,6 @@
     "summary": "TL;DR: Create whatever images you can dream up with this lifetime subscription to Imagiyo AI Image Generator, on sale now for just $39.97 (reg. $495).",
     "scraped_at": "2025-11-09T15:36:25+08:00",
     "canonical_url": "https://mashable.com/article/oct-17-imagiyo-ai-image-generator-standard-plan-lifetime-subscription"
-  },
-  {
-    "title": "China’s DeepSeek makes rare comment, calls for AI ‘whistle-blower’ on job losses",
-    "url": "https://www.scmp.com/tech/big-tech/article/3332086/chinas-deepseek-makes-rare-public-comment-calls-ai-whistle-blower-job-losses",
-    "source": "South China Morning Post",
-    "published_at": "2025-11-09T14:25:00.143387+08:00",
-    "summary": "Chinese artificial intelligence start-up DeepSeek made a rare appearance at a state-backed industry event on Friday as a senior researcher reaffirmed the AI...",
-    "scraped_at": "2025-11-09T14:25:09+08:00",
-    "canonical_url": "https://www.scmp.com/tech/big-tech/article/3332086/chinas-deepseek-makes-rare-public-comment-calls-ai-whistle-blower-job-losses"
   },
   {
     "title": "Will Arm (ARM) Rethink Its AI Strategy After Strong Earnings and DreamBig Chipmaker Acquisition?",
@@ -115,15 +133,6 @@
     "summary": "Artificial intelligence (AI) stocks have roared higher in recent years, powering the S&P 500 to record high after record high. The reason for the enthusiasm...",
     "scraped_at": "2025-11-09T13:50:46+08:00",
     "canonical_url": "https://www.fool.com/investing/2025/11/08/2-ai-stocks-that-could-go-parabolic/"
-  },
-  {
-    "title": "Character.AI to shut down chats for teens",
-    "url": "https://mashable.com/article/character-ai-teens-no-longer-allowed-open-ended-chats-with-chatbots",
-    "source": "Mashable",
-    "published_at": "2025-11-09T13:39:52.133444+08:00",
-    "summary": "In an interview with Mashable, Character.AI's CEO Karandeep Anand described the new policy as \"bold\" and denied that curtailing open-ended chatbot conversations...",
-    "scraped_at": "2025-11-09T13:40:09+08:00",
-    "canonical_url": "https://mashable.com/article/character-ai-teens-no-longer-allowed-open-ended-chats-with-chatbots"
   },
   {
     "title": "The Most Terrifying Graph I Have Ever Seen",
