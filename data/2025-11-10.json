@@ -1,5 +1,59 @@
 [
   {
+    "title": "AI 新創Cursor 企業文化：使命驅動工作而非財富，招人不招崗位",
+    "url": "https://abmedia.io/ai-startup-cursor-culture",
+    "source": "鏈新聞 ABMedia",
+    "published_at": "2025-11-10T06:50:10.432944+08:00",
+    "summary": "Brie Wolfson (前Stripe、Figma 成員) 受邀短期駐點AI 初創公司Cursor，以觀察者兼參與者身分，記錄這家AI 程式開發獨角獸的內部文化。Cursor 的使命是讓軟體開發流程...",
+    "scraped_at": "2025-11-10T06:50:11+08:00",
+    "canonical_url": "https://abmedia.io/ai-startup-cursor-culture"
+  },
+  {
+    "title": "OpenAI 長篇報告：AI 能處理人類需百年才能完成的研究，成本逐年下降 40 倍",
+    "url": "https://www.bitget.com/zh-TC/amp/news/detail/12560605054441",
+    "source": "Bitget",
+    "published_at": "2025-11-10T06:50:07.192437+08:00",
+    "summary": "OpenAI 近日發布最新長篇報告《AI Progress and Recommendations》，全面回顧人工智慧近期的突破、未來發展節奏與安全治理方向。報告指出，AI 系統已不僅止於聊| Bitget...",
+    "scraped_at": "2025-11-10T06:50:11+08:00",
+    "canonical_url": "https://www.bitget.com/zh-TC/amp/news/detail/12560605054441"
+  },
+  {
+    "title": "AI時代美國年輕人就業驟變",
+    "url": "https://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/60304-2025-11-10-05-00-35.html",
+    "source": "日經中文網",
+    "published_at": "2025-11-10T06:50:03.884105+08:00",
+    "summary": "與人工智慧（AI）一起生活的日常不再是未來的童話故事。隨著AI承擔腦力勞動，大學畢業生的就業難困加劇，電力的大量消耗正在迅速推高數據中心附近地區的電價。",
+    "scraped_at": "2025-11-10T06:50:11+08:00",
+    "canonical_url": "https://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/60304-2025-11-10-05-00-35.html"
+  },
+  {
+    "title": "黃仁勳揭示 Rubin GPU 進產線，輝達 AI 版圖再擴張，台積電成最大贏家？",
+    "url": "https://xueqiu.com/8047059323/360668790",
+    "source": "雪球",
+    "published_at": "2025-11-10T06:49:58.672510+08:00",
+    "summary": "英伟达(NVDA)$ $台积电(TSM)$ $中际旭创(SZ300308)$. 2025 年11 月8 日，英伟达（NVIDIA）執行長黃仁勳現身台積電運動會，這場看似輕鬆的活動，卻釋放出多項對AI 晶片產業極...",
+    "scraped_at": "2025-11-10T06:50:11+08:00",
+    "canonical_url": "https://xueqiu.com/8047059323/360668790"
+  },
+  {
+    "title": "陸AI應用程式收入不敵美國",
+    "url": "https://tw.stock.yahoo.com/news/%E9%99%B8ai%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E6%94%B6%E5%85%A5%E4%B8%8D%E6%95%B5%E7%BE%8E%E5%9C%8B-201000039.html",
+    "source": "Yahoo股市",
+    "published_at": "2025-11-10T06:49:53.626185+08:00",
+    "summary": "大陸「十五五規劃」明年上路，其中一項聚焦產業是人工智慧（AI）。然而，最新報告顯示，大陸AI應用程式新創企業的年度經常性收入（ARR）明顯落後美國，全球前100大私人公司AI...",
+    "scraped_at": "2025-11-10T06:50:11+08:00",
+    "canonical_url": "https://tw.stock.yahoo.com/news/%E9%99%B8ai%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E6%94%B6%E5%85%A5%E4%B8%8D%E6%95%B5%E7%BE%8E%E5%9C%8B-201000039.html"
+  },
+  {
+    "title": "雲端AI巨頭財報亮眼 雲端業務與AI產品化已為推動成長核心動能",
+    "url": "https://www.worldjournal.com/wj/story/121208/9128010",
+    "source": "世界新聞網",
+    "published_at": "2025-11-10T06:49:49.722257+08:00",
+    "summary": "雲端與AI巨頭微軟、Alphabet（Google 母公司）、Meta、亞馬遜相繼公布最新季度財報。口袋證券觀察，整體營...",
+    "scraped_at": "2025-11-10T06:50:11+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/121208/9128010"
+  },
+  {
     "title": "AI’s Bright Line Bottlenecks: 3 Stocks Poised to Break Through to Massive Growth",
     "url": "https://247wallst.com/investing/2025/11/09/ais-bright-line-bottlenecks-3-stocks-poised-to-break-through-to-massive-growth/",
     "source": "24/7 Wall St.",
@@ -88,60 +142,6 @@
     "summary": "In a previous article, I pointed out the stark similarity between the AI bubble and the subprime mortgage crisis of 2007/2008. It isn't just that a bubble...",
     "scraped_at": "2025-11-10T06:16:48+08:00",
     "canonical_url": "https://medium.com/@wlockett/ai-just-had-its-actual-big-short-moment-5d841d751c28"
-  },
-  {
-    "title": "AI 新創Cursor 企業文化：使命驅動工作而非財富，招人不招崗位",
-    "url": "https://abmedia.io/ai-startup-cursor-culture",
-    "source": "鏈新聞 ABMedia",
-    "published_at": "2025-11-10T06:16:13.610518+08:00",
-    "summary": "Brie Wolfson (前Stripe、Figma 成員) 受邀短期駐點AI 初創公司Cursor，以觀察者兼參與者身分，記錄這家AI 程式開發獨角獸的內部文化。Cursor 的使命是讓軟體開發流程...",
-    "scraped_at": "2025-11-10T06:16:48+08:00",
-    "canonical_url": "https://abmedia.io/ai-startup-cursor-culture"
-  },
-  {
-    "title": "OpenAI 長篇報告：AI 能處理人類需百年才能完成的研究，成本逐年下降 40 倍",
-    "url": "https://www.bitget.com/zh-TC/amp/news/detail/12560605054441",
-    "source": "Bitget",
-    "published_at": "2025-11-10T06:16:10.340944+08:00",
-    "summary": "OpenAI 近日發布最新長篇報告《AI Progress and Recommendations》，全面回顧人工智慧近期的突破、未來發展節奏與安全治理方向。報告指出，AI 系統已不僅止於聊| Bitget...",
-    "scraped_at": "2025-11-10T06:16:48+08:00",
-    "canonical_url": "https://www.bitget.com/zh-TC/amp/news/detail/12560605054441"
-  },
-  {
-    "title": "AI時代美國年輕人就業驟變",
-    "url": "https://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/60304-2025-11-10-05-00-35.html",
-    "source": "日經中文網",
-    "published_at": "2025-11-10T06:16:07.125352+08:00",
-    "summary": "與人工智慧（AI）一起生活的日常不再是未來的童話故事。隨著AI承擔腦力勞動，大學畢業生的就業難困加劇，電力的大量消耗正在迅速推高數據中心附近地區的電價。",
-    "scraped_at": "2025-11-10T06:16:48+08:00",
-    "canonical_url": "https://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/60304-2025-11-10-05-00-35.html"
-  },
-  {
-    "title": "黃仁勳揭示 Rubin GPU 進產線，輝達 AI 版圖再擴張，台積電成最大贏家？",
-    "url": "https://xueqiu.com/8047059323/360668790",
-    "source": "雪球",
-    "published_at": "2025-11-10T06:16:02.094660+08:00",
-    "summary": "英伟达(NVDA)$ $台积电(TSM)$ $中际旭创(SZ300308)$. 2025 年11 月8 日，英伟达（NVIDIA）執行長黃仁勳現身台積電運動會，這場看似輕鬆的活動，卻釋放出多項對AI 晶片產業極...",
-    "scraped_at": "2025-11-10T06:16:48+08:00",
-    "canonical_url": "https://xueqiu.com/8047059323/360668790"
-  },
-  {
-    "title": "陸AI應用程式收入不敵美國",
-    "url": "https://tw.stock.yahoo.com/news/%E9%99%B8ai%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E6%94%B6%E5%85%A5%E4%B8%8D%E6%95%B5%E7%BE%8E%E5%9C%8B-201000039.html",
-    "source": "Yahoo股市",
-    "published_at": "2025-11-10T06:15:57.315824+08:00",
-    "summary": "大陸「十五五規劃」明年上路，其中一項聚焦產業是人工智慧（AI）。然而，最新報告顯示，大陸AI應用程式新創企業的年度經常性收入（ARR）明顯落後美國，全球前100大私人公司AI...",
-    "scraped_at": "2025-11-10T06:16:48+08:00",
-    "canonical_url": "https://tw.stock.yahoo.com/news/%E9%99%B8ai%E6%87%89%E7%94%A8%E7%A8%8B%E5%BC%8F%E6%94%B6%E5%85%A5%E4%B8%8D%E6%95%B5%E7%BE%8E%E5%9C%8B-201000039.html"
-  },
-  {
-    "title": "雲端AI巨頭財報亮眼 雲端業務與AI產品化已為推動成長核心動能",
-    "url": "https://www.worldjournal.com/wj/story/121208/9128010",
-    "source": "世界新聞網",
-    "published_at": "2025-11-10T06:15:53.385873+08:00",
-    "summary": "雲端與AI巨頭微軟、Alphabet（Google 母公司）、Meta、亞馬遜相繼公布最新季度財報。口袋證券觀察，整體營...",
-    "scraped_at": "2025-11-10T06:16:48+08:00",
-    "canonical_url": "https://www.worldjournal.com/wj/story/121208/9128010"
   },
   {
     "title": "The dimming job market's bright spot: AI skills",
