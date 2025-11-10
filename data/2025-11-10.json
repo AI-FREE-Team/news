@@ -1,5 +1,95 @@
 [
   {
+    "title": "65% of Startups from Forbes AI 50 Leaked Secrets on GitHub",
+    "url": "https://www.wiz.io/blog/forbes-ai-50-leaking-secrets",
+    "source": "wiz.io",
+    "published_at": "2025-11-10T23:43:18.623279+08:00",
+    "summary": "A Wiz investigation into the Forbes AI 50 reveals 65% of leading AI startups had leaked secrets. See real examples, leak types, and how to prevent this.",
+    "scraped_at": "2025-11-10T23:43:18+08:00",
+    "canonical_url": "https://www.wiz.io/blog/forbes-ai-50-leaking-secrets"
+  },
+  {
+    "title": "How AI Can Help You Prepare For, and Sell on, Small Business Saturday and Beyond",
+    "url": "https://www.uschamber.com/co/start/strategy/ai-small-business-saturday-trends",
+    "source": "U.S. Chamber of Commerce",
+    "published_at": "2025-11-10T23:43:15.157659+08:00",
+    "summary": "Discover how AI is transforming the retail landscape and learn how small businesses can use free AI tools to save time, increase sales, and compete with...",
+    "scraped_at": "2025-11-10T23:43:18+08:00",
+    "canonical_url": "https://www.uschamber.com/co/start/strategy/ai-small-business-saturday-trends"
+  },
+  {
+    "title": "Gamma, a PowerPoint for the A.I. Era, Raises $68 Million",
+    "url": "https://www.nytimes.com/2025/11/10/business/dealbook/gamma-ai-fundraise.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-10T23:43:11.602096+08:00",
+    "summary": "As an investment banker and consultant, Grant Lee spent years toiling on PowerPoint presentations. They are “the language of business,” he said,...",
+    "scraped_at": "2025-11-10T23:43:18+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/10/business/dealbook/gamma-ai-fundraise.html"
+  },
+  {
+    "title": "“AI, Make Me A Degree Certificate”",
+    "url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/",
+    "source": "Hackaday",
+    "published_at": "2025-11-10T23:43:08.398564+08:00",
+    "summary": "One of the fun things about writing for Hackaday is that it takes you to the places where our community hang out. I was in a hackerspace in a university...",
+    "scraped_at": "2025-11-10T23:43:18+08:00",
+    "canonical_url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/"
+  },
+  {
+    "title": "A new project aims to predict how quickly AI will progress",
+    "url": "https://www.economist.com/science-and-technology/2025/11/10/a-new-project-aims-to-predict-how-quickly-ai-will-progress",
+    "source": "The Economist",
+    "published_at": "2025-11-10T23:43:04.980688+08:00",
+    "summary": "The leaders of the big three artificial-intelligence (AI) labs promise great things, and soon. Sam Altman, the boss of OpenAI, thinks next year computers...",
+    "scraped_at": "2025-11-10T23:43:18+08:00",
+    "canonical_url": "https://www.economist.com/science-and-technology/2025/11/10/a-new-project-aims-to-predict-how-quickly-ai-will-progress"
+  },
+  {
+    "title": "If Maryland wants to lead in AI and quantum, it must lead in clean energy, too",
+    "url": "https://marylandmatters.org/2025/11/10/if-maryland-wants-to-lead-in-ai-and-quantum-it-must-lead-in-clean-energy-too/",
+    "source": "Maryland Matters",
+    "published_at": "2025-11-10T23:43:01.760293+08:00",
+    "summary": "Artificial intelligence and quantum computing are the industries of tomorrow -- with a heavy demand on the power grid of today. Which is why the state needs...",
+    "scraped_at": "2025-11-10T23:43:18+08:00",
+    "canonical_url": "https://marylandmatters.org/2025/11/10/if-maryland-wants-to-lead-in-ai-and-quantum-it-must-lead-in-clean-energy-too/"
+  },
+  {
+    "title": "Learn the power of mapping and AI at UTC’s GIS Day workshop",
+    "url": "https://blog.utc.edu/news/2025/11/learn-the-power-of-mapping-and-ai-at-utcs-gis-day-workshop/",
+    "source": "University of Tennessee at Chattanooga (UTC)",
+    "published_at": "2025-11-10T23:42:58.448128+08:00",
+    "summary": "“Everyone uses it,” said Charlie Mix, GIS director in the Center for Applied Geospatial Data Science (CAGDS) at the University of Tennessee at Chattanooga.",
+    "scraped_at": "2025-11-10T23:43:18+08:00",
+    "canonical_url": "https://blog.utc.edu/news/2025/11/learn-the-power-of-mapping-and-ai-at-utcs-gis-day-workshop/"
+  },
+  {
+    "title": "His students suddenly started getting A’s. Did a Google AI tool go too far?",
+    "url": "https://calmatters.org/education/k-12-education/2025/11/ai-cheating/",
+    "source": "CalMatters",
+    "published_at": "2025-11-10T23:42:54.826747+08:00",
+    "summary": "A Chrome browser tool features a movable bubble that provides information without typing a prompt, spurring a rise in AI cheating on tests.",
+    "scraped_at": "2025-11-10T23:43:18+08:00",
+    "canonical_url": "https://calmatters.org/education/k-12-education/2025/11/ai-cheating/"
+  },
+  {
+    "title": "USC Price professor launches initiative to teach AI",
+    "url": "https://priceschool.usc.edu/news/usc-ai-knowledge-hub-education-jobs/",
+    "source": "USC Price School",
+    "published_at": "2025-11-10T23:42:51.523666+08:00",
+    "summary": "Professor Glenn Melnick says getting up to speed with AI is imperative for faculty and students.",
+    "scraped_at": "2025-11-10T23:43:18+08:00",
+    "canonical_url": "https://priceschool.usc.edu/news/usc-ai-knowledge-hub-education-jobs/"
+  },
+  {
+    "title": "UX Roundup: AI Music | Humans Impolite to AI | Subscriptions vs. Social Media | AI vs. Search",
+    "url": "https://jakobnielsenphd.substack.com/p/ux-roundup-20251110",
+    "source": "Jakob Nielsen on UX",
+    "published_at": "2025-11-10T23:42:48.033161+08:00",
+    "summary": "Experimenting with same song in different genres | Humans impolite to AI, which needs to be reflected in training data | Subscriptions beat social media for...",
+    "scraped_at": "2025-11-10T23:43:18+08:00",
+    "canonical_url": "https://jakobnielsenphd.substack.com/p/ux-roundup-20251110"
+  },
+  {
     "title": "Will the AI bubble burst as investors grow wary of returns?",
     "url": "https://www.dw.com/en/will-the-ai-bubble-burst-as-investors-grow-wary-of-returns/a-74636881",
     "source": "DW",
@@ -25,69 +115,6 @@
     "summary": "Pope Leo XIV encourages participants in a Vatican-organized conference to help ensure that artificial intelligence does not replace interpersonal ...",
     "scraped_at": "2025-11-10T23:20:33+08:00",
     "canonical_url": "https://www.vaticannews.va/en/pope/news/2025-11/pope-leo-xiv-pontifical-academy-life-healthcare-ai.html"
-  },
-  {
-    "title": "“AI, Make Me A Degree Certificate”",
-    "url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/",
-    "source": "Hackaday",
-    "published_at": "2025-11-10T23:20:23.024808+08:00",
-    "summary": "One of the fun things about writing for Hackaday is that it takes you to the places where our community hang out. I was in a hackerspace in a university...",
-    "scraped_at": "2025-11-10T23:20:33+08:00",
-    "canonical_url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/"
-  },
-  {
-    "title": "How AI Can Help You Prepare For, and Sell on, Small Business Saturday and Beyond",
-    "url": "https://www.uschamber.com/co/start/strategy/ai-small-business-saturday-trends",
-    "source": "U.S. Chamber of Commerce",
-    "published_at": "2025-11-10T23:20:19.689244+08:00",
-    "summary": "Discover how AI is transforming the retail landscape and learn how small businesses can use free AI tools to save time, increase sales, and compete with...",
-    "scraped_at": "2025-11-10T23:20:33+08:00",
-    "canonical_url": "https://www.uschamber.com/co/start/strategy/ai-small-business-saturday-trends"
-  },
-  {
-    "title": "A new project aims to predict how quickly AI will progress",
-    "url": "https://www.economist.com/science-and-technology/2025/11/10/a-new-project-aims-to-predict-how-quickly-ai-will-progress",
-    "source": "The Economist",
-    "published_at": "2025-11-10T23:20:16.475509+08:00",
-    "summary": "The leaders of the big three artificial-intelligence (AI) labs promise great things, and soon. Sam Altman, the boss of OpenAI, thinks next year computers...",
-    "scraped_at": "2025-11-10T23:20:33+08:00",
-    "canonical_url": "https://www.economist.com/science-and-technology/2025/11/10/a-new-project-aims-to-predict-how-quickly-ai-will-progress"
-  },
-  {
-    "title": "Gamma, a PowerPoint for the A.I. Era, Raises $68 Million",
-    "url": "https://www.nytimes.com/2025/11/10/business/dealbook/gamma-ai-fundraise.html",
-    "source": "The New York Times",
-    "published_at": "2025-11-10T23:20:13.385054+08:00",
-    "summary": "The five-year-old start-up, which has just 52 employees and is profitable, is now valued at $2.1 billion by investors including Andreessen Horowitz.",
-    "scraped_at": "2025-11-10T23:20:33+08:00",
-    "canonical_url": "https://www.nytimes.com/2025/11/10/business/dealbook/gamma-ai-fundraise.html"
-  },
-  {
-    "title": "If Maryland wants to lead in AI and quantum, it must lead in clean energy, too",
-    "url": "https://marylandmatters.org/2025/11/10/if-maryland-wants-to-lead-in-ai-and-quantum-it-must-lead-in-clean-energy-too/",
-    "source": "Maryland Matters",
-    "published_at": "2025-11-10T23:20:10.284412+08:00",
-    "summary": "Artificial intelligence and quantum computing are the industries of tomorrow -- with a heavy demand on the power grid of today. Which is why the state needs...",
-    "scraped_at": "2025-11-10T23:20:33+08:00",
-    "canonical_url": "https://marylandmatters.org/2025/11/10/if-maryland-wants-to-lead-in-ai-and-quantum-it-must-lead-in-clean-energy-too/"
-  },
-  {
-    "title": "USC Price professor launches initiative to teach AI",
-    "url": "https://priceschool.usc.edu/news/usc-ai-knowledge-hub-education-jobs/",
-    "source": "USC Price School",
-    "published_at": "2025-11-10T23:20:07.168795+08:00",
-    "summary": "Professor Glenn Melnick says getting up to speed with AI is imperative for faculty and students.",
-    "scraped_at": "2025-11-10T23:20:33+08:00",
-    "canonical_url": "https://priceschool.usc.edu/news/usc-ai-knowledge-hub-education-jobs/"
-  },
-  {
-    "title": "Learn the power of mapping and AI at UTC’s GIS Day workshop",
-    "url": "https://blog.utc.edu/news/2025/11/learn-the-power-of-mapping-and-ai-at-utcs-gis-day-workshop/",
-    "source": "University of Tennessee at Chattanooga (UTC)",
-    "published_at": "2025-11-10T23:20:03.908417+08:00",
-    "summary": "“Everyone uses it,” said Charlie Mix, GIS director in the Center for Applied Geospatial Data Science (CAGDS) at the University of Tennessee at Chattanooga.",
-    "scraped_at": "2025-11-10T23:20:33+08:00",
-    "canonical_url": "https://blog.utc.edu/news/2025/11/learn-the-power-of-mapping-and-ai-at-utcs-gis-day-workshop/"
   },
   {
     "title": "AI technology race is new 'cold war' between US and China that could have devastating consequences: report",
@@ -124,15 +151,6 @@
     "summary": "As GenAI solutions provide patients with quick health information, a foundation of shared evidence is critical for the care journey.",
     "scraped_at": "2025-11-10T22:19:03+08:00",
     "canonical_url": "https://www.wolterskluwer.com/en/expert-insights/unify-clinician-and-patient-journeys-with-ai-and-shared-evidence"
-  },
-  {
-    "title": "His students suddenly started getting A’s. Did a Google AI tool go too far?",
-    "url": "https://calmatters.org/education/k-12-education/2025/11/ai-cheating/",
-    "source": "CalMatters",
-    "published_at": "2025-11-10T22:18:39.107089+08:00",
-    "summary": "A Chrome browser tool features a movable bubble that provides information without typing a prompt, spurring a rise in AI cheating on tests.",
-    "scraped_at": "2025-11-10T22:19:03+08:00",
-    "canonical_url": "https://calmatters.org/education/k-12-education/2025/11/ai-cheating/"
   },
   {
     "title": "通訊與AI的結合-從Nvidia 投資Nokia 談起",
