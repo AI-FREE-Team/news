@@ -1,5 +1,95 @@
 [
   {
+    "title": "How the world can build a global AI governance framework",
+    "url": "https://www.weforum.org/stories/2025/11/trust-ai-global-governance/",
+    "source": "The World Economic Forum",
+    "published_at": "2025-11-11T02:49:40.802205+08:00",
+    "summary": "To transform AI governance from fragmentation into shared growth, nations need a common framework to align AI sovereignty, interoperability and inclusion.",
+    "scraped_at": "2025-11-11T02:49:40+08:00",
+    "canonical_url": "https://www.weforum.org/stories/2025/11/trust-ai-global-governance/"
+  },
+  {
+    "title": "AI Chatbots: The New Digital Front Door",
+    "url": "https://www.govtech.com/voices/ai-chatbots-the-new-digital-front-door",
+    "source": "GovTech",
+    "published_at": "2025-11-11T02:49:37.533860+08:00",
+    "summary": "AI chatbots are transforming how citizens interact with government — delivering 24/7 service, instant answers and multilingual access.",
+    "scraped_at": "2025-11-11T02:49:40+08:00",
+    "canonical_url": "https://www.govtech.com/voices/ai-chatbots-the-new-digital-front-door"
+  },
+  {
+    "title": "AI in Government: From Promise to Practice",
+    "url": "https://conduitstreet.mdcounties.org/2025/11/10/ai-in-government-from-promise-to-practice/",
+    "source": "Maryland Association of Counties",
+    "published_at": "2025-11-11T02:49:33.910785+08:00",
+    "summary": "At this year's MACo Winter Conference, county leaders will examine what responsible adoption looks like when AI moves from promise to practice.",
+    "scraped_at": "2025-11-11T02:49:40+08:00",
+    "canonical_url": "https://conduitstreet.mdcounties.org/2025/11/10/ai-in-government-from-promise-to-practice/"
+  },
+  {
+    "title": "A new project aims to predict how quickly AI will progress",
+    "url": "https://www.economist.com/science-and-technology/2025/11/10/a-new-project-aims-to-predict-how-quickly-ai-will-progress",
+    "source": "The Economist",
+    "published_at": "2025-11-11T02:49:30.727073+08:00",
+    "summary": "The leaders of the big three artificial-intelligence (AI) labs promise great things, and soon. Sam Altman, the boss of OpenAI, thinks next year computers...",
+    "scraped_at": "2025-11-11T02:49:40+08:00",
+    "canonical_url": "https://www.economist.com/science-and-technology/2025/11/10/a-new-project-aims-to-predict-how-quickly-ai-will-progress"
+  },
+  {
+    "title": "How Clario automates clinical research analysis using generative AI on AWS",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-clario-automates-clinical-research-analysis-using-generative-ai-on-aws/",
+    "source": "Amazon Web Services (AWS)",
+    "published_at": "2025-11-11T02:49:27.600223+08:00",
+    "summary": "by Alex Boudreau, Cuong Lai and Praveen Haranahalli on 10 NOV 2025 in Advanced (300), Amazon Bedrock, Amazon Elastic Kubernetes Service, Amazon Machine...",
+    "scraped_at": "2025-11-11T02:49:40+08:00",
+    "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-clario-automates-clinical-research-analysis-using-generative-ai-on-aws/"
+  },
+  {
+    "title": "“AI, Make Me A Degree Certificate”",
+    "url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/",
+    "source": "Hackaday",
+    "published_at": "2025-11-11T02:49:24.372409+08:00",
+    "summary": "One of the fun things about writing for Hackaday is that it takes you to the places where our community hang out. I was in a hackerspace in a university...",
+    "scraped_at": "2025-11-11T02:49:40+08:00",
+    "canonical_url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/"
+  },
+  {
+    "title": "OpenAI considers consumer health tools in push beyond core AI offerings, Business Insider reports",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/openai-considers-consumer-health-tools-push-beyond-core-ai-offerings-business-2025-11-10/",
+    "source": "Reuters",
+    "published_at": "2025-11-11T02:49:20.914353+08:00",
+    "summary": "OpenAI is weighing building consumer health products, including a generative AI-powered personal health assistant, as the ChatGPT maker aims to move beyond...",
+    "scraped_at": "2025-11-11T02:49:40+08:00",
+    "canonical_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/openai-considers-consumer-health-tools-push-beyond-core-ai-offerings-business-2025-11-10/"
+  },
+  {
+    "title": "Design Patterns and AI: Computer Science evolves at SOU",
+    "url": "https://news.sou.edu/2025/11/design-patterns-and-ai-computer-science-evolves-at-sou/",
+    "source": "SOU News",
+    "published_at": "2025-11-11T02:49:17.817537+08:00",
+    "summary": "A new “Design Patterns” course at SOU leans on artificial intelligence to perform coding tasks, allowing students to focus on the big picture.",
+    "scraped_at": "2025-11-11T02:49:40+08:00",
+    "canonical_url": "https://news.sou.edu/2025/11/design-patterns-and-ai-computer-science-evolves-at-sou/"
+  },
+  {
+    "title": "Clemson professor helps guide state and local governments on AI with National Academies report",
+    "url": "https://news.clemson.edu/clemson-professor-helps-guide-state-and-local-governments-on-ai-with-national-academies-report/",
+    "source": "Clemson News",
+    "published_at": "2025-11-11T02:49:14.455749+08:00",
+    "summary": "Nathan McNeese of Clemson University is playing a leading role in helping state and local governments across the country integrate artificial intelligence.",
+    "scraped_at": "2025-11-11T02:49:40+08:00",
+    "canonical_url": "https://news.clemson.edu/clemson-professor-helps-guide-state-and-local-governments-on-ai-with-national-academies-report/"
+  },
+  {
+    "title": "UT Doubles Size of One of World’s Most Powerful AI Computing Hubs",
+    "url": "https://news.utexas.edu/2025/11/10/ut-doubles-size-of-one-of-worlds-most-powerful-ai-computing-hubs/",
+    "source": "UT News",
+    "published_at": "2025-11-11T02:49:11.090166+08:00",
+    "summary": "AUSTIN, Texas — The Center for Generative AI at The University of Texas at Austin, already among the most powerful artificial intelligence hubs in the...",
+    "scraped_at": "2025-11-11T02:49:40+08:00",
+    "canonical_url": "https://news.utexas.edu/2025/11/10/ut-doubles-size-of-one-of-worlds-most-powerful-ai-computing-hubs/"
+  },
+  {
     "title": "AI「軍備競賽」拖垮現金流 美銀建議做空科技巨頭債券而非股票",
     "url": "https://news.futunn.com/hk/post/64677356/ai-arms-race-strains-cash-flow-bofa-suggests-shorting-tech",
     "source": "富途牛牛",
@@ -63,42 +153,6 @@
     "canonical_url": "https://www.worldjournal.com/wj/story/121477/9130776"
   },
   {
-    "title": "“AI, Make Me A Degree Certificate”",
-    "url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/",
-    "source": "Hackaday",
-    "published_at": "2025-11-11T01:50:56.346153+08:00",
-    "summary": "One of the fun things about writing for Hackaday is that it takes you to the places where our community hang out. I was in a hackerspace in a university...",
-    "scraped_at": "2025-11-11T01:51:05+08:00",
-    "canonical_url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/"
-  },
-  {
-    "title": "UT Doubles Size of One of World’s Most Powerful AI Computing Hubs",
-    "url": "https://news.utexas.edu/2025/11/10/ut-doubles-size-of-one-of-worlds-most-powerful-ai-computing-hubs/",
-    "source": "UT News",
-    "published_at": "2025-11-11T01:50:52.910668+08:00",
-    "summary": "AUSTIN, Texas — The Center for Generative AI at The University of Texas at Austin, already among the most powerful artificial intelligence hubs in the...",
-    "scraped_at": "2025-11-11T01:51:05+08:00",
-    "canonical_url": "https://news.utexas.edu/2025/11/10/ut-doubles-size-of-one-of-worlds-most-powerful-ai-computing-hubs/"
-  },
-  {
-    "title": "Design Patterns and AI: Computer Science evolves at SOU",
-    "url": "https://news.sou.edu/2025/11/design-patterns-and-ai-computer-science-evolves-at-sou/",
-    "source": "SOU News",
-    "published_at": "2025-11-11T01:50:49.642972+08:00",
-    "summary": "A new “Design Patterns” course at SOU leans on artificial intelligence to perform coding tasks, allowing students to focus on the big picture.",
-    "scraped_at": "2025-11-11T01:51:05+08:00",
-    "canonical_url": "https://news.sou.edu/2025/11/design-patterns-and-ai-computer-science-evolves-at-sou/"
-  },
-  {
-    "title": "Clemson professor helps guide state and local governments on AI with National Academies report",
-    "url": "https://news.clemson.edu/clemson-professor-helps-guide-state-and-local-governments-on-ai-with-national-academies-report/",
-    "source": "Clemson News",
-    "published_at": "2025-11-11T01:50:46.231794+08:00",
-    "summary": "Nathan McNeese of Clemson University is playing a leading role in helping state and local governments across the country integrate artificial intelligence.",
-    "scraped_at": "2025-11-11T01:51:05+08:00",
-    "canonical_url": "https://news.clemson.edu/clemson-professor-helps-guide-state-and-local-governments-on-ai-with-national-academies-report/"
-  },
-  {
     "title": "加密貨幣與金融新聞摘要：法律問題、ETF發展和AI倡議",
     "url": "https://www.markets.com/news/crypto-finance-news-roundup-20241109-1954-zh-Hant/",
     "source": "Markets.com",
@@ -151,24 +205,6 @@
     "summary": "What does shopping with an AI assistant change for consumers—and for the sellers and advertisers trying to reach them? We asked Yale SOM economist Jidong...",
     "scraped_at": "2025-11-11T01:39:07+08:00",
     "canonical_url": "https://insights.som.yale.edu/insights/are-ai-chatbots-changing-how-we-shop"
-  },
-  {
-    "title": "A new project aims to predict how quickly AI will progress",
-    "url": "https://www.economist.com/science-and-technology/2025/11/10/a-new-project-aims-to-predict-how-quickly-ai-will-progress",
-    "source": "The Economist",
-    "published_at": "2025-11-11T01:38:53.648590+08:00",
-    "summary": "The leaders of the big three artificial-intelligence (AI) labs promise great things, and soon. Sam Altman, the boss of OpenAI, thinks next year computers...",
-    "scraped_at": "2025-11-11T01:39:07+08:00",
-    "canonical_url": "https://www.economist.com/science-and-technology/2025/11/10/a-new-project-aims-to-predict-how-quickly-ai-will-progress"
-  },
-  {
-    "title": "How the world can build a global AI governance framework",
-    "url": "https://www.weforum.org/stories/2025/11/trust-ai-global-governance/",
-    "source": "The World Economic Forum",
-    "published_at": "2025-11-11T01:38:50.394046+08:00",
-    "summary": "To transform AI governance from fragmentation into shared growth, nations need a common framework to align AI sovereignty, interoperability and inclusion.",
-    "scraped_at": "2025-11-11T01:39:07+08:00",
-    "canonical_url": "https://www.weforum.org/stories/2025/11/trust-ai-global-governance/"
   },
   {
     "title": "Coe College to offer AI tools and training to students through Google partnership",
