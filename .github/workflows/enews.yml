@@ -34,7 +34,7 @@ jobs:
         id: generate_newsletter
         run: |
           echo "正在執行 py_news.py 生成電子報..."
-          python py_news.py
+          python scripts/py_news.py
           # 獲取今天日期的 MD 檔案名稱，以便後續讀取
           NEWSLETTER_FILENAME="eletters/$(date +%Y-%m-%d).md"
           echo "NEWSLETTER_FILENAME=${NEWSLETTER_FILENAME}" >> "$GITHUB_OUTPUT" # 使用正確的輸出語法
