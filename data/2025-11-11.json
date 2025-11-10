@@ -1,30 +1,93 @@
 [
   {
+    "title": "New York law requires safety protocols for AI companion sites",
+    "url": "https://www.wcax.com/2025/11/10/new-york-law-requires-safety-protocols-ai-companion-sites/",
+    "source": "WCAX",
+    "published_at": "2025-11-11T04:21:51.593224+08:00",
+    "summary": "Governor Kathy Hochul announced protocol and guidelines for AI companies operating in New York State.",
+    "scraped_at": "2025-11-11T04:21:51+08:00",
+    "canonical_url": "https://www.wcax.com/2025/11/10/new-york-law-requires-safety-protocols-ai-companion-sites/"
+  },
+  {
     "title": "Montana Insurance comissioner adds AI tool to help customers navigate data breach",
     "url": "https://dailymontanan.com/2025/11/10/montana-insurance-comissioner-adds-ai-tool-to-help-customers-navigate-data-breach/",
     "source": "Daily Montanan",
-    "published_at": "2025-11-11T03:50:57.575678+08:00",
+    "published_at": "2025-11-11T04:21:48.319045+08:00",
     "summary": "The Montana Commissioner of Securities and Insurance has rolled out a new artificial intelligence assistant ready to help as many as 462000 residents with...",
-    "scraped_at": "2025-11-11T03:50:57+08:00",
+    "scraped_at": "2025-11-11T04:21:51+08:00",
     "canonical_url": "https://dailymontanan.com/2025/11/10/montana-insurance-comissioner-adds-ai-tool-to-help-customers-navigate-data-breach/"
   },
   {
     "title": "OpenAI considers consumer health tools in push beyond core AI offerings, Business Insider reports",
     "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/openai-considers-consumer-health-tools-push-beyond-core-ai-offerings-business-2025-11-10/",
     "source": "Reuters",
-    "published_at": "2025-11-11T03:50:54.291884+08:00",
+    "published_at": "2025-11-11T04:21:45.182194+08:00",
     "summary": "OpenAI is weighing building consumer health products, including a generative AI-powered personal health assistant, as the ChatGPT maker aims to move beyond...",
-    "scraped_at": "2025-11-11T03:50:57+08:00",
+    "scraped_at": "2025-11-11T04:21:51+08:00",
     "canonical_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/openai-considers-consumer-health-tools-push-beyond-core-ai-offerings-business-2025-11-10/"
   },
   {
     "title": "The health AI Bubble",
     "url": "https://www.politico.com/newsletters/future-pulse/2025/11/10/the-health-ai-bubble-00644643",
     "source": "Politico",
-    "published_at": "2025-11-11T03:50:50.823452+08:00",
+    "published_at": "2025-11-11T04:21:41.884295+08:00",
     "summary": "We may be in an artificial intelligence “bubble,” an economic term that describes an environment where a product is valued for more than it is fundamentally...",
-    "scraped_at": "2025-11-11T03:50:57+08:00",
+    "scraped_at": "2025-11-11T04:21:51+08:00",
     "canonical_url": "https://www.politico.com/newsletters/future-pulse/2025/11/10/the-health-ai-bubble-00644643"
+  },
+  {
+    "title": "Clemson professor helps guide state and local governments on AI with National Academies report",
+    "url": "https://news.clemson.edu/clemson-professor-helps-guide-state-and-local-governments-on-ai-with-national-academies-report/",
+    "source": "Clemson News",
+    "published_at": "2025-11-11T04:21:38.681449+08:00",
+    "summary": "Nathan McNeese of Clemson University is playing a leading role in helping state and local governments across the country integrate artificial intelligence.",
+    "scraped_at": "2025-11-11T04:21:51+08:00",
+    "canonical_url": "https://news.clemson.edu/clemson-professor-helps-guide-state-and-local-governments-on-ai-with-national-academies-report/"
+  },
+  {
+    "title": "The Story Behind the TIME AI Agent",
+    "url": "https://time.com/7332572/the-story-behind-the-time-ai-agent/",
+    "source": "Time Magazine",
+    "published_at": "2025-11-11T04:21:35.252068+08:00",
+    "summary": "Introducing the TIME AI Agent, a unified, AI-powered platform built on a foundation of trusted reporting and advanced generative technology.",
+    "scraped_at": "2025-11-11T04:21:51+08:00",
+    "canonical_url": "https://time.com/7332572/the-story-behind-the-time-ai-agent/"
+  },
+  {
+    "title": "UT Doubles Size of One of World’s Most Powerful AI Computing Hubs",
+    "url": "https://news.utexas.edu/2025/11/10/ut-doubles-size-of-one-of-worlds-most-powerful-ai-computing-hubs/",
+    "source": "University of Texas at Austin",
+    "published_at": "2025-11-11T04:21:32.065007+08:00",
+    "summary": "AUSTIN, Texas — The Center for Generative AI at The University of Texas at Austin, already among the most powerful artificial intelligence hubs in the...",
+    "scraped_at": "2025-11-11T04:21:51+08:00",
+    "canonical_url": "https://news.utexas.edu/2025/11/10/ut-doubles-size-of-one-of-worlds-most-powerful-ai-computing-hubs/"
+  },
+  {
+    "title": "“AI, Make Me A Degree Certificate”",
+    "url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/",
+    "source": "Hackaday",
+    "published_at": "2025-11-11T04:21:28.955680+08:00",
+    "summary": "One of the fun things about writing for Hackaday is that it takes you to the places where our community hang out. I was in a hackerspace in a university...",
+    "scraped_at": "2025-11-11T04:21:51+08:00",
+    "canonical_url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/"
+  },
+  {
+    "title": "Unlocking Supply Chain Efficiency with AI: A Private Equity Perspective",
+    "url": "https://www.claconnect.com/en/resources/blogs/private-equity/unlocking-supply-chain-efficiency-with-ai-a-private-equity-perspective",
+    "source": "CLA (CliftonLarsonAllen)",
+    "published_at": "2025-11-11T04:21:25.542073+08:00",
+    "summary": "For private equity firms, AI is rapidly emerging as a key tactic in improving supply chains across portfolio companies.",
+    "scraped_at": "2025-11-11T04:21:51+08:00",
+    "canonical_url": "https://www.claconnect.com/en/resources/blogs/private-equity/unlocking-supply-chain-efficiency-with-ai-a-private-equity-perspective"
+  },
+  {
+    "title": "AI Data Security",
+    "url": "https://www.cpajournal.com/2025/11/10/ai-data-security/",
+    "source": "The CPA Journal",
+    "published_at": "2025-11-11T04:21:22.251469+08:00",
+    "summary": "Risk management executives can no longer treat artificial intelligence (AI) as a passing fad. According to a report from Microsoft and IDC “The Business.",
+    "scraped_at": "2025-11-11T04:21:51+08:00",
+    "canonical_url": "https://www.cpajournal.com/2025/11/10/ai-data-security/"
   },
   {
     "title": "Design Patterns and AI: Computer Science evolves at SOU",
@@ -34,60 +97,6 @@
     "summary": "A new “Design Patterns” course at SOU leans on artificial intelligence to perform coding tasks, allowing students to focus on the big picture.",
     "scraped_at": "2025-11-11T03:50:57+08:00",
     "canonical_url": "https://news.sou.edu/2025/11/design-patterns-and-ai-computer-science-evolves-at-sou/"
-  },
-  {
-    "title": "Clemson professor helps guide state and local governments on AI with National Academies report",
-    "url": "https://news.clemson.edu/clemson-professor-helps-guide-state-and-local-governments-on-ai-with-national-academies-report/",
-    "source": "Clemson News",
-    "published_at": "2025-11-11T03:50:44.164175+08:00",
-    "summary": "Nathan McNeese of Clemson University is playing a leading role in helping state and local governments across the country integrate artificial intelligence.",
-    "scraped_at": "2025-11-11T03:50:57+08:00",
-    "canonical_url": "https://news.clemson.edu/clemson-professor-helps-guide-state-and-local-governments-on-ai-with-national-academies-report/"
-  },
-  {
-    "title": "The Story Behind the TIME AI Agent",
-    "url": "https://time.com/7332572/the-story-behind-the-time-ai-agent/",
-    "source": "Time Magazine",
-    "published_at": "2025-11-11T03:50:40.794087+08:00",
-    "summary": "Introducing the TIME AI Agent, a unified, AI-powered platform built on a foundation of trusted reporting and advanced generative technology.",
-    "scraped_at": "2025-11-11T03:50:57+08:00",
-    "canonical_url": "https://time.com/7332572/the-story-behind-the-time-ai-agent/"
-  },
-  {
-    "title": "UT Doubles Size of One of World’s Most Powerful AI Computing Hubs",
-    "url": "https://news.utexas.edu/2025/11/10/ut-doubles-size-of-one-of-worlds-most-powerful-ai-computing-hubs/",
-    "source": "University of Texas at Austin",
-    "published_at": "2025-11-11T03:50:37.611273+08:00",
-    "summary": "AUSTIN, Texas — The Center for Generative AI at The University of Texas at Austin, already among the most powerful artificial intelligence hubs in the...",
-    "scraped_at": "2025-11-11T03:50:57+08:00",
-    "canonical_url": "https://news.utexas.edu/2025/11/10/ut-doubles-size-of-one-of-worlds-most-powerful-ai-computing-hubs/"
-  },
-  {
-    "title": "Unlocking Supply Chain Efficiency with AI: A Private Equity Perspective",
-    "url": "https://www.claconnect.com/en/resources/blogs/private-equity/unlocking-supply-chain-efficiency-with-ai-a-private-equity-perspective",
-    "source": "CLA (CliftonLarsonAllen)",
-    "published_at": "2025-11-11T03:50:34.350951+08:00",
-    "summary": "For private equity firms, AI is rapidly emerging as a key tactic in improving supply chains across portfolio companies.",
-    "scraped_at": "2025-11-11T03:50:57+08:00",
-    "canonical_url": "https://www.claconnect.com/en/resources/blogs/private-equity/unlocking-supply-chain-efficiency-with-ai-a-private-equity-perspective"
-  },
-  {
-    "title": "“AI, Make Me A Degree Certificate”",
-    "url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/",
-    "source": "Hackaday",
-    "published_at": "2025-11-11T03:50:30.859937+08:00",
-    "summary": "One of the fun things about writing for Hackaday is that it takes you to the places where our community hang out. I was in a hackerspace in a university...",
-    "scraped_at": "2025-11-11T03:50:57+08:00",
-    "canonical_url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/"
-  },
-  {
-    "title": "AI Data Security",
-    "url": "https://www.cpajournal.com/2025/11/10/ai-data-security/",
-    "source": "The CPA Journal",
-    "published_at": "2025-11-11T03:50:27.367378+08:00",
-    "summary": "Risk management executives can no longer treat artificial intelligence (AI) as a passing fad. According to a report from Microsoft and IDC “The Business.",
-    "scraped_at": "2025-11-11T03:50:57+08:00",
-    "canonical_url": "https://www.cpajournal.com/2025/11/10/ai-data-security/"
   },
   {
     "title": "AI「軍備競賽」拖垮現金流 美銀建議做空科技巨頭債券而非股票",
@@ -151,15 +160,6 @@
     "summary": "by Alex Boudreau, Cuong Lai and Praveen Haranahalli on 10 NOV 2025 in Advanced (300), Amazon Bedrock, Amazon Elastic Kubernetes Service, Amazon Machine...",
     "scraped_at": "2025-11-11T03:41:23+08:00",
     "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-clario-automates-clinical-research-analysis-using-generative-ai-on-aws/"
-  },
-  {
-    "title": "New York law requires safety protocols for AI companion sites",
-    "url": "https://www.wcax.com/2025/11/10/new-york-law-requires-safety-protocols-ai-companion-sites/",
-    "source": "WCAX",
-    "published_at": "2025-11-11T03:41:20.254426+08:00",
-    "summary": "Governor Kathy Hochul announced protocol and guidelines for AI companies operating in New York State.",
-    "scraped_at": "2025-11-11T03:41:23+08:00",
-    "canonical_url": "https://www.wcax.com/2025/11/10/new-york-law-requires-safety-protocols-ai-companion-sites/"
   },
   {
     "title": "艦載AI消防系統可自主精準撲滅油火",
