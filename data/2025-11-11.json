@@ -1,5 +1,95 @@
 [
   {
+    "title": "Design Patterns and AI: Computer Science evolves at SOU",
+    "url": "https://news.sou.edu/2025/11/design-patterns-and-ai-computer-science-evolves-at-sou/",
+    "source": "SOU News",
+    "published_at": "2025-11-11T05:17:24.253117+08:00",
+    "summary": "A new “Design Patterns” course at SOU leans on artificial intelligence to perform coding tasks, allowing students to focus on the big picture.",
+    "scraped_at": "2025-11-11T05:17:24+08:00",
+    "canonical_url": "https://news.sou.edu/2025/11/design-patterns-and-ai-computer-science-evolves-at-sou/"
+  },
+  {
+    "title": "Unlocking Supply Chain Efficiency with AI: A Private Equity Perspective",
+    "url": "https://www.claconnect.com/en/resources/blogs/private-equity/unlocking-supply-chain-efficiency-with-ai-a-private-equity-perspective",
+    "source": "CLA (CliftonLarsonAllen)",
+    "published_at": "2025-11-11T05:17:20.757560+08:00",
+    "summary": "For private equity firms, AI is rapidly emerging as a key tactic in improving supply chains across portfolio companies.",
+    "scraped_at": "2025-11-11T05:17:24+08:00",
+    "canonical_url": "https://www.claconnect.com/en/resources/blogs/private-equity/unlocking-supply-chain-efficiency-with-ai-a-private-equity-perspective"
+  },
+  {
+    "title": "USC Price professor launches initiative to teach AI",
+    "url": "https://priceschool.usc.edu/news/usc-ai-knowledge-hub-education-jobs/",
+    "source": "USC Price School",
+    "published_at": "2025-11-11T05:17:17.472571+08:00",
+    "summary": "Professor Glenn Melnick says getting up to speed with AI is imperative for faculty and students.",
+    "scraped_at": "2025-11-11T05:17:24+08:00",
+    "canonical_url": "https://priceschool.usc.edu/news/usc-ai-knowledge-hub-education-jobs/"
+  },
+  {
+    "title": "AI Data Security",
+    "url": "https://www.cpajournal.com/2025/11/10/ai-data-security/",
+    "source": "The CPA Journal",
+    "published_at": "2025-11-11T05:17:14.180167+08:00",
+    "summary": "Risk management executives can no longer treat artificial intelligence (AI) as a passing fad. According to a report from Microsoft and IDC “The Business.",
+    "scraped_at": "2025-11-11T05:17:24+08:00",
+    "canonical_url": "https://www.cpajournal.com/2025/11/10/ai-data-security/"
+  },
+  {
+    "title": "California Implements New Laws Regulating AI and Social Media for Children",
+    "url": "https://marketbrief.edweek.org/regulation-policy/california-implements-new-laws-regulating-ai-and-social-media-for-children/2025/11",
+    "source": "Education Week",
+    "published_at": "2025-11-11T05:17:10.799027+08:00",
+    "summary": "California has become the latest state to enact comprehensive artificial intelligence safety legislation aimed at protecting children online.",
+    "scraped_at": "2025-11-11T05:17:24+08:00",
+    "canonical_url": "https://marketbrief.edweek.org/regulation-policy/california-implements-new-laws-regulating-ai-and-social-media-for-children/2025/11"
+  },
+  {
+    "title": "“AI, Make Me A Degree Certificate”",
+    "url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/",
+    "source": "Hackaday",
+    "published_at": "2025-11-11T05:17:07.339666+08:00",
+    "summary": "One of the fun things about writing for Hackaday is that it takes you to the places where our community hang out. I was in a hackerspace in a university...",
+    "scraped_at": "2025-11-11T05:17:24+08:00",
+    "canonical_url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/"
+  },
+  {
+    "title": "AI bubble about to pop as returns on investment fall short?",
+    "url": "https://www.dw.com/en/ai-bubble-about-to-pop-as-returns-on-investment-fall-short-chatgpt-microsoft-nvidia-grok-elon-musk/a-74636881",
+    "source": "DW",
+    "published_at": "2025-11-11T05:17:03.899833+08:00",
+    "summary": "Billions have poured into AI, helping stock valuations soar. But the cracks are starting to show. Slowing adoption, surging costs and elusive profits are...",
+    "scraped_at": "2025-11-11T05:17:24+08:00",
+    "canonical_url": "https://www.dw.com/en/ai-bubble-about-to-pop-as-returns-on-investment-fall-short-chatgpt-microsoft-nvidia-grok-elon-musk/a-74636881"
+  },
+  {
+    "title": "AI innovation creating additional privacy concerns in agriculture",
+    "url": "https://www.brownfieldagnews.com/news/ai-innovation-creating-additional-privacy-concerns-in-agriculture/",
+    "source": "Brownfield Ag News",
+    "published_at": "2025-11-11T05:16:59.917067+08:00",
+    "summary": "Todd Janzen is a managing partner with Janzen Schroeder Ag Law. “It takes a lot of data to train these AI tools,” he says. “Companies need to make sure that...",
+    "scraped_at": "2025-11-11T05:17:24+08:00",
+    "canonical_url": "https://www.brownfieldagnews.com/news/ai-innovation-creating-additional-privacy-concerns-in-agriculture/"
+  },
+  {
+    "title": "Why data centers are important for AI | The TechTank Podcast",
+    "url": "https://www.brookings.edu/articles/why-data-centers-are-important-for-ai-the-techtank-podcast/",
+    "source": "Brookings",
+    "published_at": "2025-11-11T05:16:56.664053+08:00",
+    "summary": "On this episode of TechTank, co-hosts Darrell West and Nicol Turner Lee discuss their new paper on data centers, their importance for AI, and their energy...",
+    "scraped_at": "2025-11-11T05:17:24+08:00",
+    "canonical_url": "https://www.brookings.edu/articles/why-data-centers-are-important-for-ai-the-techtank-podcast/"
+  },
+  {
+    "title": "Exclusive: C3 AI weighs sale after founder-CEO Siebel steps aside, sources say",
+    "url": "https://www.reuters.com/world/c3-ai-weighs-sale-after-founder-ceo-siebel-steps-aside-sources-say-2025-11-10/",
+    "source": "Reuters",
+    "published_at": "2025-11-11T05:16:53.419048+08:00",
+    "summary": "Enterprise artificial intelligence software provider C3 AI is exploring a potential sale, among other options, after founder Thomas Siebel recently stepped...",
+    "scraped_at": "2025-11-11T05:17:24+08:00",
+    "canonical_url": "https://www.reuters.com/world/c3-ai-weighs-sale-after-founder-ceo-siebel-steps-aside-sources-say-2025-11-10/"
+  },
+  {
     "title": "The health AI Bubble",
     "url": "https://www.politico.com/newsletters/future-pulse/2025/11/10/the-health-ai-bubble-00644643",
     "source": "Politico",
@@ -27,15 +117,6 @@
     "canonical_url": "https://news.clemson.edu/clemson-professor-helps-guide-state-and-local-governments-on-ai-with-national-academies-report/"
   },
   {
-    "title": "Design Patterns and AI: Computer Science evolves at SOU",
-    "url": "https://news.sou.edu/2025/11/design-patterns-and-ai-computer-science-evolves-at-sou/",
-    "source": "SOU News",
-    "published_at": "2025-11-11T04:44:26.499962+08:00",
-    "summary": "A new “Design Patterns” course at SOU leans on artificial intelligence to perform coding tasks, allowing students to focus on the big picture.",
-    "scraped_at": "2025-11-11T04:44:36+08:00",
-    "canonical_url": "https://news.sou.edu/2025/11/design-patterns-and-ai-computer-science-evolves-at-sou/"
-  },
-  {
     "title": "The Story Behind the TIME AI Agent",
     "url": "https://time.com/7332572/the-story-behind-the-time-ai-agent/",
     "source": "Time Magazine",
@@ -52,42 +133,6 @@
     "summary": "AUSTIN, Texas — The Center for Generative AI at The University of Texas at Austin, already among the most powerful artificial intelligence hubs in the...",
     "scraped_at": "2025-11-11T04:44:36+08:00",
     "canonical_url": "https://news.utexas.edu/2025/11/10/ut-doubles-size-of-one-of-worlds-most-powerful-ai-computing-hubs/"
-  },
-  {
-    "title": "Unlocking Supply Chain Efficiency with AI: A Private Equity Perspective",
-    "url": "https://www.claconnect.com/en/resources/blogs/private-equity/unlocking-supply-chain-efficiency-with-ai-a-private-equity-perspective",
-    "source": "CLA (CliftonLarsonAllen)",
-    "published_at": "2025-11-11T04:44:15.974056+08:00",
-    "summary": "For private equity firms, AI is rapidly emerging as a key tactic in improving supply chains across portfolio companies.",
-    "scraped_at": "2025-11-11T04:44:36+08:00",
-    "canonical_url": "https://www.claconnect.com/en/resources/blogs/private-equity/unlocking-supply-chain-efficiency-with-ai-a-private-equity-perspective"
-  },
-  {
-    "title": "“AI, Make Me A Degree Certificate”",
-    "url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/",
-    "source": "Hackaday",
-    "published_at": "2025-11-11T04:44:12.475870+08:00",
-    "summary": "One of the fun things about writing for Hackaday is that it takes you to the places where our community hang out. I was in a hackerspace in a university...",
-    "scraped_at": "2025-11-11T04:44:36+08:00",
-    "canonical_url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/"
-  },
-  {
-    "title": "AI Data Security",
-    "url": "https://www.cpajournal.com/2025/11/10/ai-data-security/",
-    "source": "The CPA Journal",
-    "published_at": "2025-11-11T04:44:09.088250+08:00",
-    "summary": "Risk management executives can no longer treat artificial intelligence (AI) as a passing fad. According to a report from Microsoft and IDC “The Business.",
-    "scraped_at": "2025-11-11T04:44:36+08:00",
-    "canonical_url": "https://www.cpajournal.com/2025/11/10/ai-data-security/"
-  },
-  {
-    "title": "AI innovation creating additional privacy concerns in agriculture",
-    "url": "https://www.brownfieldagnews.com/news/ai-innovation-creating-additional-privacy-concerns-in-agriculture/",
-    "source": "Brownfield Ag News",
-    "published_at": "2025-11-11T04:44:05.359766+08:00",
-    "summary": "Todd Janzen is a managing partner with Janzen Schroeder Ag Law. “It takes a lot of data to train these AI tools,” he says. “Companies need to make sure that...",
-    "scraped_at": "2025-11-11T04:44:36+08:00",
-    "canonical_url": "https://www.brownfieldagnews.com/news/ai-innovation-creating-additional-privacy-concerns-in-agriculture/"
   },
   {
     "title": "從輝達成功之道，看AI時代人類最難被機器取代的「獨創能力」",
@@ -279,15 +324,6 @@
     "canonical_url": "https://www.thomsonreuters.com/en-us/posts/ai-in-courts/legal-aid-ai-lone-star-juris/"
   },
   {
-    "title": "AI bubble about to pop as returns on investment fall short?",
-    "url": "https://www.dw.com/en/ai-bubble-about-to-pop-as-returns-on-investment-fall-short-chatgpt-microsoft-nvidia-grok-elon-musk/a-74636881",
-    "source": "DW",
-    "published_at": "2025-11-11T01:39:03.977858+08:00",
-    "summary": "Billions have poured into AI, helping stock valuations soar. But the cracks are starting to show. Slowing adoption, surging costs and elusive profits are...",
-    "scraped_at": "2025-11-11T01:39:07+08:00",
-    "canonical_url": "https://www.dw.com/en/ai-bubble-about-to-pop-as-returns-on-investment-fall-short-chatgpt-microsoft-nvidia-grok-elon-musk/a-74636881"
-  },
-  {
     "title": "New Jersey’s ‘innovation report’ shows expanded use of AI across agencies",
     "url": "https://statescoop.com/new-jerseys-innovation-report-shows-expanded-use-of-ai-across-agencies/",
     "source": "StateScoop",
@@ -349,15 +385,6 @@
     "summary": "Experimenting with same song in different genres | Humans impolite to AI, which needs to be reflected in training data | Subscriptions beat social media for...",
     "scraped_at": "2025-11-11T00:50:26+08:00",
     "canonical_url": "https://jakobnielsenphd.substack.com/p/ux-roundup-20251110"
-  },
-  {
-    "title": "USC Price professor launches initiative to teach AI",
-    "url": "https://priceschool.usc.edu/news/usc-ai-knowledge-hub-education-jobs/",
-    "source": "USC Price School",
-    "published_at": "2025-11-11T00:50:17.126082+08:00",
-    "summary": "Professor Glenn Melnick says getting up to speed with AI is imperative for faculty and students.",
-    "scraped_at": "2025-11-11T00:50:26+08:00",
-    "canonical_url": "https://priceschool.usc.edu/news/usc-ai-knowledge-hub-education-jobs/"
   },
   {
     "title": "南韓豪砸近10億美元擴充AI人才庫 從小學栽培到研究所",
