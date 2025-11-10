@@ -1,12 +1,183 @@
 [
   {
+    "title": "Unlock 5 Key Insights for Building High-Performance AI Infrastructure – From Power to Production",
+    "url": "https://www.hpcwire.com/bigdatawire/whitepaper/unlock-5-key-insights-for-building-high-performance-ai-infrastructure-from-power-to-production/",
+    "source": "HPCwire",
+    "published_at": "2025-11-10T12:30:08.179081+08:00",
+    "summary": "AI factories don't generate value by chance—it's the result of intentional design planning that aligns infrastructure with desired productivity outcomes.",
+    "scraped_at": "2025-11-10T12:30:08+08:00",
+    "canonical_url": "https://www.hpcwire.com/bigdatawire/whitepaper/unlock-5-key-insights-for-building-high-performance-ai-infrastructure-from-power-to-production/"
+  },
+  {
+    "title": "A.I. Bubble Trouble, WBD Guessing Games & AMD’s Altman Problem",
+    "url": "https://puck.news/newsletter_content/ai-bubble-trouble-wbd-guessing-games-amds-altman-problem/",
+    "source": "Puck",
+    "published_at": "2025-11-10T12:30:04.989510+08:00",
+    "summary": "As the A.I. gold rush enters a new, more precarious phase—with hyperscalers like Microsoft, Amazon, Google, and Meta pouring hundreds of billions into data...",
+    "scraped_at": "2025-11-10T12:30:08+08:00",
+    "canonical_url": "https://puck.news/newsletter_content/ai-bubble-trouble-wbd-guessing-games-amds-altman-problem/"
+  },
+  {
+    "title": "6 proven lessons from the AI projects that broke before they scaled",
+    "url": "https://venturebeat.com/ai/6-proven-lessons-from-the-ai-projects-that-broke-before-they-scaled",
+    "source": "VentureBeat",
+    "published_at": "2025-11-10T12:30:01.593342+08:00",
+    "summary": "Companies hate to admit it, but the road to production-level AI deployment is littered with proof of concepts (PoCs) that go nowhere, or failed projects...",
+    "scraped_at": "2025-11-10T12:30:08+08:00",
+    "canonical_url": "https://venturebeat.com/ai/6-proven-lessons-from-the-ai-projects-that-broke-before-they-scaled"
+  },
+  {
+    "title": "Pilots, Promises, And Public Purpose: How To Say “Yes” (Or “No”) To Government AI Offers",
+    "url": "https://www.forrester.com/blogs/pilots-promises-and-public-purpose-how-to-say-yes-or-no-to-government-ai-offers/",
+    "source": "Forrester",
+    "published_at": "2025-11-10T12:29:58.385850+08:00",
+    "summary": "Given the ROI for AI remains elusive, it makes sense, and is arguably an imperative, that AI decision makers in government want to ask hard questions before...",
+    "scraped_at": "2025-11-10T12:30:08+08:00",
+    "canonical_url": "https://www.forrester.com/blogs/pilots-promises-and-public-purpose-how-to-say-yes-or-no-to-government-ai-offers/"
+  },
+  {
+    "title": "Letter to the Editor: AI is not inevitable",
+    "url": "https://www.columbiaspectator.com/opinion/2025/11/09/letter-to-the-editor-ai-is-not-inevitable/",
+    "source": "Columbia Daily Spectator",
+    "published_at": "2025-11-10T12:29:55.036951+08:00",
+    "summary": "In its op-ed “AI is here to stay. What does that mean for Columbia?” the Spectator editorial board offers a sharp argument for students, staff,...",
+    "scraped_at": "2025-11-10T12:30:08+08:00",
+    "canonical_url": "https://www.columbiaspectator.com/opinion/2025/11/09/letter-to-the-editor-ai-is-not-inevitable/"
+  },
+  {
+    "title": "‘Pluribus’ Creator Vince Gilligan Expands On Gen AI’s “Detriment” To Human Creativity, Calls Guillermo Del Toro An “International Treasure”",
+    "url": "https://deadline.com/2025/11/vince-gilligan-interview-generative-ai-pluribus-1236612311/",
+    "source": "Deadline",
+    "published_at": "2025-11-10T12:29:51.583217+08:00",
+    "summary": "As Hollywood reckons with the encroachment of generative AI in the filmmaking process — from artificial intelligence “actress” Tilly Norwood to the launch...",
+    "scraped_at": "2025-11-10T12:30:08+08:00",
+    "canonical_url": "https://deadline.com/2025/11/vince-gilligan-interview-generative-ai-pluribus-1236612311/"
+  },
+  {
+    "title": "Everyday Economics: Is AI to blame for the layoffs – or a late-cycle hangover?",
+    "url": "https://www.thecentersquare.com/national/article_23642406-d57f-4a1c-96f7-a6abd2f94c6d.html",
+    "source": "The Center Square",
+    "published_at": "2025-11-10T12:29:48.325547+08:00",
+    "summary": "(THE Center Square) – U.S. employers announced 153074 job cuts in October – the worst October since 2003 – and headlines rushed to blame AI.",
+    "scraped_at": "2025-11-10T12:30:08+08:00",
+    "canonical_url": "https://www.thecentersquare.com/national/article_23642406-d57f-4a1c-96f7-a6abd2f94c6d.html"
+  },
+  {
+    "title": "The AI revolution has a power problem",
+    "url": "https://finance.yahoo.com/news/ai-revolution-power-problem-021947888.html",
+    "source": "Yahoo Finance",
+    "published_at": "2025-11-10T12:29:44.783755+08:00",
+    "summary": "In the race for AI dominance, American tech giants have the money and the chips, but their ambitions have hit a new obstacle: electric power.",
+    "scraped_at": "2025-11-10T12:30:08+08:00",
+    "canonical_url": "https://finance.yahoo.com/news/ai-revolution-power-problem-021947888.html"
+  },
+  {
+    "title": "OpenAI Continues to Push for Government Help in AI Growth",
+    "url": "https://www.pymnts.com/artificial-intelligence-2/2025/openai-continues-to-push-for-government-help-in-ai-growth",
+    "source": "PYMNTS.com",
+    "published_at": "2025-11-10T12:29:40.868344+08:00",
+    "summary": "In a post on the social media platform X, OpenAI's Sam Altman pushed the federal government to expand eligibility for a Chip Act tax credit.",
+    "scraped_at": "2025-11-10T12:30:08+08:00",
+    "canonical_url": "https://www.pymnts.com/artificial-intelligence-2/2025/openai-continues-to-push-for-government-help-in-ai-growth"
+  },
+  {
+    "title": "AI Just Had Its *Actual* “Big Short” Moment",
+    "url": "https://wlockett.medium.com/ai-just-had-its-actual-big-short-moment-5d841d751c28",
+    "source": "Medium",
+    "published_at": "2025-11-10T12:29:37.190740+08:00",
+    "summary": "In a previous article, I pointed out the stark similarity between the AI bubble and the subprime mortgage crisis of 2007/2008. It isn't just that a bubble...",
+    "scraped_at": "2025-11-10T12:30:08+08:00",
+    "canonical_url": "https://wlockett.medium.com/ai-just-had-its-actual-big-short-moment-5d841d751c28"
+  },
+  {
+    "title": "雲端AI巨頭財報亮眼 雲端業務與AI產品化已為推動成長核心動能",
+    "url": "https://www.worldjournal.com/wj/story/121208/9128010",
+    "source": "世界新聞網",
+    "published_at": "2025-11-10T12:29:33.619214+08:00",
+    "summary": "雲端與AI巨頭微軟、Alphabet（Google 母公司）、Meta、亞馬遜相繼公布最新季度財報。口袋證券觀察，整體營...",
+    "scraped_at": "2025-11-10T12:30:08+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/121208/9128010"
+  },
+  {
     "title": "操盤手札記│AI泡沫真亦假 應用規模定輸贏（割柑人）",
     "url": "https://hk.finance.yahoo.com/news/%E6%93%8D%E7%9B%A4%E6%89%8B%E6%9C%AD%E8%A8%98%E2%94%82ai%E6%B3%A1%E6%B2%AB%E7%9C%9F%E4%BA%A6%E5%81%87-%E6%87%89%E7%94%A8%E8%A6%8F%E6%A8%A1%E5%AE%9A%E8%BC%B8%E8%B4%8F%EF%BC%88%E5%89%B2%E6%9F%91%E4%BA%BA%EF%BC%89-000058348.html",
     "source": "Yahoo 財經",
-    "published_at": "2025-11-10T11:57:29.421029+08:00",
+    "published_at": "2025-11-10T12:29:29.396718+08:00",
     "summary": "由泡沫化指標去睇，包括資金流入規模空前龐大、企業估值遠超盈利能力、企業公布大計但未備足夠資金、燒錢浪潮引發集資浪潮等，AI確有泡沫跡象；不過，市場唔係一面倒咁睇。",
-    "scraped_at": "2025-11-10T11:57:29+08:00",
+    "scraped_at": "2025-11-10T12:30:08+08:00",
     "canonical_url": "https://hk.finance.yahoo.com/news/%E6%93%8D%E7%9B%A4%E6%89%8B%E6%9C%AD%E8%A8%98%E2%94%82ai%E6%B3%A1%E6%B2%AB%E7%9C%9F%E4%BA%A6%E5%81%87-%E6%87%89%E7%94%A8%E8%A6%8F%E6%A8%A1%E5%AE%9A%E8%BC%B8%E8%B4%8F%EF%BC%88%E5%89%B2%E6%9F%91%E4%BA%BA%EF%BC%89-000058348.html"
+  },
+  {
+    "title": "擷發科智慧農業方案北美首亮相　獨家AI技術意外吸海運業者目光",
+    "url": "https://finance.ettoday.net/news/3064697",
+    "source": "ETtoday財經雲",
+    "published_at": "2025-11-10T12:29:25.419010+08:00",
+    "summary": "ASIC大廠擷發科技（7796）首度參展在美國舉行的Embedded World North America （ EWNA ），其中，AI智慧農業也成為參展亮點，吸引北美農牧業目光，除此之外，董事長楊健盟更透露...",
+    "scraped_at": "2025-11-10T12:30:08+08:00",
+    "canonical_url": "https://finance.ettoday.net/news/3064697"
+  },
+  {
+    "title": "陳茂波：會財局將評估審計使用AI機遇及風險 提升行業應用",
+    "url": "https://news.rthk.hk/rthk/ch/component/k2/1830916-20251110.htm",
+    "source": "香港電台新聞網",
+    "published_at": "2025-11-10T12:29:21.036781+08:00",
+    "summary": "財政司司長陳茂波出席會計及財務匯報局區域監管論壇時致辭指，政府正通過「雙引擎」策略推動人工智能（AI）發展，會財局將評估審計事務所使用AI的機遇與潛在風險，...",
+    "scraped_at": "2025-11-10T12:30:08+08:00",
+    "canonical_url": "https://news.rthk.hk/rthk/ch/component/k2/1830916-20251110.htm"
+  },
+  {
+    "title": "【專訪阪大醫院川崎教授】從 AI 醫院到永續醫療，日本如何打造人本醫療新模式",
+    "url": "https://csrone.com/topics/9582",
+    "source": "CSRone 永續智庫",
+    "published_at": "2025-11-10T12:29:17.185897+08:00",
+    "summary": "由CSRone 永續智庫與台灣永續能源研究基金會（TAISE） 共同主辦的「2025 亞太醫療永續轉型論壇」，以「綠色醫療價值鏈」與「醫療人力與AI 的協作關係」為核心議題，...",
+    "scraped_at": "2025-11-10T12:30:08+08:00",
+    "canonical_url": "https://csrone.com/topics/9582"
+  },
+  {
+    "title": "AI時代美國年輕人就業驟變",
+    "url": "https://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/60304-2025-11-10-05-00-35.html",
+    "source": "日經中文網",
+    "published_at": "2025-11-10T12:29:14.022648+08:00",
+    "summary": "與人工智慧（AI）一起生活的日常不再是未來的童話故事。隨著AI承擔腦力勞動，大學畢業生的就業難困加劇，電力的大量消耗正在迅速推高數據中心附近地區的電價。",
+    "scraped_at": "2025-11-10T12:30:08+08:00",
+    "canonical_url": "https://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/60304-2025-11-10-05-00-35.html"
+  },
+  {
+    "title": "市場報導： AI正變成大到不能倒的產業，為了未來競爭力，各國都拼了",
+    "url": "https://iknow.stpi.narl.org.tw/Post/Read.aspx?PostID=22484",
+    "source": "科技產業資訊室",
+    "published_at": "2025-11-10T12:29:08.963060+08:00",
+    "summary": "OpenAI財務長Sarah Friar在紐約舉行的《華爾街日報》科技直播活動上，詳細闡述了建構一個融資生態系統的必要性，該生態系統最終能夠為科技產業聲稱其運轉所需的數兆...",
+    "scraped_at": "2025-11-10T12:30:08+08:00",
+    "canonical_url": "https://iknow.stpi.narl.org.tw/Post/Read.aspx"
+  },
+  {
+    "title": "網傳「美國堪薩斯下起巨大冰雹」影片為 AI 生成",
+    "url": "https://tw.news.yahoo.com/%E7%B6%B2%E5%82%B3-%E7%BE%8E%E5%9C%8B%E5%A0%AA%E8%96%A9%E6%96%AF%E4%B8%8B%E8%B5%B7%E5%B7%A8%E5%A4%A7%E5%86%B0%E9%9B%B9-%E5%BD%B1%E7%89%87%E7%82%BA-ai-%E7%94%9F%E6%88%90-022505491.html",
+    "source": "奇摩新聞",
+    "published_at": "2025-11-10T12:29:03.844331+08:00",
+    "summary": "網傳影片「10月美國堪薩斯下起巨大冰雹」？ 這是AI生成的虛假影像，非真實天候情況發佈：2025-11-10 更新：2025-11-10 報告編號：3889 查核記者：吳冠廷（實習記者）、曾慧雯...",
+    "scraped_at": "2025-11-10T12:30:08+08:00",
+    "canonical_url": "https://tw.news.yahoo.com/%E7%B6%B2%E5%82%B3-%E7%BE%8E%E5%9C%8B%E5%A0%AA%E8%96%A9%E6%96%AF%E4%B8%8B%E8%B5%B7%E5%B7%A8%E5%A4%A7%E5%86%B0%E9%9B%B9-%E5%BD%B1%E7%89%87%E7%82%BA-ai-%E7%94%9F%E6%88%90-022505491.html"
+  },
+  {
+    "title": "老闆發話：要麼用AI，要麼走人",
+    "url": "https://cn.wsj.com/articles/%E8%80%81%E9%97%86%E7%99%BC%E8%A9%B1-%E8%A6%81%E9%BA%BC%E7%94%A8ai-%E8%A6%81%E9%BA%BC%E8%B5%B0%E4%BA%BA-357c3bc9?gaa_at=eafs&gaa_n=AWEtsqfWUBWC73T7qGJ6Yd7D_4cy55ncJzUM-xh9atQT0MS3g__cblVr1LXi&gaa_ts=69116d89&gaa_sig=K0hG5kpT1zbv4GmYZx7IXwlTSR2381VOowAbmF2O5uF3Zvpvu9Ferxj_EbUJqMl25-8FwZpF5b6xAOzGAq5skw%3D%3D",
+    "source": "华尔街日报中文网",
+    "published_at": "2025-11-10T12:29:00.109430+08:00",
+    "summary": "諮詢巨頭埃森哲(Accenture)的首席執行官朱莉·斯威特(Julie Sweet)最近宣布了一個嚴峻的消息：埃森哲正在「清退」那些在工作中沒有掌握人工智慧(AI)使用技巧的員工。",
+    "scraped_at": "2025-11-10T12:30:08+08:00",
+    "canonical_url": "https://cn.wsj.com/articles/%E8%80%81%E9%97%86%E7%99%BC%E8%A9%B1-%E8%A6%81%E9%BA%BC%E7%94%A8ai-%E8%A6%81%E9%BA%BC%E8%B5%B0%E4%BA%BA-357c3bc9"
+  },
+  {
+    "title": "AI股慘跌、強颱登陸菲律賓…5國際事不可不知",
+    "url": "https://www.worldjournal.com/wj/amp/story/121209/9128597",
+    "source": "世界新聞網",
+    "published_at": "2025-11-10T12:28:56.755013+08:00",
+    "summary": "投資人對經濟前景和人工智慧（AI）熱潮的信心開始動搖。那斯達克綜合指數上周出現美國總統川普宣布全球對等關稅以來單周最慘表現，其中AI概念股蒸發近1兆美元。",
+    "scraped_at": "2025-11-10T12:30:08+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/amp/story/121209/9128597"
   },
   {
     "title": "OpenAI 長篇報告：AI 能處理人類需百年才能完成的研究，成本逐年下降 40 倍",
@@ -18,15 +189,6 @@
     "canonical_url": "https://www.bitget.com/zh-TC/amp/news/detail/12560605054441"
   },
   {
-    "title": "【專訪阪大醫院川崎教授】從 AI 醫院到永續醫療，日本如何打造人本醫療新模式",
-    "url": "https://csrone.com/topics/9582",
-    "source": "CSRone 永續智庫",
-    "published_at": "2025-11-10T11:57:22.369925+08:00",
-    "summary": "由CSRone 永續智庫與台灣永續能源研究基金會（TAISE） 共同主辦的「2025 亞太醫療永續轉型論壇」，以「綠色醫療價值鏈」與「醫療人力與AI 的協作關係」為核心議題，...",
-    "scraped_at": "2025-11-10T11:57:29+08:00",
-    "canonical_url": "https://csrone.com/topics/9582"
-  },
-  {
     "title": "黃仁勳揭示 Rubin GPU 進產線，輝達 AI 版圖再擴張，台積電成最大贏家？",
     "url": "https://xueqiu.com/8047059323/360668790",
     "source": "雪球",
@@ -36,15 +198,6 @@
     "canonical_url": "https://xueqiu.com/8047059323/360668790"
   },
   {
-    "title": "AI時代美國年輕人就業驟變",
-    "url": "https://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/60304-2025-11-10-05-00-35.html",
-    "source": "日經中文網",
-    "published_at": "2025-11-10T11:57:14.923746+08:00",
-    "summary": "與人工智慧（AI）一起生活的日常不再是未來的童話故事。隨著AI承擔腦力勞動，大學畢業生的就業難困加劇，電力的大量消耗正在迅速推高數據中心附近地區的電價。",
-    "scraped_at": "2025-11-10T11:57:29+08:00",
-    "canonical_url": "https://zh.cn.nikkei.com/politicsaeconomy/politicsasociety/60304-2025-11-10-05-00-35.html"
-  },
-  {
     "title": "新澤西教育展會 乾淨世界新型数字平台受歡迎",
     "url": "https://www.epochtimes.com/b5/25/11/10/n14632749.htm",
     "source": "大紀元",
@@ -52,42 +205,6 @@
     "summary": "11月6日和7日連續兩天，新澤西州教師協會（NJEA）在大西洋城舉辦了一年一度的大型教育展會，數百家與教育、健康及生活相關的各類機構前來參加了此次會展。",
     "scraped_at": "2025-11-10T11:57:29+08:00",
     "canonical_url": "https://www.epochtimes.com/b5/25/11/10/n14632749.htm"
-  },
-  {
-    "title": "市場報導： AI正變成大到不能倒的產業，為了未來競爭力，各國都拼了",
-    "url": "https://iknow.stpi.narl.org.tw/Post/Read.aspx?PostID=22484",
-    "source": "科技產業資訊室",
-    "published_at": "2025-11-10T11:57:06.465286+08:00",
-    "summary": "OpenAI財務長Sarah Friar在紐約舉行的《華爾街日報》科技直播活動上，詳細闡述了建構一個融資生態系統的必要性，該生態系統最終能夠為科技產業聲稱其運轉所需的數兆...",
-    "scraped_at": "2025-11-10T11:57:29+08:00",
-    "canonical_url": "https://iknow.stpi.narl.org.tw/Post/Read.aspx"
-  },
-  {
-    "title": "網傳「美國堪薩斯下起巨大冰雹」影片為 AI 生成",
-    "url": "https://tw.news.yahoo.com/%E7%B6%B2%E5%82%B3-%E7%BE%8E%E5%9C%8B%E5%A0%AA%E8%96%A9%E6%96%AF%E4%B8%8B%E8%B5%B7%E5%B7%A8%E5%A4%A7%E5%86%B0%E9%9B%B9-%E5%BD%B1%E7%89%87%E7%82%BA-ai-%E7%94%9F%E6%88%90-022505491.html",
-    "source": "奇摩新聞",
-    "published_at": "2025-11-10T11:57:01.185647+08:00",
-    "summary": "網傳影片「10月美國堪薩斯下起巨大冰雹」？ 這是AI生成的虛假影像，非真實天候情況發佈：2025-11-10 更新：2025-11-10 報告編號：3889 查核記者：吳冠廷（實習記者）、曾慧雯...",
-    "scraped_at": "2025-11-10T11:57:29+08:00",
-    "canonical_url": "https://tw.news.yahoo.com/%E7%B6%B2%E5%82%B3-%E7%BE%8E%E5%9C%8B%E5%A0%AA%E8%96%A9%E6%96%AF%E4%B8%8B%E8%B5%B7%E5%B7%A8%E5%A4%A7%E5%86%B0%E9%9B%B9-%E5%BD%B1%E7%89%87%E7%82%BA-ai-%E7%94%9F%E6%88%90-022505491.html"
-  },
-  {
-    "title": "老闆發話：要麼用AI，要麼走人",
-    "url": "https://cn.wsj.com/articles/%E8%80%81%E9%97%86%E7%99%BC%E8%A9%B1-%E8%A6%81%E9%BA%BC%E7%94%A8ai-%E8%A6%81%E9%BA%BC%E8%B5%B0%E4%BA%BA-357c3bc9?gaa_at=eafs&gaa_n=AWEtsqcyJ_vd7dvq5SUET9b12gQLol_btDuQe6nCg8-gAU8fT_-Kxfwfzgz1&gaa_ts=69116606&gaa_sig=oLv08htsHn9cnlsy8yfr6g7gBZzQ0Yy-K-n45Rnpov0-vqGl-BBvf-u1P1smv76q8HxdQcF8ZzU5Bxufm-lLyA%3D%3D",
-    "source": "华尔街日报中文网",
-    "published_at": "2025-11-10T11:56:57.536655+08:00",
-    "summary": "諮詢巨頭埃森哲(Accenture)的首席執行官朱莉·斯威特(Julie Sweet)最近宣布了一個嚴峻的消息：埃森哲正在「清退」那些在工作中沒有掌握人工智慧(AI)使用技巧的員工。",
-    "scraped_at": "2025-11-10T11:57:29+08:00",
-    "canonical_url": "https://cn.wsj.com/articles/%E8%80%81%E9%97%86%E7%99%BC%E8%A9%B1-%E8%A6%81%E9%BA%BC%E7%94%A8ai-%E8%A6%81%E9%BA%BC%E8%B5%B0%E4%BA%BA-357c3bc9"
-  },
-  {
-    "title": "AI股慘跌、強颱登陸菲律賓…5國際事不可不知",
-    "url": "https://www.worldjournal.com/wj/amp/story/121209/9128597",
-    "source": "世界新聞網",
-    "published_at": "2025-11-10T11:56:54.291630+08:00",
-    "summary": "投資人對經濟前景和人工智慧（AI）熱潮的信心開始動搖。那斯達克綜合指數上周出現美國總統川普宣布全球對等關稅以來單周最慘表現，其中AI概念股蒸發近1兆美元。",
-    "scraped_at": "2025-11-10T11:57:29+08:00",
-    "canonical_url": "https://www.worldjournal.com/wj/amp/story/121209/9128597"
   },
   {
     "title": "AI 正在減少你的工時？摩根大通 CEO：未來每週可能會只需上班 3.5 天",
@@ -115,15 +232,6 @@
     "summary": "圖：9月18日，一款機器人亮相加拉加斯通信與技術博覽會。\\法新社. 隨着人工智能（AI）技術的發展，AI重塑職場，可能最終取代人類的說法越來越多。",
     "scraped_at": "2025-11-10T11:05:12+08:00",
     "canonical_url": "https://www.chinesepress.com/2025/11/09/ai%E9%9B%A3%E5%8F%96%E4%BB%A3%E4%BA%BA%E9%A1%9E-%E5%A4%9A%E5%9C%8B%E4%BC%81%E6%A5%AD%E6%80%A5%E5%8F%AC%E5%9B%9E%E8%A2%AB%E8%A3%81%E5%93%A1%E5%B7%A5/"
-  },
-  {
-    "title": "雲端AI巨頭財報亮眼 雲端業務與AI產品化已為推動成長核心動能",
-    "url": "https://www.worldjournal.com/wj/story/121208/9128010",
-    "source": "世界新聞網",
-    "published_at": "2025-11-10T11:04:41.958312+08:00",
-    "summary": "雲端與AI巨頭微軟、Alphabet（Google 母公司）、Meta、亞馬遜相繼公布最新季度財報。口袋證券觀察，整體營...",
-    "scraped_at": "2025-11-10T11:05:12+08:00",
-    "canonical_url": "https://www.worldjournal.com/wj/story/121208/9128010"
   },
   {
     "title": "Exclusive | Silkpunk creator Ken Liu takes on AI, modernity and what it means to be American",
@@ -171,15 +279,6 @@
     "canonical_url": "https://www.yardeniquicktakes.com/market-call-from-ai-zen-to-ai-jitters/"
   },
   {
-    "title": "6 proven lessons from the AI projects that broke before they scaled",
-    "url": "https://venturebeat.com/ai/6-proven-lessons-from-the-ai-projects-that-broke-before-they-scaled",
-    "source": "VentureBeat",
-    "published_at": "2025-11-10T07:50:53.606078+08:00",
-    "summary": "Companies hate to admit it, but the road to production-level AI deployment is littered with proof of concepts (PoCs) that go nowhere, or failed projects...",
-    "scraped_at": "2025-11-10T07:51:10+08:00",
-    "canonical_url": "https://venturebeat.com/ai/6-proven-lessons-from-the-ai-projects-that-broke-before-they-scaled"
-  },
-  {
     "title": "New AHA leader sees AI as way to address cardiology’s blind spot: women",
     "url": "https://www.statnews.com/2025/11/09/aha-stacy-rosen-on-cardiology-using-ai-to-study-women/",
     "source": "STAT",
@@ -205,15 +304,6 @@
     "summary": "Meta will invest $600 billion in the U.S. by 2028 to build AI data centers as it races to build “personal superintelligence.”",
     "scraped_at": "2025-11-10T07:51:10+08:00",
     "canonical_url": "https://www.pymnts.com/meta/2025/meta-to-invest-600-billion-to-build-ai-data-centers-in-us"
-  },
-  {
-    "title": "AI Just Had Its *Actual* “Big Short” Moment",
-    "url": "https://wlockett.medium.com/ai-just-had-its-actual-big-short-moment-5d841d751c28",
-    "source": "Medium",
-    "published_at": "2025-11-10T07:50:39.894933+08:00",
-    "summary": "In a previous article, I pointed out the stark similarity between the AI bubble and the subprime mortgage crisis of 2007/2008. It isn't just that a bubble...",
-    "scraped_at": "2025-11-10T07:51:10+08:00",
-    "canonical_url": "https://wlockett.medium.com/ai-just-had-its-actual-big-short-moment-5d841d751c28"
   },
   {
     "title": "AI 新創Cursor 企業文化：使命驅動工作而非財富，招人不招崗位",
