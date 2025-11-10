@@ -1,5 +1,131 @@
 [
   {
+    "title": "Coe College to offer AI tools and training to students through Google partnership",
+    "url": "https://www.ktiv.com/2025/11/10/coe-college-offer-ai-tools-training-students-through-google-partnership/",
+    "source": "KTIV",
+    "published_at": "2025-11-11T01:17:15.796161+08:00",
+    "summary": "Two AI courses will be open for students to take in the spring.",
+    "scraped_at": "2025-11-11T01:17:15+08:00",
+    "canonical_url": "https://www.ktiv.com/2025/11/10/coe-college-offer-ai-tools-training-students-through-google-partnership/"
+  },
+  {
+    "title": "The EU AI Act: 6 Steps to Take Before 2 August 2026",
+    "url": "https://www.orrick.com/en/Insights/2025/11/The-EU-AI-Act-6-Steps-to-Take-Before-2-August-2026",
+    "source": "Orrick",
+    "published_at": "2025-11-11T01:17:12.500404+08:00",
+    "summary": "The EU AI Act's provisions have started to apply, including those relating to prohibited AI systems and general-purpose AI models (GPAIM).",
+    "scraped_at": "2025-11-11T01:17:15+08:00",
+    "canonical_url": "https://www.orrick.com/en/Insights/2025/11/The-EU-AI-Act-6-Steps-to-Take-Before-2-August-2026"
+  },
+  {
+    "title": "Legal aid leads on AI: How Lone Star Legal Aid built Juris to deliver faster, fairer results",
+    "url": "https://www.thomsonreuters.com/en-us/posts/ai-in-courts/legal-aid-ai-lone-star-juris/",
+    "source": "Thomson Reuters",
+    "published_at": "2025-11-11T01:17:07.412803+08:00",
+    "summary": "Lone Star Legal Aid built Juris, an AI-enabled tool, to centralize trusted knowledge and share a replicable model to serve more clients.",
+    "scraped_at": "2025-11-11T01:17:15+08:00",
+    "canonical_url": "https://www.thomsonreuters.com/en-us/posts/ai-in-courts/legal-aid-ai-lone-star-juris/"
+  },
+  {
+    "title": "AI bubble about to pop as returns on investment fall short?",
+    "url": "https://www.dw.com/en/ai-bubble-about-to-pop-as-returns-on-investment-fall-short-chatgpt-microsoft-nvidia-grok-elon-musk/a-74636881",
+    "source": "DW",
+    "published_at": "2025-11-11T01:17:04.014069+08:00",
+    "summary": "Billions have poured into AI, helping stock valuations soar. But the cracks are starting to show. Slowing adoption, surging costs and elusive profits are...",
+    "scraped_at": "2025-11-11T01:17:15+08:00",
+    "canonical_url": "https://www.dw.com/en/ai-bubble-about-to-pop-as-returns-on-investment-fall-short-chatgpt-microsoft-nvidia-grok-elon-musk/a-74636881"
+  },
+  {
+    "title": "New Jersey’s ‘innovation report’ shows expanded use of AI across agencies",
+    "url": "https://statescoop.com/new-jerseys-innovation-report-shows-expanded-use-of-ai-across-agencies/",
+    "source": "StateScoop",
+    "published_at": "2025-11-11T01:17:00.326562+08:00",
+    "summary": "New Jersey's 2025 Innovation Impact Report showcases a growing interest in using AI tools to improve the state government's processes.",
+    "scraped_at": "2025-11-11T01:17:15+08:00",
+    "canonical_url": "https://statescoop.com/new-jerseys-innovation-report-shows-expanded-use-of-ai-across-agencies/"
+  },
+  {
+    "title": "Are AI Chatbots Changing How We Shop?",
+    "url": "https://insights.som.yale.edu/insights/are-ai-chatbots-changing-how-we-shop",
+    "source": "Yale Insights",
+    "published_at": "2025-11-11T01:16:57.189319+08:00",
+    "summary": "What does shopping with an AI assistant change for consumers—and for the sellers and advertisers trying to reach them? We asked Yale SOM economist Jidong...",
+    "scraped_at": "2025-11-11T01:17:15+08:00",
+    "canonical_url": "https://insights.som.yale.edu/insights/are-ai-chatbots-changing-how-we-shop"
+  },
+  {
+    "title": "A new project aims to predict how quickly AI will progress",
+    "url": "https://www.economist.com/science-and-technology/2025/11/10/a-new-project-aims-to-predict-how-quickly-ai-will-progress",
+    "source": "The Economist",
+    "published_at": "2025-11-11T01:16:53.997700+08:00",
+    "summary": "The leaders of the big three artificial-intelligence (AI) labs promise great things, and soon. Sam Altman, the boss of OpenAI, thinks next year computers...",
+    "scraped_at": "2025-11-11T01:17:15+08:00",
+    "canonical_url": "https://www.economist.com/science-and-technology/2025/11/10/a-new-project-aims-to-predict-how-quickly-ai-will-progress"
+  },
+  {
+    "title": "“AI, Make Me A Degree Certificate”",
+    "url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/",
+    "source": "Hackaday",
+    "published_at": "2025-11-11T01:16:50.737749+08:00",
+    "summary": "One of the fun things about writing for Hackaday is that it takes you to the places where our community hang out. I was in a hackerspace in a university...",
+    "scraped_at": "2025-11-11T01:17:15+08:00",
+    "canonical_url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/"
+  },
+  {
+    "title": "UT Doubles Size of One of World’s Most Powerful AI Computing Hubs",
+    "url": "https://news.utexas.edu/2025/11/10/ut-doubles-size-of-one-of-worlds-most-powerful-ai-computing-hubs/",
+    "source": "UT News",
+    "published_at": "2025-11-11T01:16:47.251625+08:00",
+    "summary": "AUSTIN, Texas — The Center for Generative AI at The University of Texas at Austin, already among the most powerful artificial intelligence hubs in the...",
+    "scraped_at": "2025-11-11T01:17:15+08:00",
+    "canonical_url": "https://news.utexas.edu/2025/11/10/ut-doubles-size-of-one-of-worlds-most-powerful-ai-computing-hubs/"
+  },
+  {
+    "title": "Clemson professor helps guide state and local governments on AI with National Academies report",
+    "url": "https://news.clemson.edu/clemson-professor-helps-guide-state-and-local-governments-on-ai-with-national-academies-report/",
+    "source": "Clemson News",
+    "published_at": "2025-11-11T01:16:43.962306+08:00",
+    "summary": "Nathan McNeese of Clemson University is playing a leading role in helping state and local governments across the country integrate artificial intelligence.",
+    "scraped_at": "2025-11-11T01:17:15+08:00",
+    "canonical_url": "https://news.clemson.edu/clemson-professor-helps-guide-state-and-local-governments-on-ai-with-national-academies-report/"
+  },
+  {
+    "title": "財經8點檔-AI泡沫隱藏金融炸彈 1110",
+    "url": "https://taiwandaily.net/%E7%86%B1%E9%96%80%E5%BD%B1%E9%9F%B3/107717/",
+    "source": "美洲台灣日報",
+    "published_at": "2025-11-11T01:16:39.060553+08:00",
+    "summary": "財經8點檔-AI泡沫隱藏金融炸彈1110. Share. Facebook · LINE. Tap to unmute. Your browser can't play this video. Learn more. An error occurred.",
+    "scraped_at": "2025-11-11T01:17:15+08:00",
+    "canonical_url": "https://taiwandaily.net/%E7%86%B1%E9%96%80%E5%BD%B1%E9%9F%B3/107717/"
+  },
+  {
+    "title": "加密貨幣與金融新聞摘要：法律問題、ETF發展和AI倡議",
+    "url": "https://www.markets.com/news/crypto-finance-news-roundup-20241109-1954-zh-Hant/",
+    "source": "Markets.com",
+    "published_at": "2025-11-11T01:16:35.694652+08:00",
+    "summary": "掌握加密貨幣和金融世界的最新動態，涵蓋法律糾紛、潛在的XRP ETF推出以及分散式AI的新合作夥伴關係。",
+    "scraped_at": "2025-11-11T01:17:15+08:00",
+    "canonical_url": "https://www.markets.com/news/crypto-finance-news-roundup-20241109-1954-zh-Hant/"
+  },
+  {
+    "title": "不談算力、不預測未來！貝索斯揭示AI創業必做「三件事」",
+    "url": "https://hk.finance.yahoo.com/news/%E4%B8%8D%E8%AB%87%E7%AE%97%E5%8A%9B-%E4%B8%8D%E9%A0%90%E6%B8%AC%E6%9C%AA%E4%BE%86-%E8%B2%9D%E4%BD%90%E6%96%AF%E6%8F%AD%E7%A4%BAai%E5%89%B5%E6%A5%AD%E5%BF%85%E5%81%9A-%E4%B8%89%E4%BB%B6%E4%BA%8B-062147818.html",
+    "source": "Yahoo 財經",
+    "published_at": "2025-11-11T01:16:31.804012+08:00",
+    "summary": "在全球科技界，所有目光幾乎都聚焦在AI 算力軍備競賽、晶片爭奪，以及模型託管權之戰。然而，在近期的邁阿密論壇上，亞馬遜(AMZN) 創辦人貝索斯卻給出了一個完全跳脫技術...",
+    "scraped_at": "2025-11-11T01:17:15+08:00",
+    "canonical_url": "https://hk.finance.yahoo.com/news/%E4%B8%8D%E8%AB%87%E7%AE%97%E5%8A%9B-%E4%B8%8D%E9%A0%90%E6%B8%AC%E6%9C%AA%E4%BE%86-%E8%B2%9D%E4%BD%90%E6%96%AF%E6%8F%AD%E7%A4%BAai%E5%89%B5%E6%A5%AD%E5%BF%85%E5%81%9A-%E4%B8%89%E4%BB%B6%E4%BA%8B-062147818.html"
+  },
+  {
+    "title": "為了AI 歐盟準備犧牲這項「神聖原則」 隱私不顧了",
+    "url": "https://www.worldjournal.com/wj/story/121477/9130776",
+    "source": "世界新聞網",
+    "published_at": "2025-11-11T01:16:27.978390+08:00",
+    "summary": "歐盟執委會本月稍晚將公布一項「數位綜合法案」，為迎合人工智慧（AI）與產業利益，預計簡化多項科技相關法律，也準備犧牲他們...",
+    "scraped_at": "2025-11-11T01:17:15+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/121477/9130776"
+  },
+  {
     "title": "AI is moving fast. This project aims to help states keep up — responsibly.",
     "url": "https://www.smartcitiesdive.com/news/ai-state-government-leaders-rockefeller-foundation-center-for-civic-futures/805128/",
     "source": "Smart Cities Dive",
@@ -36,60 +162,6 @@
     "canonical_url": "https://priceschool.usc.edu/news/usc-ai-knowledge-hub-education-jobs/"
   },
   {
-    "title": "Legal aid leads on AI: How Lone Star Legal Aid built Juris to deliver faster, fairer results",
-    "url": "https://www.thomsonreuters.com/en-us/posts/ai-in-courts/legal-aid-ai-lone-star-juris/",
-    "source": "Thomson Reuters",
-    "published_at": "2025-11-11T00:50:13.653626+08:00",
-    "summary": "Lone Star Legal Aid built Juris, an AI-enabled tool, to centralize trusted knowledge and share a replicable model to serve more clients.",
-    "scraped_at": "2025-11-11T00:50:26+08:00",
-    "canonical_url": "https://www.thomsonreuters.com/en-us/posts/ai-in-courts/legal-aid-ai-lone-star-juris/"
-  },
-  {
-    "title": "New Jersey’s ‘innovation report’ shows expanded use of AI across agencies",
-    "url": "https://statescoop.com/new-jerseys-innovation-report-shows-expanded-use-of-ai-across-agencies/",
-    "source": "StateScoop",
-    "published_at": "2025-11-11T00:50:10.377572+08:00",
-    "summary": "New Jersey's 2025 Innovation Impact Report showcases a growing interest in using AI tools to improve the state government's processes.",
-    "scraped_at": "2025-11-11T00:50:26+08:00",
-    "canonical_url": "https://statescoop.com/new-jerseys-innovation-report-shows-expanded-use-of-ai-across-agencies/"
-  },
-  {
-    "title": "Are AI Chatbots Changing How We Shop?",
-    "url": "https://insights.som.yale.edu/insights/are-ai-chatbots-changing-how-we-shop",
-    "source": "Yale Insights",
-    "published_at": "2025-11-11T00:50:07.284835+08:00",
-    "summary": "What does shopping with an AI assistant change for consumers—and for the sellers and advertisers trying to reach them? We asked Yale SOM economist Jidong...",
-    "scraped_at": "2025-11-11T00:50:26+08:00",
-    "canonical_url": "https://insights.som.yale.edu/insights/are-ai-chatbots-changing-how-we-shop"
-  },
-  {
-    "title": "A new project aims to predict how quickly AI will progress",
-    "url": "https://www.economist.com/science-and-technology/2025/11/10/a-new-project-aims-to-predict-how-quickly-ai-will-progress",
-    "source": "The Economist",
-    "published_at": "2025-11-11T00:50:04.180543+08:00",
-    "summary": "The leaders of the big three artificial-intelligence (AI) labs promise great things, and soon. Sam Altman, the boss of OpenAI, thinks next year computers...",
-    "scraped_at": "2025-11-11T00:50:26+08:00",
-    "canonical_url": "https://www.economist.com/science-and-technology/2025/11/10/a-new-project-aims-to-predict-how-quickly-ai-will-progress"
-  },
-  {
-    "title": "“AI, Make Me A Degree Certificate”",
-    "url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/",
-    "source": "Hackaday",
-    "published_at": "2025-11-11T00:50:01.031647+08:00",
-    "summary": "One of the fun things about writing for Hackaday is that it takes you to the places where our community hang out. I was in a hackerspace in a university...",
-    "scraped_at": "2025-11-11T00:50:26+08:00",
-    "canonical_url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/"
-  },
-  {
-    "title": "UT Doubles Size of One of World’s Most Powerful AI Computing Hubs",
-    "url": "https://news.utexas.edu/2025/11/10/ut-doubles-size-of-one-of-worlds-most-powerful-ai-computing-hubs/",
-    "source": "UT News",
-    "published_at": "2025-11-11T00:49:57.635339+08:00",
-    "summary": "AUSTIN, Texas — The Center for Generative AI at The University of Texas at Austin, already among the most powerful artificial intelligence hubs in the...",
-    "scraped_at": "2025-11-11T00:50:26+08:00",
-    "canonical_url": "https://news.utexas.edu/2025/11/10/ut-doubles-size-of-one-of-worlds-most-powerful-ai-computing-hubs/"
-  },
-  {
     "title": "南韓豪砸近10億美元擴充AI人才庫 從小學栽培到研究所",
     "url": "https://www.worldjournal.com/wj/amp/story/121480/9130487",
     "source": "世界新聞網",
@@ -97,42 +169,6 @@
     "summary": "儘管廢止了宏偉的導入人工智慧（AI）數位教科書計畫，但南韓政府卻採取了另一項舉措來鞏固其全球AI領導地位，當局將投資1.4兆韓元（9.6億美元），培養從小學到研究生的AI人才...",
     "scraped_at": "2025-11-11T00:50:26+08:00",
     "canonical_url": "https://www.worldjournal.com/wj/amp/story/121480/9130487"
-  },
-  {
-    "title": "財經8點檔-AI泡沫隱藏金融炸彈 1110",
-    "url": "https://taiwandaily.net/%E7%86%B1%E9%96%80%E5%BD%B1%E9%9F%B3/107717/",
-    "source": "美洲台灣日報",
-    "published_at": "2025-11-11T00:49:49.462861+08:00",
-    "summary": "財經8點檔-AI泡沫隱藏金融炸彈1110. Share. Facebook · LINE. Tap to unmute. Your browser can't play this video. Learn more. An error occurred.",
-    "scraped_at": "2025-11-11T00:50:26+08:00",
-    "canonical_url": "https://taiwandaily.net/%E7%86%B1%E9%96%80%E5%BD%B1%E9%9F%B3/107717/"
-  },
-  {
-    "title": "加密貨幣與金融新聞摘要：法律問題、ETF發展和AI倡議",
-    "url": "https://www.markets.com/news/crypto-finance-news-roundup-20241109-1954-zh-Hant/",
-    "source": "Markets.com",
-    "published_at": "2025-11-11T00:49:46.121859+08:00",
-    "summary": "掌握加密貨幣和金融世界的最新動態，涵蓋法律糾紛、潛在的XRP ETF推出以及分散式AI的新合作夥伴關係。",
-    "scraped_at": "2025-11-11T00:50:26+08:00",
-    "canonical_url": "https://www.markets.com/news/crypto-finance-news-roundup-20241109-1954-zh-Hant/"
-  },
-  {
-    "title": "不談算力、不預測未來！貝索斯揭示AI創業必做「三件事」",
-    "url": "https://hk.finance.yahoo.com/news/%E4%B8%8D%E8%AB%87%E7%AE%97%E5%8A%9B-%E4%B8%8D%E9%A0%90%E6%B8%AC%E6%9C%AA%E4%BE%86-%E8%B2%9D%E4%BD%90%E6%96%AF%E6%8F%AD%E7%A4%BAai%E5%89%B5%E6%A5%AD%E5%BF%85%E5%81%9A-%E4%B8%89%E4%BB%B6%E4%BA%8B-062147818.html",
-    "source": "Yahoo 財經",
-    "published_at": "2025-11-11T00:49:42.696189+08:00",
-    "summary": "在全球科技界，所有目光幾乎都聚焦在AI 算力軍備競賽、晶片爭奪，以及模型託管權之戰。然而，在近期的邁阿密論壇上，亞馬遜(AMZN) 創辦人貝索斯卻給出了一個完全跳脫技術...",
-    "scraped_at": "2025-11-11T00:50:26+08:00",
-    "canonical_url": "https://hk.finance.yahoo.com/news/%E4%B8%8D%E8%AB%87%E7%AE%97%E5%8A%9B-%E4%B8%8D%E9%A0%90%E6%B8%AC%E6%9C%AA%E4%BE%86-%E8%B2%9D%E4%BD%90%E6%96%AF%E6%8F%AD%E7%A4%BAai%E5%89%B5%E6%A5%AD%E5%BF%85%E5%81%9A-%E4%B8%89%E4%BB%B6%E4%BA%8B-062147818.html"
-  },
-  {
-    "title": "為了AI 歐盟準備犧牲這項「神聖原則」 隱私不顧了",
-    "url": "https://www.worldjournal.com/wj/story/121477/9130776",
-    "source": "世界新聞網",
-    "published_at": "2025-11-11T00:49:38.694878+08:00",
-    "summary": "歐盟執委會本月稍晚將公布一項「數位綜合法案」，為迎合人工智慧（AI）與產業利益，預計簡化多項科技相關法律，也準備犧牲他們...",
-    "scraped_at": "2025-11-11T00:50:26+08:00",
-    "canonical_url": "https://www.worldjournal.com/wj/story/121477/9130776"
   },
   {
     "title": "How AI Can Help You Prepare For, and Sell on, Small Business Saturday and Beyond",
