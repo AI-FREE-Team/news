@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>一鍵重新整理</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        .container {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            max-width: 500px;
+            width: 100%;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+            margin-bottom: 20px;
+            font-size: 28px;
+        }
+        .status {
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px 0;
+            font-size: 16px;
+        }
+        .status.pending {
+            background: #fff3cd;
+            color: #856404;
+            border: 2px solid #ffc107;
+        }
+        .status.loading {
+            background: #cfe2ff;
+            color: #084298;
+            border: 2px solid #0d6efd;
+        }
+        .status.success {
+            background: #d1e7dd;
+            color: #0f5132;
+            border: 2px solid #198754;
+        }
+        .status.error {
+            background: #f8d7da;
+            color: #842029;
+            border: 2px solid #dc3545;
+        }
+        button {
+            background: #ff6b35;
+            color: white;
+            border: none;
+            padding: 16px 40px;
+            font-size: 18px;
+            font-weight: bold;
+            border-radius: 50px;
+            cursor: pointer;
+            transition: all 0.3s;
+            box-shadow: 0 4px 15px rgba(255,107,53,0.4);
+        }
+        button:hover:not(:disabled) {
+            background: #ff5722;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(255,107,53,0.5);
+        }
+        button:disabled {
+            background: #ccc;
+            cursor: not-allowed;
+            box-shadow: none;
+        }
+        .spinner {
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #667eea;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        .info {
+            color: #666;
+            font-size: 14px;
+            margin-top: 20px;
+            line-height: 1.6;
+        }
+        .link {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🔄 資料重新整理</h1>
+        
+        <div id="status" class="status pending">
+            準備就緒,點擊下方按鈕開始
+        </div>
+        
+        <div id="spinner" style="display: none;">
+            <div class="spinner"></div>
+        </div>
+        
+        <button id="triggerBtn" onclick="triggerWorkflow()">
+            立即重新整理資料
+        </button>
+        
+        <div class="info">
+            點擊後將觸發 GitHub Actions 重新整理資料<br>
+            完成後約 10 秒內會收到確認信
+        </div>
+    </div>
+
+    <script>
+        // ⚠️ 重要:請替換成你的資訊
+        const CONFIG = {
+            owner: 'YOUR_GITHUB_USERNAME',        // 你的 GitHub 使用者名稱
+            repo: 'YOUR_REPO_NAME',               // 你的 repo 名稱
+            token: 'YOUR_GITHUB_TOKEN',           // 你的 GitHub Personal Access Token
+            workflowId: 'confirm.yml'             // workflow 檔案名稱
+        };
+
+        async function triggerWorkflow() {
+            const btn = document.getElementById('triggerBtn');
+            const status = document.getElementById('status');
+            const spinner = document.getElementById('spinner');
+            
+            // 檢查設定
+            if (CONFIG.token === 'YOUR_GITHUB_TOKEN') {
+                status.className = 'status error';
+                status.innerHTML = '❌ 錯誤:請先設定 GitHub Token!<br><small>請參考下方說明文件</small>';
+                return;
+            }
+            
+            // 開始執行
+            btn.disabled = true;
+            status.className = 'status loading';
+            status.textContent = '⏳ 正在觸發重新整理任務...';
+            spinner.style.display = 'block';
+            
+            try {
+                const response = await fetch(
+                    `https://api.github.com/repos/${CONFIG.owner}/${CONFIG.repo}/actions/workflows/${CONFIG.workflowId}/dispatches`,
+                    {
+                        method: 'POST',
+                        headers: {
+                            'Accept': 'application/vnd.github.v3+json',
+                            'Authorization': `Bearer ${CONFIG.token}`,
+                            'Content-Type': 'application/json'
+                        },
+                        body: JSON.stringify({
+                            ref: 'main',  // 或 'master',看你的主分支名稱
+                            inputs: {
+                                triggered_by: 'email_link'
+                            }
+                        })
+                    }
+                );
+                
+                spinner.style.display = 'none';
+                
+                if (response.status === 204) {
+                    status.className = 'status success';
+                    status.innerHTML = `
+                        ✅ 觸發成功!<br>
+                        <small>GitHub Actions 正在執行中...</small><br>
+                        <small>約 10 秒內會收到確認信</small>
+                    `;
+                    
+                    // 3 秒後重新啟用按鈕
+                    setTimeout(() => {
+                        btn.disabled = false;
+                    }, 3000);
+                } else {
+                    throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                }
+                
+            } catch (error) {
+                spinner.style.display = 'none';
+                status.className = 'status error';
+                status.innerHTML = `
+                    ❌ 觸發失敗<br>
+                    <small>${error.message}</small><br>
+                    <small>請檢查 Token 權限或網路連線</small>
+                `;
+                btn.disabled = false;
+            }
+        }
+        
+        // 頁面載入時自動執行 (如果 URL 參數有 auto=1)
+        window.addEventListener('DOMContentLoaded', () => {
+            const urlParams = new URLSearchParams(window.location.search);
+            if (urlParams.get('auto') === '1') {
+                triggerWorkflow();
+            }
+        });
+    </script>
+</body>
+</html>
