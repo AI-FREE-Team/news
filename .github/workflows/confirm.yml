@@ -1,0 +1,50 @@
+name: 手動重新整理（僅由連結觸發）
+
+# 重要：只能用 workflow_dispatch 觸發，絕對不會自動跑
+on:
+  workflow_dispatch:
+    inputs:
+      triggered_by:
+        description: '誰觸發的'
+        required: false
+        default: 'user'
+
+jobs:
+  rerun-job:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 執行手動重新整理任務
+        run: |
+          echo "手動重新整理開始..."
+          # 放你真正的「重新抓資料」程式碼
+          sleep 3
+          echo "手動任務完成！"
+
+      - name: 發送「成功!!」確認信
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.GMAIL_ADDRESS }}
+          password: ${{ secrets.GMAIL_APP_PASSWORD }}
+          subject: "成功!! 您的資料已重新整理（${{ github.actor }} 觸發）"
+          to: ai.free.team@gmail.com
+          from: 重新整理小精靈 <${{ secrets.GMAIL_ADDRESS }}>
+          html_body: |
+            <div style="font-family: Arial, sans-serif; max-width: 600px; margin: auto; padding: 30px; background: linear-gradient(to right, #667eea, #764ba2); color: white; border-radius: 15px; text-align: center;">
+              <h1 style="font-size: 28px;">成功！</h1>
+              <p style="font-size: 18px;">您的資料已成功重新整理</p>
+              <p>觸發者：${{ github.actor }}</p>
+              <p>時間：$(date '+%Y-%m-%d %H:%M:%S') (台灣時間)</p>
+              
+              <div style="margin: 30px 0;">
+                <p style="background: rgba(255,255,255,0.2); padding: 15px; border-radius: 10px; font-size: 20px;">
+                  最新資料已更新完成
+                </p>
+              </div>
+              
+              <p><a href="https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}" 
+                   style="color: #fff; text-decoration: underline;">點此查看執行紀錄</a></p>
+            </div>
