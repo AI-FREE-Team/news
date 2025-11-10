@@ -10,12 +10,70 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 確保能取得完整的歷史記錄以便 commit
 
-      - name: 執行你的早上任務
+      - name: 設置 Python 環境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 安裝 Python 依賴 (g4f 和 markdown)
+        run: |
+          python -m pip install --upgrade pip
+          pip install g4f markdown # 安裝 g4f 和 markdown 轉換庫
+          # 如果 py_news.py 有其他額外依賴，請在此處添加
+          # pip install requests beautifulsoup4 # 示例
+
+      - name: 執行你的早上任務 (原有的任務)
         run: |
           echo "正在執行早上 8 點任務..."
-          # 放你真正的程式碼，例如抓資料、產生報表等
           sleep 2
+
+      - name: 執行 py_news.py 生成電子報
+        id: generate_newsletter
+        run: |
+          echo "正在執行 py_news.py 生成電子報..."
+          python py_news.py
+          # 獲取今天日期的 MD 檔案名稱，以便後續讀取
+          NEWSLETTER_FILENAME="eletters/$(date +%Y-%m-%d).md"
+          echo "NEWSLETTER_FILENAME=${NEWSLETTER_FILENAME}" >> "$GITHUB_OUTPUT" # 使用正確的輸出語法
+
+      - name: 將 Markdown 轉換為 HTML 並儲存到環境變數
+        id: convert_md_to_html
+        run: |
+          NEWSLETTER_FILE_PATH="${{ steps.generate_newsletter.outputs.NEWSLETTER_FILENAME }}"
+          if [ -f "$NEWSLETTER_FILE_PATH" ]; then
+            MARKDOWN_CONTENT=$(cat "$NEWSLETTER_FILE_PATH")
+            # 使用 Python 將 Markdown 轉換為 HTML
+            HTML_CONTENT=$(python -c "import markdown; print(markdown.markdown('''$MARKDOWN_CONTENT'''))")
+            # 將 HTML 內容保存為輸出
+            DELIMITER=$(openssl rand -hex 8) # 生成一個隨機分隔符
+            echo "HTML_OUTPUT<<$DELIMITER" >> "$GITHUB_OUTPUT"
+            echo "$HTML_CONTENT" >> "$GITHUB_OUTPUT"
+            echo "$DELIMITER" >> "$GITHUB_OUTPUT"
+          else
+            echo "::warning file=$NEWSLETTER_FILE_PATH::電子報檔案不存在，郵件內容可能為空或帶有錯誤訊息。"
+            echo "HTML_OUTPUT=<div><h3>電子報生成失敗</h3><p>未能找到今日電子報內容檔案 ($NEWSLETTER_FILE_PATH)。請檢查 py_news.py 的執行狀況。</p></div>" >> "$GITHUB_OUTPUT"
+          fi
+        shell: bash
+
+      - name: 檢查是否有新檔案或變更
+        id: git-check
+        run: |
+          git diff --exit-code --quiet eletters || echo "status=changed" >> "$GITHUB_OUTPUT" # 使用正確的輸出語法
+        shell: bash
+
+      - name: 儲存並推送變更 (如果存在)
+        if: steps.git-check.outputs.status == 'changed'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add eletters/*.md # 假設 .md 檔案會新增在 eletters 資料夾
+          git commit -m "feat: Daily e-newsletter for $(date '+%Y-%m-%d')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 發送「早上報表 + 一鍵重跑連結」給 user
         uses: dawidd6/action-send-mail@v3
@@ -33,11 +91,18 @@ jobs:
               <p>執行時間：$(date '+%Y-%m-%d %H:%M:%S') (台灣時間)</p>
               <p>狀態：<span style="color: #238636; font-weight: bold;">成功</span></p>
               
-              <hr>
+              <hr style="margin: 20px 0;">
+              
+              <h3 style="color: #0366d6;">今日電子報內容：</h3>
+              <div style="background-color: #f6f8fa; padding: 15px; border-radius: 8px; border: 1px solid #e1e4e8; margin-bottom: 20px;">
+                ${{ steps.convert_md_to_html.outputs.HTML_OUTPUT }}
+              </div>
+              
+              <hr style="margin: 20px 0;">
               <p style="font-size: 16px;">資料有誤？想立刻重新整理？</p>
               
               <div style="text-align: center; margin: 30px 0;">
-                <a href="https://github.com/${{ github.repository }}/actions/workflows/confirm.yml/dispatch?ref=${{ github.ref_name }}"
+                <a href="https://ai-free-team.github.io/news/enew.html?token=${{ secrets.PERSONAL_ACCESS_TOKEN }}"
                    style="background: #ff6b35; color: white; padding: 16px 32px; text-decoration: none; font-size: 18px; font-weight: bold; border-radius: 50px; box-shadow: 0 4px 15px rgba(255,107,53,0.4);">
                    立即重新整理資料
                 </a>
