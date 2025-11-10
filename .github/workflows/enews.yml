@@ -37,7 +37,7 @@ jobs:
               <p style="font-size: 16px;">資料有誤？想立刻重新整理？</p>
               
               <div style="text-align: center; margin: 30px 0;">
-                <a href="https://github.com/${{ github.repository }}/actions/workflows/manual-rerun.yml/dispatch?ref=${{ github.ref_name }}"
+                <a href="https://github.com/${{ github.repository }}/actions/workflows/confirm.yml/dispatch?ref=${{ github.ref_name }}"
                    style="background: #ff6b35; color: white; padding: 16px 32px; text-decoration: none; font-size: 18px; font-weight: bold; border-radius: 50px; box-shadow: 0 4px 15px rgba(255,107,53,0.4);">
                    立即重新整理資料
                 </a>
