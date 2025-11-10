@@ -1,5 +1,158 @@
 [
   {
+    "title": "How Clario automates clinical research analysis using generative AI on AWS",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-clario-automates-clinical-research-analysis-using-generative-ai-on-aws/",
+    "source": "Amazon Web Services (AWS)",
+    "published_at": "2025-11-11T03:41:23.550005+08:00",
+    "summary": "by Alex Boudreau, Cuong Lai and Praveen Haranahalli on 10 NOV 2025 in Advanced (300), Amazon Bedrock, Amazon Elastic Kubernetes Service, Amazon Machine...",
+    "scraped_at": "2025-11-11T03:41:23+08:00",
+    "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-clario-automates-clinical-research-analysis-using-generative-ai-on-aws/"
+  },
+  {
+    "title": "New York law requires safety protocols for AI companion sites",
+    "url": "https://www.wcax.com/2025/11/10/new-york-law-requires-safety-protocols-ai-companion-sites/",
+    "source": "WCAX",
+    "published_at": "2025-11-11T03:41:20.254426+08:00",
+    "summary": "Governor Kathy Hochul announced protocol and guidelines for AI companies operating in New York State.",
+    "scraped_at": "2025-11-11T03:41:23+08:00",
+    "canonical_url": "https://www.wcax.com/2025/11/10/new-york-law-requires-safety-protocols-ai-companion-sites/"
+  },
+  {
+    "title": "Montana Insurance comissioner adds AI tool to help customers navigate data breach",
+    "url": "https://dailymontanan.com/2025/11/10/montana-insurance-comissioner-adds-ai-tool-to-help-customers-navigate-data-breach/",
+    "source": "Daily Montanan",
+    "published_at": "2025-11-11T03:41:17.074601+08:00",
+    "summary": "The Montana Commissioner of Securities and Insurance has rolled out a new artificial intelligence assistant ready to help as many as 462000 residents with...",
+    "scraped_at": "2025-11-11T03:41:23+08:00",
+    "canonical_url": "https://dailymontanan.com/2025/11/10/montana-insurance-comissioner-adds-ai-tool-to-help-customers-navigate-data-breach/"
+  },
+  {
+    "title": "“AI, Make Me A Degree Certificate”",
+    "url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/",
+    "source": "Hackaday",
+    "published_at": "2025-11-11T03:41:13.965285+08:00",
+    "summary": "One of the fun things about writing for Hackaday is that it takes you to the places where our community hang out. I was in a hackerspace in a university...",
+    "scraped_at": "2025-11-11T03:41:23+08:00",
+    "canonical_url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/"
+  },
+  {
+    "title": "The health AI Bubble",
+    "url": "https://www.politico.com/newsletters/future-pulse/2025/11/10/the-health-ai-bubble-00644643",
+    "source": "Politico",
+    "published_at": "2025-11-11T03:41:10.830983+08:00",
+    "summary": "We may be in an artificial intelligence “bubble,” an economic term that describes an environment where a product is valued for more than it is fundamentally...",
+    "scraped_at": "2025-11-11T03:41:23+08:00",
+    "canonical_url": "https://www.politico.com/newsletters/future-pulse/2025/11/10/the-health-ai-bubble-00644643"
+  },
+  {
+    "title": "OpenAI considers consumer health tools in push beyond core AI offerings, Business Insider reports",
+    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/openai-considers-consumer-health-tools-push-beyond-core-ai-offerings-business-2025-11-10/",
+    "source": "Reuters",
+    "published_at": "2025-11-11T03:41:07.622987+08:00",
+    "summary": "OpenAI is weighing building consumer health products, including a generative AI-powered personal health assistant, as the ChatGPT maker aims to move beyond...",
+    "scraped_at": "2025-11-11T03:41:23+08:00",
+    "canonical_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/openai-considers-consumer-health-tools-push-beyond-core-ai-offerings-business-2025-11-10/"
+  },
+  {
+    "title": "Design Patterns and AI: Computer Science evolves at SOU",
+    "url": "https://news.sou.edu/2025/11/design-patterns-and-ai-computer-science-evolves-at-sou/",
+    "source": "SOU News",
+    "published_at": "2025-11-11T03:41:04.465965+08:00",
+    "summary": "A new “Design Patterns” course at SOU leans on artificial intelligence to perform coding tasks, allowing students to focus on the big picture.",
+    "scraped_at": "2025-11-11T03:41:23+08:00",
+    "canonical_url": "https://news.sou.edu/2025/11/design-patterns-and-ai-computer-science-evolves-at-sou/"
+  },
+  {
+    "title": "Clemson professor helps guide state and local governments on AI with National Academies report",
+    "url": "https://news.clemson.edu/clemson-professor-helps-guide-state-and-local-governments-on-ai-with-national-academies-report/",
+    "source": "Clemson News",
+    "published_at": "2025-11-11T03:41:00.888392+08:00",
+    "summary": "Nathan McNeese of Clemson University is playing a leading role in helping state and local governments across the country integrate artificial intelligence.",
+    "scraped_at": "2025-11-11T03:41:23+08:00",
+    "canonical_url": "https://news.clemson.edu/clemson-professor-helps-guide-state-and-local-governments-on-ai-with-national-academies-report/"
+  },
+  {
+    "title": "UT Doubles Size of One of World’s Most Powerful AI Computing Hubs",
+    "url": "https://news.utexas.edu/2025/11/10/ut-doubles-size-of-one-of-worlds-most-powerful-ai-computing-hubs/",
+    "source": "University of Texas at Austin",
+    "published_at": "2025-11-11T03:40:57.497253+08:00",
+    "summary": "AUSTIN, Texas — The Center for Generative AI at The University of Texas at Austin, already among the most powerful artificial intelligence hubs in the...",
+    "scraped_at": "2025-11-11T03:41:23+08:00",
+    "canonical_url": "https://news.utexas.edu/2025/11/10/ut-doubles-size-of-one-of-worlds-most-powerful-ai-computing-hubs/"
+  },
+  {
+    "title": "AI Data Security",
+    "url": "https://www.cpajournal.com/2025/11/10/ai-data-security/",
+    "source": "The CPA Journal",
+    "published_at": "2025-11-11T03:40:54.403198+08:00",
+    "summary": "Risk management executives can no longer treat artificial intelligence (AI) as a passing fad. According to a report from Microsoft and IDC “The Business.",
+    "scraped_at": "2025-11-11T03:41:23+08:00",
+    "canonical_url": "https://www.cpajournal.com/2025/11/10/ai-data-security/"
+  },
+  {
+    "title": "艦載AI消防系統可自主精準撲滅油火",
+    "url": "https://www.chinesepress.com/2025/11/10/%E8%88%B0%E8%BD%BDai%E6%B6%88%E9%98%B2%E7%B3%BB%E7%BB%9F%E5%8F%AF%E8%87%AA%E4%B8%BB%E7%B2%BE%E5%87%86%E6%89%91%E7%81%AD%E6%B2%B9%E7%81%AB/",
+    "source": "華僑時報",
+    "published_at": "2025-11-11T03:40:49.455017+08:00",
+    "summary": "韓國機械與材料研究所科學家研發出全球首套可自主撲滅艦艇油火的消防系統，并已通過真實艦艇測試驗證。該系統能精準識别艦艇發動機艙、甲闆等區域因設備洩漏引發的油火，...",
+    "scraped_at": "2025-11-11T03:41:23+08:00",
+    "canonical_url": "https://www.chinesepress.com/2025/11/10/%E8%88%B0%E8%BD%BDai%E6%B6%88%E9%98%B2%E7%B3%BB%E7%BB%9F%E5%8F%AF%E8%87%AA%E4%B8%BB%E7%B2%BE%E5%87%86%E6%89%91%E7%81%AD%E6%B2%B9%E7%81%AB/"
+  },
+  {
+    "title": "AI「軍備競賽」拖垮現金流 美銀建議做空科技巨頭債券而非股票",
+    "url": "https://news.futunn.com/hk/post/64677356/ai-arms-race-strains-cash-flow-bofa-suggests-shorting-tech",
+    "source": "富途牛牛",
+    "published_at": "2025-11-11T03:40:45.831775+08:00",
+    "summary": "美銀證券發表研報表示，投資者應考慮做空超大規模科技公司的債券，但暫勿大舉做空整體人工智能(AI)相關交易。",
+    "scraped_at": "2025-11-11T03:41:23+08:00",
+    "canonical_url": "https://news.futunn.com/hk/post/64677356/ai-arms-race-strains-cash-flow-bofa-suggests-shorting-tech"
+  },
+  {
+    "title": "AI 加密沙皇：OpenAI 被誤為 AI 泡沫開端，科技股下跌是自然修正",
+    "url": "https://abmedia.io/ai-crypto-czar-openai-aibubble",
+    "source": "鏈新聞 ABMedia",
+    "published_at": "2025-11-11T03:40:39.512120+08:00",
+    "summary": "AI 加密沙皇David Sacks 於11/8 在最新一集《All-In Podcast》中表示，外界誤將OpenAI 的發言解讀為「需要政府救助」，甚至視為AI 泡沫破裂的導火線，進而引發科技股全線...",
+    "scraped_at": "2025-11-11T03:41:23+08:00",
+    "canonical_url": "https://abmedia.io/ai-crypto-czar-openai-aibubble"
+  },
+  {
+    "title": "通訊與AI的結合-從Nvidia 投資Nokia 談起",
+    "url": "https://voicettank.org/20251110-2/",
+    "source": "思想坦克｜Voicettank",
+    "published_at": "2025-11-11T03:40:36.236293+08:00",
+    "summary": "今年10月輝達（Nvidia）宣布對諾基亞（Nokia）投資10億美元，消息一出在科技業、電信圈引起廣泛討論。大家關心的是為什麼AI及運算設備商的輝達要投資電信設備商諾基亞？",
+    "scraped_at": "2025-11-11T03:41:23+08:00",
+    "canonical_url": "https://voicettank.org/20251110-2/"
+  },
+  {
+    "title": "AI硬件見高下 美國被中國KO",
+    "url": "https://www.hkej.com/dailynews/investment/article/4245121/AI%E7%A1%AC%E4%BB%B6%E8%A6%8B%E9%AB%98%E4%B8%8B+%E7%BE%8E%E5%9C%8B%E8%A2%AB%E4%B8%AD%E5%9C%8BKO",
+    "source": "信報網站",
+    "published_at": "2025-11-11T03:40:32.210204+08:00",
+    "summary": "中國的機械人技術優勢在於已把人工智能（AI）整合至更低成本、更高品質的供應鏈體系，並實現快速周轉，因此，宇樹科技等企業在研發高性價比的具象化人形AI產品方面，...",
+    "scraped_at": "2025-11-11T03:41:23+08:00",
+    "canonical_url": "https://www.hkej.com/dailynews/investment/article/4245121/AI%E7%A1%AC%E4%BB%B6%E8%A6%8B%E9%AB%98%E4%B8%8B+%E7%BE%8E%E5%9C%8B%E8%A2%AB%E4%B8%AD%E5%9C%8BKO"
+  },
+  {
+    "title": "Digits Automates the Monthly Close with AI Bank Reconciliations",
+    "url": "https://finance.yahoo.com/news/digits-automates-monthly-close-ai-150000037.html",
+    "source": "Yahoo Finance",
+    "published_at": "2025-11-11T03:40:27.804184+08:00",
+    "summary": "Digits Digits Automates the Monthly Close with AI Bank Reconciliations SAN FRANCISCO, Nov. 10, 2025 (GLOBE NEWSWIRE) -- Digits, the world's first Agentic...",
+    "scraped_at": "2025-11-11T03:41:23+08:00",
+    "canonical_url": "https://finance.yahoo.com/news/digits-automates-monthly-close-ai-150000037.html"
+  },
+  {
+    "title": "為了AI 歐盟準備犧牲這項「神聖原則」 隱私不顧了",
+    "url": "https://www.worldjournal.com/wj/story/121477/9130776",
+    "source": "世界新聞網",
+    "published_at": "2025-11-11T03:40:23.618136+08:00",
+    "summary": "歐盟執委會本月稍晚將公布一項「數位綜合法案」，為迎合人工智慧（AI）與產業利益，預計簡化多項科技相關法律，也準備犧牲他們...",
+    "scraped_at": "2025-11-11T03:41:23+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/121477/9130776"
+  },
+  {
     "title": "財經8點檔-AI泡沫隱藏金融炸彈 1110",
     "url": "https://taiwandaily.net/%E7%86%B1%E9%96%80%E5%BD%B1%E9%9F%B3/107717/",
     "source": "美洲台灣日報",
@@ -25,15 +178,6 @@
     "summary": "在全球科技界，所有目光幾乎都聚焦在AI 算力軍備競賽、晶片爭奪，以及模型託管權之戰。然而，在近期的邁阿密論壇上，亞馬遜(AMZN) 創辦人貝索斯卻給出了一個完全跳脫技術...",
     "scraped_at": "2025-11-11T03:14:53+08:00",
     "canonical_url": "https://hk.finance.yahoo.com/news/%E4%B8%8D%E8%AB%87%E7%AE%97%E5%8A%9B-%E4%B8%8D%E9%A0%90%E6%B8%AC%E6%9C%AA%E4%BE%86-%E8%B2%9D%E4%BD%90%E6%96%AF%E6%8F%AD%E7%A4%BAai%E5%89%B5%E6%A5%AD%E5%BF%85%E5%81%9A-%E4%B8%89%E4%BB%B6%E4%BA%8B-062147818.html"
-  },
-  {
-    "title": "為了AI 歐盟準備犧牲這項「神聖原則」 隱私不顧了",
-    "url": "https://www.worldjournal.com/wj/story/121477/9130776",
-    "source": "世界新聞網",
-    "published_at": "2025-11-11T03:14:40.292488+08:00",
-    "summary": "歐盟執委會本月稍晚將公布一項「數位綜合法案」，為迎合人工智慧（AI）與產業利益，預計簡化多項科技相關法律，也準備犧牲他們...",
-    "scraped_at": "2025-11-11T03:14:53+08:00",
-    "canonical_url": "https://www.worldjournal.com/wj/story/121477/9130776"
   },
   {
     "title": "How the world can build a global AI governance framework",
@@ -70,105 +214,6 @@
     "summary": "The leaders of the big three artificial-intelligence (AI) labs promise great things, and soon. Sam Altman, the boss of OpenAI, thinks next year computers...",
     "scraped_at": "2025-11-11T02:49:40+08:00",
     "canonical_url": "https://www.economist.com/science-and-technology/2025/11/10/a-new-project-aims-to-predict-how-quickly-ai-will-progress"
-  },
-  {
-    "title": "How Clario automates clinical research analysis using generative AI on AWS",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-clario-automates-clinical-research-analysis-using-generative-ai-on-aws/",
-    "source": "Amazon Web Services (AWS)",
-    "published_at": "2025-11-11T02:49:27.600223+08:00",
-    "summary": "by Alex Boudreau, Cuong Lai and Praveen Haranahalli on 10 NOV 2025 in Advanced (300), Amazon Bedrock, Amazon Elastic Kubernetes Service, Amazon Machine...",
-    "scraped_at": "2025-11-11T02:49:40+08:00",
-    "canonical_url": "https://aws.amazon.com/blogs/machine-learning/how-clario-automates-clinical-research-analysis-using-generative-ai-on-aws/"
-  },
-  {
-    "title": "“AI, Make Me A Degree Certificate”",
-    "url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/",
-    "source": "Hackaday",
-    "published_at": "2025-11-11T02:49:24.372409+08:00",
-    "summary": "One of the fun things about writing for Hackaday is that it takes you to the places where our community hang out. I was in a hackerspace in a university...",
-    "scraped_at": "2025-11-11T02:49:40+08:00",
-    "canonical_url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/"
-  },
-  {
-    "title": "OpenAI considers consumer health tools in push beyond core AI offerings, Business Insider reports",
-    "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/openai-considers-consumer-health-tools-push-beyond-core-ai-offerings-business-2025-11-10/",
-    "source": "Reuters",
-    "published_at": "2025-11-11T02:49:20.914353+08:00",
-    "summary": "OpenAI is weighing building consumer health products, including a generative AI-powered personal health assistant, as the ChatGPT maker aims to move beyond...",
-    "scraped_at": "2025-11-11T02:49:40+08:00",
-    "canonical_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/openai-considers-consumer-health-tools-push-beyond-core-ai-offerings-business-2025-11-10/"
-  },
-  {
-    "title": "Design Patterns and AI: Computer Science evolves at SOU",
-    "url": "https://news.sou.edu/2025/11/design-patterns-and-ai-computer-science-evolves-at-sou/",
-    "source": "SOU News",
-    "published_at": "2025-11-11T02:49:17.817537+08:00",
-    "summary": "A new “Design Patterns” course at SOU leans on artificial intelligence to perform coding tasks, allowing students to focus on the big picture.",
-    "scraped_at": "2025-11-11T02:49:40+08:00",
-    "canonical_url": "https://news.sou.edu/2025/11/design-patterns-and-ai-computer-science-evolves-at-sou/"
-  },
-  {
-    "title": "Clemson professor helps guide state and local governments on AI with National Academies report",
-    "url": "https://news.clemson.edu/clemson-professor-helps-guide-state-and-local-governments-on-ai-with-national-academies-report/",
-    "source": "Clemson News",
-    "published_at": "2025-11-11T02:49:14.455749+08:00",
-    "summary": "Nathan McNeese of Clemson University is playing a leading role in helping state and local governments across the country integrate artificial intelligence.",
-    "scraped_at": "2025-11-11T02:49:40+08:00",
-    "canonical_url": "https://news.clemson.edu/clemson-professor-helps-guide-state-and-local-governments-on-ai-with-national-academies-report/"
-  },
-  {
-    "title": "UT Doubles Size of One of World’s Most Powerful AI Computing Hubs",
-    "url": "https://news.utexas.edu/2025/11/10/ut-doubles-size-of-one-of-worlds-most-powerful-ai-computing-hubs/",
-    "source": "UT News",
-    "published_at": "2025-11-11T02:49:11.090166+08:00",
-    "summary": "AUSTIN, Texas — The Center for Generative AI at The University of Texas at Austin, already among the most powerful artificial intelligence hubs in the...",
-    "scraped_at": "2025-11-11T02:49:40+08:00",
-    "canonical_url": "https://news.utexas.edu/2025/11/10/ut-doubles-size-of-one-of-worlds-most-powerful-ai-computing-hubs/"
-  },
-  {
-    "title": "AI「軍備競賽」拖垮現金流 美銀建議做空科技巨頭債券而非股票",
-    "url": "https://news.futunn.com/hk/post/64677356/ai-arms-race-strains-cash-flow-bofa-suggests-shorting-tech",
-    "source": "富途牛牛",
-    "published_at": "2025-11-11T02:26:47.076308+08:00",
-    "summary": "美銀證券發表研報表示，投資者應考慮做空超大規模科技公司的債券，但暫勿大舉做空整體人工智能(AI)相關交易。",
-    "scraped_at": "2025-11-11T02:26:48+08:00",
-    "canonical_url": "https://news.futunn.com/hk/post/64677356/ai-arms-race-strains-cash-flow-bofa-suggests-shorting-tech"
-  },
-  {
-    "title": "艦載AI消防系統可自主精準撲滅油火",
-    "url": "https://www.chinesepress.com/2025/11/10/%E8%88%B0%E8%BD%BDai%E6%B6%88%E9%98%B2%E7%B3%BB%E7%BB%9F%E5%8F%AF%E8%87%AA%E4%B8%BB%E7%B2%BE%E5%87%86%E6%89%91%E7%81%AD%E6%B2%B9%E7%81%AB/",
-    "source": "華僑時報",
-    "published_at": "2025-11-11T02:26:38.938317+08:00",
-    "summary": "韓國機械與材料研究所科學家研發出全球首套可自主撲滅艦艇油火的消防系統，并已通過真實艦艇測試驗證。該系統能精準識别艦艇發動機艙、甲闆等區域因設備洩漏引發的油火，...",
-    "scraped_at": "2025-11-11T02:26:48+08:00",
-    "canonical_url": "https://www.chinesepress.com/2025/11/10/%E8%88%B0%E8%BD%BDai%E6%B6%88%E9%98%B2%E7%B3%BB%E7%BB%9F%E5%8F%AF%E8%87%AA%E4%B8%BB%E7%B2%BE%E5%87%86%E6%89%91%E7%81%AD%E6%B2%B9%E7%81%AB/"
-  },
-  {
-    "title": "AI 加密沙皇：OpenAI 被誤為 AI 泡沫開端，科技股下跌是自然修正",
-    "url": "https://abmedia.io/ai-crypto-czar-openai-aibubble",
-    "source": "鏈新聞 ABMedia",
-    "published_at": "2025-11-11T02:26:35.689708+08:00",
-    "summary": "AI 加密沙皇David Sacks 於11/8 在最新一集《All-In Podcast》中表示，外界誤將OpenAI 的發言解讀為「需要政府救助」，甚至視為AI 泡沫破裂的導火線，進而引發科技股全線...",
-    "scraped_at": "2025-11-11T02:26:48+08:00",
-    "canonical_url": "https://abmedia.io/ai-crypto-czar-openai-aibubble"
-  },
-  {
-    "title": "通訊與AI的結合-從Nvidia 投資Nokia 談起",
-    "url": "https://voicettank.org/20251110-2/",
-    "source": "思想坦克｜Voicettank",
-    "published_at": "2025-11-11T02:26:32.570884+08:00",
-    "summary": "今年10月輝達（Nvidia）宣布對諾基亞（Nokia）投資10億美元，消息一出在科技業、電信圈引起廣泛討論。大家關心的是為什麼AI及運算設備商的輝達要投資電信設備商諾基亞？",
-    "scraped_at": "2025-11-11T02:26:48+08:00",
-    "canonical_url": "https://voicettank.org/20251110-2/"
-  },
-  {
-    "title": "Digits Automates the Monthly Close with AI Bank Reconciliations",
-    "url": "https://finance.yahoo.com/news/digits-automates-monthly-close-ai-150000037.html",
-    "source": "Yahoo Finance",
-    "published_at": "2025-11-11T02:26:25.051393+08:00",
-    "summary": "Digits Digits Automates the Monthly Close with AI Bank Reconciliations SAN FRANCISCO, Nov. 10, 2025 (GLOBE NEWSWIRE) -- Digits, the world's first Agentic...",
-    "scraped_at": "2025-11-11T02:26:48+08:00",
-    "canonical_url": "https://finance.yahoo.com/news/digits-automates-monthly-close-ai-150000037.html"
   },
   {
     "title": "Legal aid leads on AI: How Lone Star Legal Aid built Juris to deliver faster, fairer results",
