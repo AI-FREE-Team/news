@@ -3,37 +3,91 @@
     "title": "Design Patterns and AI: Computer Science evolves at SOU",
     "url": "https://news.sou.edu/2025/11/design-patterns-and-ai-computer-science-evolves-at-sou/",
     "source": "SOU News",
-    "published_at": "2025-11-11T05:17:24.253117+08:00",
+    "published_at": "2025-11-11T05:39:44.125603+08:00",
     "summary": "A new “Design Patterns” course at SOU leans on artificial intelligence to perform coding tasks, allowing students to focus on the big picture.",
-    "scraped_at": "2025-11-11T05:17:24+08:00",
+    "scraped_at": "2025-11-11T05:39:44+08:00",
     "canonical_url": "https://news.sou.edu/2025/11/design-patterns-and-ai-computer-science-evolves-at-sou/"
   },
   {
     "title": "Unlocking Supply Chain Efficiency with AI: A Private Equity Perspective",
     "url": "https://www.claconnect.com/en/resources/blogs/private-equity/unlocking-supply-chain-efficiency-with-ai-a-private-equity-perspective",
     "source": "CLA (CliftonLarsonAllen)",
-    "published_at": "2025-11-11T05:17:20.757560+08:00",
+    "published_at": "2025-11-11T05:39:40.597125+08:00",
     "summary": "For private equity firms, AI is rapidly emerging as a key tactic in improving supply chains across portfolio companies.",
-    "scraped_at": "2025-11-11T05:17:24+08:00",
+    "scraped_at": "2025-11-11T05:39:44+08:00",
     "canonical_url": "https://www.claconnect.com/en/resources/blogs/private-equity/unlocking-supply-chain-efficiency-with-ai-a-private-equity-perspective"
+  },
+  {
+    "title": "Investing in AI: The View From One Big Investor",
+    "url": "https://www.wsj.com/tech/ai/alphabet-capitalg-ai-investment-c6bc11f2?gaa_at=eafs&gaa_n=AWEtsqdwAJ19uSEniYKHjCy6axiIUSR00C3IyUMi31Bem7SrJlH4uA7kj1vX&gaa_ts=69125f02&gaa_sig=Hv58u-MZMrPwy-2ya-7UA2Koq6HBUY3nS1v8zu0fNMtm8KZljYbkdvMXG13QDc9BwfJnLaq7lojnsJ9ipiX0ug%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-11T05:39:37.408352+08:00",
+    "summary": "CapitalG's Laela Sturdy on where she's putting her money, and why investing in AI startups requires a 'strong stomach'",
+    "scraped_at": "2025-11-11T05:39:44+08:00",
+    "canonical_url": "https://www.wsj.com/tech/ai/alphabet-capitalg-ai-investment-c6bc11f2"
   },
   {
     "title": "USC Price professor launches initiative to teach AI",
     "url": "https://priceschool.usc.edu/news/usc-ai-knowledge-hub-education-jobs/",
     "source": "USC Price School",
-    "published_at": "2025-11-11T05:17:17.472571+08:00",
+    "published_at": "2025-11-11T05:39:34.204063+08:00",
     "summary": "Professor Glenn Melnick says getting up to speed with AI is imperative for faculty and students.",
-    "scraped_at": "2025-11-11T05:17:24+08:00",
+    "scraped_at": "2025-11-11T05:39:44+08:00",
     "canonical_url": "https://priceschool.usc.edu/news/usc-ai-knowledge-hub-education-jobs/"
   },
   {
     "title": "AI Data Security",
     "url": "https://www.cpajournal.com/2025/11/10/ai-data-security/",
     "source": "The CPA Journal",
-    "published_at": "2025-11-11T05:17:14.180167+08:00",
+    "published_at": "2025-11-11T05:39:30.891178+08:00",
     "summary": "Risk management executives can no longer treat artificial intelligence (AI) as a passing fad. According to a report from Microsoft and IDC “The Business.",
-    "scraped_at": "2025-11-11T05:17:24+08:00",
+    "scraped_at": "2025-11-11T05:39:44+08:00",
     "canonical_url": "https://www.cpajournal.com/2025/11/10/ai-data-security/"
+  },
+  {
+    "title": "The Story Behind the TIME AI Agent",
+    "url": "https://time.com/7332572/the-story-behind-the-time-ai-agent/",
+    "source": "Time Magazine",
+    "published_at": "2025-11-11T05:39:27.217710+08:00",
+    "summary": "Introducing the TIME AI Agent, a unified, AI-powered platform built on a foundation of trusted reporting and advanced generative technology.",
+    "scraped_at": "2025-11-11T05:39:44+08:00",
+    "canonical_url": "https://time.com/7332572/the-story-behind-the-time-ai-agent/"
+  },
+  {
+    "title": "“AI, Make Me A Degree Certificate”",
+    "url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/",
+    "source": "Hackaday",
+    "published_at": "2025-11-11T05:39:24.126037+08:00",
+    "summary": "One of the fun things about writing for Hackaday is that it takes you to the places where our community hang out. I was in a hackerspace in a university...",
+    "scraped_at": "2025-11-11T05:39:44+08:00",
+    "canonical_url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/"
+  },
+  {
+    "title": "Why data centers are important for AI | The TechTank Podcast",
+    "url": "https://www.brookings.edu/articles/why-data-centers-are-important-for-ai-the-techtank-podcast/",
+    "source": "Brookings",
+    "published_at": "2025-11-11T05:39:20.678244+08:00",
+    "summary": "On this episode of TechTank, co-hosts Darrell West and Nicol Turner Lee discuss their new paper on data centers, their importance for AI, and their energy...",
+    "scraped_at": "2025-11-11T05:39:44+08:00",
+    "canonical_url": "https://www.brookings.edu/articles/why-data-centers-are-important-for-ai-the-techtank-podcast/"
+  },
+  {
+    "title": "Why AI still struggles to tell fact from belief",
+    "url": "https://news.stanford.edu/stories/2025/11/ai-language-models-facts-belief-human-understanding-research",
+    "source": "Stanford Report",
+    "published_at": "2025-11-11T05:39:17.501069+08:00",
+    "summary": "Artificial intelligence systems are increasingly being used in high-stakes domains such as medicine, law, journalism, and education.",
+    "scraped_at": "2025-11-11T05:39:44+08:00",
+    "canonical_url": "https://news.stanford.edu/stories/2025/11/ai-language-models-facts-belief-human-understanding-research"
+  },
+  {
+    "title": "Exclusive: C3 AI weighs sale after founder-CEO Siebel steps aside, sources say",
+    "url": "https://www.reuters.com/world/c3-ai-weighs-sale-after-founder-ceo-siebel-steps-aside-sources-say-2025-11-10/",
+    "source": "Reuters",
+    "published_at": "2025-11-11T05:39:13.644695+08:00",
+    "summary": "Enterprise artificial intelligence software provider C3 AI is exploring a potential sale, among other options, after founder Thomas Siebel recently stepped...",
+    "scraped_at": "2025-11-11T05:39:44+08:00",
+    "canonical_url": "https://www.reuters.com/world/c3-ai-weighs-sale-after-founder-ceo-siebel-steps-aside-sources-say-2025-11-10/"
   },
   {
     "title": "California Implements New Laws Regulating AI and Social Media for Children",
@@ -43,15 +97,6 @@
     "summary": "California has become the latest state to enact comprehensive artificial intelligence safety legislation aimed at protecting children online.",
     "scraped_at": "2025-11-11T05:17:24+08:00",
     "canonical_url": "https://marketbrief.edweek.org/regulation-policy/california-implements-new-laws-regulating-ai-and-social-media-for-children/2025/11"
-  },
-  {
-    "title": "“AI, Make Me A Degree Certificate”",
-    "url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/",
-    "source": "Hackaday",
-    "published_at": "2025-11-11T05:17:07.339666+08:00",
-    "summary": "One of the fun things about writing for Hackaday is that it takes you to the places where our community hang out. I was in a hackerspace in a university...",
-    "scraped_at": "2025-11-11T05:17:24+08:00",
-    "canonical_url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/"
   },
   {
     "title": "AI bubble about to pop as returns on investment fall short?",
@@ -70,24 +115,6 @@
     "summary": "Todd Janzen is a managing partner with Janzen Schroeder Ag Law. “It takes a lot of data to train these AI tools,” he says. “Companies need to make sure that...",
     "scraped_at": "2025-11-11T05:17:24+08:00",
     "canonical_url": "https://www.brownfieldagnews.com/news/ai-innovation-creating-additional-privacy-concerns-in-agriculture/"
-  },
-  {
-    "title": "Why data centers are important for AI | The TechTank Podcast",
-    "url": "https://www.brookings.edu/articles/why-data-centers-are-important-for-ai-the-techtank-podcast/",
-    "source": "Brookings",
-    "published_at": "2025-11-11T05:16:56.664053+08:00",
-    "summary": "On this episode of TechTank, co-hosts Darrell West and Nicol Turner Lee discuss their new paper on data centers, their importance for AI, and their energy...",
-    "scraped_at": "2025-11-11T05:17:24+08:00",
-    "canonical_url": "https://www.brookings.edu/articles/why-data-centers-are-important-for-ai-the-techtank-podcast/"
-  },
-  {
-    "title": "Exclusive: C3 AI weighs sale after founder-CEO Siebel steps aside, sources say",
-    "url": "https://www.reuters.com/world/c3-ai-weighs-sale-after-founder-ceo-siebel-steps-aside-sources-say-2025-11-10/",
-    "source": "Reuters",
-    "published_at": "2025-11-11T05:16:53.419048+08:00",
-    "summary": "Enterprise artificial intelligence software provider C3 AI is exploring a potential sale, among other options, after founder Thomas Siebel recently stepped...",
-    "scraped_at": "2025-11-11T05:17:24+08:00",
-    "canonical_url": "https://www.reuters.com/world/c3-ai-weighs-sale-after-founder-ceo-siebel-steps-aside-sources-say-2025-11-10/"
   },
   {
     "title": "The health AI Bubble",
@@ -115,15 +142,6 @@
     "summary": "Nathan McNeese of Clemson University is playing a leading role in helping state and local governments across the country integrate artificial intelligence.",
     "scraped_at": "2025-11-11T04:44:36+08:00",
     "canonical_url": "https://news.clemson.edu/clemson-professor-helps-guide-state-and-local-governments-on-ai-with-national-academies-report/"
-  },
-  {
-    "title": "The Story Behind the TIME AI Agent",
-    "url": "https://time.com/7332572/the-story-behind-the-time-ai-agent/",
-    "source": "Time Magazine",
-    "published_at": "2025-11-11T04:44:22.854121+08:00",
-    "summary": "Introducing the TIME AI Agent, a unified, AI-powered platform built on a foundation of trusted reporting and advanced generative technology.",
-    "scraped_at": "2025-11-11T04:44:36+08:00",
-    "canonical_url": "https://time.com/7332572/the-story-behind-the-time-ai-agent/"
   },
   {
     "title": "UT Doubles Size of One of World’s Most Powerful AI Computing Hubs",
