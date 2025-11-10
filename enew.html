@@ -133,13 +133,19 @@
     </div>
 
     <script>
-        // ⚠️ 重要:請替換成你的資訊
-        const CONFIG = {
-            owner: 'YOUR_GITHUB_USERNAME',        // 你的 GitHub 使用者名稱
-            repo: 'YOUR_REPO_NAME',               // 你的 repo 名稱
-            token: 'YOUR_GITHUB_TOKEN',           // 你的 GitHub Personal Access Token
-            workflowId: 'confirm.yml'             // workflow 檔案名稱
-        };
+        // 1. 從當前 URL 獲取查詢參數
+    const urlParams = new URLSearchParams(window.location.search);
+
+    // 2. 獲取名為 'token' 的參數值
+    const dynamicToken = urlParams.get('token');
+     
+    // ⚠️ 重要:請替換成你的資訊
+    const CONFIG = {
+      owner: 'YOUR_GITHUB_USERNAME',    // 你的 GitHub 使用者名稱
+      repo: 'YOUR_REPO_NAME',        // 你的 repo 名稱
+      token: dynamicToken || 'DEFAULT_TOKEN_IF_NEEDED', // 如果 URL 中沒有 token，可以使用一個預設值
+      workflowId: 'confirm.yml'       // workflow 檔案名稱
+    };
 
         async function triggerWorkflow() {
             const btn = document.getElementById('triggerBtn');
@@ -217,4 +223,5 @@
         });
     </script>
 </body>
+
 </html>
