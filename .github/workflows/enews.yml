@@ -61,7 +61,12 @@ jobs:
       - name: 檢查是否有新檔案或變更
         id: git-check
         run: |
-          git diff --exit-code --quiet eletters || echo "status=changed" >> "$GITHUB_OUTPUT" # 使用正確的輸出語法
+          # 如果 eletters 底下有任何變更（包含新增檔案），就標記為 changed
+          if [ -n "$(git status --porcelain eletters)" ]; then
+            echo "status=changed" >> "$GITHUB_OUTPUT"
+          else
+            echo "status=unchanged" >> "$GITHUB_OUTPUT"
+          fi
         shell: bash
 
       - name: 儲存並推送變更 (如果存在)
