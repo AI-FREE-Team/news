@@ -1,0 +1,49 @@
+name: 每日早上自動任務
+
+on:
+  schedule:
+    - cron: '0 0 * * *'    # UTC 00:00 = 台灣時間早上 8:00
+  workflow_dispatch:
+
+jobs:
+  morning-job:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 執行你的早上任務
+        run: |
+          echo "正在執行早上 8 點任務..."
+          # 放你真正的程式碼，例如抓資料、產生報表等
+          sleep 2
+
+      - name: 發送「早上報表 + 一鍵重跑連結」給 user
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.GMAIL_ADDRESS }}
+          password: ${{ secrets.GMAIL_APP_PASSWORD }}
+          subject: "【每日早報】已自動產生（點按鈕可立即重新整理）"
+          to: ai.free.team@gmail.com
+          from: 每日小幫手 <${{ secrets.GMAIL_ADDRESS }}>
+          html_body: |
+            <div style="font-family: Arial, sans-serif; max-width: 600px; margin: auto; padding: 20px; border: 1px solid #eee; border-radius: 12px;">
+              <h2 style="color: #238636;">早安！您的每日報表已準備好</h2>
+              <p>執行時間：$(date '+%Y-%m-%d %H:%M:%S') (台灣時間)</p>
+              <p>狀態：<span style="color: #238636; font-weight: bold;">成功</span></p>
+              
+              <hr>
+              <p style="font-size: 16px;">資料有誤？想立刻重新整理？</p>
+              
+              <div style="text-align: center; margin: 30px 0;">
+                <a href="https://github.com/${{ github.repository }}/actions/workflows/manual-rerun.yml/dispatch?ref=${{ github.ref_name }}"
+                   style="background: #ff6b35; color: white; padding: 16px 32px; text-decoration: none; font-size: 18px; font-weight: bold; border-radius: 50px; box-shadow: 0 4px 15px rgba(255,107,53,0.4);">
+                   立即重新整理資料
+                </a>
+              </div>
+              
+              <p style="text-align: center; color: #666; font-size: 12px;">
+                點擊後約 10 秒內會再收到「成功!!」通知信
+              </p>
+            </div>
