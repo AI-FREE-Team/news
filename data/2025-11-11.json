@@ -1,5 +1,95 @@
 [
   {
+    "title": "Differing Rules on AI Use Confuse Texas College Students, Staff",
+    "url": "https://www.govtech.com/education/higher-ed/differing-rules-on-ai-use-confuse-texas-college-students-staff",
+    "source": "GovTech",
+    "published_at": "2025-11-11T06:42:15.196084+08:00",
+    "summary": "Colleges and universities are addressing AI use with a patchwork of policies, with many professors setting their own rules, leaving both students and...",
+    "scraped_at": "2025-11-11T06:42:15+08:00",
+    "canonical_url": "https://www.govtech.com/education/higher-ed/differing-rules-on-ai-use-confuse-texas-college-students-staff"
+  },
+  {
+    "title": "New Jersey’s ‘innovation report’ shows expanded use of AI across agencies",
+    "url": "https://statescoop.com/new-jerseys-innovation-report-shows-expanded-use-of-ai-across-agencies/",
+    "source": "StateScoop",
+    "published_at": "2025-11-11T06:42:11.983139+08:00",
+    "summary": "New Jersey's 2025 Innovation Impact Report showcases a growing interest in using AI tools to improve the state government's processes.",
+    "scraped_at": "2025-11-11T06:42:15+08:00",
+    "canonical_url": "https://statescoop.com/new-jerseys-innovation-report-shows-expanded-use-of-ai-across-agencies/"
+  },
+  {
+    "title": "AHA leadership to discuss AI, public-private partnerships and more during 48th World Hospital Congress in Switzerland",
+    "url": "https://www.aha.org/news/headline/2025-11-10-aha-leadership-discuss-ai-public-private-partnerships-and-more-during-48th-world-hospital-congress",
+    "source": "American Hospital Association",
+    "published_at": "2025-11-11T06:42:08.369718+08:00",
+    "summary": "AHA leaders tomorrow will participate in a series of panels during the International Hospital Federation's 48th annual World Hospital Congress in Geneva.",
+    "scraped_at": "2025-11-11T06:42:15+08:00",
+    "canonical_url": "https://www.aha.org/news/headline/2025-11-10-aha-leadership-discuss-ai-public-private-partnerships-and-more-during-48th-world-hospital-congress"
+  },
+  {
+    "title": "Opinion: Pharmacists Are Critical to Ensure Safe, Ethical Integration of AI in Health Care",
+    "url": "https://www.pharmacytimes.com/view/opinion-pharmacists-are-critical-to-ensure-safe-ethical-integration-of-ai-in-health-care",
+    "source": "Pharmacy Times",
+    "published_at": "2025-11-11T06:42:05.173157+08:00",
+    "summary": "Pharmacists' expertise is vital to AI's safe integration into medication management. A growing array of resources and training support pharmacists'...",
+    "scraped_at": "2025-11-11T06:42:15+08:00",
+    "canonical_url": "https://www.pharmacytimes.com/view/opinion-pharmacists-are-critical-to-ensure-safe-ethical-integration-of-ai-in-health-care"
+  },
+  {
+    "title": "Why data centers are important for AI | The TechTank Podcast",
+    "url": "https://www.brookings.edu/articles/why-data-centers-are-important-for-ai-the-techtank-podcast/",
+    "source": "Brookings",
+    "published_at": "2025-11-11T06:42:01.927488+08:00",
+    "summary": "On this episode of TechTank, co-hosts Darrell West and Nicol Turner Lee discuss their new paper on data centers, their importance for AI, and their energy...",
+    "scraped_at": "2025-11-11T06:42:15+08:00",
+    "canonical_url": "https://www.brookings.edu/articles/why-data-centers-are-important-for-ai-the-techtank-podcast/"
+  },
+  {
+    "title": "Gamma, a PowerPoint for the A.I. Era, Raises $68 Million",
+    "url": "https://www.nytimes.com/2025/11/10/business/dealbook/gamma-ai-fundraise.html",
+    "source": "The New York Times",
+    "published_at": "2025-11-11T06:41:58.756284+08:00",
+    "summary": "As an investment banker and consultant, Grant Lee spent years toiling on PowerPoint presentations. They are “the language of business,” he said,...",
+    "scraped_at": "2025-11-11T06:42:15+08:00",
+    "canonical_url": "https://www.nytimes.com/2025/11/10/business/dealbook/gamma-ai-fundraise.html"
+  },
+  {
+    "title": "Why AI still struggles to tell fact from belief",
+    "url": "https://news.stanford.edu/stories/2025/11/ai-language-models-facts-belief-human-understanding-research",
+    "source": "Stanford Report",
+    "published_at": "2025-11-11T06:41:55.693836+08:00",
+    "summary": "Artificial intelligence systems are increasingly being used in high-stakes domains such as medicine, law, journalism, and education.",
+    "scraped_at": "2025-11-11T06:42:15+08:00",
+    "canonical_url": "https://news.stanford.edu/stories/2025/11/ai-language-models-facts-belief-human-understanding-research"
+  },
+  {
+    "title": "UVA Darden Goes ‘All-In’ on Use of Generative AI in Core Strategy Course",
+    "url": "https://news.darden.virginia.edu/2025/11/10/uva-darden-goes-all-in-on-use-of-generative-ai-in-core-strategy-course/",
+    "source": "Darden Report Online",
+    "published_at": "2025-11-11T06:41:52.090508+08:00",
+    "summary": "November 10, 2025 Darden School of Business MBA students received guidance on the first day of the core Strategy course this quarter that probably sounded...",
+    "scraped_at": "2025-11-11T06:42:15+08:00",
+    "canonical_url": "https://news.darden.virginia.edu/2025/11/10/uva-darden-goes-all-in-on-use-of-generative-ai-in-core-strategy-course/"
+  },
+  {
+    "title": "Exclusive: C3 AI weighs sale after founder-CEO Siebel steps aside, sources say",
+    "url": "https://www.reuters.com/world/c3-ai-weighs-sale-after-founder-ceo-siebel-steps-aside-sources-say-2025-11-10/",
+    "source": "Reuters",
+    "published_at": "2025-11-11T06:41:48.737055+08:00",
+    "summary": "Enterprise artificial intelligence software provider C3 AI is exploring a potential sale, among other options, after founder Thomas Siebel recently stepped...",
+    "scraped_at": "2025-11-11T06:42:15+08:00",
+    "canonical_url": "https://www.reuters.com/world/c3-ai-weighs-sale-after-founder-ceo-siebel-steps-aside-sources-say-2025-11-10/"
+  },
+  {
+    "title": "How one high schooler’s ambition led to an AI tool to restore ancient art",
+    "url": "https://news.northeastern.edu/2025/11/10/ai-research-restores-ancient-art/",
+    "source": "Northeastern Global News",
+    "published_at": "2025-11-11T06:41:45.645035+08:00",
+    "summary": "Working in Zheng Zheng's Data Science and Artificial Intelligence lab at Northeastern, 11th grader Qianhao Han proposed an AI tool to help restore ancient...",
+    "scraped_at": "2025-11-11T06:42:15+08:00",
+    "canonical_url": "https://news.northeastern.edu/2025/11/10/ai-research-restores-ancient-art/"
+  },
+  {
     "title": "AI那麼賺還要拼命借錢？ 華爾街最準分析師警告熱潮背後潛藏沉重債務壓力甲骨文CDS狂飆代表AI泡沫被刺破表層｜鏡轉全球｜#鏡新聞",
     "url": "https://tw.news.yahoo.com/ai%E9%82%A3%E9%BA%BC%E8%B3%BA%E9%82%84%E8%A6%81%E6%8B%BC%E5%91%BD%E5%80%9F%E9%8C%A2-%E8%8F%AF%E7%88%BE%E8%A1%97%E6%9C%80%E6%BA%96%E5%88%86%E6%9E%90%E5%B8%AB%E8%AD%A6%E5%91%8A%E7%86%B1%E6%BD%AE%E8%83%8C%E5%BE%8C%E6%BD%9B%E8%97%8F%E6%B2%89%E9%87%8D%E5%82%B5%E5%8B%99%E5%A3%93%E5%8A%9B-%E7%94%B2%E9%AA%A8%E6%96%87cds%E7%8B%82%E9%A3%86-%E4%BB%A3%E8%A1%A8ai%E6%B3%A1%E6%B2%AB%E8%A2%AB%E5%88%BA%E7%A0%B4%E8%A1%A8%E5%B1%A4-%E9%8F%A1%E8%BD%89%E5%85%A8%E7%90%83-140345517.html",
     "source": "奇摩新聞",
@@ -151,33 +241,6 @@
     "summary": "One of the fun things about writing for Hackaday is that it takes you to the places where our community hang out. I was in a hackerspace in a university...",
     "scraped_at": "2025-11-11T05:39:44+08:00",
     "canonical_url": "https://hackaday.com/2025/11/10/ai-make-me-a-degree-certificate/"
-  },
-  {
-    "title": "Why data centers are important for AI | The TechTank Podcast",
-    "url": "https://www.brookings.edu/articles/why-data-centers-are-important-for-ai-the-techtank-podcast/",
-    "source": "Brookings",
-    "published_at": "2025-11-11T05:39:20.678244+08:00",
-    "summary": "On this episode of TechTank, co-hosts Darrell West and Nicol Turner Lee discuss their new paper on data centers, their importance for AI, and their energy...",
-    "scraped_at": "2025-11-11T05:39:44+08:00",
-    "canonical_url": "https://www.brookings.edu/articles/why-data-centers-are-important-for-ai-the-techtank-podcast/"
-  },
-  {
-    "title": "Why AI still struggles to tell fact from belief",
-    "url": "https://news.stanford.edu/stories/2025/11/ai-language-models-facts-belief-human-understanding-research",
-    "source": "Stanford Report",
-    "published_at": "2025-11-11T05:39:17.501069+08:00",
-    "summary": "Artificial intelligence systems are increasingly being used in high-stakes domains such as medicine, law, journalism, and education.",
-    "scraped_at": "2025-11-11T05:39:44+08:00",
-    "canonical_url": "https://news.stanford.edu/stories/2025/11/ai-language-models-facts-belief-human-understanding-research"
-  },
-  {
-    "title": "Exclusive: C3 AI weighs sale after founder-CEO Siebel steps aside, sources say",
-    "url": "https://www.reuters.com/world/c3-ai-weighs-sale-after-founder-ceo-siebel-steps-aside-sources-say-2025-11-10/",
-    "source": "Reuters",
-    "published_at": "2025-11-11T05:39:13.644695+08:00",
-    "summary": "Enterprise artificial intelligence software provider C3 AI is exploring a potential sale, among other options, after founder Thomas Siebel recently stepped...",
-    "scraped_at": "2025-11-11T05:39:44+08:00",
-    "canonical_url": "https://www.reuters.com/world/c3-ai-weighs-sale-after-founder-ceo-siebel-steps-aside-sources-say-2025-11-10/"
   },
   {
     "title": "California Implements New Laws Regulating AI and Social Media for Children",
@@ -376,15 +439,6 @@
     "summary": "Lone Star Legal Aid built Juris, an AI-enabled tool, to centralize trusted knowledge and share a replicable model to serve more clients.",
     "scraped_at": "2025-11-11T01:39:07+08:00",
     "canonical_url": "https://www.thomsonreuters.com/en-us/posts/ai-in-courts/legal-aid-ai-lone-star-juris/"
-  },
-  {
-    "title": "New Jersey’s ‘innovation report’ shows expanded use of AI across agencies",
-    "url": "https://statescoop.com/new-jerseys-innovation-report-shows-expanded-use-of-ai-across-agencies/",
-    "source": "StateScoop",
-    "published_at": "2025-11-11T01:39:00.201525+08:00",
-    "summary": "New Jersey's 2025 Innovation Impact Report showcases a growing interest in using AI tools to improve the state government's processes.",
-    "scraped_at": "2025-11-11T01:39:07+08:00",
-    "canonical_url": "https://statescoop.com/new-jerseys-innovation-report-shows-expanded-use-of-ai-across-agencies/"
   },
   {
     "title": "Are AI Chatbots Changing How We Shop?",
