@@ -1,5 +1,95 @@
 [
   {
+    "title": "Why data centers are important for AI | The TechTank Podcast",
+    "url": "https://www.brookings.edu/articles/why-data-centers-are-important-for-ai-the-techtank-podcast/",
+    "source": "Brookings",
+    "published_at": "2025-11-11T13:42:41.194536+08:00",
+    "summary": "On this episode of TechTank, co-hosts Darrell West and Nicol Turner Lee discuss their new paper on data centers, their importance for AI, and their energy...",
+    "scraped_at": "2025-11-11T13:42:41+08:00",
+    "canonical_url": "https://www.brookings.edu/articles/why-data-centers-are-important-for-ai-the-techtank-podcast/"
+  },
+  {
+    "title": "AHA leadership to discuss AI, public-private partnerships and more during 48th World Hospital Congress in Switzerland",
+    "url": "https://www.aha.org/news/headline/2025-11-10-aha-leadership-discuss-ai-public-private-partnerships-and-more-during-48th-world-hospital-congress",
+    "source": "American Hospital Association",
+    "published_at": "2025-11-11T13:42:37.916655+08:00",
+    "summary": "AHA leaders tomorrow will participate in a series of panels during the International Hospital Federation's 48th annual World Hospital Congress in Geneva.",
+    "scraped_at": "2025-11-11T13:42:41+08:00",
+    "canonical_url": "https://www.aha.org/news/headline/2025-11-10-aha-leadership-discuss-ai-public-private-partnerships-and-more-during-48th-world-hospital-congress"
+  },
+  {
+    "title": "Inside the unofficial movement to save the em dash — from A.I.",
+    "url": "https://www.npr.org/2025/11/10/nx-s1-5596088/inside-the-unofficial-movement-to-save-the-em-dash-from-a-i",
+    "source": "NPR",
+    "published_at": "2025-11-11T13:42:34.562072+08:00",
+    "summary": "The extra-long hyphen known as the em dash is common in AI-generated text. While some writers have responded by choosing to avoid the punctuation mark,...",
+    "scraped_at": "2025-11-11T13:42:41+08:00",
+    "canonical_url": "https://www.npr.org/2025/11/10/nx-s1-5596088/inside-the-unofficial-movement-to-save-the-em-dash-from-a-i"
+  },
+  {
+    "title": "Intel CEO to oversee its AI efforts after executive departs for OpenAI",
+    "url": "https://www.reuters.com/business/intel-ceo-oversee-companys-ai-efforts-after-departure-exec-openai-2025-11-10/",
+    "source": "Reuters",
+    "published_at": "2025-11-11T13:42:31.203643+08:00",
+    "summary": "Intel said on Monday its CEO Lip-Bu Tan would oversee the chipmaker's artificial intelligence efforts after the firm's chief technology officer departed for...",
+    "scraped_at": "2025-11-11T13:42:41+08:00",
+    "canonical_url": "https://www.reuters.com/business/intel-ceo-oversee-companys-ai-efforts-after-departure-exec-openai-2025-11-10/"
+  },
+  {
+    "title": "Charleston County schools working on developing AI strategy for classrooms",
+    "url": "https://www.live5news.com/2025/11/11/charleston-county-schools-working-developing-ai-strategy-classrooms/",
+    "source": "Live 5 News",
+    "published_at": "2025-11-11T13:42:27.954791+08:00",
+    "summary": "The Charleston County School District discussed the development of an artificial intelligence strategy and policy for its students and teachers at a meeting...",
+    "scraped_at": "2025-11-11T13:42:41+08:00",
+    "canonical_url": "https://www.live5news.com/2025/11/11/charleston-county-schools-working-developing-ai-strategy-classrooms/"
+  },
+  {
+    "title": "How one high schooler’s ambition led to an AI tool to restore ancient art",
+    "url": "https://news.northeastern.edu/2025/11/10/ai-research-restores-ancient-art/",
+    "source": "Northeastern Global News",
+    "published_at": "2025-11-11T13:42:24.613560+08:00",
+    "summary": "Working in Zheng Zheng's Data Science and Artificial Intelligence lab at Northeastern, 11th grader Qianhao Han proposed an AI tool to help restore ancient...",
+    "scraped_at": "2025-11-11T13:42:41+08:00",
+    "canonical_url": "https://news.northeastern.edu/2025/11/10/ai-research-restores-ancient-art/"
+  },
+  {
+    "title": "UVA Darden Goes ‘All-In’ on Use of Generative AI in Core Strategy Course",
+    "url": "https://news.darden.virginia.edu/2025/11/10/uva-darden-goes-all-in-on-use-of-generative-ai-in-core-strategy-course/",
+    "source": "Darden Report Online",
+    "published_at": "2025-11-11T13:42:21.417071+08:00",
+    "summary": "November 10, 2025 Darden School of Business MBA students received guidance on the first day of the core Strategy course this quarter that probably sounded...",
+    "scraped_at": "2025-11-11T13:42:41+08:00",
+    "canonical_url": "https://news.darden.virginia.edu/2025/11/10/uva-darden-goes-all-in-on-use-of-generative-ai-in-core-strategy-course/"
+  },
+  {
+    "title": "Kennedy: 10 things AI will never experience",
+    "url": "https://www.timesfreepress.com/news/2025/nov/10/kennedy-10-things-ai-will-never-experience/",
+    "source": "Chattanooga Times Free Press",
+    "published_at": "2025-11-11T13:42:17.865783+08:00",
+    "summary": "Given the choice between artificial intelligence and authentic intelligence, I'll take authentic -- the occasionally brilliant but often flawed information...",
+    "scraped_at": "2025-11-11T13:42:41+08:00",
+    "canonical_url": "https://www.timesfreepress.com/news/2025/nov/10/kennedy-10-things-ai-will-never-experience/"
+  },
+  {
+    "title": "The AI Cold War That Will Redefine Everything",
+    "url": "https://www.wsj.com/tech/ai/the-ai-cold-war-that-will-redefine-everything-4e1810b2?gaa_at=eafs&gaa_n=AWEtsqe2vxfICOpSw4o_dX-fhxqMH7C9-3okOjoUZOfz1kb8Sm4H_uXgyJjz&gaa_ts=6912d033&gaa_sig=Gp9NjzVSnjHDyCkC7dUp7VpZIOqsn9LfRKtAliBY5E0L-3P0PJ4gZa3WrOV00F8bqy66DTpDlgGW37CdZ1huJg%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-11T13:42:14.271949+08:00",
+    "summary": "America holds a sizable lead, but China is working to tip the scales with a sweeping countrywide push, betting 'swarms beat the titan'",
+    "scraped_at": "2025-11-11T13:42:41+08:00",
+    "canonical_url": "https://www.wsj.com/tech/ai/the-ai-cold-war-that-will-redefine-everything-4e1810b2"
+  },
+  {
+    "title": "Understanding global AI diffusion",
+    "url": "https://blogs.microsoft.com/on-the-issues/2025/11/10/understanding-global-ai-diffusion/",
+    "source": "The Official Microsoft Blog",
+    "published_at": "2025-11-11T13:42:11.061544+08:00",
+    "summary": "Artificial intelligence is transforming the way we work, learn, and innovate—and it's doing so at a pace that surpasses every major technology before it.",
+    "scraped_at": "2025-11-11T13:42:41+08:00",
+    "canonical_url": "https://blogs.microsoft.com/on-the-issues/2025/11/10/understanding-global-ai-diffusion/"
+  },
+  {
     "title": "財務惡化、創始人下臺，「AI妖股」C3.ai考慮出售",
     "url": "https://news.futunn.com/hk/post/64699138/deteriorating-finances-and-the-founder-s-departure-prompt-ai-hype",
     "source": "富途牛牛",
@@ -90,42 +180,6 @@
     "canonical_url": "https://www.globenewswire.com/news-release/2025/11/11/3185168/0/zh-hant/Datavault-AI-%E8%90%BD%E5%AF%A6%E7%B0%BD%E8%A8%82%E8%B2%BB%E5%9F%8E%E7%B8%BD%E9%83%A8%E7%A7%9F%E7%B4%84-%E5%8A%A0%E5%BC%B7%E6%8B%93%E5%B1%95%E8%88%87%E5%89%B5%E6%96%B0%E6%89%BF%E8%AB%BE.html"
   },
   {
-    "title": "AHA leadership to discuss AI, public-private partnerships and more during 48th World Hospital Congress in Switzerland",
-    "url": "https://www.aha.org/news/headline/2025-11-10-aha-leadership-discuss-ai-public-private-partnerships-and-more-during-48th-world-hospital-congress",
-    "source": "American Hospital Association",
-    "published_at": "2025-11-11T12:56:43.636957+08:00",
-    "summary": "AHA leaders tomorrow will participate in a series of panels during the International Hospital Federation's 48th annual World Hospital Congress in Geneva.",
-    "scraped_at": "2025-11-11T12:56:43+08:00",
-    "canonical_url": "https://www.aha.org/news/headline/2025-11-10-aha-leadership-discuss-ai-public-private-partnerships-and-more-during-48th-world-hospital-congress"
-  },
-  {
-    "title": "Inside the unofficial movement to save the em dash — from A.I.",
-    "url": "https://www.npr.org/2025/11/10/nx-s1-5596088/inside-the-unofficial-movement-to-save-the-em-dash-from-a-i",
-    "source": "NPR",
-    "published_at": "2025-11-11T12:56:40.404461+08:00",
-    "summary": "The extra-long hyphen known as the em dash is common in AI-generated text. While some writers have responded by choosing to avoid the punctuation mark,...",
-    "scraped_at": "2025-11-11T12:56:43+08:00",
-    "canonical_url": "https://www.npr.org/2025/11/10/nx-s1-5596088/inside-the-unofficial-movement-to-save-the-em-dash-from-a-i"
-  },
-  {
-    "title": "Intel CEO to oversee its AI efforts after executive departs for OpenAI",
-    "url": "https://www.reuters.com/business/intel-ceo-oversee-companys-ai-efforts-after-departure-exec-openai-2025-11-10/",
-    "source": "Reuters",
-    "published_at": "2025-11-11T12:56:37.074088+08:00",
-    "summary": "Intel said on Monday its CEO Lip-Bu Tan would oversee the chipmaker's artificial intelligence efforts after the firm's chief technology officer departed for...",
-    "scraped_at": "2025-11-11T12:56:43+08:00",
-    "canonical_url": "https://www.reuters.com/business/intel-ceo-oversee-companys-ai-efforts-after-departure-exec-openai-2025-11-10/"
-  },
-  {
-    "title": "Charleston County schools working on developing AI strategy for classrooms",
-    "url": "https://www.live5news.com/2025/11/11/charleston-county-schools-working-developing-ai-strategy-classrooms/",
-    "source": "Live 5 News",
-    "published_at": "2025-11-11T12:56:33.640652+08:00",
-    "summary": "The Charleston County School District discussed the development of an artificial intelligence strategy and policy for its students and teachers at a meeting...",
-    "scraped_at": "2025-11-11T12:56:43+08:00",
-    "canonical_url": "https://www.live5news.com/2025/11/11/charleston-county-schools-working-developing-ai-strategy-classrooms/"
-  },
-  {
     "title": "Bill seeks to close ‘loophole’ for AI-generated child sexual abuse materials",
     "url": "https://penncapital-star.com/government-politics/bill-seeks-to-close-loophole-for-ai-generated-child-sexual-abuse-materials/",
     "source": "Pennsylvania Capital-Star",
@@ -133,51 +187,6 @@
     "summary": "A two-hour state Senate committee hearing explored the use of artificial intelligence to create images and videos depicting children — sometimes real,...",
     "scraped_at": "2025-11-11T12:56:43+08:00",
     "canonical_url": "https://penncapital-star.com/government-politics/bill-seeks-to-close-loophole-for-ai-generated-child-sexual-abuse-materials/"
-  },
-  {
-    "title": "How one high schooler’s ambition led to an AI tool to restore ancient art",
-    "url": "https://news.northeastern.edu/2025/11/10/ai-research-restores-ancient-art/",
-    "source": "Northeastern Global News",
-    "published_at": "2025-11-11T12:56:27.055554+08:00",
-    "summary": "Working in Zheng Zheng's Data Science and Artificial Intelligence lab at Northeastern, 11th grader Qianhao Han proposed an AI tool to help restore ancient...",
-    "scraped_at": "2025-11-11T12:56:43+08:00",
-    "canonical_url": "https://news.northeastern.edu/2025/11/10/ai-research-restores-ancient-art/"
-  },
-  {
-    "title": "UVA Darden Goes ‘All-In’ on Use of Generative AI in Core Strategy Course",
-    "url": "https://news.darden.virginia.edu/2025/11/10/uva-darden-goes-all-in-on-use-of-generative-ai-in-core-strategy-course/",
-    "source": "Darden Report Online",
-    "published_at": "2025-11-11T12:56:23.841628+08:00",
-    "summary": "November 10, 2025 Darden School of Business MBA students received guidance on the first day of the core Strategy course this quarter that probably sounded...",
-    "scraped_at": "2025-11-11T12:56:43+08:00",
-    "canonical_url": "https://news.darden.virginia.edu/2025/11/10/uva-darden-goes-all-in-on-use-of-generative-ai-in-core-strategy-course/"
-  },
-  {
-    "title": "The AI Cold War That Will Redefine Everything",
-    "url": "https://www.wsj.com/tech/ai/the-ai-cold-war-that-will-redefine-everything-4e1810b2?gaa_at=eafs&gaa_n=AWEtsqc8plvQcZm7rMWMRSmsS5gPotMB2DsIhMxB5Ndmq8Qv1C_FFmIp4sEz&gaa_ts=6912c56e&gaa_sig=YruUdiTauQhwPWTpAYNa3Z6IDk-bv4l23wQ13qeajwqNdMHWzaQ6_wVEMJhVahP-BwYWBt96Wp1irwcRXtdXFA%3D%3D",
-    "source": "The Wall Street Journal",
-    "published_at": "2025-11-11T12:56:20.382464+08:00",
-    "summary": "America holds a sizable lead, but China is working to tip the scales with a sweeping countrywide push, betting 'swarms beat the titan'",
-    "scraped_at": "2025-11-11T12:56:43+08:00",
-    "canonical_url": "https://www.wsj.com/tech/ai/the-ai-cold-war-that-will-redefine-everything-4e1810b2"
-  },
-  {
-    "title": "Kennedy: 10 things AI will never experience",
-    "url": "https://www.timesfreepress.com/news/2025/nov/10/kennedy-10-things-ai-will-never-experience/",
-    "source": "Chattanooga Times Free Press",
-    "published_at": "2025-11-11T12:56:17.226990+08:00",
-    "summary": "Given the choice between artificial intelligence and authentic intelligence, I'll take authentic -- the occasionally brilliant but often flawed information...",
-    "scraped_at": "2025-11-11T12:56:43+08:00",
-    "canonical_url": "https://www.timesfreepress.com/news/2025/nov/10/kennedy-10-things-ai-will-never-experience/"
-  },
-  {
-    "title": "Understanding global AI diffusion",
-    "url": "https://blogs.microsoft.com/on-the-issues/2025/11/10/understanding-global-ai-diffusion/",
-    "source": "The Official Microsoft Blog",
-    "published_at": "2025-11-11T12:56:13.825114+08:00",
-    "summary": "Artificial intelligence is transforming the way we work, learn, and innovate—and it's doing so at a pace that surpasses every major technology before it.",
-    "scraped_at": "2025-11-11T12:56:43+08:00",
-    "canonical_url": "https://blogs.microsoft.com/on-the-issues/2025/11/10/understanding-global-ai-diffusion/"
   },
   {
     "title": "技術長轉投 OpenAI，英特爾執行長陳立武親掌 AI 事業",
@@ -214,15 +223,6 @@
     "summary": "Artificial intelligence is reshaping high-stakes fields like law, medicine, and finance. The biggest challenge to making AI more economically valuable isn't...",
     "scraped_at": "2025-11-11T11:47:38+08:00",
     "canonical_url": "https://hls.harvard.edu/events/the-future-of-ai-in-law-with-cass-sunstein/"
-  },
-  {
-    "title": "Why data centers are important for AI | The TechTank Podcast",
-    "url": "https://www.brookings.edu/articles/why-data-centers-are-important-for-ai-the-techtank-podcast/",
-    "source": "Brookings",
-    "published_at": "2025-11-11T11:47:31.781261+08:00",
-    "summary": "On this episode of TechTank, co-hosts Darrell West and Nicol Turner Lee discuss their new paper on data centers, their importance for AI, and their energy...",
-    "scraped_at": "2025-11-11T11:47:38+08:00",
-    "canonical_url": "https://www.brookings.edu/articles/why-data-centers-are-important-for-ai-the-techtank-podcast/"
   },
   {
     "title": "UT Doubles Size of One of World’s Most Powerful AI Computing Hubs",
