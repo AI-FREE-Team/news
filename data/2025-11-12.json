@@ -3,10 +3,91 @@
     "title": "Bridging the AI divide: How Frontier firms are transforming business",
     "url": "https://blogs.microsoft.com/blog/2025/11/11/bridging-the-ai-divide-how-frontier-firms-are-transforming-business/",
     "source": "Microsoft",
-    "published_at": "2025-11-12T06:41:39.547751+08:00",
+    "published_at": "2025-11-12T06:50:57.784571+08:00",
     "summary": "Across every industry, leaders are asking: How can AI be used to fundamentally transform our business? At the forefront are Frontier firms — empowering...",
-    "scraped_at": "2025-11-12T06:41:39+08:00",
+    "scraped_at": "2025-11-12T06:50:57+08:00",
     "canonical_url": "https://blogs.microsoft.com/blog/2025/11/11/bridging-the-ai-divide-how-frontier-firms-are-transforming-business/"
+  },
+  {
+    "title": "AMD expects data center chip market to grow to $1 trillion by 2030",
+    "url": "https://www.reuters.com/business/amd-expected-outline-plans-ai-chip-business-analyst-day-2025-11-11/",
+    "source": "Reuters",
+    "published_at": "2025-11-12T06:50:54.543774+08:00",
+    "summary": "Advanced Micro Devices expects the market for the company's data center chips will grow to $1 trillion by 2030, CEO Lisa Su said at the company's analyst...",
+    "scraped_at": "2025-11-12T06:50:57+08:00",
+    "canonical_url": "https://www.reuters.com/business/amd-expected-outline-plans-ai-chip-business-analyst-day-2025-11-11/"
+  },
+  {
+    "title": "Matthew McConaughey and Michael Caine sign voice deal with AI company",
+    "url": "https://www.theguardian.com/culture/2025/nov/11/matthew-mcconaughey-michael-caine-ai-voice",
+    "source": "The Guardian",
+    "published_at": "2025-11-12T06:50:51.322146+08:00",
+    "summary": "The voices of the Oscar-winning actors can now be used to create AI-generated versions in a new deal with ElevenLabs.",
+    "scraped_at": "2025-11-12T06:50:57+08:00",
+    "canonical_url": "https://www.theguardian.com/culture/2025/nov/11/matthew-mcconaughey-michael-caine-ai-voice"
+  },
+  {
+    "title": "A guide to building AI agents in GxP environments",
+    "url": "https://aws.amazon.com/blogs/machine-learning/a-guide-to-building-ai-agents-in-gxp-environments/",
+    "source": "Amazon Web Services (AWS)",
+    "published_at": "2025-11-12T06:50:48.055357+08:00",
+    "summary": "by Pierre de Malliard, Ben Xavier, Cameron Smith, Ian Sutcliffe, and Kristin Ambrosini on 11 NOV 2025 in Amazon Bedrock, Amazon Bedrock AgentCore,...",
+    "scraped_at": "2025-11-12T06:50:57+08:00",
+    "canonical_url": "https://aws.amazon.com/blogs/machine-learning/a-guide-to-building-ai-agents-in-gxp-environments/"
+  },
+  {
+    "title": "VA explores AI tools' potential to hone operations, health care",
+    "url": "https://www.usatoday.com/story/news/nation/2025/11/11/ai-rising/86608478007/",
+    "source": "USA Today",
+    "published_at": "2025-11-12T06:50:44.779220+08:00",
+    "summary": "As chief technology officer and chief artificial intelligence officer at the Department of Veterans Affairs, Charles Worthington is helping to leverage...",
+    "scraped_at": "2025-11-12T06:50:57+08:00",
+    "canonical_url": "https://www.usatoday.com/story/news/nation/2025/11/11/ai-rising/86608478007/"
+  },
+  {
+    "title": "Millions are turning to AI for therapy",
+    "url": "https://www.economist.com/science-and-technology/2025/11/11/the-promise-and-the-perils-of-using-ai-for-therapy",
+    "source": "The Economist",
+    "published_at": "2025-11-12T06:50:41.660762+08:00",
+    "summary": "But is the technology ready? | Science & technology.",
+    "scraped_at": "2025-11-12T06:50:57+08:00",
+    "canonical_url": "https://www.economist.com/science-and-technology/2025/11/11/the-promise-and-the-perils-of-using-ai-for-therapy"
+  },
+  {
+    "title": "Columbia Athletics Partners With CACHE AI",
+    "url": "https://gocolumbialions.com/news/2025/11/11/general-columbia-athletics-partners-with-cache-ai",
+    "source": "Columbia University Athletics",
+    "published_at": "2025-11-12T06:50:38.519878+08:00",
+    "summary": "NEW YORK - Columbia University Athletics is proud to announce a new partnership with Cache AI , an innovative company involved in athlete analytics and Name...",
+    "scraped_at": "2025-11-12T06:50:57+08:00",
+    "canonical_url": "https://gocolumbialions.com/news/2025/11/11/general-columbia-athletics-partners-with-cache-ai"
+  },
+  {
+    "title": "How agentic AI is transforming corporate tax departments",
+    "url": "https://tax.thomsonreuters.com/blog/how-agentic-ai-is-transforming-corporate-tax-departments/",
+    "source": "Thomson Reuters tax",
+    "published_at": "2025-11-12T06:50:34.151010+08:00",
+    "summary": "The transformation of tax departments through AI isn't just about adopting new tools. It's about reimagining how tax functions operate and deliver value.",
+    "scraped_at": "2025-11-12T06:50:57+08:00",
+    "canonical_url": "https://tax.thomsonreuters.com/blog/how-agentic-ai-is-transforming-corporate-tax-departments/"
+  },
+  {
+    "title": "Three AI Megadeals Are Breaking New Ground on Wall Street - WSJ",
+    "url": "https://www.wsj.com/tech/ai/three-ai-megadeals-are-breaking-new-ground-on-wall-street-896e0023?gaa_at=eafs&gaa_n=AWEtsqcMzAF0LO0b-K3W_sju9I-2Bw5HF9ray6792zqOQtmJpbj7VGxvRHgC&gaa_ts=6913c134&gaa_sig=xcMuovYayB5YSu_MLsl-1O-Z9MC8LV07I28m_s9VPx1wgvetWSCwo9SrnBvhvzLUcW6V93r-jpyBp2qWZbMbGg%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-12T06:50:30.942517+08:00",
+    "summary": "Novel approaches to financing in OpenAI, Meta and xAI deals show risks and rewards of the AI frenzy.",
+    "scraped_at": "2025-11-12T06:50:57+08:00",
+    "canonical_url": "https://www.wsj.com/tech/ai/three-ai-megadeals-are-breaking-new-ground-on-wall-street-896e0023"
+  },
+  {
+    "title": "Private AI Compute: our next step in building private and helpful AI",
+    "url": "https://blog.google/technology/ai/google-private-ai-compute/",
+    "source": "blog.google",
+    "published_at": "2025-11-12T06:50:27.803235+08:00",
+    "summary": "Introducing Private AI Compute, our new way to bring you helpful AI with the power of the cloud, while keeping your data private to you.",
+    "scraped_at": "2025-11-12T06:50:57+08:00",
+    "canonical_url": "https://blog.google/technology/ai/google-private-ai-compute/"
   },
   {
     "title": "Is China about to win the AI race?",
@@ -16,78 +97,6 @@
     "summary": "From subsidized power to open-source innovation, China is mounting a serious challenge to U.S. dominance in artificial intelligence.",
     "scraped_at": "2025-11-12T06:41:39+08:00",
     "canonical_url": "https://fortune.com/2025/11/11/is-china-about-to-win-the-ai-race/"
-  },
-  {
-    "title": "AMD expects data center chip market to grow to $1 trillion by 2030",
-    "url": "https://www.reuters.com/business/amd-expected-outline-plans-ai-chip-business-analyst-day-2025-11-11/",
-    "source": "Reuters",
-    "published_at": "2025-11-12T06:41:32.970095+08:00",
-    "summary": "Advanced Micro Devices expects the market for the company's data center chips will grow to $1 trillion by 2030, CEO Lisa Su said at the company's analyst...",
-    "scraped_at": "2025-11-12T06:41:39+08:00",
-    "canonical_url": "https://www.reuters.com/business/amd-expected-outline-plans-ai-chip-business-analyst-day-2025-11-11/"
-  },
-  {
-    "title": "A guide to building AI agents in GxP environments",
-    "url": "https://aws.amazon.com/blogs/machine-learning/a-guide-to-building-ai-agents-in-gxp-environments/",
-    "source": "Amazon Web Services (AWS)",
-    "published_at": "2025-11-12T06:41:29.801704+08:00",
-    "summary": "by Pierre de Malliard, Ben Xavier, Cameron Smith, Ian Sutcliffe, and Kristin Ambrosini on 11 NOV 2025 in Amazon Bedrock, Amazon Bedrock AgentCore,...",
-    "scraped_at": "2025-11-12T06:41:39+08:00",
-    "canonical_url": "https://aws.amazon.com/blogs/machine-learning/a-guide-to-building-ai-agents-in-gxp-environments/"
-  },
-  {
-    "title": "VA explores AI tools' potential to hone operations, health care",
-    "url": "https://www.usatoday.com/story/news/nation/2025/11/11/ai-rising/86608478007/",
-    "source": "USA Today",
-    "published_at": "2025-11-12T06:41:26.553303+08:00",
-    "summary": "As chief technology officer and chief artificial intelligence officer at the Department of Veterans Affairs, Charles Worthington is helping to leverage...",
-    "scraped_at": "2025-11-12T06:41:39+08:00",
-    "canonical_url": "https://www.usatoday.com/story/news/nation/2025/11/11/ai-rising/86608478007/"
-  },
-  {
-    "title": "Millions are turning to AI for therapy",
-    "url": "https://www.economist.com/science-and-technology/2025/11/11/the-promise-and-the-perils-of-using-ai-for-therapy",
-    "source": "The Economist",
-    "published_at": "2025-11-12T06:41:23.412892+08:00",
-    "summary": "But is the technology ready? | Science & technology.",
-    "scraped_at": "2025-11-12T06:41:39+08:00",
-    "canonical_url": "https://www.economist.com/science-and-technology/2025/11/11/the-promise-and-the-perils-of-using-ai-for-therapy"
-  },
-  {
-    "title": "Columbia Athletics Partners With CACHE AI",
-    "url": "https://gocolumbialions.com/news/2025/11/11/general-columbia-athletics-partners-with-cache-ai",
-    "source": "Columbia University Athletics",
-    "published_at": "2025-11-12T06:41:20.279810+08:00",
-    "summary": "NEW YORK - Columbia University Athletics is proud to announce a new partnership with Cache AI , an innovative company involved in athlete analytics and Name...",
-    "scraped_at": "2025-11-12T06:41:39+08:00",
-    "canonical_url": "https://gocolumbialions.com/news/2025/11/11/general-columbia-athletics-partners-with-cache-ai"
-  },
-  {
-    "title": "How agentic AI is transforming corporate tax departments",
-    "url": "https://tax.thomsonreuters.com/blog/how-agentic-ai-is-transforming-corporate-tax-departments/",
-    "source": "Thomson Reuters tax",
-    "published_at": "2025-11-12T06:41:15.687118+08:00",
-    "summary": "The transformation of tax departments through AI isn't just about adopting new tools. It's about reimagining how tax functions operate and deliver value.",
-    "scraped_at": "2025-11-12T06:41:39+08:00",
-    "canonical_url": "https://tax.thomsonreuters.com/blog/how-agentic-ai-is-transforming-corporate-tax-departments/"
-  },
-  {
-    "title": "Three AI Megadeals Are Breaking New Ground on Wall Street - WSJ",
-    "url": "https://www.wsj.com/tech/ai/three-ai-megadeals-are-breaking-new-ground-on-wall-street-896e0023?gaa_at=eafs&gaa_n=AWEtsqeKSZNGsNSIPdWYhqxQqFtM-ae_0sUUbKt02n3xtto49jnxUT0teXSj&gaa_ts=6913bf05&gaa_sig=ohjy_H44rt7elvbuhRN-hic2Vsy4iiz4MtK1qy_vckRFAB621y1POnElt0Q_Gf0NbXXSJKc4MtV0EGRCrMGtQw%3D%3D",
-    "source": "The Wall Street Journal",
-    "published_at": "2025-11-12T06:41:12.314542+08:00",
-    "summary": "Novel approaches to financing in OpenAI, Meta and xAI deals show risks and rewards of the AI frenzy.",
-    "scraped_at": "2025-11-12T06:41:39+08:00",
-    "canonical_url": "https://www.wsj.com/tech/ai/three-ai-megadeals-are-breaking-new-ground-on-wall-street-896e0023"
-  },
-  {
-    "title": "Private AI Compute: our next step in building private and helpful AI",
-    "url": "https://blog.google/technology/ai/google-private-ai-compute/",
-    "source": "blog.google",
-    "published_at": "2025-11-12T06:41:09.115422+08:00",
-    "summary": "Today we're introducing Private AI Compute to bring you intelligent AI experiences with the power of Gemini models in the cloud, while keeping your data...",
-    "scraped_at": "2025-11-12T06:41:39+08:00",
-    "canonical_url": "https://blog.google/technology/ai/google-private-ai-compute/"
   },
   {
     "title": "中國網路AI微短劇爆紅 低成本高收益成新寵",
