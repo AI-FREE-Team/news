@@ -1,5 +1,122 @@
 [
   {
+    "title": "Why your AI projects keep failing",
+    "url": "https://fortune.com/2025/11/11/why-ai-adoption-is-failing-seven-mistakes/",
+    "source": "Fortune",
+    "published_at": "2025-11-11T23:53:19.633166+08:00",
+    "summary": "Virtually every organization is trying its hand at AI, yet very few are seeing the payoff. Despite massive investment, most organizations aren't seeing the...",
+    "scraped_at": "2025-11-11T23:53:19+08:00",
+    "canonical_url": "https://fortune.com/2025/11/11/why-ai-adoption-is-failing-seven-mistakes/"
+  },
+  {
+    "title": "CISO's Expert Guide To AI Supply Chain Attacks",
+    "url": "https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html",
+    "source": "The Hacker News",
+    "published_at": "2025-11-11T23:53:16.506212+08:00",
+    "summary": "AI-driven supply chain attacks surged 156% as breaches grew harder to detect and regulators imposed massive fines.",
+    "scraped_at": "2025-11-11T23:53:19+08:00",
+    "canonical_url": "https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html"
+  },
+  {
+    "title": "SoftBank's $5.8 billion Nvidia stake sale stirs fresh AI bubble fears",
+    "url": "https://www.reuters.com/business/media-telecom/softbanks-58-billion-nvidia-stake-sale-stirs-fresh-ai-bubble-fears-2025-11-11/",
+    "source": "Reuters",
+    "published_at": "2025-11-11T23:53:13.150489+08:00",
+    "summary": "SoftBank Group's $5.8 billion sale of its Nvidia stake jolted stock markets on Tuesday, stoking fears that the frenzy around artificial intelligence may...",
+    "scraped_at": "2025-11-11T23:53:19+08:00",
+    "canonical_url": "https://www.reuters.com/business/media-telecom/softbanks-58-billion-nvidia-stake-sale-stirs-fresh-ai-bubble-fears-2025-11-11/"
+  },
+  {
+    "title": "BigBear.ai to buy Ask Sage, strengthening security-centric AI for federal agencies",
+    "url": "https://cyberscoop.com/big-bear-ai-ask-sage-acquisition-agentic-ai/",
+    "source": "CyberScoop",
+    "published_at": "2025-11-11T23:53:09.841572+08:00",
+    "summary": "Virginia-based BigBear.ai announced Monday it will acquire Ask Sage, a generative artificial intelligence platform specializing in secure deployment of AI...",
+    "scraped_at": "2025-11-11T23:53:19+08:00",
+    "canonical_url": "https://cyberscoop.com/big-bear-ai-ask-sage-acquisition-agentic-ai/"
+  },
+  {
+    "title": "If AI Comes to TV, Nielsen Wants to Play a Big(ger) Role",
+    "url": "https://mikeshields.substack.com/p/if-ai-comes-to-tv-nielsen-wants-to",
+    "source": "Next in Media | Mike Shields",
+    "published_at": "2025-11-11T23:53:06.676747+08:00",
+    "summary": "As I've written about previously, while AI-driven media buying and optimization has quickly taken off on the big platforms (Google, Meta, Pinterest, etc.)...",
+    "scraped_at": "2025-11-11T23:53:19+08:00",
+    "canonical_url": "https://mikeshields.substack.com/p/if-ai-comes-to-tv-nielsen-wants-to"
+  },
+  {
+    "title": "Bridging the AI divide: How Frontier firms are transforming business",
+    "url": "https://blogs.microsoft.com/blog/2025/11/11/bridging-the-ai-divide-how-frontier-firms-are-transforming-business/",
+    "source": "The Official Microsoft Blog",
+    "published_at": "2025-11-11T23:53:03.573963+08:00",
+    "summary": "Across every industry, leaders are asking: How can AI be used to fundamentally transform our business? At the forefront are Frontier firms — empowering...",
+    "scraped_at": "2025-11-11T23:53:19+08:00",
+    "canonical_url": "https://blogs.microsoft.com/blog/2025/11/11/bridging-the-ai-divide-how-frontier-firms-are-transforming-business/"
+  },
+  {
+    "title": "Our latest commitments in AI and learning",
+    "url": "https://blog.google/outreach-initiatives/education/ai-learning-commitments/",
+    "source": "The Keyword",
+    "published_at": "2025-11-11T23:53:00.312789+08:00",
+    "summary": "We're bringing together experts, students, educators and more at our Google AI for Learning Forum.",
+    "scraped_at": "2025-11-11T23:53:19+08:00",
+    "canonical_url": "https://blog.google/outreach-initiatives/education/ai-learning-commitments/"
+  },
+  {
+    "title": "'Big Short' investor Michael Burry accuses AI hyperscalers of artificially boosting earnings",
+    "url": "https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html",
+    "source": "CNBC",
+    "published_at": "2025-11-11T23:52:57.078668+08:00",
+    "summary": "Burry alleged that \"hyperscalers\" are artificially boosting earnings by extending the useful life of their computer equipment.",
+    "scraped_at": "2025-11-11T23:53:19+08:00",
+    "canonical_url": "https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html"
+  },
+  {
+    "title": "Why Can’t A.I. Manage My E-Mails?",
+    "url": "https://www.newyorker.com/culture/open-questions/why-cant-ai-manage-my-e-mails",
+    "source": "The New Yorker",
+    "published_at": "2025-11-11T23:52:53.921833+08:00",
+    "summary": "Cal Newport investigates e-mail-sorting apps powered by A.I. and lets one, called Cora, organize his inbox.",
+    "scraped_at": "2025-11-11T23:53:19+08:00",
+    "canonical_url": "https://www.newyorker.com/culture/open-questions/why-cant-ai-manage-my-e-mails"
+  },
+  {
+    "title": "Stock market today: S&P 500, Nasdaq slip as AI angst overshadows hopes for end to US shutdown",
+    "url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-slip-as-ai-angst-overshadows-hopes-for-end-to-us-shutdown-235106385.html",
+    "source": "Yahoo Finance",
+    "published_at": "2025-11-11T23:52:50.621556+08:00",
+    "summary": "Tech led a retreat in US stocks on Tuesday amid a revival in AI worries, slipping back from a rally fueled by optimism that Washington may soon end the...",
+    "scraped_at": "2025-11-11T23:53:19+08:00",
+    "canonical_url": "https://finance.yahoo.com/news/live/stock-market-today-sp-500-nasdaq-slip-as-ai-angst-overshadows-hopes-for-end-to-us-shutdown-235106385.html"
+  },
+  {
+    "title": "Datavault AI 落實簽訂費城總部租約，加強拓展與創新承諾",
+    "url": "https://www.globenewswire.com/news-release/2025/11/11/3185168/0/zh-hant/Datavault-AI-%E8%90%BD%E5%AF%A6%E7%B0%BD%E8%A8%82%E8%B2%BB%E5%9F%8E%E7%B8%BD%E9%83%A8%E7%A7%9F%E7%B4%84-%E5%8A%A0%E5%BC%B7%E6%8B%93%E5%B1%95%E8%88%87%E5%89%B5%E6%96%B0%E6%89%BF%E8%AB%BE.html",
+    "source": "GlobeNewswire",
+    "published_at": "2025-11-11T23:52:44.971339+08:00",
+    "summary": "費城, Nov. 11, 2025 (GLOBE NEWSWIRE) -- 透過IBN 發佈-- 數據盈利化、憑證認證及數碼互動技術的頂尖機構Datavault AI Inc. (Nasdaq: DVLT) 今天宣佈已與Commerce...",
+    "scraped_at": "2025-11-11T23:53:19+08:00",
+    "canonical_url": "https://www.globenewswire.com/news-release/2025/11/11/3185168/0/zh-hant/Datavault-AI-%E8%90%BD%E5%AF%A6%E7%B0%BD%E8%A8%82%E8%B2%BB%E5%9F%8E%E7%B8%BD%E9%83%A8%E7%A7%9F%E7%B4%84-%E5%8A%A0%E5%BC%B7%E6%8B%93%E5%B1%95%E8%88%87%E5%89%B5%E6%96%B0%E6%89%BF%E8%AB%BE.html"
+  },
+  {
+    "title": "AI燒錢潮延燒債市 投資人憂科技巨人舉債過度",
+    "url": "https://www.worldjournal.com/wj/story/121208/9132825",
+    "source": "世界新聞網",
+    "published_at": "2025-11-11T23:52:41.748411+08:00",
+    "summary": "投資人近來拋售多家美國大型科技公司的債券，可見矽谷因人工智慧（AI）投資支出暴增所引發的疑慮，已蔓延至債券市場。",
+    "scraped_at": "2025-11-11T23:53:19+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/121208/9132825"
+  },
+  {
+    "title": "ShiftUp Announces ShiftUp AI Revenue Intelligence on Salesforce AppExchange",
+    "url": "https://finance.yahoo.com/news/shiftup-announces-shiftup-ai-revenue-120000148.html",
+    "source": "Yahoo Finance",
+    "published_at": "2025-11-11T23:52:37.984656+08:00",
+    "summary": "PHOENIX, November 11, 2025--ShiftUp's customers benefit from autonomous AI-powered sales intelligence natively in Salesforce to drive revenue growth.",
+    "scraped_at": "2025-11-11T23:53:19+08:00",
+    "canonical_url": "https://finance.yahoo.com/news/shiftup-announces-shiftup-ai-revenue-120000148.html"
+  },
+  {
     "title": "When Your AI Best Friend Starts Telling You To Buy Stuff",
     "url": "https://www.inc.com/joe-procopio/when-your-ai-best-friend-starts-telling-you-to-buy-stuff/91263139",
     "source": "Inc.com",
@@ -9,24 +126,6 @@
     "canonical_url": "https://www.inc.com/joe-procopio/when-your-ai-best-friend-starts-telling-you-to-buy-stuff/91263139"
   },
   {
-    "title": "Why your AI projects keep failing",
-    "url": "https://fortune.com/2025/11/11/why-ai-adoption-is-failing-seven-mistakes/",
-    "source": "Fortune",
-    "published_at": "2025-11-11T23:42:56.887228+08:00",
-    "summary": "Virtually every organization is trying its hand at AI, yet very few are seeing the payoff. Despite massive investment, most organizations aren't seeing the...",
-    "scraped_at": "2025-11-11T23:43:00+08:00",
-    "canonical_url": "https://fortune.com/2025/11/11/why-ai-adoption-is-failing-seven-mistakes/"
-  },
-  {
-    "title": "CISO's Expert Guide To AI Supply Chain Attacks",
-    "url": "https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html",
-    "source": "The Hacker News",
-    "published_at": "2025-11-11T23:42:53.686279+08:00",
-    "summary": "AI-driven supply chain attacks surged 156% as breaches grew harder to detect and regulators imposed massive fines.",
-    "scraped_at": "2025-11-11T23:43:00+08:00",
-    "canonical_url": "https://thehackernews.com/2025/11/cisos-expert-guide-to-ai-supply-chain.html"
-  },
-  {
     "title": "Microsoft plans to invest $10 billion in Portuguese AI data hub",
     "url": "https://www.reuters.com/business/microsoft-plans-invest-10-billion-portugal-ai-data-hub-bloomberg-news-reports-2025-11-11/",
     "source": "Reuters",
@@ -34,87 +133,6 @@
     "summary": "Microsoft plans to invest $10 billion in artificial intelligence infrastructure at a data centre in Portugal's port city of Sines over the next few years,...",
     "scraped_at": "2025-11-11T23:43:00+08:00",
     "canonical_url": "https://www.reuters.com/business/microsoft-plans-invest-10-billion-portugal-ai-data-hub-bloomberg-news-reports-2025-11-11/"
-  },
-  {
-    "title": "BigBear.ai to buy Ask Sage, strengthening security-centric AI for federal agencies",
-    "url": "https://cyberscoop.com/big-bear-ai-ask-sage-acquisition-agentic-ai/",
-    "source": "CyberScoop",
-    "published_at": "2025-11-11T23:42:47.147575+08:00",
-    "summary": "Virginia-based BigBear.ai announced Monday it will acquire Ask Sage, a generative artificial intelligence platform specializing in secure deployment of AI...",
-    "scraped_at": "2025-11-11T23:43:00+08:00",
-    "canonical_url": "https://cyberscoop.com/big-bear-ai-ask-sage-acquisition-agentic-ai/"
-  },
-  {
-    "title": "If AI Comes to TV, Nielsen Wants to Play a Big(ger) Role",
-    "url": "https://mikeshields.substack.com/p/if-ai-comes-to-tv-nielsen-wants-to",
-    "source": "Next in Media | Mike Shields",
-    "published_at": "2025-11-11T23:42:43.983937+08:00",
-    "summary": "As I've written about previously, while AI-driven media buying and optimization has quickly taken off on the big platforms (Google, Meta, Pinterest, etc.)...",
-    "scraped_at": "2025-11-11T23:43:00+08:00",
-    "canonical_url": "https://mikeshields.substack.com/p/if-ai-comes-to-tv-nielsen-wants-to"
-  },
-  {
-    "title": "Bridging the AI divide: How Frontier firms are transforming business",
-    "url": "https://blogs.microsoft.com/blog/2025/11/11/bridging-the-ai-divide-how-frontier-firms-are-transforming-business/",
-    "source": "The Official Microsoft Blog",
-    "published_at": "2025-11-11T23:42:40.828064+08:00",
-    "summary": "Across every industry, leaders are asking: How can AI be used to fundamentally transform our business? At the forefront are Frontier firms — empowering...",
-    "scraped_at": "2025-11-11T23:43:00+08:00",
-    "canonical_url": "https://blogs.microsoft.com/blog/2025/11/11/bridging-the-ai-divide-how-frontier-firms-are-transforming-business/"
-  },
-  {
-    "title": "Our latest commitments in AI and learning",
-    "url": "https://blog.google/outreach-initiatives/education/ai-learning-commitments/",
-    "source": "The Keyword",
-    "published_at": "2025-11-11T23:42:37.620839+08:00",
-    "summary": "We're bringing together experts, students, educators and more at our Google AI for Learning Forum.",
-    "scraped_at": "2025-11-11T23:43:00+08:00",
-    "canonical_url": "https://blog.google/outreach-initiatives/education/ai-learning-commitments/"
-  },
-  {
-    "title": "'Big Short' investor Michael Burry accuses AI hyperscalers of artificially boosting earnings",
-    "url": "https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html",
-    "source": "CNBC",
-    "published_at": "2025-11-11T23:42:34.360691+08:00",
-    "summary": "Burry alleged that \"hyperscalers\" are artificially boosting earnings by extending the useful life of their computer equipment.",
-    "scraped_at": "2025-11-11T23:43:00+08:00",
-    "canonical_url": "https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html"
-  },
-  {
-    "title": "Why Can’t A.I. Manage My E-Mails?",
-    "url": "https://www.newyorker.com/culture/open-questions/why-cant-ai-manage-my-e-mails",
-    "source": "The New Yorker",
-    "published_at": "2025-11-11T23:42:31.214009+08:00",
-    "summary": "Cal Newport investigates e-mail-sorting apps powered by A.I. and lets one, called Cora, organize his inbox.",
-    "scraped_at": "2025-11-11T23:43:00+08:00",
-    "canonical_url": "https://www.newyorker.com/culture/open-questions/why-cant-ai-manage-my-e-mails"
-  },
-  {
-    "title": "Datavault AI 落實簽訂費城總部租約，加強拓展與創新承諾",
-    "url": "https://www.globenewswire.com/news-release/2025/11/11/3185168/0/zh-hant/Datavault-AI-%E8%90%BD%E5%AF%A6%E7%B0%BD%E8%A8%82%E8%B2%BB%E5%9F%8E%E7%B8%BD%E9%83%A8%E7%A7%9F%E7%B4%84-%E5%8A%A0%E5%BC%B7%E6%8B%93%E5%B1%95%E8%88%87%E5%89%B5%E6%96%B0%E6%89%BF%E8%AB%BE.html",
-    "source": "GlobeNewswire",
-    "published_at": "2025-11-11T23:42:26.758123+08:00",
-    "summary": "費城, Nov. 11, 2025 (GLOBE NEWSWIRE) -- 透過IBN 發佈-- 數據盈利化、憑證認證及數碼互動技術的頂尖機構Datavault AI Inc. (Nasdaq: DVLT) 今天宣佈已與Commerce...",
-    "scraped_at": "2025-11-11T23:43:00+08:00",
-    "canonical_url": "https://www.globenewswire.com/news-release/2025/11/11/3185168/0/zh-hant/Datavault-AI-%E8%90%BD%E5%AF%A6%E7%B0%BD%E8%A8%82%E8%B2%BB%E5%9F%8E%E7%B8%BD%E9%83%A8%E7%A7%9F%E7%B4%84-%E5%8A%A0%E5%BC%B7%E6%8B%93%E5%B1%95%E8%88%87%E5%89%B5%E6%96%B0%E6%89%BF%E8%AB%BE.html"
-  },
-  {
-    "title": "AI燒錢潮延燒債市 投資人憂科技巨人舉債過度",
-    "url": "https://www.worldjournal.com/wj/story/121208/9132825",
-    "source": "世界新聞網",
-    "published_at": "2025-11-11T23:42:23.296181+08:00",
-    "summary": "投資人近來拋售多家美國大型科技公司的債券，可見矽谷因人工智慧（AI）投資支出暴增所引發的疑慮，已蔓延至債券市場。",
-    "scraped_at": "2025-11-11T23:43:00+08:00",
-    "canonical_url": "https://www.worldjournal.com/wj/story/121208/9132825"
-  },
-  {
-    "title": "ShiftUp Announces ShiftUp AI Revenue Intelligence on Salesforce AppExchange",
-    "url": "https://finance.yahoo.com/news/shiftup-announces-shiftup-ai-revenue-120000148.html",
-    "source": "Yahoo Finance",
-    "published_at": "2025-11-11T23:42:19.520056+08:00",
-    "summary": "PHOENIX, November 11, 2025--ShiftUp's customers benefit from autonomous AI-powered sales intelligence natively in Salesforce to drive revenue growth.",
-    "scraped_at": "2025-11-11T23:43:00+08:00",
-    "canonical_url": "https://finance.yahoo.com/news/shiftup-announces-shiftup-ai-revenue-120000148.html"
   },
   {
     "title": "How to Become an AI Engineer",
