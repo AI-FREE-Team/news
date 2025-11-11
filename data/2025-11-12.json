@@ -1,5 +1,113 @@
 [
   {
+    "title": "FTSE closes at record high record while US stocks stutter as AI angst takes hold",
+    "url": "https://uk.finance.yahoo.com/news/ftse-closes-at-record-high-record-while-us-stocks-stutter-as-ai-angst-takes-hold-090706308.html",
+    "source": "Yahoo Finance UK",
+    "published_at": "2025-11-12T01:17:14.734137+08:00",
+    "summary": "The move comes at a time when Wall Street is questioning whether the AI spending spree will pay off amid lofty valuations of stocks in the sector.",
+    "scraped_at": "2025-11-12T01:17:14+08:00",
+    "canonical_url": "https://uk.finance.yahoo.com/news/ftse-closes-at-record-high-record-while-us-stocks-stutter-as-ai-angst-takes-hold-090706308.html"
+  },
+  {
+    "title": "Balancing Social Media's Necessity and AI's Coming Transformation",
+    "url": "https://www.dermatologytimes.com/view/balancing-social-media-s-necessity-and-ai-s-coming-transformation",
+    "source": "Dermatology Times",
+    "published_at": "2025-11-12T01:17:10.790624+08:00",
+    "summary": "Joseph Gatti, DMSc, MPAS, MBA, PA-C, discusses the impact of social media and AI on dermatology, urging professionals to adapt and educate in a rapidly...",
+    "scraped_at": "2025-11-12T01:17:14+08:00",
+    "canonical_url": "https://www.dermatologytimes.com/view/balancing-social-media-s-necessity-and-ai-s-coming-transformation"
+  },
+  {
+    "title": "BigBear.ai to buy Ask Sage, strengthening security-centric AI for federal agencies",
+    "url": "https://cyberscoop.com/big-bear-ai-ask-sage-acquisition-agentic-ai/",
+    "source": "CyberScoop",
+    "published_at": "2025-11-12T01:17:06.532278+08:00",
+    "summary": "Virginia-based BigBear.ai announced Monday it will acquire Ask Sage, a generative artificial intelligence platform specializing in secure deployment of AI...",
+    "scraped_at": "2025-11-12T01:17:14+08:00",
+    "canonical_url": "https://cyberscoop.com/big-bear-ai-ask-sage-acquisition-agentic-ai/"
+  },
+  {
+    "title": "SoftBank's $5.8 billion Nvidia stake sale stirs fresh AI bubble fears",
+    "url": "https://www.reuters.com/business/media-telecom/softbanks-58-billion-nvidia-stake-sale-stirs-fresh-ai-bubble-fears-2025-11-11/",
+    "source": "Reuters",
+    "published_at": "2025-11-12T01:17:03.367546+08:00",
+    "summary": "SoftBank Group's $5.8 billion sale of its Nvidia stake jolted stock markets on Tuesday, stoking fears that the frenzy around artificial intelligence may...",
+    "scraped_at": "2025-11-12T01:17:14+08:00",
+    "canonical_url": "https://www.reuters.com/business/media-telecom/softbanks-58-billion-nvidia-stake-sale-stirs-fresh-ai-bubble-fears-2025-11-11/"
+  },
+  {
+    "title": "Vantaca Unveils Next-Gen AI-Powered Intelligent Community Management Ecosystem at Vision 2025",
+    "url": "https://www.prnewswire.com/news-releases/vantaca-unveils-next-gen-ai-powered-intelligent-community-management-ecosystem-at-vision-2025-302611432.html",
+    "source": "PR Newswire",
+    "published_at": "2025-11-12T01:17:00.112567+08:00",
+    "summary": "PRNewswire/ -- Vantaca, the AI-first community association management platform, today announced three major product innovations at its annual Vision user...",
+    "scraped_at": "2025-11-12T01:17:14+08:00",
+    "canonical_url": "https://www.prnewswire.com/news-releases/vantaca-unveils-next-gen-ai-powered-intelligent-community-management-ecosystem-at-vision-2025-302611432.html"
+  },
+  {
+    "title": "Bridging the AI divide: How Frontier firms are transforming business",
+    "url": "https://blogs.microsoft.com/blog/2025/11/11/bridging-the-ai-divide-how-frontier-firms-are-transforming-business/",
+    "source": "The Official Microsoft Blog",
+    "published_at": "2025-11-12T01:16:56.893129+08:00",
+    "summary": "Across every industry, leaders are asking: How can AI be used to fundamentally transform our business? At the forefront are Frontier firms — empowering...",
+    "scraped_at": "2025-11-12T01:17:14+08:00",
+    "canonical_url": "https://blogs.microsoft.com/blog/2025/11/11/bridging-the-ai-divide-how-frontier-firms-are-transforming-business/"
+  },
+  {
+    "title": "Meta chief AI scientist Yann LeCun plans to exit and launch own start-up",
+    "url": "https://www.ft.com/content/c586eb77-a16e-4363-ab0b-e877898b70de",
+    "source": "Financial Times",
+    "published_at": "2025-11-12T01:16:53.671853+08:00",
+    "summary": "Meta's chief artificial intelligence scientist Yann LeCun is planning to leave the social media giant to found his own start-up, as Mark Zuckerberg seeks to...",
+    "scraped_at": "2025-11-12T01:17:14+08:00",
+    "canonical_url": "https://www.ft.com/content/c586eb77-a16e-4363-ab0b-e877898b70de"
+  },
+  {
+    "title": "'Big Short' investor Michael Burry accuses AI hyperscalers of artificially boosting earnings",
+    "url": "https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html",
+    "source": "CNBC",
+    "published_at": "2025-11-12T01:16:49.754013+08:00",
+    "summary": "Burry alleged that \"hyperscalers\" are artificially boosting earnings by extending the useful life of their computer equipment.",
+    "scraped_at": "2025-11-12T01:17:14+08:00",
+    "canonical_url": "https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html"
+  },
+  {
+    "title": "Microsoft, Google to Invest Over $16 Billion to Expand AI Infrastructure in Europe",
+    "url": "https://www.wsj.com/tech/ai/microsoft-to-invest-over-10-billion-to-expand-ai-infrastructure-in-portugal-09f6e5c4?gaa_at=eafs&gaa_n=AWEtsqeRxs5KmhaywbCdT9S1c5XoOlOLJYjgcGUZGTSlMxbyK2igOnHp0SJ4&gaa_ts=691372fb&gaa_sig=hXFsSH6DaJ3wM8Zn5W6KKFjCpw72mbpF0J0fuSXNN1jYCZnsUT_O565zXHXGcGWJ2b5N5FXFF28AQ3Pev4EbIQ%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-12T01:16:46.546734+08:00",
+    "summary": "Microsoft will fund a data-center hub in Portugal with more than $10 billion; Google will inject over $6 billion in Germany.",
+    "scraped_at": "2025-11-12T01:17:14+08:00",
+    "canonical_url": "https://www.wsj.com/tech/ai/microsoft-to-invest-over-10-billion-to-expand-ai-infrastructure-in-portugal-09f6e5c4"
+  },
+  {
+    "title": "Student perspective: AI for writing is a cautionary tale",
+    "url": "https://panthernow.com/2025/11/11/student-perspective-ai-for-writing-is-a-cautionary-tale/",
+    "source": "PantherNOW",
+    "published_at": "2025-11-12T01:16:43.404606+08:00",
+    "summary": "Sonia Stolar | Contributing Writer. The normalized presence of artificial intelligence in classrooms should be questioned and debated, instead of welcome...",
+    "scraped_at": "2025-11-12T01:17:14+08:00",
+    "canonical_url": "https://panthernow.com/2025/11/11/student-perspective-ai-for-writing-is-a-cautionary-tale/"
+  },
+  {
+    "title": "AI燒錢潮延燒債市 投資人憂科技巨人舉債過度",
+    "url": "https://www.worldjournal.com/wj/story/121208/9132825",
+    "source": "世界新聞網",
+    "published_at": "2025-11-12T01:16:35.619483+08:00",
+    "summary": "投資人近來拋售多家美國大型科技公司的債券，可見矽谷因人工智慧（AI）投資支出暴增所引發的疑慮，已蔓延至債券市場。",
+    "scraped_at": "2025-11-12T01:17:14+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/121208/9132825"
+  },
+  {
+    "title": "ShiftUp Announces ShiftUp AI Revenue Intelligence on Salesforce AppExchange",
+    "url": "https://finance.yahoo.com/news/shiftup-announces-shiftup-ai-revenue-120000148.html",
+    "source": "Yahoo Finance",
+    "published_at": "2025-11-12T01:16:31.709230+08:00",
+    "summary": "PHOENIX, November 11, 2025--ShiftUp's customers benefit from autonomous AI-powered sales intelligence natively in Salesforce to drive revenue growth.",
+    "scraped_at": "2025-11-12T01:17:14+08:00",
+    "canonical_url": "https://finance.yahoo.com/news/shiftup-announces-shiftup-ai-revenue-120000148.html"
+  },
+  {
     "title": "If AI Comes to TV, Nielsen Wants to Play a Big(ger) Role",
     "url": "https://mikeshields.substack.com/p/if-ai-comes-to-tv-nielsen-wants-to",
     "source": "Next in Media | Mike Shields",
@@ -25,87 +133,6 @@
     "summary": "Character.AI banned under-18 users from chatting to its bots, but the CEO says he still allows his 6-year-old daughter to use the app.",
     "scraped_at": "2025-11-12T00:49:13+08:00",
     "canonical_url": "https://time.com/7332932/character-ai-ceo-under-18-ban/"
-  },
-  {
-    "title": "Balancing Social Media's Necessity and AI's Coming Transformation",
-    "url": "https://www.dermatologytimes.com/view/balancing-social-media-s-necessity-and-ai-s-coming-transformation",
-    "source": "Dermatology Times",
-    "published_at": "2025-11-12T00:49:04.064582+08:00",
-    "summary": "Joseph Gatti, DMSc, MPAS, MBA, PA-C, discusses the impact of social media and AI on dermatology, urging professionals to adapt and educate in a rapidly...",
-    "scraped_at": "2025-11-12T00:49:13+08:00",
-    "canonical_url": "https://www.dermatologytimes.com/view/balancing-social-media-s-necessity-and-ai-s-coming-transformation"
-  },
-  {
-    "title": "BigBear.ai to buy Ask Sage, strengthening security-centric AI for federal agencies",
-    "url": "https://cyberscoop.com/big-bear-ai-ask-sage-acquisition-agentic-ai/",
-    "source": "CyberScoop",
-    "published_at": "2025-11-12T00:49:00.874452+08:00",
-    "summary": "Virginia-based BigBear.ai announced Monday it will acquire Ask Sage, a generative artificial intelligence platform specializing in secure deployment of AI...",
-    "scraped_at": "2025-11-12T00:49:13+08:00",
-    "canonical_url": "https://cyberscoop.com/big-bear-ai-ask-sage-acquisition-agentic-ai/"
-  },
-  {
-    "title": "SoftBank's $5.8 billion Nvidia stake sale stirs fresh AI bubble fears",
-    "url": "https://www.reuters.com/business/media-telecom/softbanks-58-billion-nvidia-stake-sale-stirs-fresh-ai-bubble-fears-2025-11-11/",
-    "source": "Reuters",
-    "published_at": "2025-11-12T00:48:57.650461+08:00",
-    "summary": "SoftBank Group's $5.8 billion sale of its Nvidia stake jolted stock markets on Tuesday, stoking fears that the frenzy around artificial intelligence may...",
-    "scraped_at": "2025-11-12T00:49:13+08:00",
-    "canonical_url": "https://www.reuters.com/business/media-telecom/softbanks-58-billion-nvidia-stake-sale-stirs-fresh-ai-bubble-fears-2025-11-11/"
-  },
-  {
-    "title": "Vantaca Unveils Next-Gen AI-Powered Intelligent Community Management Ecosystem at Vision 2025",
-    "url": "https://www.prnewswire.com/news-releases/vantaca-unveils-next-gen-ai-powered-intelligent-community-management-ecosystem-at-vision-2025-302611432.html",
-    "source": "PR Newswire",
-    "published_at": "2025-11-12T00:48:54.339622+08:00",
-    "summary": "PRNewswire/ -- Vantaca, the AI-first community association management platform, today announced three major product innovations at its annual Vision user...",
-    "scraped_at": "2025-11-12T00:49:13+08:00",
-    "canonical_url": "https://www.prnewswire.com/news-releases/vantaca-unveils-next-gen-ai-powered-intelligent-community-management-ecosystem-at-vision-2025-302611432.html"
-  },
-  {
-    "title": "Bridging the AI divide: How Frontier firms are transforming business",
-    "url": "https://blogs.microsoft.com/blog/2025/11/11/bridging-the-ai-divide-how-frontier-firms-are-transforming-business/",
-    "source": "The Official Microsoft Blog",
-    "published_at": "2025-11-12T00:48:51.087824+08:00",
-    "summary": "Across every industry, leaders are asking: How can AI be used to fundamentally transform our business? At the forefront are Frontier firms — empowering...",
-    "scraped_at": "2025-11-12T00:49:13+08:00",
-    "canonical_url": "https://blogs.microsoft.com/blog/2025/11/11/bridging-the-ai-divide-how-frontier-firms-are-transforming-business/"
-  },
-  {
-    "title": "'Big Short' investor Michael Burry accuses AI hyperscalers of artificially boosting earnings",
-    "url": "https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html",
-    "source": "CNBC",
-    "published_at": "2025-11-12T00:48:47.826157+08:00",
-    "summary": "Burry alleged that \"hyperscalers\" are artificially boosting earnings by extending the useful life of their computer equipment.",
-    "scraped_at": "2025-11-12T00:49:13+08:00",
-    "canonical_url": "https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html"
-  },
-  {
-    "title": "Student perspective: AI for writing is a cautionary tale",
-    "url": "https://panthernow.com/2025/11/11/student-perspective-ai-for-writing-is-a-cautionary-tale/",
-    "source": "PantherNOW",
-    "published_at": "2025-11-12T00:48:44.562946+08:00",
-    "summary": "Sonia Stolar | Contributing Writer. The normalized presence of artificial intelligence in classrooms should be questioned and debated, instead of welcome...",
-    "scraped_at": "2025-11-12T00:49:13+08:00",
-    "canonical_url": "https://panthernow.com/2025/11/11/student-perspective-ai-for-writing-is-a-cautionary-tale/"
-  },
-  {
-    "title": "AI燒錢潮延燒債市 投資人憂科技巨人舉債過度",
-    "url": "https://www.worldjournal.com/wj/story/121208/9132825",
-    "source": "世界新聞網",
-    "published_at": "2025-11-12T00:48:39.163082+08:00",
-    "summary": "投資人近來拋售多家美國大型科技公司的債券，可見矽谷因人工智慧（AI）投資支出暴增所引發的疑慮，已蔓延至債券市場。",
-    "scraped_at": "2025-11-12T00:49:13+08:00",
-    "canonical_url": "https://www.worldjournal.com/wj/story/121208/9132825"
-  },
-  {
-    "title": "ShiftUp Announces ShiftUp AI Revenue Intelligence on Salesforce AppExchange",
-    "url": "https://finance.yahoo.com/news/shiftup-announces-shiftup-ai-revenue-120000148.html",
-    "source": "Yahoo Finance",
-    "published_at": "2025-11-12T00:48:35.499928+08:00",
-    "summary": "PHOENIX, November 11, 2025--ShiftUp's customers benefit from autonomous AI-powered sales intelligence natively in Salesforce to drive revenue growth.",
-    "scraped_at": "2025-11-12T00:49:13+08:00",
-    "canonical_url": "https://finance.yahoo.com/news/shiftup-announces-shiftup-ai-revenue-120000148.html"
   },
   {
     "title": "Solutions30’s AI Strategy for Connectivity and Energy",
