@@ -1,0 +1,94 @@
+name: Regenerate Newsletter
+
+on:
+  workflow_dispatch:
+    inputs:
+      prompt:
+        description: '自訂 prompt 指示 (選填，用於調整電子報風格或內容)'
+        required: false
+        type: string
+        default: ''
+      triggered_by:
+        description: 'Trigger source'
+        required: false
+        type: string
+        default: 'manual'
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 完整歷史記錄，確保可以 commit
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install g4f markdown typing-extensions
+      
+      - name: Run regenerate script
+        run: |
+          echo "Starting newsletter regeneration..."
+          echo "Custom prompt: ${{ github.event.inputs.prompt }}"
+          python scripts/regen_py_news.py "${{ github.event.inputs.prompt }}"
+        env:
+          PYTHONUNBUFFERED: 1
+      
+      - name: Check if file was generated
+        run: |
+          TODAY=$(TZ=Asia/Taipei date +%Y-%m-%d)
+          FILE_PATH="eletters/${TODAY}.md"
+          if [ -f "$FILE_PATH" ]; then
+            echo "✅ Newsletter file generated: $FILE_PATH"
+            echo "File size: $(wc -c < $FILE_PATH) bytes"
+            echo "--- First 20 lines ---"
+            head -n 20 "$FILE_PATH"
+          else
+            echo "❌ Newsletter file not found: $FILE_PATH"
+            exit 1
+          fi
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          TODAY=$(TZ=Asia/Taipei date +%Y-%m-%d)
+          FILE_PATH="eletters/${TODAY}.md"
+          
+          git add "$FILE_PATH"
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            COMMIT_MSG="🔄 Regenerate newsletter for ${TODAY}"
+            if [ -n "${{ github.event.inputs.prompt }}" ]; then
+              COMMIT_MSG="${COMMIT_MSG} (custom prompt applied)"
+            fi
+            git commit -m "$COMMIT_MSG"
+            git push
+            echo "✅ Changes committed and pushed"
+          fi
+      
+      - name: Summary
+        run: |
+          TODAY=$(TZ=Asia/Taipei date +%Y-%m-%d)
+          echo "### 🎉 Newsletter Regeneration Complete" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- **Date**: ${TODAY}" >> $GITHUB_STEP_SUMMARY
+          echo "- **File**: eletters/${TODAY}.md" >> $GITHUB_STEP_SUMMARY
+          echo "- **Triggered by**: ${{ github.event.inputs.triggered_by }}" >> $GITHUB_STEP_SUMMARY
+          if [ -n "${{ github.event.inputs.prompt }}" ]; then
+            echo "- **Custom prompt**: ${{ github.event.inputs.prompt }}" >> $GITHUB_STEP_SUMMARY
+          fi
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "Please review the regenerated newsletter at:" >> $GITHUB_STEP_SUMMARY
+          echo "https://github.com/${{ github.repository }}/blob/main/eletters/${TODAY}.md" >> $GITHUB_STEP_SUMMARY
