@@ -1,5 +1,95 @@
 [
   {
+    "title": "Robinhood’s New Bet: Opening Private AI to Retail Investors",
+    "url": "https://www.fintechweekly.com/magazine/articles/robinhood-private-ai-investing-retail-access",
+    "source": "FinTech Weekly",
+    "published_at": "2025-11-12T02:50:10.444387+08:00",
+    "summary": "Robinhood plans a fund to give small investors access to private AI companies, as private markets boom and the fintech sector reshapes investment access.",
+    "scraped_at": "2025-11-12T02:50:10+08:00",
+    "canonical_url": "https://www.fintechweekly.com/magazine/articles/robinhood-private-ai-investing-retail-access"
+  },
+  {
+    "title": "Microsoft, Google to Invest Over $16 Billion to Expand AI Infrastructure in Europe",
+    "url": "https://www.wsj.com/tech/ai/microsoft-to-invest-over-10-billion-to-expand-ai-infrastructure-in-portugal-09f6e5c4?gaa_at=eafs&gaa_n=AWEtsqc_0QyTH4yISpPegXbukpwj_DyeYX8fjAFh6kSPMZrQPV5OmiYestEt&gaa_ts=691388be&gaa_sig=7w7mK_Hat2evuvY146t5UkpGZzgkaGjyg3KxBGjyjFi-CgFwsF7WKWh0_ULQRZnCWk1hVOYOoD4tupUHQv41Eg%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-12T02:50:06.295854+08:00",
+    "summary": "Microsoft will fund a data-center hub in Portugal with more than $10 billion; Google will inject over $6 billion in Germany.",
+    "scraped_at": "2025-11-12T02:50:10+08:00",
+    "canonical_url": "https://www.wsj.com/tech/ai/microsoft-to-invest-over-10-billion-to-expand-ai-infrastructure-in-portugal-09f6e5c4"
+  },
+  {
+    "title": "Pennsylvania taps Carnegie Mellon University for AI advisory services",
+    "url": "https://statescoop.com/pennsylvania-taps-carnegie-mellon-university-for-ai-advisory-services/",
+    "source": "StateScoop",
+    "published_at": "2025-11-12T02:50:03.038135+08:00",
+    "summary": "The Pennsylvania state government is turning to Carnegie Mellon for technical and policy expertise as the state continues establishing its AI governance.",
+    "scraped_at": "2025-11-12T02:50:10+08:00",
+    "canonical_url": "https://statescoop.com/pennsylvania-taps-carnegie-mellon-university-for-ai-advisory-services/"
+  },
+  {
+    "title": "'Big Short' investor Michael Burry accuses AI hyperscalers of artificially boosting earnings",
+    "url": "https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html",
+    "source": "CNBC",
+    "published_at": "2025-11-12T02:49:59.795883+08:00",
+    "summary": "Burry alleged that \"hyperscalers\" are artificially boosting earnings by extending the useful life of their computer equipment.",
+    "scraped_at": "2025-11-12T02:50:10+08:00",
+    "canonical_url": "https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html"
+  },
+  {
+    "title": "Elon Musk Predicts AI ‘Tsunami’ Will Purge Desk Jobs, Paving Way for ‘Universal High Income’",
+    "url": "https://www.eweek.com/news/elon-musk-predicts-ai-tsunami/",
+    "source": "eWeek",
+    "published_at": "2025-11-12T02:49:56.453345+08:00",
+    "summary": "The Tesla CEO says AI will rapidly replace desk-based roles, as industry leaders warn the next phase of automation could upend professional labor markets.",
+    "scraped_at": "2025-11-12T02:50:10+08:00",
+    "canonical_url": "https://www.eweek.com/news/elon-musk-predicts-ai-tsunami/"
+  },
+  {
+    "title": "Physicians must lead the vetting of AI",
+    "url": "https://kevinmd.com/2025/11/physicians-must-lead-the-vetting-of-ai.html",
+    "source": "KevinMD.com",
+    "published_at": "2025-11-12T02:49:53.314212+08:00",
+    "summary": "Physicians must lead the vetting of medical AI, applying clinical rigor to ensure tools are safe, ethical, and effective before they impact patient care.",
+    "scraped_at": "2025-11-12T02:50:10+08:00",
+    "canonical_url": "https://kevinmd.com/2025/11/physicians-must-lead-the-vetting-of-ai.html"
+  },
+  {
+    "title": "University launches new bachelor’s degree in AI, first of its kind in Tennessee",
+    "url": "https://www.wsmv.com/2025/11/11/university-launches-new-bachelors-degree-ai-first-tennessee/",
+    "source": "WSMV",
+    "published_at": "2025-11-12T02:49:49.197053+08:00",
+    "summary": "TTU will become the first institution in the state to offer a baccalaureate-level degree in the theories, systems and development behind AI.",
+    "scraped_at": "2025-11-12T02:50:10+08:00",
+    "canonical_url": "https://www.wsmv.com/2025/11/11/university-launches-new-bachelors-degree-ai-first-tennessee/"
+  },
+  {
+    "title": "Insurtech New England: AI's Impact in 2025 and Beyond",
+    "url": "https://foleyhoag.com/news-and-insights/events/2025/december/insurtech-new-england-ai-s-impact-in-2025-and-beyond/",
+    "source": "Foley Hoag",
+    "published_at": "2025-11-12T02:49:45.720156+08:00",
+    "summary": "Foley Hoag is pround to Insurtech New England's event on the topic AI's Impact in 2025 and Beyond. This event will discuss the future of AI and explore how...",
+    "scraped_at": "2025-11-12T02:50:10+08:00",
+    "canonical_url": "https://foleyhoag.com/news-and-insights/events/2025/december/insurtech-new-england-ai-s-impact-in-2025-and-beyond/"
+  },
+  {
+    "title": "Student perspective: AI for writing is a cautionary tale",
+    "url": "https://panthernow.com/2025/11/11/student-perspective-ai-for-writing-is-a-cautionary-tale/",
+    "source": "PantherNOW",
+    "published_at": "2025-11-12T02:49:42.229039+08:00",
+    "summary": "Sonia Stolar | Contributing Writer. The normalized presence of artificial intelligence in classrooms should be questioned and debated, instead of welcome...",
+    "scraped_at": "2025-11-12T02:50:10+08:00",
+    "canonical_url": "https://panthernow.com/2025/11/11/student-perspective-ai-for-writing-is-a-cautionary-tale/"
+  },
+  {
+    "title": "AI Can Deliver Personalized Learning at Scale, Study Shows",
+    "url": "https://home.dartmouth.edu/news/2025/11/ai-can-deliver-personalized-learning-scale-study-shows",
+    "source": "Dartmouth",
+    "published_at": "2025-11-12T02:49:33.772100+08:00",
+    "summary": "A Dartmouth study finds that students use curated chatbots for trusted 24/7 support. Image. Image. Thomas Thesen. Geisel professor Thomas Thesen and a...",
+    "scraped_at": "2025-11-12T02:50:10+08:00",
+    "canonical_url": "https://home.dartmouth.edu/news/2025/11/ai-can-deliver-personalized-learning-scale-study-shows"
+  },
+  {
     "title": "AI in Architecture: Balancing Innovation with Intentionality",
     "url": "https://www.hok.com/news/2025-11/ai-in-architecture-balancing-innovation-with-intentionality/",
     "source": "www.hok.com",
@@ -27,33 +117,6 @@
     "canonical_url": "https://www.reuters.com/business/media-telecom/softbanks-58-billion-nvidia-stake-sale-stirs-fresh-ai-bubble-fears-2025-11-11/"
   },
   {
-    "title": "Pennsylvania taps Carnegie Mellon University for AI advisory services",
-    "url": "https://statescoop.com/pennsylvania-taps-carnegie-mellon-university-for-ai-advisory-services/",
-    "source": "StateScoop",
-    "published_at": "2025-11-12T01:50:58.188448+08:00",
-    "summary": "The Pennsylvania state government is turning to Carnegie Mellon for technical and policy expertise as the state continues establishing its AI governance.",
-    "scraped_at": "2025-11-12T01:51:08+08:00",
-    "canonical_url": "https://statescoop.com/pennsylvania-taps-carnegie-mellon-university-for-ai-advisory-services/"
-  },
-  {
-    "title": "'Big Short' investor Michael Burry accuses AI hyperscalers of artificially boosting earnings",
-    "url": "https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html",
-    "source": "CNBC",
-    "published_at": "2025-11-12T01:50:55.027336+08:00",
-    "summary": "Burry alleged that \"hyperscalers\" are artificially boosting earnings by extending the useful life of their computer equipment.",
-    "scraped_at": "2025-11-12T01:51:08+08:00",
-    "canonical_url": "https://www.cnbc.com/2025/11/11/big-short-investor-michael-burry-accuses-ai-hyperscalers-of-artificially-boosting-earnings.html"
-  },
-  {
-    "title": "Microsoft, Google to Invest Over $16 Billion to Expand AI Infrastructure in Europe",
-    "url": "https://www.wsj.com/tech/ai/microsoft-to-invest-over-10-billion-to-expand-ai-infrastructure-in-portugal-09f6e5c4?gaa_at=eafs&gaa_n=AWEtsqczVIVjaoSODsdjF2tGDg6S_T8yp-ZYvUpdyXoTl1K3zWYy5KCyuCsT&gaa_ts=69137aee&gaa_sig=wYlcZs0Pz-PxzVPv73Rjqq7xW2vBz5xRFNRfXFGkhZH41K5sXyFr4XVfmHgn-HYGjTS8zcfNvpzSXV365tj6aw%3D%3D",
-    "source": "The Wall Street Journal",
-    "published_at": "2025-11-12T01:50:51.867099+08:00",
-    "summary": "Microsoft will fund a data-center hub in Portugal with more than $10 billion; Google will inject over $6 billion in Germany.",
-    "scraped_at": "2025-11-12T01:51:08+08:00",
-    "canonical_url": "https://www.wsj.com/tech/ai/microsoft-to-invest-over-10-billion-to-expand-ai-infrastructure-in-portugal-09f6e5c4"
-  },
-  {
     "title": "Meta chief AI scientist Yann LeCun plans to exit and launch own start-up",
     "url": "https://www.ft.com/content/c586eb77-a16e-4363-ab0b-e877898b70de",
     "source": "Financial Times",
@@ -61,33 +124,6 @@
     "summary": "Meta's chief artificial intelligence scientist Yann LeCun is planning to leave the social media giant to found his own start-up, as Mark Zuckerberg seeks to...",
     "scraped_at": "2025-11-12T01:51:08+08:00",
     "canonical_url": "https://www.ft.com/content/c586eb77-a16e-4363-ab0b-e877898b70de"
-  },
-  {
-    "title": "Insurtech New England: AI's Impact in 2025 and Beyond",
-    "url": "https://foleyhoag.com/news-and-insights/events/2025/december/insurtech-new-england-ai-s-impact-in-2025-and-beyond/",
-    "source": "Foley Hoag",
-    "published_at": "2025-11-12T01:50:44.926255+08:00",
-    "summary": "Foley Hoag is pround to Insurtech New England's event on the topic AI's Impact in 2025 and Beyond. This event will discuss the future of AI and explore how...",
-    "scraped_at": "2025-11-12T01:51:08+08:00",
-    "canonical_url": "https://foleyhoag.com/news-and-insights/events/2025/december/insurtech-new-england-ai-s-impact-in-2025-and-beyond/"
-  },
-  {
-    "title": "AI Can Deliver Personalized Learning at Scale, Study Shows",
-    "url": "https://home.dartmouth.edu/news/2025/11/ai-can-deliver-personalized-learning-scale-study-shows",
-    "source": "Dartmouth",
-    "published_at": "2025-11-12T01:50:41.603185+08:00",
-    "summary": "A Dartmouth study finds that students use curated chatbots for trusted 24/7 support. Image. Image. Thomas Thesen. Geisel professor Thomas Thesen and a...",
-    "scraped_at": "2025-11-12T01:51:08+08:00",
-    "canonical_url": "https://home.dartmouth.edu/news/2025/11/ai-can-deliver-personalized-learning-scale-study-shows"
-  },
-  {
-    "title": "Student perspective: AI for writing is a cautionary tale",
-    "url": "https://panthernow.com/2025/11/11/student-perspective-ai-for-writing-is-a-cautionary-tale/",
-    "source": "PantherNOW",
-    "published_at": "2025-11-12T01:50:38.410699+08:00",
-    "summary": "Sonia Stolar | Contributing Writer. The normalized presence of artificial intelligence in classrooms should be questioned and debated, instead of welcome...",
-    "scraped_at": "2025-11-12T01:51:08+08:00",
-    "canonical_url": "https://panthernow.com/2025/11/11/student-perspective-ai-for-writing-is-a-cautionary-tale/"
   },
   {
     "title": "BigBear.ai to buy Ask Sage, strengthening security-centric AI for federal agencies",
@@ -106,15 +142,6 @@
     "summary": "PRNewswire/ -- Vantaca, the AI-first community association management platform, today announced three major product innovations at its annual Vision user...",
     "scraped_at": "2025-11-12T01:41:42+08:00",
     "canonical_url": "https://www.prnewswire.com/news-releases/vantaca-unveils-next-gen-ai-powered-intelligent-community-management-ecosystem-at-vision-2025-302611432.html"
-  },
-  {
-    "title": "Elon Musk Predicts AI ‘Tsunami’ Will Purge Desk Jobs, Paving Way for ‘Universal High Income’",
-    "url": "https://www.eweek.com/news/elon-musk-predicts-ai-tsunami/",
-    "source": "eWeek",
-    "published_at": "2025-11-12T01:41:22.988708+08:00",
-    "summary": "The Tesla CEO says AI will rapidly replace desk-based roles, as industry leaders warn the next phase of automation could upend professional labor markets.",
-    "scraped_at": "2025-11-12T01:41:42+08:00",
-    "canonical_url": "https://www.eweek.com/news/elon-musk-predicts-ai-tsunami/"
   },
   {
     "title": "FTSE closes at record high record while US stocks stutter as AI angst takes hold",
