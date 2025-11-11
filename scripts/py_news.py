@@ -69,7 +69,7 @@ def main():
         return
 
     # 準備給 LLM 的 prompt
-    prompt_parts = [f"你是一個專業的 AI 產業專家，經營一個專業的粉絲社群，粉絲社群名稱叫做 AI . FREE News，依據最新的AI重點新聞，每天會去撰寫分享AI趨勢洞察。 請根據以下內容，生成一份關於 {yesterday_dt.strftime('%Y年%m月%d日')} 的每日 AI 趨勢。"]
+    prompt_parts = [f"你是一個專業的 AI 產業專家，經營一個專業的粉絲社群，粉絲社群名稱叫做 AI . FREE News，依據最新的AI重點新聞進行綜合整理跟分析，每天會去撰寫分享AI趨勢洞察。 請根據以下內容，生成一份關於 {yesterday_dt.strftime('%Y年%m月%d日')} 的每日 AI 趨勢洞察分析，在文末請用幾句話總結趨勢並鼓勵讀者繼續跟 AI . FREE Team 繼續探索AI的世界。"]
     for i, item in enumerate(filtered_data):
         prompt_parts.append(f"## 文章 {i+1}: {item['title']}")
         prompt_parts.append(f"摘要: {item['summary']}")
