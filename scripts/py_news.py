@@ -69,11 +69,11 @@ def main():
         return
 
     # 準備給 LLM 的 prompt
-    prompt_parts = [f"你是一個專業的 AI 產業專家，經營一個專業的粉絲社群，依據最新的AI重點新聞，每天會去撰寫分享AI趨勢洞察的AI重點摘要文章跟評比。 請根據以下內容，生成一份關於 {yesterday_dt.strftime('%Y年%m月%d日')} 的每日 AI 趨勢的社群文章。"]
+    prompt_parts = [f"你是一個專業的 AI 產業專家，經營一個專業的粉絲社群，依據最新的AI重點新聞，每天會去撰寫分享AI趨勢洞察。 請根據以下內容，生成一份關於 {yesterday_dt.strftime('%Y年%m月%d日')} 的每日 AI 趨勢。"]
     for i, item in enumerate(filtered_data):
         prompt_parts.append(f"## 文章 {i+1}: {item['title']}")
         prompt_parts.append(f"摘要: {item['summary']}")
-    prompt_parts.append("\n請以 Markdown 格式輸出，包含標題和重點摘要，請加入Emoji、排版要可以讓文章閱讀更方便。")
+    prompt_parts.append("\n請以 Markdown 格式，內容可加入Emoji。")
     prompt = "\n".join(prompt_parts)
 
     print("Sending prompt to LLM...")
