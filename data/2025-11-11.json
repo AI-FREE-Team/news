@@ -1,5 +1,95 @@
 [
   {
+    "title": "Agentic AI Is Reframing the Enterprise Buy-vs-Build Calculus",
+    "url": "https://www.pymnts.com/artificial-intelligence-2/2025/agentic-ai-is-reframing-the-enterprise-buy-vs-build-calculus/",
+    "source": "PYMNTS.com",
+    "published_at": "2025-11-11T17:21:02.637378+08:00",
+    "summary": "When deciding on Agentic AI, CIOs and CFOs are weighing more than cost and speed. They are confronting a new corporate faultline: autonomy.",
+    "scraped_at": "2025-11-11T17:21:02+08:00",
+    "canonical_url": "https://www.pymnts.com/artificial-intelligence-2/2025/agentic-ai-is-reframing-the-enterprise-buy-vs-build-calculus/"
+  },
+  {
+    "title": "Dispute at second-highest NC court highlights AI’s potential pitfalls",
+    "url": "https://www.carolinajournal.com/opinion/dispute-at-second-highest-nc-court-highlights-ais-potential-pitfalls/",
+    "source": "Carolina Journal",
+    "published_at": "2025-11-11T17:20:59.176267+08:00",
+    "summary": "Artificial intelligence has the power to improve our lives. Like any tool, though, AI benefits us only when we use it properly.",
+    "scraped_at": "2025-11-11T17:21:02+08:00",
+    "canonical_url": "https://www.carolinajournal.com/opinion/dispute-at-second-highest-nc-court-highlights-ais-potential-pitfalls/"
+  },
+  {
+    "title": "“They are fearful of AI,” music writer Bob Lefsetz tells Elex Michaelson",
+    "url": "https://www.cnn.com/2025/11/11/business/video/ai-singer-music-billboard-charts-music-michael-jackson-thriller-the-lefsetz-letter-bob-lefsetz-tsi",
+    "source": "CNN",
+    "published_at": "2025-11-11T17:20:55.894505+08:00",
+    "summary": "AI singer climbs the billboard music charts. Music writer Bob Lefsetz joins Elex Michaelson to discuss.",
+    "scraped_at": "2025-11-11T17:21:02+08:00",
+    "canonical_url": "https://www.cnn.com/2025/11/11/business/video/ai-singer-music-billboard-charts-music-michael-jackson-thriller-the-lefsetz-letter-bob-lefsetz-tsi"
+  },
+  {
+    "title": "Credem Strengthens Partnership With Google Cloud to Accelerate Innovation With Generative AI",
+    "url": "https://www.googlecloudpresscorner.com/2025-11-11-Credem-Strengthens-Partnership-With-Google-Cloud-to-Accelerate-Innovation-With-Generative-AI",
+    "source": "Google Cloud Press Corner",
+    "published_at": "2025-11-11T17:20:52.657811+08:00",
+    "summary": "Banking group extending its strategic collaboration with Google Cloud to implement Google Workspace with Gemini, supporting daily operations and enhancing...",
+    "scraped_at": "2025-11-11T17:21:02+08:00",
+    "canonical_url": "https://www.googlecloudpresscorner.com/2025-11-11-Credem-Strengthens-Partnership-With-Google-Cloud-to-Accelerate-Innovation-With-Generative-AI"
+  },
+  {
+    "title": "Faculty Lead AI Usage Conversations on College Campuses",
+    "url": "https://www.insidehighered.com/news/student-success/academic-life/2025/11/11/faculty-lead-ai-usage-conversations-college-campuses",
+    "source": "Inside Higher Ed",
+    "published_at": "2025-11-11T17:20:49.384373+08:00",
+    "summary": "Survey data shows a majority of college students are aware of appropriate AI use cases in the classroom because their instructors—not administrators—set the...",
+    "scraped_at": "2025-11-11T17:21:02+08:00",
+    "canonical_url": "https://www.insidehighered.com/news/student-success/academic-life/2025/11/11/faculty-lead-ai-usage-conversations-college-campuses"
+  },
+  {
+    "title": "Rewriting the Rules: The AI-First Retailer | BCG",
+    "url": "https://www.bcg.com/publications/2025/rewriting-rules-the-ai-first-retailer",
+    "source": "Boston Consulting Group",
+    "published_at": "2025-11-11T17:20:46.240954+08:00",
+    "summary": "AI is reshaping the consumer journey. Platforms like ChatGPT, Google's AI Mode, and Perplexity now recommend products and enable direct purchases.",
+    "scraped_at": "2025-11-11T17:21:02+08:00",
+    "canonical_url": "https://www.bcg.com/publications/2025/rewriting-rules-the-ai-first-retailer"
+  },
+  {
+    "title": "Understanding global AI diffusion",
+    "url": "https://blogs.microsoft.com/on-the-issues/2025/11/10/understanding-global-ai-diffusion/",
+    "source": "The Official Microsoft Blog",
+    "published_at": "2025-11-11T17:20:43.033013+08:00",
+    "summary": "Artificial intelligence is transforming the way we work, learn, and innovate—and it's doing so at a pace that surpasses every major technology before it.",
+    "scraped_at": "2025-11-11T17:21:02+08:00",
+    "canonical_url": "https://blogs.microsoft.com/on-the-issues/2025/11/10/understanding-global-ai-diffusion/"
+  },
+  {
+    "title": "ISA position paper explores industrial AI in automation, covering opportunities, risks, cybersecurity considerations",
+    "url": "https://industrialcyber.co/ai/isa-position-paper-explores-industrial-ai-in-automation-covering-opportunities-risks-cybersecurity-considerations/",
+    "source": "Industrial Cyber",
+    "published_at": "2025-11-11T17:20:39.823743+08:00",
+    "summary": "The International Society of Automation (ISA) recently published a position paper that provides a forward-looking perspective on the opportunities, risks,...",
+    "scraped_at": "2025-11-11T17:21:02+08:00",
+    "canonical_url": "https://industrialcyber.co/ai/isa-position-paper-explores-industrial-ai-in-automation-covering-opportunities-risks-cybersecurity-considerations/"
+  },
+  {
+    "title": "USC’s five decades at the frontier of AI innovation — USC News",
+    "url": "https://today.usc.edu/uscs-five-decades-at-the-forefront-of-ai-innovation/",
+    "source": "USC Today",
+    "published_at": "2025-11-11T17:20:36.363358+08:00",
+    "summary": "USC has been shaping the future of computing and artificial intelligence for more than half a century, and with the October announcement of the President's...",
+    "scraped_at": "2025-11-11T17:21:02+08:00",
+    "canonical_url": "https://today.usc.edu/uscs-five-decades-at-the-forefront-of-ai-innovation/"
+  },
+  {
+    "title": "Kennedy: 10 things AI will never experience",
+    "url": "https://www.timesfreepress.com/news/2025/nov/10/kennedy-10-things-ai-will-never-experience/",
+    "source": "Chattanooga Times Free Press",
+    "published_at": "2025-11-11T17:20:33.246427+08:00",
+    "summary": "Given the choice between artificial intelligence and authentic intelligence, I'll take authentic — the occasionally brilliant but often flawed information...",
+    "scraped_at": "2025-11-11T17:21:02+08:00",
+    "canonical_url": "https://www.timesfreepress.com/news/2025/nov/10/kennedy-10-things-ai-will-never-experience/"
+  },
+  {
     "title": "It’s Time for Fashion to Get Real About AI’s Impact on Jobs",
     "url": "https://www.businessoffashion.com/articles/workplace-talent/its-time-for-fashion-to-get-real-about-ais-impact-on-jobs/",
     "source": "The Business of Fashion",
@@ -36,24 +126,6 @@
     "canonical_url": "https://www.cnbc.com/2025/11/11/cnbc-daily-open-days-of-declines-wont-keep-ai-trade-down.html"
   },
   {
-    "title": "“They are fearful of AI,” music writer Bob Lefsetz tells Elex Michaelson",
-    "url": "https://www.cnn.com/2025/11/11/business/video/ai-singer-music-billboard-charts-music-michael-jackson-thriller-the-lefsetz-letter-bob-lefsetz-tsi",
-    "source": "CNN",
-    "published_at": "2025-11-11T16:49:06.294095+08:00",
-    "summary": "AI singer climbs the billboard music charts. Music writer Bob Lefsetz joins Elex Michaelson to discuss.",
-    "scraped_at": "2025-11-11T16:49:19+08:00",
-    "canonical_url": "https://www.cnn.com/2025/11/11/business/video/ai-singer-music-billboard-charts-music-michael-jackson-thriller-the-lefsetz-letter-bob-lefsetz-tsi"
-  },
-  {
-    "title": "Faculty Lead AI Usage Conversations on Campus",
-    "url": "https://www.insidehighered.com/news/student-success/academic-life/2025/11/11/faculty-lead-ai-usage-conversations-college-campuses",
-    "source": "Inside Higher Ed",
-    "published_at": "2025-11-11T16:49:03.094166+08:00",
-    "summary": "Survey data shows a majority of college students are aware of appropriate AI use cases in the classroom because their instructors—not administrators—set the...",
-    "scraped_at": "2025-11-11T16:49:19+08:00",
-    "canonical_url": "https://www.insidehighered.com/news/student-success/academic-life/2025/11/11/faculty-lead-ai-usage-conversations-college-campuses"
-  },
-  {
     "title": "The AI Cold War That Will Redefine Everything",
     "url": "https://www.wsj.com/tech/ai/the-ai-cold-war-that-will-redefine-everything-4e1810b2?gaa_at=eafs&gaa_n=AWEtsqcJP4d6kb7EbKEOtJMcU6tMxzI7-9Z8uqn5EpLCuDQg3XE3UQCXoimX&gaa_ts=6912fbf2&gaa_sig=0PLON4dQuOJVd9Xe4J95WI4t6rfE3qc0goes43kfZI7zjqsl084AmGAT9uP4szV0ZFmVO7OCuJpSqFdUquO1Ww%3D%3D",
     "source": "The Wall Street Journal",
@@ -61,33 +133,6 @@
     "summary": "America holds a sizable lead, but China is working to tip the scales with a sweeping countrywide push, betting 'swarms beat the titan'",
     "scraped_at": "2025-11-11T16:49:19+08:00",
     "canonical_url": "https://www.wsj.com/tech/ai/the-ai-cold-war-that-will-redefine-everything-4e1810b2"
-  },
-  {
-    "title": "Rewriting the Rules: The AI-First Retailer | BCG",
-    "url": "https://www.bcg.com/publications/2025/rewriting-rules-the-ai-first-retailer",
-    "source": "Boston Consulting Group",
-    "published_at": "2025-11-11T16:48:56.542284+08:00",
-    "summary": "AI is reshaping the consumer journey. Platforms like ChatGPT, Google's AI Mode, and Perplexity now recommend products and enable direct purchases.",
-    "scraped_at": "2025-11-11T16:49:19+08:00",
-    "canonical_url": "https://www.bcg.com/publications/2025/rewriting-rules-the-ai-first-retailer"
-  },
-  {
-    "title": "Understanding global AI diffusion",
-    "url": "https://blogs.microsoft.com/on-the-issues/2025/11/10/understanding-global-ai-diffusion/",
-    "source": "The Official Microsoft Blog",
-    "published_at": "2025-11-11T16:48:53.289565+08:00",
-    "summary": "Artificial intelligence is transforming the way we work, learn, and innovate—and it's doing so at a pace that surpasses every major technology before it.",
-    "scraped_at": "2025-11-11T16:49:19+08:00",
-    "canonical_url": "https://blogs.microsoft.com/on-the-issues/2025/11/10/understanding-global-ai-diffusion/"
-  },
-  {
-    "title": "Kennedy: 10 things AI will never experience",
-    "url": "https://www.timesfreepress.com/news/2025/nov/10/kennedy-10-things-ai-will-never-experience/",
-    "source": "Chattanooga Times Free Press",
-    "published_at": "2025-11-11T16:48:50.147186+08:00",
-    "summary": "Given the choice between artificial intelligence and authentic intelligence, I'll take authentic — the occasionally brilliant but often flawed information...",
-    "scraped_at": "2025-11-11T16:49:19+08:00",
-    "canonical_url": "https://www.timesfreepress.com/news/2025/nov/10/kennedy-10-things-ai-will-never-experience/"
   },
   {
     "title": "【活動分享】「用AI打造孩子的自主學習力」工作坊，陪家長與老師探索教育新可能:最新消息",
