@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>電子報審閱管理</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
     <style>
         * {
             margin: 0;
@@ -47,6 +48,9 @@
             color: #667eea;
             margin-bottom: 15px;
             font-weight: bold;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
         }
         .preview-box {
             background: #f8f9fa;
@@ -55,10 +59,81 @@
             padding: 20px;
             max-height: 500px;
             overflow-y: auto;
+            line-height: 1.6;
+        }
+        .preview-box.raw {
             font-family: 'Courier New', monospace;
             font-size: 14px;
-            line-height: 1.6;
             white-space: pre-wrap;
+        }
+        .preview-box.rendered {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 15px;
+        }
+        .preview-box.rendered h1 {
+            font-size: 24px;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            color: #333;
+            border-bottom: 2px solid #667eea;
+            padding-bottom: 5px;
+        }
+        .preview-box.rendered h2 {
+            font-size: 20px;
+            margin-top: 16px;
+            margin-bottom: 8px;
+            color: #444;
+        }
+        .preview-box.rendered h3 {
+            font-size: 18px;
+            margin-top: 14px;
+            margin-bottom: 6px;
+            color: #555;
+        }
+        .preview-box.rendered p {
+            margin-bottom: 12px;
+            line-height: 1.8;
+        }
+        .preview-box.rendered ul, .preview-box.rendered ol {
+            margin-left: 25px;
+            margin-bottom: 12px;
+        }
+        .preview-box.rendered li {
+            margin-bottom: 6px;
+        }
+        .preview-box.rendered a {
+            color: #667eea;
+            text-decoration: none;
+        }
+        .preview-box.rendered a:hover {
+            text-decoration: underline;
+        }
+        .preview-box.rendered code {
+            background: #f0f0f0;
+            padding: 2px 6px;
+            border-radius: 3px;
+            font-family: 'Courier New', monospace;
+            font-size: 13px;
+        }
+        .preview-box.rendered pre {
+            background: #2d2d2d;
+            color: #f8f8f2;
+            padding: 15px;
+            border-radius: 5px;
+            overflow-x: auto;
+            margin-bottom: 12px;
+        }
+        .preview-box.rendered pre code {
+            background: transparent;
+            padding: 0;
+            color: inherit;
+        }
+        .preview-box.rendered blockquote {
+            border-left: 4px solid #667eea;
+            padding-left: 15px;
+            margin: 15px 0;
+            color: #666;
+            font-style: italic;
         }
         .status {
             padding: 15px;
@@ -123,6 +198,16 @@
             background: #5568d3;
             box-shadow: 0 6px 20px rgba(102,126,234,0.5);
         }
+        button.small {
+            padding: 8px 20px;
+            font-size: 14px;
+            min-width: auto;
+            flex: none;
+        }
+        .toggle-buttons {
+            display: flex;
+            gap: 10px;
+        }
         .prompt-input {
             width: 100%;
             min-height: 120px;
@@ -166,12 +251,19 @@
         
         <!-- 預覽區塊 -->
         <div class="section">
-            <div class="section-title">📄 電子報預覽</div>
+            <div class="section-title">
+                <span>📄 電子報預覽</span>
+                <div class="toggle-buttons">
+                    <button class="secondary small" onclick="toggleViewMode('raw')" id="rawBtn">原始碼</button>
+                    <button class="secondary small" onclick="toggleViewMode('rendered')" id="renderedBtn">渲染顯示</button>
+                    <button class="secondary small" onclick="loadLatestNewsletter()" id="refreshBtn">🔄 重新載入</button>
+                </div>
+            </div>
             <div id="previewStatus" class="status loading">正在載入電子報內容...</div>
             <div id="spinner1" style="display: block;">
                 <div class="spinner"></div>
             </div>
-            <div id="previewBox" class="preview-box" style="display: none;"></div>
+            <div id="previewBox" class="preview-box rendered" style="display: none;"></div>
         </div>
         
         <!-- 重新生成區塊 -->
@@ -221,8 +313,11 @@
             repo: 'news',
             token: dynamicToken || 'DEFAULT_TOKEN_IF_NEEDED',
             publishWorkflowId: 'confirm.yml',
-            regenerateWorkflowId: 'regenerate.yml'  // 重新生成用的 workflow
+            regenerateWorkflowId: 'regenerate.yml'
         };
+
+        let currentContent = '';
+        let currentViewMode = 'rendered';
 
         // 取得台灣時間的今天日期 (YYYY-MM-DD 格式)
         function getTaiwanDate() {
@@ -234,27 +329,52 @@
             return `${year}-${month}-${day}`;
         }
 
+        // 切換顯示模式
+        function toggleViewMode(mode) {
+            currentViewMode = mode;
+            const previewBox = document.getElementById('previewBox');
+            const rawBtn = document.getElementById('rawBtn');
+            const renderedBtn = document.getElementById('renderedBtn');
+            
+            if (mode === 'raw') {
+                previewBox.className = 'preview-box raw';
+                previewBox.textContent = currentContent;
+                rawBtn.style.opacity = '1';
+                renderedBtn.style.opacity = '0.6';
+            } else {
+                previewBox.className = 'preview-box rendered';
+                previewBox.innerHTML = marked.parse(currentContent);
+                rawBtn.style.opacity = '0.6';
+                renderedBtn.style.opacity = '1';
+            }
+        }
+
         // 載入最新的 MD 檔案
         async function loadLatestNewsletter() {
             const date = getTaiwanDate();
             const mdUrl = `https://raw.githubusercontent.com/${CONFIG.owner}/${CONFIG.repo}/refs/heads/main/eletters/${date}.md`;
             
             document.getElementById('dateInfo').textContent = `台灣時間: ${date}`;
+            document.getElementById('spinner1').style.display = 'block';
+            document.getElementById('previewStatus').className = 'status loading';
+            document.getElementById('previewStatus').textContent = '正在載入電子報內容...';
+            document.getElementById('previewBox').style.display = 'none';
             
             try {
-                const response = await fetch(mdUrl);
+                const response = await fetch(mdUrl, { cache: 'no-cache' });
                 
                 if (!response.ok) {
                     throw new Error(`HTTP ${response.status}`);
                 }
                 
-                const content = await response.text();
+                currentContent = await response.text();
                 
                 document.getElementById('spinner1').style.display = 'none';
                 document.getElementById('previewStatus').className = 'status success';
                 document.getElementById('previewStatus').textContent = `✅ 成功載入 ${date}.md`;
                 document.getElementById('previewBox').style.display = 'block';
-                document.getElementById('previewBox').textContent = content;
+                
+                toggleViewMode(currentViewMode);
                 
             } catch (error) {
                 document.getElementById('spinner1').style.display = 'none';
