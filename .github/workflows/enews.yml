@@ -1,4 +1,4 @@
-name: 每日早上自動任務
+name: 每日電子報生成
 
 on:
   schedule:
@@ -104,16 +104,16 @@ jobs:
               </div>
               
               <hr style="margin: 20px 0;">
-              <p style="font-size: 16px;">資料有誤？想立刻重新整理？</p>
+              <p style="font-size: 16px;">請點擊按鈕開始審核</p>
               
               <div style="text-align: center; margin: 30px 0;">
-                <a href="https://ai-free-team.github.io/news/enew.html?token=${{ secrets.PERSONAL_ACCESS_TOKEN }}"
+                <a href="https://ai-free-team.github.io/news/management/enew_v2.html?token=${{ secrets.PERSONAL_ACCESS_TOKEN }}"
                    style="background: #ff6b35; color: white; padding: 16px 32px; text-decoration: none; font-size: 18px; font-weight: bold; border-radius: 50px; box-shadow: 0 4px 15px rgba(255,107,53,0.4);">
-                   立即重新整理資料
+                   進入審核系統
                 </a>
               </div>
               
               <p style="text-align: center; color: #666; font-size: 12px;">
-                點擊後約 10 秒內會再收到「成功!!」通知信
+                夢裡 bun bun
               </p>
             </div>
