@@ -1,21 +1,138 @@
 [
   {
+    "title": "UNL launched its AI chatbot 'Cornelius' last week, and it’s popping off",
+    "url": "https://nebraskapublicmedia.org/es/news/news-articles/unl-launched-its-ai-chatbot-cornelius-last-week-and-its-popping-off/",
+    "source": "Nebraska Public Media",
+    "published_at": "2025-11-12T09:22:44.599219+08:00",
+    "summary": "11 de Noviembre de 2025 a las 15:16 · 4 min read. UNL AI chatbot Cornelius The University of Nebraska-Lincoln's chatbot, Cornelius, has been messaged 27,000...",
+    "scraped_at": "2025-11-12T09:22:44+08:00",
+    "canonical_url": "https://nebraskapublicmedia.org/es/news/news-articles/unl-launched-its-ai-chatbot-cornelius-last-week-and-its-popping-off/"
+  },
+  {
+    "title": "How agentic AI is transforming corporate tax departments",
+    "url": "https://tax.thomsonreuters.com/blog/how-agentic-ai-is-transforming-corporate-tax-departments/",
+    "source": "Thomson Reuters tax",
+    "published_at": "2025-11-12T09:22:41.214066+08:00",
+    "summary": "The transformation of tax departments through AI isn't just about adopting new tools. It's about reimagining how tax functions operate and deliver value.",
+    "scraped_at": "2025-11-12T09:22:44+08:00",
+    "canonical_url": "https://tax.thomsonreuters.com/blog/how-agentic-ai-is-transforming-corporate-tax-departments/"
+  },
+  {
+    "title": "Generative AI: Uneven adoption, labour market returns, and policy implications",
+    "url": "https://voxeu.org/voxeu/columns/generative-ai-uneven-adoption-labour-market-returns-and-policy-implications",
+    "source": "CEPR",
+    "published_at": "2025-11-12T09:22:37.575289+08:00",
+    "summary": "Generative AI is being adopted more rapidly than previous digital technologies and has the potential to deliver meaningful productivity gains in...",
+    "scraped_at": "2025-11-12T09:22:44+08:00",
+    "canonical_url": "https://voxeu.org/voxeu/columns/generative-ai-uneven-adoption-labour-market-returns-and-policy-implications"
+  },
+  {
+    "title": "Courts Are Starting To Define What “AI Discovery” Means | eData Edge | Blogs",
+    "url": "https://www.arnoldporter.com/en/perspectives/blogs/edata-edge/2025/11/courts-are-starting-to-define-what-ai-discovery-means",
+    "source": "Arnold & Porter",
+    "published_at": "2025-11-12T09:22:34.488053+08:00",
+    "summary": "As companies increasingly rely on generative AI tools to assist with research, writing, coding, and other business functions, opposing parties in litigation...",
+    "scraped_at": "2025-11-12T09:22:44+08:00",
+    "canonical_url": "https://www.arnoldporter.com/en/perspectives/blogs/edata-edge/2025/11/courts-are-starting-to-define-what-ai-discovery-means"
+  },
+  {
+    "title": "Chris Nomura earns national award for AI research innovation",
+    "url": "https://www.uidaho.edu/newsroom/nomura-aplu-award",
+    "source": "University of Idaho",
+    "published_at": "2025-11-12T09:22:31.106544+08:00",
+    "summary": "University of Idaho research leader received a national APLU award for leading AI innovations that improve university operations.",
+    "scraped_at": "2025-11-12T09:22:44+08:00",
+    "canonical_url": "https://www.uidaho.edu/newsroom/nomura-aplu-award"
+  },
+  {
+    "title": "Texas Contemplates Ethics Code for Government Use of AI",
+    "url": "https://www.govtech.com/artificial-intelligence/texas-contemplates-ethics-code-for-government-use-of-ai",
+    "source": "GovTech",
+    "published_at": "2025-11-12T09:22:27.134906+08:00",
+    "summary": "Proposed by the state Department of Information Resources, the code would apply to all state agencies and local entities that procure, develop or deploy AI...",
+    "scraped_at": "2025-11-12T09:22:44+08:00",
+    "canonical_url": "https://www.govtech.com/artificial-intelligence/texas-contemplates-ethics-code-for-government-use-of-ai"
+  },
+  {
+    "title": "Meta AI Pioneer Has Discussed Leaving to Launch a Startup",
+    "url": "https://www.wsj.com/tech/ai/meta-ai-pioneer-has-discussed-leaving-to-launch-a-startup-5fce6691?gaa_at=eafs&gaa_n=AWEtsqc1ykxQfZ3T3SrWLvn9VYSYEIXW6ogVFLjCkvYIDLS5OPc6hArBJIxn&gaa_ts=6913e4c6&gaa_sig=f5eI8N1AwUF48P5c84hpzqbyz4QNdygVa6qDjF3ozoIcBbrVr00tifzhQvlDM0M-Ab8IJKhtXHstIV5cQLp8bw%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-12T09:22:23.658156+08:00",
+    "summary": "Yann LeCun, the company's chief AI scientist, has recruited associates and discussed funding options for startup idea.",
+    "scraped_at": "2025-11-12T09:22:44+08:00",
+    "canonical_url": "https://www.wsj.com/tech/ai/meta-ai-pioneer-has-discussed-leaving-to-launch-a-startup-5fce6691"
+  },
+  {
+    "title": "COMMENTARY: Why all students need a foundation in computer science and AI",
+    "url": "https://edsource.org/2025/computer-science-ai-literacy/744747",
+    "source": "EdSource",
+    "published_at": "2025-11-12T09:22:20.356429+08:00",
+    "summary": "Discover the importance of AI literacy and computer science education in preparing students for an AI-driven future. Join the mission to empower creators,...",
+    "scraped_at": "2025-11-12T09:22:44+08:00",
+    "canonical_url": "https://edsource.org/2025/computer-science-ai-literacy/744747"
+  },
+  {
+    "title": "Private AI Compute: our next step in building private and helpful AI",
+    "url": "https://blog.google/technology/ai/google-private-ai-compute/",
+    "source": "blog.google",
+    "published_at": "2025-11-12T09:22:16.802757+08:00",
+    "summary": "Introducing Private AI Compute, our new way to bring you helpful AI with the power of the cloud, while keeping your data private to you.",
+    "scraped_at": "2025-11-12T09:22:44+08:00",
+    "canonical_url": "https://blog.google/technology/ai/google-private-ai-compute/"
+  },
+  {
+    "title": "An Urgent Message: What You Need to Know About AI",
+    "url": "https://robertreich.substack.com/p/an-urgent-message-what-you-need-to",
+    "source": "Robert Reich | Substack",
+    "published_at": "2025-11-12T09:22:13.487133+08:00",
+    "summary": "Friends,. I live within a few miles of where OpenAI, Meta, Amazon, Alphabet (Google), and a handful of AI startups are pouring tens of billions of dollars...",
+    "scraped_at": "2025-11-12T09:22:44+08:00",
+    "canonical_url": "https://robertreich.substack.com/p/an-urgent-message-what-you-need-to"
+  },
+  {
     "title": "中國網路AI微短劇爆紅 低成本高收益成新寵",
     "url": "https://www.bbc.com/zhongwen/articles/c4gwy79y7pzo/trad",
     "source": "BBC",
-    "published_at": "2025-11-12T07:50:28.942617+08:00",
+    "published_at": "2025-11-12T09:22:08.759582+08:00",
     "summary": "在中國，一場由人工智能推動的「微短劇革命」正迅速改變網絡內容生態。這類短劇無需演員或攝影棚，AI僅需數小時便能生成由俊男美女主演、情節誇張的「狗血」故事，...",
-    "scraped_at": "2025-11-12T07:50:30+08:00",
+    "scraped_at": "2025-11-12T09:22:44+08:00",
     "canonical_url": "https://www.bbc.com/zhongwen/articles/c4gwy79y7pzo/trad"
   },
   {
     "title": "ShiftUp Announces ShiftUp AI Revenue Intelligence on Salesforce AppExchange",
     "url": "https://finance.yahoo.com/news/shiftup-announces-shiftup-ai-revenue-120000148.html",
     "source": "Yahoo Finance",
-    "published_at": "2025-11-12T07:50:25.738896+08:00",
+    "published_at": "2025-11-12T09:22:05.162602+08:00",
     "summary": "PHOENIX, November 11, 2025--ShiftUp's customers benefit from autonomous AI-powered sales intelligence natively in Salesforce to drive revenue growth.",
-    "scraped_at": "2025-11-12T07:50:30+08:00",
+    "scraped_at": "2025-11-12T09:22:44+08:00",
     "canonical_url": "https://finance.yahoo.com/news/shiftup-announces-shiftup-ai-revenue-120000148.html"
+  },
+  {
+    "title": "微軟、Google將投資逾160億美元擴建歐洲AI基礎設施",
+    "url": "https://cn.wsj.com/articles/%E5%BE%AE%E8%BB%9F-google%E5%B0%87%E6%8A%95%E8%B3%87%E9%80%BE160%E5%84%84%E7%BE%8E%E5%85%83%E6%93%B4%E5%BB%BA%E6%AD%90%E6%B4%B2ai%E5%9F%BA%E7%A4%8E%E8%A8%AD%E6%96%BD-d893745a?gaa_at=eafs&gaa_n=AWEtsqcn5ldUu2qAeAp8B6bQ6P28F0755G8Z5vmahgXI1b5yj7YXdCTI3zLs&gaa_ts=6913e4b2&gaa_sig=cMyHM8PwfLlIcZ8W2nIKq3I67parH3fPEy1QRwz5WfShq8TKuAx6Zn9_x0j3iOxDl8YuC9UjeKgDe-WYMyw69A%3D%3D",
+    "source": "华尔街日报中文网",
+    "published_at": "2025-11-12T09:22:01.364705+08:00",
+    "summary": "微軟(Microsoft)和Alphabet旗下的Google(Google)表示，將投資超過160億美元用於擴大在歐洲的AI基礎設施，這是美國科技巨頭為增強海外AI算力而做出的最新一筆投資承諾。",
+    "scraped_at": "2025-11-12T09:22:44+08:00",
+    "canonical_url": "https://cn.wsj.com/articles/%E5%BE%AE%E8%BB%9F-google%E5%B0%87%E6%8A%95%E8%B3%87%E9%80%BE160%E5%84%84%E7%BE%8E%E5%85%83%E6%93%B4%E5%BB%BA%E6%AD%90%E6%B4%B2ai%E5%9F%BA%E7%A4%8E%E8%A8%AD%E6%96%BD-d893745a"
+  },
+  {
+    "title": "Datavault AI Inc. (NASDAQ: DVLT) 發佈投資者更新報告，重點說明持續收入增長、策略合作夥伴關係及全球版圖擴張",
+    "url": "https://www.globenewswire.com/news-release/2025/11/11/3185697/0/zh-hant/Datavault-AI-Inc-NASDAQ-DVLT-%E7%99%BC%E4%BD%88%E6%8A%95%E8%B3%87%E8%80%85%E6%9B%B4%E6%96%B0%E5%A0%B1%E5%91%8A-%E9%87%8D%E9%BB%9E%E8%AA%AA%E6%98%8E%E6%8C%81%E7%BA%8C%E6%94%B6%E5%85%A5%E5%A2%9E%E9%95%B7-%E7%AD%96%E7%95%A5%E5%90%88%E4%BD%9C%E5%A4%A5%E4%BC%B4%E9%97%9C%E4%BF%82%E5%8F%8A%E5%85%A8%E7%90%83%E7%89%88%E5%9C%96%E6%93%B4%E5%BC%B5.html",
+    "source": "GlobeNewswire",
+    "published_at": "2025-11-12T09:21:58.161938+08:00",
+    "summary": "費城, Nov. 12, 2025 (GLOBE NEWSWIRE) -- 在數據盈利化、憑證認證及數碼互動技術方面引領在前的 Datavault AI Inc. (NASDAQ: DVLT) 今天發佈投資者更新報告，...",
+    "scraped_at": "2025-11-12T09:22:44+08:00",
+    "canonical_url": "https://www.globenewswire.com/news-release/2025/11/11/3185697/0/zh-hant/Datavault-AI-Inc-NASDAQ-DVLT-%E7%99%BC%E4%BD%88%E6%8A%95%E8%B3%87%E8%80%85%E6%9B%B4%E6%96%B0%E5%A0%B1%E5%91%8A-%E9%87%8D%E9%BB%9E%E8%AA%AA%E6%98%8E%E6%8C%81%E7%BA%8C%E6%94%B6%E5%85%A5%E5%A2%9E%E9%95%B7-%E7%AD%96%E7%95%A5%E5%90%88%E4%BD%9C%E5%A4%A5%E4%BC%B4%E9%97%9C%E4%BF%82%E5%8F%8A%E5%85%A8%E7%90%83%E7%89%88%E5%9C%96%E6%93%B4%E5%BC%B5.html"
+  },
+  {
+    "title": "蘇姿丰：AI需求強勁 超微營收將年增35% 市占率拚兩位數",
+    "url": "https://www.worldjournal.com/wj/story/121208/9133591",
+    "source": "世界新聞網",
+    "published_at": "2025-11-12T09:21:54.187041+08:00",
+    "summary": "超微半導體（AMD）執行長蘇姿丰周二表示，受市場對人工智慧（AI）晶片的強勁需求驅動，公司年均營收增速未來三至五年將達約...",
+    "scraped_at": "2025-11-12T09:22:44+08:00",
+    "canonical_url": "https://www.worldjournal.com/wj/story/121208/9133591"
   },
   {
     "title": "圖靈獎得主 Meta首席AI科學家勒昆傳將離職自立門戶",
@@ -25,15 +142,6 @@
     "summary": "英國「金融時報」今天引述消息人士報導，美國社群媒體巨擘Meta首席人工智慧（AI）科學家勒昆（Yann LeCun，又譯...",
     "scraped_at": "2025-11-12T07:50:30+08:00",
     "canonical_url": "https://www.worldjournal.com/wj/story/121477/9133451"
-  },
-  {
-    "title": "Datavault AI Inc. (NASDAQ: DVLT) 發佈投資者更新報告，重點說明持續收入增長、策略合作夥伴關係及全球版圖擴張",
-    "url": "https://www.globenewswire.com/news-release/2025/11/11/3185697/0/zh-hant/Datavault-AI-Inc-NASDAQ-DVLT-%E7%99%BC%E4%BD%88%E6%8A%95%E8%B3%87%E8%80%85%E6%9B%B4%E6%96%B0%E5%A0%B1%E5%91%8A-%E9%87%8D%E9%BB%9E%E8%AA%AA%E6%98%8E%E6%8C%81%E7%BA%8C%E6%94%B6%E5%85%A5%E5%A2%9E%E9%95%B7-%E7%AD%96%E7%95%A5%E5%90%88%E4%BD%9C%E5%A4%A5%E4%BC%B4%E9%97%9C%E4%BF%82%E5%8F%8A%E5%85%A8%E7%90%83%E7%89%88%E5%9C%96%E6%93%B4%E5%BC%B5.html",
-    "source": "GlobeNewswire",
-    "published_at": "2025-11-12T07:50:17.793266+08:00",
-    "summary": "費城, Nov. 12, 2025 (GLOBE NEWSWIRE) -- 在數據盈利化、憑證認證及數碼互動技術方面引領在前的 Datavault AI Inc. (NASDAQ: DVLT) 今天發佈投資者更新報告，...",
-    "scraped_at": "2025-11-12T07:50:30+08:00",
-    "canonical_url": "https://www.globenewswire.com/news-release/2025/11/11/3185697/0/zh-hant/Datavault-AI-Inc-NASDAQ-DVLT-%E7%99%BC%E4%BD%88%E6%8A%95%E8%B3%87%E8%80%85%E6%9B%B4%E6%96%B0%E5%A0%B1%E5%91%8A-%E9%87%8D%E9%BB%9E%E8%AA%AA%E6%98%8E%E6%8C%81%E7%BA%8C%E6%94%B6%E5%85%A5%E5%A2%9E%E9%95%B7-%E7%AD%96%E7%95%A5%E5%90%88%E4%BD%9C%E5%A4%A5%E4%BC%B4%E9%97%9C%E4%BF%82%E5%8F%8A%E5%85%A8%E7%90%83%E7%89%88%E5%9C%96%E6%93%B4%E5%BC%B5.html"
   },
   {
     "title": "Bridging the AI divide: How Frontier firms are transforming business",
@@ -99,15 +207,6 @@
     "canonical_url": "https://gocolumbialions.com/news/2025/11/11/general-columbia-athletics-partners-with-cache-ai"
   },
   {
-    "title": "How agentic AI is transforming corporate tax departments",
-    "url": "https://tax.thomsonreuters.com/blog/how-agentic-ai-is-transforming-corporate-tax-departments/",
-    "source": "Thomson Reuters tax",
-    "published_at": "2025-11-12T06:50:34.151010+08:00",
-    "summary": "The transformation of tax departments through AI isn't just about adopting new tools. It's about reimagining how tax functions operate and deliver value.",
-    "scraped_at": "2025-11-12T06:50:57+08:00",
-    "canonical_url": "https://tax.thomsonreuters.com/blog/how-agentic-ai-is-transforming-corporate-tax-departments/"
-  },
-  {
     "title": "Three AI Megadeals Are Breaking New Ground on Wall Street - WSJ",
     "url": "https://www.wsj.com/tech/ai/three-ai-megadeals-are-breaking-new-ground-on-wall-street-896e0023?gaa_at=eafs&gaa_n=AWEtsqcMzAF0LO0b-K3W_sju9I-2Bw5HF9ray6792zqOQtmJpbj7VGxvRHgC&gaa_ts=6913c134&gaa_sig=xcMuovYayB5YSu_MLsl-1O-Z9MC8LV07I28m_s9VPx1wgvetWSCwo9SrnBvhvzLUcW6V93r-jpyBp2qWZbMbGg%3D%3D",
     "source": "The Wall Street Journal",
@@ -115,15 +214,6 @@
     "summary": "Novel approaches to financing in OpenAI, Meta and xAI deals show risks and rewards of the AI frenzy.",
     "scraped_at": "2025-11-12T06:50:57+08:00",
     "canonical_url": "https://www.wsj.com/tech/ai/three-ai-megadeals-are-breaking-new-ground-on-wall-street-896e0023"
-  },
-  {
-    "title": "Private AI Compute: our next step in building private and helpful AI",
-    "url": "https://blog.google/technology/ai/google-private-ai-compute/",
-    "source": "blog.google",
-    "published_at": "2025-11-12T06:50:27.803235+08:00",
-    "summary": "Introducing Private AI Compute, our new way to bring you helpful AI with the power of the cloud, while keeping your data private to you.",
-    "scraped_at": "2025-11-12T06:50:57+08:00",
-    "canonical_url": "https://blog.google/technology/ai/google-private-ai-compute/"
   },
   {
     "title": "Is China about to win the AI race?",
