@@ -1,5 +1,95 @@
 [
   {
+    "title": "A new AI platform does more than ChatGPT without a monthly fee",
+    "url": "https://mashable.com/article/nov-11-1forall-ai-advance-plan",
+    "source": "Mashable",
+    "published_at": "2025-11-12T13:19:12.930734+08:00",
+    "summary": "1ForAll is an advanced AI platform that cna automate your work, and it's only $90.",
+    "scraped_at": "2025-11-12T13:19:13+08:00",
+    "canonical_url": "https://mashable.com/article/nov-11-1forall-ai-advance-plan"
+  },
+  {
+    "title": "How AI can evolve education, not replace it",
+    "url": "https://thebutlercollegian.com/2025/11/how-ai-can-evolve-education-not-replace-it/",
+    "source": "The Butler Collegian",
+    "published_at": "2025-11-12T13:19:09.771538+08:00",
+    "summary": "It's time to accept and encourage the use of AI in our classrooms. Graphic by Anna Gritzenbach. AVA ROEMER | OPINION COLUMNIST | aaroemer@butler.edu.",
+    "scraped_at": "2025-11-12T13:19:13+08:00",
+    "canonical_url": "https://thebutlercollegian.com/2025/11/how-ai-can-evolve-education-not-replace-it/"
+  },
+  {
+    "title": "UNL launched its AI chatbot 'Cornelius' last week, and it’s popping off",
+    "url": "https://nebraskapublicmedia.org/es/news/news-articles/unl-launched-its-ai-chatbot-cornelius-last-week-and-its-popping-off/",
+    "source": "Nebraska Public Media",
+    "published_at": "2025-11-12T13:19:05.730375+08:00",
+    "summary": "11 de Noviembre de 2025 a las 15:16 · 4 min read. UNL AI chatbot Cornelius The University of Nebraska-Lincoln's chatbot, Cornelius, has been messaged 27,000...",
+    "scraped_at": "2025-11-12T13:19:13+08:00",
+    "canonical_url": "https://nebraskapublicmedia.org/es/news/news-articles/unl-launched-its-ai-chatbot-cornelius-last-week-and-its-popping-off/"
+  },
+  {
+    "title": "News - November 12, 2025 Advancing AFEELA’s AI: Overcoming Bottlenecks in the Learning Cycle",
+    "url": "https://www.shm-afeela.com/en/news/2025-11-12/",
+    "source": "AFEELA",
+    "published_at": "2025-11-12T13:19:02.450032+08:00",
+    "summary": "Imagine an ADAS AI that learns faster and reasons with greater intelligence. In our latest AFEELA tech blog, we tackle 2 core challenges in AI model...",
+    "scraped_at": "2025-11-12T13:19:13+08:00",
+    "canonical_url": "https://www.shm-afeela.com/en/news/2025-11-12/"
+  },
+  {
+    "title": "COMMENTARY: Why all students need a foundation in computer science and AI",
+    "url": "https://edsource.org/2025/computer-science-ai-literacy/744747",
+    "source": "EdSource",
+    "published_at": "2025-11-12T13:18:59.132612+08:00",
+    "summary": "Discover the importance of AI literacy and computer science education in preparing students for an AI-driven future. Join the mission to empower creators,...",
+    "scraped_at": "2025-11-12T13:19:13+08:00",
+    "canonical_url": "https://edsource.org/2025/computer-science-ai-literacy/744747"
+  },
+  {
+    "title": "Texas Contemplates Ethics Code for Government Use of AI",
+    "url": "https://www.govtech.com/artificial-intelligence/texas-contemplates-ethics-code-for-government-use-of-ai",
+    "source": "GovTech",
+    "published_at": "2025-11-12T13:18:55.689229+08:00",
+    "summary": "Proposed by the state Department of Information Resources, the code would apply to all state agencies and local entities that procure, develop or deploy AI...",
+    "scraped_at": "2025-11-12T13:19:13+08:00",
+    "canonical_url": "https://www.govtech.com/artificial-intelligence/texas-contemplates-ethics-code-for-government-use-of-ai"
+  },
+  {
+    "title": "The AI Cold War That Will Redefine Everything - WSJ",
+    "url": "https://www.wsj.com/tech/ai/the-ai-cold-war-that-will-redefine-everything-4e1810b2?gaa_at=eafs&gaa_n=AWEtsqf-4mzCn4H3EF8vmOwqOE26n_7MyUSMuYktqjImaGXF-mFYQF6dBAQO&gaa_ts=69141c33&gaa_sig=EfjPH8cW9oAWahY4eIxPCRWBNH-D5xDrisbgFR_7uhAPsXWLmqbCJn6R-2GOeH3TPgWBjTsMrI42ysD-lE9WrQ%3D%3D",
+    "source": "The Wall Street Journal",
+    "published_at": "2025-11-12T13:18:51.883138+08:00",
+    "summary": "America holds a sizable lead, but China is working to tip the scales with a sweeping countrywide push, betting 'swarms beat the titan'",
+    "scraped_at": "2025-11-12T13:19:13+08:00",
+    "canonical_url": "https://www.wsj.com/tech/ai/the-ai-cold-war-that-will-redefine-everything-4e1810b2"
+  },
+  {
+    "title": "As AI Tools Become Commonplace, so Do Concerns -...",
+    "url": "https://www.ncsl.org/state-legislatures-news/details/as-ai-tools-become-commonplace-so-do-concerns",
+    "source": "National Conference of State Legislatures",
+    "published_at": "2025-11-12T13:18:48.722963+08:00",
+    "summary": "As technology continues to transform society, expect more challenges to arise from the complex intersection of innovation, regulation and the...",
+    "scraped_at": "2025-11-12T13:19:13+08:00",
+    "canonical_url": "https://www.ncsl.org/state-legislatures-news/details/as-ai-tools-become-commonplace-so-do-concerns"
+  },
+  {
+    "title": "Private AI Compute: our next step in building private and helpful AI",
+    "url": "https://blog.google/technology/ai/google-private-ai-compute/",
+    "source": "blog.google",
+    "published_at": "2025-11-12T13:18:45.574730+08:00",
+    "summary": "Introducing Private AI Compute, our new way to bring you helpful AI with the power of the cloud, while keeping your data private to you.",
+    "scraped_at": "2025-11-12T13:19:13+08:00",
+    "canonical_url": "https://blog.google/technology/ai/google-private-ai-compute/"
+  },
+  {
+    "title": "An Urgent Message: What You Need to Know About AI",
+    "url": "https://robertreich.substack.com/p/an-urgent-message-what-you-need-to",
+    "source": "Robert Reich | Substack",
+    "published_at": "2025-11-12T13:18:42.232428+08:00",
+    "summary": "Friends,. I live within a few miles of where OpenAI, Meta, Amazon, Alphabet (Google), and a handful of AI startups are pouring tens of billions of dollars...",
+    "scraped_at": "2025-11-12T13:19:13+08:00",
+    "canonical_url": "https://robertreich.substack.com/p/an-urgent-message-what-you-need-to"
+  },
+  {
     "title": "Beware of Catholic AI",
     "url": "https://www.thepublicdiscourse.com/2025/11/99435/",
     "source": "Public Discourse",
@@ -7,87 +97,6 @@
     "summary": "We are not machines and cannot be well formed by them either. Human formation should be primarily human—even if it's easier and faster to dole out our...",
     "scraped_at": "2025-11-12T12:54:50+08:00",
     "canonical_url": "https://www.thepublicdiscourse.com/2025/11/99435/"
-  },
-  {
-    "title": "How AI can evolve education, not replace it",
-    "url": "https://thebutlercollegian.com/2025/11/how-ai-can-evolve-education-not-replace-it/",
-    "source": "The Butler Collegian",
-    "published_at": "2025-11-12T12:54:46.984497+08:00",
-    "summary": "It's time to accept and encourage the use of AI in our classrooms. Graphic by Anna Gritzenbach. AVA ROEMER | OPINION COLUMNIST | aaroemer@butler.edu.",
-    "scraped_at": "2025-11-12T12:54:50+08:00",
-    "canonical_url": "https://thebutlercollegian.com/2025/11/how-ai-can-evolve-education-not-replace-it/"
-  },
-  {
-    "title": "UNL launched its AI chatbot 'Cornelius' last week, and it’s popping off",
-    "url": "https://nebraskapublicmedia.org/es/news/news-articles/unl-launched-its-ai-chatbot-cornelius-last-week-and-its-popping-off/",
-    "source": "Nebraska Public Media",
-    "published_at": "2025-11-12T12:54:42.882101+08:00",
-    "summary": "11 de Noviembre de 2025 a las 15:16 · 4 min read. UNL AI chatbot Cornelius The University of Nebraska-Lincoln's chatbot, Cornelius, has been messaged 27,000...",
-    "scraped_at": "2025-11-12T12:54:50+08:00",
-    "canonical_url": "https://nebraskapublicmedia.org/es/news/news-articles/unl-launched-its-ai-chatbot-cornelius-last-week-and-its-popping-off/"
-  },
-  {
-    "title": "News - November 12, 2025 Advancing AFEELA’s AI: Overcoming Bottlenecks in the Learning Cycle",
-    "url": "https://www.shm-afeela.com/en/news/2025-11-12/",
-    "source": "AFEELA",
-    "published_at": "2025-11-12T12:54:39.523881+08:00",
-    "summary": "Imagine an ADAS AI that learns faster and reasons with greater intelligence. In our latest AFEELA tech blog, we tackle 2 core challenges in AI model...",
-    "scraped_at": "2025-11-12T12:54:50+08:00",
-    "canonical_url": "https://www.shm-afeela.com/en/news/2025-11-12/"
-  },
-  {
-    "title": "COMMENTARY: Why all students need a foundation in computer science and AI",
-    "url": "https://edsource.org/2025/computer-science-ai-literacy/744747",
-    "source": "EdSource",
-    "published_at": "2025-11-12T12:54:36.292357+08:00",
-    "summary": "Discover the importance of AI literacy and computer science education in preparing students for an AI-driven future. Join the mission to empower creators,...",
-    "scraped_at": "2025-11-12T12:54:50+08:00",
-    "canonical_url": "https://edsource.org/2025/computer-science-ai-literacy/744747"
-  },
-  {
-    "title": "The AI Cold War That Will Redefine Everything - WSJ",
-    "url": "https://www.wsj.com/tech/ai/the-ai-cold-war-that-will-redefine-everything-4e1810b2?gaa_at=eafs&gaa_n=AWEtsqeBWPen4Z-Hnoi8Z8aUeAf5TR_mzFD8AENgKACVq7hq9YBGmNPRreey&gaa_ts=6914167c&gaa_sig=TP3Frx9sBJYzgGU9wtA-y4hJdVlVSyhMh6EJhnJ_2f7oDBlg-kJe5DwOq5sWH91S2mn0Rof9x6PKfi8BqzERUQ%3D%3D",
-    "source": "The Wall Street Journal",
-    "published_at": "2025-11-12T12:54:32.812658+08:00",
-    "summary": "America holds a sizable lead, but China is working to tip the scales with a sweeping countrywide push, betting 'swarms beat the titan'",
-    "scraped_at": "2025-11-12T12:54:50+08:00",
-    "canonical_url": "https://www.wsj.com/tech/ai/the-ai-cold-war-that-will-redefine-everything-4e1810b2"
-  },
-  {
-    "title": "Texas Contemplates Ethics Code for Government Use of AI",
-    "url": "https://www.govtech.com/artificial-intelligence/texas-contemplates-ethics-code-for-government-use-of-ai",
-    "source": "GovTech",
-    "published_at": "2025-11-12T12:54:29.592669+08:00",
-    "summary": "Proposed by the state Department of Information Resources, the code would apply to all state agencies and local entities that procure, develop or deploy AI...",
-    "scraped_at": "2025-11-12T12:54:50+08:00",
-    "canonical_url": "https://www.govtech.com/artificial-intelligence/texas-contemplates-ethics-code-for-government-use-of-ai"
-  },
-  {
-    "title": "As AI Tools Become Commonplace, so Do Concerns -...",
-    "url": "https://www.ncsl.org/state-legislatures-news/details/as-ai-tools-become-commonplace-so-do-concerns",
-    "source": "National Conference of State Legislatures",
-    "published_at": "2025-11-12T12:54:26.235587+08:00",
-    "summary": "As technology continues to transform society, expect more challenges to arise from the complex intersection of innovation, regulation and the...",
-    "scraped_at": "2025-11-12T12:54:50+08:00",
-    "canonical_url": "https://www.ncsl.org/state-legislatures-news/details/as-ai-tools-become-commonplace-so-do-concerns"
-  },
-  {
-    "title": "Private AI Compute: our next step in building private and helpful AI",
-    "url": "https://blog.google/technology/ai/google-private-ai-compute/",
-    "source": "blog.google",
-    "published_at": "2025-11-12T12:54:22.981637+08:00",
-    "summary": "Introducing Private AI Compute, our new way to bring you helpful AI with the power of the cloud, while keeping your data private to you.",
-    "scraped_at": "2025-11-12T12:54:50+08:00",
-    "canonical_url": "https://blog.google/technology/ai/google-private-ai-compute/"
-  },
-  {
-    "title": "An Urgent Message: What You Need to Know About AI",
-    "url": "https://robertreich.substack.com/p/an-urgent-message-what-you-need-to",
-    "source": "Robert Reich | Substack",
-    "published_at": "2025-11-12T12:54:19.625677+08:00",
-    "summary": "Friends,. I live within a few miles of where OpenAI, Meta, Amazon, Alphabet (Google), and a handful of AI startups are pouring tens of billions of dollars...",
-    "scraped_at": "2025-11-12T12:54:50+08:00",
-    "canonical_url": "https://robertreich.substack.com/p/an-urgent-message-what-you-need-to"
   },
   {
     "title": "里斯本全球網絡峰會聚焦AI 微軟重金布局 中國企業崛起引全球關注",
@@ -178,15 +187,6 @@
     "summary": "道瓊工業指數周二上漲近560點，創下收盤新高。投資人看好美國歷史上持續最長的政府停擺可望很快結束，與此同時，輝達（NVIDIA）和其他人工智慧（AI）相關股票下跌，市場再次...",
     "scraped_at": "2025-11-12T12:54:50+08:00",
     "canonical_url": "https://www.worldjournal.com/wj/amp/story/121208/9133584"
-  },
-  {
-    "title": "A new AI platform does more than ChatGPT without a monthly fee",
-    "url": "https://mashable.com/article/nov-11-1forall-ai-advance-plan",
-    "source": "Mashable",
-    "published_at": "2025-11-12T12:37:35.884618+08:00",
-    "summary": "1ForAll is an advanced AI platform that cna automate your work, and it's only $90.",
-    "scraped_at": "2025-11-12T12:37:36+08:00",
-    "canonical_url": "https://mashable.com/article/nov-11-1forall-ai-advance-plan"
   },
   {
     "title": "酷英平台、英檢系統新增AI聊天機器人 大專生準備雅思、托福也可用",
