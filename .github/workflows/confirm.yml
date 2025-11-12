@@ -1,6 +1,5 @@
-name: 手動重新整理（僅由連結觸發）
+name: 手動發布 FB 貼文 (從 Markdown 檔案)
 
-# 重要：只能用 workflow_dispatch 觸發，絕對不會自動跑
 on:
   workflow_dispatch:
     inputs:
@@ -10,17 +9,26 @@ on:
         default: 'user'
 
 jobs:
-  rerun-job:
+  post-to-facebook-job:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
-      - name: 執行手動重新整理任務
-        run: |
-          echo "手動重新整理開始..."
-          # 放你真正的「重新抓資料」程式碼
-          sleep 3
-          echo "手動任務完成！"
+      - name: 設定 Python 環境
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: 安裝 requests 庫
+        run: pip install requests
+
+      - name: 執行 Facebook 發文腳本
+        run: python post_to_facebook.py
+        env:
+          FB_PAGE_ID: '195300803662478' # 你的 Facebook 粉絲專頁 ID
+          FB_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }} # 儲存在 Secrets 的 FB 存取權杖
+          # 移除 POST_MESSAGE，因為現在從檔案讀取
+          # POST_MESSAGE: ${{ github.event.inputs.post_message }} 
 
       - name: 發送「成功!!」確認信
         uses: dawidd6/action-send-mail@v3
@@ -29,19 +37,20 @@ jobs:
           server_port: 587
           username: ${{ secrets.GMAIL_ADDRESS }}
           password: ${{ secrets.GMAIL_APP_PASSWORD }}
-          subject: "成功!! 您的資料已重新整理（${{ github.actor }} 觸發）"
+          subject: "成功!! 您的 Facebook 貼文已發布（${{ github.actor }} 觸發）"
           to: ai.free.team@gmail.com
-          from: 重新整理小精靈 <${{ secrets.GMAIL_ADDRESS }}>
+          from: Facebook 發文小精靈 <${{ secrets.GMAIL_ADDRESS }}>
           html_body: |
             <div style="font-family: Arial, sans-serif; max-width: 600px; margin: auto; padding: 30px; background: linear-gradient(to right, #667eea, #764ba2); color: white; border-radius: 15px; text-align: center;">
               <h1 style="font-size: 28px;">成功！</h1>
-              <p style="font-size: 18px;">您的資料已成功重新整理</p>
+              <p style="font-size: 18px;">您的 Facebook 貼文已成功發布！</p>
+              <p>貼文內容來自當天日期的 Markdown 檔案。</p>
               <p>觸發者：${{ github.actor }}</p>
               <p>時間：$(date '+%Y-%m-%d %H:%M:%S') (台灣時間)</p>
               
               <div style="margin: 30px 0;">
                 <p style="background: rgba(255,255,255,0.2); padding: 15px; border-radius: 10px; font-size: 20px;">
-                  最新資料已更新完成
+                  查看 Facebook 粉絲專頁確認
                 </p>
               </div>
               
