@@ -104,7 +104,7 @@ for key_word in ai_keywords:
 
     for language in ['TW', 'US']:
         news_soup = news_search(key_word, start_date, end_date, 1,  region = language)
-        print(news_soup)
+        print(news_soup.select('a'))
         one_news = {}
         for j in news_soup.select('.WlydOe'):
 
