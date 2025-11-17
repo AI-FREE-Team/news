@@ -24,6 +24,7 @@ def news_search(keyword, start_date, end_date, n_page, region):
     headers = {
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
         "Accept-Encoding": "gzip, deflate, br, zstd",
+        "Cookie": "AEC=AaJma5vS8teNZfoODOdkgeAAI8gt-rAvzldLxAqOcV4IPiamMHV5zJ3Jbw; NID=526=hZquNpA15B0WkxtHVSzvLusNFCTn68WRJnC1v7oFAOZwilmZNpBshwxMgNm2acHVRbw4rRxqDcoo4oam2bTlFmgl106xKlQquvsFAoR7GghlL_Si9nBhUjNL6jyGwwy9QhPVmFIyRFEjCh9TrZ1LUN3hhGzTAdSdcjEppolkTIJ2PSN4AccxYKYPRr5gBGw55IkbSrKJRAMnwY8XFt7pDbwi22-hfRneKBWQxpFTmGjSDkkca-CxrGxQd0eEY_YbBDr2Uys; DV=I_PHdbaVUqkZ0J-HU_sc0ecSWMYNqRk",
         "Accept-Language": "zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7",
         "Cache-Control": "max-age=0",
         "Connection": "keep-alive",
