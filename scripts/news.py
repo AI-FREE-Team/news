@@ -6,34 +6,30 @@ import re
 import pandas as pd
 from bs4 import BeautifulSoup
 import json
+from zoneinfo import ZoneInfo
 
+sera_token = os.getenv("SERA_TOKEN")
 ### google trend
 start = datetime.now()
 print(start)
 
-def web_crawl(weblink):
-    headers = {
-    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36'
-    }
-    res = requests.get(weblink, headers=headers, timeout=5)
-    res.encoding = 'UTF-8'
-    soup = BeautifulSoup(res.text, 'html.parser')
-    return soup
+def sera_google_search(keyword, start_date, end_date):
+  params = {
+      "engine": "google",
+      "q": keyword,
+      "gl": "tw",
+      "hl": "zh-tw",
+      "tbm": "nws",
+      "time_range": "Custom",
+      "start_date": start_date,
+      "end_date": end_date,
+      "api_key": sera_token
+      }
+  url = "https://serpapi.com/search"
+  r = requests.get(url, params=params)
+  return r.json()
 
-def news_search(keyword, start_date, end_date, n_page, region):
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
-    }
-    nums = (n_page-1)*10
-    if region == 'TW':
-        link = 'https://www.google.hr/search?q=' + keyword + '&lr=lang_zh-TW&hl=en&source=lnms&tbs=cdr:1,cd_min:'+ start_date +',cd_max:'+ end_date + '&tbm=nws&sa=X' + '&start=' + str(nums)
-    elif region == 'US':
-        link = 'https://www.google.hr/search?q=' + keyword + '&lr=lang_en&hl=en&source=lnms&tbs=cdr:1,cd_min:'+ start_date +',cd_max:'+ end_date + '&tbm=nws&sa=X' + '&start=' + str(nums)
 
-    r = requests.get(link, headers=headers)
-    # print(link)
-    soup = BeautifulSoup(r.text, 'html.parser')
-    return soup
 from datetime import datetime, timedelta, timezone
 import re
 
@@ -81,72 +77,44 @@ print('【*************Google - 爬蟲開始*************】')
 
 today = datetime.now(timezone(timedelta(hours=8)))
 day = timedelta(days=1)
-last_7 = today - 1*day
+last_day = today - 1*day
+last_day2 = today - 2*day
 
-start_date = f'{last_7.month}/{last_7.day}/{last_7.year}'
-end_date = f'{today.month}/{today.day}/{today.year}'
+start_date = f'{last_day2.month}/{last_day2.day}/{last_day2.year}'
+end_date = f'{last_day.month}/{last_day.day}/{last_day.year}'
 
 ai_keywords = ["AI"]
 test = []
 for key_word in ai_keywords:
 
-    for language in ['TW', 'US']:
-        news_soup = news_search(key_word, start_date, end_date, 1,  region = language)
-        print(news_soup.select('a'))
-        one_news = {}
-        for j in news_soup.select('.WlydOe'):
+    for language in ['TW']:
+        # news_soup = news_search(key_word, start_date, end_date, 1,  region = language)
+        news_soup = sera_google_search(key_word, start_date, end_date)
 
-            print("【Message】==================================")
+        all_news = []
 
+        for i in news_soup['news_results']:
+          if 'stories' in i:
+            for j in i['stories']:
+              all_news.append(j)
+          else:
+            all_news.append(i)
 
-            ### 網址
-            link_g = j['href']
+        for i in all_news:
+          one_news = {}
+          link_g = i['link']
+          src_g = i['source']
+          title_g = i['title']
+          beginning_g = i['snippet']
+          published_at = i['published_at']
 
-            ### 新聞來源
-            src_g = j.select('span')[0].get_text()
+          one_news['title'] = title_g
+          one_news['url'] = link_g
+          one_news['source'] = src_g
+          one_news['published_at'] = str(datetime.strptime(published_at.replace(' UTC', ''), '%Y-%m-%d %H:%M:%S').replace(tzinfo=ZoneInfo("UTC")).astimezone(ZoneInfo("Asia/Taipei")))
+          one_news['summary'] = beginning_g
+          test.append(one_news)
 
-            ### 標題
-            title_g = j.select('.MBeuO.nDgy9d')[0].get_text()
-
-            ### 摘要
-            try:
-              beginning_g = j.select('.nDgy9d')[1].get_text()
-            except:
-              beginning_g = j.select('.nDgy9d')[0].get_text()
-
-            ### 時間
-            published_at = parse_relative_time_flexible(j.select('.LfVVr')[0].get_text())
-
-
-            try:
-                print("【Message】文章連結：", link_g)
-                print("【Message】來源：", src_g)
-                print("【Message】標題：", title_g)
-                print("【Message】摘要：", beginning_g)
-                print("【Message】時間：", published_at)
-                temp_soup = web_crawl(link_g)
-            except:
-                print("【Message】連結爬取失敗：", link_g)
-                break
-
-            print("【Message】==================================")
-
-            ### 內文
-            # selection = 'p'
-            # content_g = ''
-            # for k in temp_soup.select(selection):
-            #     if (len(k.text) > 30) :
-            #         content_g += k.text.replace('\x08', '')
-            # print(content_g)
-            time.sleep(3)
-
-            one_news['title'] = title_g
-            one_news['url'] = link_g
-            one_news['source'] = src_g
-            one_news['published_at'] = datetime.now(timezone(timedelta(hours=8))).isoformat()
-            one_news['summary'] = beginning_g
-            test.append(one_news)
-            one_news = {}
 
 print('【*************Google - 爬蟲結束*************】')
 import os
