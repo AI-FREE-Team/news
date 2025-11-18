@@ -17,6 +17,8 @@ permissions:
 jobs:  
   run:  
     runs-on: ubuntu-latest  
+    env:
+      SERA_TOKEN: ${{ secrets.SERA_TOKEN }}
     steps:  
       - name: Checkout  
         uses: actions/checkout@v4  
