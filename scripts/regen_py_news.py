@@ -37,7 +37,7 @@ def regenerate_newsletter(custom_prompt=None):
     """
     # 1. 計算昨日和今日日期
     today_dt = datetime.now(TAIPEI).date()
-    yesterday_dt = today_dt - timedelta(days=1)
+    yesterday_dt = today_dt
     yesterday_iso = yesterday_dt.isoformat()
     today_iso = today_dt.isoformat()
 
