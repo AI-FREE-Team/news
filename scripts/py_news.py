@@ -81,7 +81,7 @@ def main():
     try:
         client = Client() # 每次執行時重新初始化，確保是最新狀態
         response = client.chat.completions.create(
-            model="gpt-4o-mini", # 這裡可以根據您的需求指定模型
+            model="gemma-3-27b-it", # 這裡可以根據您的需求指定模型
             messages=[{"role": "user", "content": prompt}],
             web_search=False
         )
