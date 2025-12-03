@@ -30,7 +30,7 @@ def save_json(path, data):
 def main():
     # 1. 計算昨日日期
     today_dt = datetime.now(TAIPEI).date()
-    yesterday_dt = today_dt - timedelta(days=1)
+    yesterday_dt = today_dt
     yesterday_iso = yesterday_dt.isoformat() # YYYY-MM-DD 格式
 
     # 2. 讀取 data/ 資料夾中的昨日 JSON 檔案
