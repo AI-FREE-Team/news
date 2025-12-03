@@ -2,7 +2,7 @@ name: Crawl & Store News
 
 on:
   schedule:
-    - cron: "0 22 * * *" # 每天半夜 12 點  
+    - cron: "0 0 * * *" # 每天半夜 12 點  
   workflow_dispatch: # 允許手動觸發  
   push:
     paths:  
