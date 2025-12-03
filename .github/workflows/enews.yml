@@ -2,7 +2,7 @@ name: 每日電子報生成
 
 on:
   schedule:
-    - cron: '0 0 * * *'    # UTC 00:00 = 台灣時間早上 8:00
+    - cron: '0 2 * * *'    # UTC 00:00 = 台灣時間早上 8:00
   workflow_dispatch:
 
 jobs:
