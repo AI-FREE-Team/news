@@ -29,7 +29,7 @@ def save_json(path, data):
 
 def main():
     # 1. 計算昨日日期
-    today_dt = datetime.now(TAIPEI).date()
+    today_dt = datetime.now(TAIPEI).date() - timedelta(days=1)
     yesterday_dt = today_dt - timedelta(days=1)
     yesterday_iso = yesterday_dt.isoformat() # YYYY-MM-DD 格式
 
