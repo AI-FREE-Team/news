@@ -36,7 +36,7 @@ def regenerate_newsletter(custom_prompt=None):
         custom_prompt: 使用者自訂的額外提示詞，會附加到原有 prompt 之後
     """
     # 1. 計算昨日和今日日期
-    today_dt = datetime.now(TAIPEI).date()
+    today_dt = datetime.now(TAIPEI).date() - timedelta(days=1)
     yesterday_dt = today_dt - timedelta(days=1)
     yesterday_iso = yesterday_dt.isoformat()
     today_iso = today_dt.isoformat()
@@ -103,7 +103,7 @@ def regenerate_newsletter(custom_prompt=None):
     try:
         client = Client()
         response = client.chat.completions.create(
-            model="gpt-4o-mini",
+            model="gemma-3-27b-it",
             messages=[{"role": "user", "content": prompt}],
             web_search=False
         )
