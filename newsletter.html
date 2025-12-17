@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI-FREE Team 電子報閱讀器</title>
+    <!-- 引入 marked.js 用於解析 Markdown -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        /* --- 1. 基礎設定 & 背景樣式 (保留你原本的風格) --- */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+            overflow: hidden;
+            color: #333;
+        }
+
+        /* --- 2. 主容器佈局 --- */
+        .app-container {
+            background: white;
+            border-radius: 20px;
+            width: 100%;
+            max-width: 1400px; /* 限制最大寬度，避免在大螢幕太寬 */
+            height: 90vh;      /* 高度佔視窗 90% */
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            display: flex;
+            overflow: hidden;
+            position: relative;
+        }
+
+        /* --- 3. 左側選單區 --- */
+        .sidebar {
+            width: 280px;
+            background: #f8f9fa;
+            border-right: 1px solid #e9ecef;
+            display: flex;
+            flex-direction: column;
+            flex-shrink: 0; /* 防止被擠壓 */
+        }
+
+        .sidebar-header {
+            padding: 20px;
+            background: white;
+            border-bottom: 1px solid #e9ecef;
+            text-align: center;
+        }
+
+        .sidebar-header h2 {
+            font-size: 18px;
+            color: #444;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        .date-list {
+            flex: 1;
+            overflow-y: auto;
+            padding: 15px;
+            list-style: none;
+        }
+
+        /* 捲軸美化 */
+        .date-list::-webkit-scrollbar {
+            width: 6px;
+        }
+        .date-list::-webkit-scrollbar-thumb {
+            background-color: #ccc;
+            border-radius: 3px;
+        }
+
+        .date-item {
+            padding: 12px 20px;
+            margin-bottom: 8px;
+            border-radius: 50px; /* 圓角按鈕風格 */
+            cursor: pointer;
+            transition: all 0.2s;
+            font-weight: 500;
+            color: #555;
+            text-align: center;
+            background: white;
+            border: 1px solid transparent;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+        }
+
+        .date-item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+            color: #667eea;
+        }
+
+        /* 選中狀態 - 使用你的橘色風格 */
+        .date-item.active {
+            background: #ff6b35;
+            color: white;
+            box-shadow: 0 4px 15px rgba(255,107,53,0.4);
+            font-weight: bold;
+        }
+
+        /* --- 4. 右側內容區 --- */
+        .main-content {
+            flex: 1;
+            overflow-y: auto;
+            background: white;
+            position: relative;
+            scroll-behavior: smooth;
+        }
+
+        .content-wrapper {
+            max-width: 860px; /* 文章閱讀最佳寬度 */
+            margin: 0 auto;
+            padding: 40px;
+        }
+
+        /* Loading 動畫 */
+        .spinner-container {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(255,255,255,0.9);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            z-index: 10;
+        }
+        
+        .spinner {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #667eea;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin-bottom: 15px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        .error-msg {
+            color: #dc3545;
+            text-align: center;
+            padding: 20px;
+            background: #fff5f5;
+            border-radius: 10px;
+            border: 1px solid #ffc9c9;
+        }
+
+        /* --- 5. Markdown 內容樣式 (GitHub 風格優化) --- */
+        .markdown-body {
+            line-height: 1.8;
+            color: #24292e;
+            font-size: 16px;
+        }
+
+        .markdown-body h1, .markdown-body h2, .markdown-body h3 {
+            margin-top: 24px;
+            margin-bottom: 16px;
+            font-weight: 600;
+            line-height: 1.25;
+        }
+
+        .markdown-body h1 {
+            font-size: 2em;
+            padding-bottom: .3em;
+            border-bottom: 1px solid #eaecef;
+        }
+
+        .markdown-body h2 {
+            font-size: 1.5em;
+            padding-bottom: .3em;
+            border-bottom: 1px solid #eaecef;
+        }
+
+        .markdown-body p {
+            margin-bottom: 16px;
+        }
+
+        .markdown-body a {
+            color: #0366d6;
+            text-decoration: none;
+        }
+        
+        .markdown-body a:hover {
+            text-decoration: underline;
+        }
+
+        .markdown-body ul, .markdown-body ol {
+            padding-left: 2em;
+            margin-bottom: 16px;
+        }
+
+        .markdown-body blockquote {
+            padding: 0 1em;
+            color: #6a737d;
+            border-left: 0.25em solid #dfe2e5;
+            margin: 0 0 16px 0;
+        }
+
+        .markdown-body img {
+            max-width: 100%;
+            box-sizing: border-box;
+            background-color: #fff;
+            border-radius: 6px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        
+        .markdown-body code {
+            padding: 0.2em 0.4em;
+            margin: 0;
+            font-size: 85%;
+            background-color: rgba(27,31,35,0.05);
+            border-radius: 3px;
+            font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+        }
+        
+        .markdown-body pre {
+            padding: 16px;
+            overflow: auto;
+            font-size: 85%;
+            line-height: 1.45;
+            background-color: #f6f8fa;
+            border-radius: 6px;
+            margin-bottom: 16px;
+        }
+        
+        .markdown-body pre code {
+            background-color: transparent;
+            padding: 0;
+        }
+
+        /* --- 6. RWD 手機版樣式 --- */
+        @media (max-width: 768px) {
+            body { padding: 0; }
+            
+            .app-container {
+                flex-direction: column;
+                height: 100vh;
+                border-radius: 0;
+            }
+
+            .sidebar {
+                width: 100%;
+                height: auto;
+                max-height: 140px; /* 限制選單高度 */
+                border-right: none;
+                border-bottom: 1px solid #e9ecef;
+            }
+
+            .sidebar-header {
+                padding: 10px;
+            }
+            
+            .sidebar-header h2 { font-size: 16px; }
+
+            .date-list {
+                display: flex;
+                flex-direction: row; /* 橫向排列 */
+                overflow-x: auto;
+                overflow-y: hidden;
+                padding: 10px;
+                gap: 10px;
+                white-space: nowrap;
+            }
+
+            .date-item {
+                margin-bottom: 0;
+                min-width: 120px;
+                padding: 8px 15px;
+                font-size: 14px;
+            }
+            
+            .content-wrapper {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="app-container">
+        <!-- 左側選單 -->
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2>📅 電子報存檔</h2>
+            </div>
+            <ul class="date-list" id="dateList">
+                <!-- Javascript 將自動生成日期列表 -->
+            </ul>
+        </aside>
+
+        <!-- 右側內容 -->
+        <main class="main-content" id="mainContent">
+            <!-- Loading 遮罩 -->
+            <div id="loadingSpinner" class="spinner-container">
+                <div class="spinner"></div>
+                <p>正在讀取資料...</p>
+            </div>
+
+            <div class="content-wrapper">
+                <div id="articleContainer" class="markdown-body">
+                    <!-- Markdown 內容將渲染於此 -->
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        // 設定 GitHub Repo 資訊
+        const CONFIG = {
+            owner: 'AI-FREE-Team',
+            repo: 'news',
+            path: 'eletters',
+            branch: 'main'
+        };
+
+        const dateListEl = document.getElementById('dateList');
+        const articleContainer = document.getElementById('articleContainer');
+        const loadingSpinner = document.getElementById('loadingSpinner');
+        let fileCache = []; // 用來暫存檔案列表
+
+        // 1. 取得檔案列表 (透過 GitHub API)
+        async function fetchFileList() {
+            const apiUrl = `https://api.github.com/repos/${CONFIG.owner}/${CONFIG.repo}/contents/${CONFIG.path}`;
+            
+            try {
+                const response = await fetch(apiUrl);
+                
+                // 處理 API 速率限制 (Rate Limit) 錯誤
+                if (response.status === 403) {
+                    throw new Error("GitHub API 存取次數過多，請稍後再試。");
+                }
+                if (!response.ok) throw new Error("無法連結到 GitHub 資料庫");
+
+                const data = await response.json();
+
+                // 過濾出 .md 檔案，並解析日期
+                const mdFiles = data
+                    .filter(file => file.name.endsWith('.md'))
+                    .map(file => {
+                        return {
+                            name: file.name,
+                            // 移除 .md 副檔名得到日期字串，用於排序
+                            dateStr: file.name.replace('.md', ''),
+                            download_url: file.download_url || 
+                                          `https://raw.githubusercontent.com/${CONFIG.owner}/${CONFIG.repo}/${CONFIG.branch}/${CONFIG.path}/${file.name}`
+                        };
+                    })
+                    // 根據日期倒序排列 (最新的在最上面)
+                    .sort((a, b) => b.dateStr.localeCompare(a.dateStr));
+
+                fileCache = mdFiles;
+                renderMenu(mdFiles);
+
+                // 預設載入最新的一篇
+                if (mdFiles.length > 0) {
+                    loadArticle(mdFiles[0], 0);
+                } else {
+                    showError("資料夾中沒有發現 Markdown 檔案。");
+                }
+
+            } catch (error) {
+                showError(error.message);
+            }
+        }
+
+        // 2. 渲染左側選單
+        function renderMenu(files) {
+            dateListEl.innerHTML = '';
+            files.forEach((file, index) => {
+                const li = document.createElement('li');
+                li.className = 'date-item';
+                li.textContent = file.dateStr; // 顯示檔名(日期)
+                li.onclick = () => loadArticle(file, index);
+                dateListEl.appendChild(li);
+            });
+        }
+
+        // 3. 載入並渲染文章內容
+        async function loadArticle(file, index) {
+            // UI 更新: 設定選中狀態
+            document.querySelectorAll('.date-item').forEach(el => el.classList.remove('active'));
+            const items = document.querySelectorAll('.date-item');
+            if(items[index]) items[index].classList.add('active');
+
+            // UI 更新: 顯示 Loading
+            loadingSpinner.style.display = 'flex';
+            articleContainer.innerHTML = '';
+
+            try {
+                // 抓取 Raw Markdown 文字
+                const response = await fetch(file.download_url);
+                if (!response.ok) throw new Error("無法下載文章內容");
+                const text = await response.text();
+
+                // 使用 marked 解析 MD -> HTML
+                // 處理圖片路徑問題 (如果是相對路徑，這裡可能需要額外處理，假設都是絕對路徑)
+                articleContainer.innerHTML = marked.parse(text);
+
+                // 手機版自動捲動回頂部
+                document.querySelector('.main-content').scrollTop = 0;
+
+            } catch (error) {
+                articleContainer.innerHTML = `<div class="error-msg">❌ 讀取失敗: ${error.message}</div>`;
+            } finally {
+                // 隱藏 Loading
+                loadingSpinner.style.display = 'none';
+            }
+        }
+
+        // 顯示錯誤訊息
+        function showError(msg) {
+            loadingSpinner.style.display = 'none';
+            articleContainer.innerHTML = `
+                <div class="error-msg">
+                    <h3>⚠️ 發生錯誤</h3>
+                    <p>${msg}</p>
+                    <p style="font-size: 12px; margin-top: 10px; color: #666;">
+                        如果是 API 次數限制，請過一小時後再試，或檢查 GitHub Repo 權限。
+                    </p>
+                </div>
+            `;
+        }
+
+        // 啟動程式
+        document.addEventListener('DOMContentLoaded', fetchFileList);
+
+    </script>
+</body>
+</html>
