@@ -45,8 +45,70 @@ if not post_content:
 
 url = f"https://graph.facebook.com/v20.0/{FB_PAGE_ID}/feed"
 
+import re
+
+def optimize_md_for_fb(text):
+    """
+    將 Markdown 格式轉換為適合 Facebook 發文的格式
+    利用 Unicode 字符模擬粗體、斜體，並優化結構。
+    """
+    
+    # --- Unicode 轉換表 ---
+    def to_unicode_variant(text, style="bold"):
+        # 這是簡單的對應表，處理 A-Z, a-z, 0-9
+        chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"
+        
+        # 粗體 (Mathematical Bold)
+        bold_chars = "𝐀𝐁𝐂𝐃𝐄𝐅𝐆𝐇𝐈𝐉𝐊𝐋𝐌𝐍𝐎𝐏Ｑ𝐑𝐒𝐓𝐔𝐕𝐖𝐗𝐘𝐙𝐚𝐛𝐜𝐝𝐞𝐟𝐠𝐡𝐢𝐣𝐤𝐥𝐦𝐧𝐨𝐩𝐪𝐫𝐬𝐭𝐮𝐯𝐰𝐱𝐲𝐳𝟎𝟏𝟐𝟑𝟒𝟓𝟔𝟕𝟖𝟗"
+        # 斜體 (Mathematical Italic)
+        italic_chars = "𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻𝐼𝐽𝐾𝐿𝑀𝑁𝑂𝑃𝑄𝑅𝑆𝑇𝑈𝑉𝑊𝑋𝑌𝑍𝑎𝑏𝑐𝑑𝑒𝑓𝑔ℎ𝑖𝑗𝑘𝑙𝑚𝑛𝑜𝑝𝑞𝑟𝑠𝑡𝑢𝑣𝑤𝑥𝑦𝑧0123456789"
+        # 刪除線
+        strikethrough_char = "\u0336"
+
+        if style == "bold":
+            trans = str.maketrans(chars, bold_chars)
+            return text.translate(trans)
+        elif style == "italic":
+            trans = str.maketrans(chars, italic_chars)
+            return text.translate(trans)
+        elif style == "strike":
+            return "".join([c + strikethrough_char for c in text])
+        return text
+
+    # 1. 處理標題 (Header) - FB 不支援大字體，所以用粗體 + Emoji 裝飾
+    def replace_header(match):
+        level = len(match.group(1)) # # 的數量
+        content = match.group(2).upper() # 標題通常大寫較顯眼
+        icons = {1: "📢", 2: "📌", 3: "🔹"}
+        icon = icons.get(level, "▪️")
+        return f"\n{icon} {to_unicode_variant(content, 'bold')}\n"
+
+    text = re.sub(r'^(#+)\s+(.*)', replace_header, text, flags=re.MULTILINE)
+
+    # 2. 處理粗體 (**text**)
+    text = re.sub(r'\*\*(.*?)\*\*', lambda m: to_unicode_variant(m.group(1), "bold"), text)
+
+    # 3. 處理斜體 (*text*)
+    text = re.sub(r'\*(.*?)\*', lambda m: to_unicode_variant(m.group(1), "italic"), text)
+
+    # 4. 處理刪除線 (~~text~~)
+    text = re.sub(r'~~(.*?)~~', lambda m: to_unicode_variant(m.group(1), "strike"), text)
+
+    # 5. 處理清單 (List) - 將 - 或 * 換成更漂亮的點
+    text = re.sub(r'^\s*[\-\*]\s+', "✅ ", text, flags=re.MULTILINE)
+    text = re.sub(r'^\s*\d+\.\s+', "➔ ", text, flags=re.MULTILINE)
+
+    # 6. 處理連結 ([text](url)) - FB 會自動抓 Link Preview，但文字格式需調整
+    # 如果想保留文字，格式改為: 文字 (url)
+    text = re.sub(r'\[(.*?)\]\((.*?)\)', r'\1: \2', text)
+
+    # 7. 清理多餘空行
+    text = re.sub(r'\n{3,}', '\n\n', text)
+
+    return text.strip()
+
 params = {
-    'message': post_content, # 使用從檔案讀取的內容
+    'message': optimize_md_for_fb(post_content), # 使用從檔案讀取的內容
     'access_token': FB_ACCESS_TOKEN
 }
 
@@ -76,4 +138,5 @@ try:
         
 except requests.exceptions.RequestException as e:
     print(f"發送請求時發生錯誤: {e}")
+
     exit(1) # 如果請求失敗，讓 GitHub Action 報錯
