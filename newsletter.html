@@ -3,11 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI-FREE Team 電子報閱讀器</title>
-    <!-- 引入 marked.js 用於解析 Markdown -->
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <title>AI.FREE News</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/11.1.1/marked.min.js"></script>
     <style>
-        /* --- 1. 基礎設定 & 背景樣式 (保留你原本的風格) --- */
         * {
             margin: 0;
             padding: 0;
@@ -16,122 +14,142 @@
 
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            height: 100vh;
+            /*background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);*/
+            min-height: 100vh;
             display: flex;
-            justify-content: center;
-            align-items: center;
-            padding: 20px;
-            overflow: hidden;
+            flex-direction: column;
             color: #333;
         }
 
-        /* --- 2. 主容器佈局 --- */
+        /* Header */
+        header {
+            background-color: rgba(44, 62, 80, 0.95);
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+            box-shadow: 0 3px 15px rgba(0, 0, 0, 0.3);
+            backdrop-filter: blur(10px);
+            flex-shrink: 0;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            letter-spacing: 2px;
+        }
+
+        header p {
+            margin-top: 8px;
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+
+        .color_AI {
+            color: #3fb0f0;
+            font-weight: bold;
+        }
+        
+        .color_FREE {
+            color: #8dcd49;
+            font-weight: bold;
+        }
+        
+        .color_TEAM {
+            color: #a5a5a5;
+            font-weight: bold;
+        }
+
+        /* Main Container */
+        main {
+            flex: 1;
+            padding: 20px;
+            overflow: auto;
+        }
+
         .app-container {
             background: white;
             border-radius: 20px;
             width: 100%;
-            max-width: 1400px; /* 限制最大寬度，避免在大螢幕太寬 */
-            height: 90vh;      /* 高度佔視窗 90% */
-            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
-            display: flex;
+            max-width: 1200px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
             overflow: hidden;
-            position: relative;
+            margin: 0 auto;
         }
 
-        /* --- 3. 左側選單區 --- */
-        .sidebar {
-            width: 280px;
-            background: #f8f9fa;
-            border-right: 1px solid #e9ecef;
-            display: flex;
-            flex-direction: column;
-            flex-shrink: 0; /* 防止被擠壓 */
+        /* Date Selector */
+        .date-selector-container {
+            background: linear-gradient(135deg, #3fb0f0 0%,#8dcd49 100%);
+            padding: 25px;
+            border-bottom: 3px solid rgba(255, 255, 255, 0.2);
         }
 
-        .sidebar-header {
-            padding: 20px;
-            background: white;
-            border-bottom: 1px solid #e9ecef;
+        .date-selector-wrapper {
+            max-width: 500px;
+            margin: 0 auto;
             text-align: center;
         }
 
-        .sidebar-header h2 {
-            font-size: 18px;
-            color: #444;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 8px;
-        }
-
-        .date-list {
-            flex: 1;
-            overflow-y: auto;
-            padding: 15px;
-            list-style: none;
-        }
-
-        /* 捲軸美化 */
-        .date-list::-webkit-scrollbar {
-            width: 6px;
-        }
-        .date-list::-webkit-scrollbar-thumb {
-            background-color: #ccc;
-            border-radius: 3px;
-        }
-
-        .date-item {
-            padding: 12px 20px;
-            margin-bottom: 8px;
-            border-radius: 50px; /* 圓角按鈕風格 */
-            cursor: pointer;
-            transition: all 0.2s;
-            font-weight: 500;
-            color: #555;
-            text-align: center;
-            background: white;
-            border: 1px solid transparent;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-        }
-
-        .date-item:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-            color: #667eea;
-        }
-
-        /* 選中狀態 - 使用你的橘色風格 */
-        .date-item.active {
-            background: #ff6b35;
+        .date-selector-wrapper label {
+            display: block;
             color: white;
-            box-shadow: 0 4px 15px rgba(255,107,53,0.4);
-            font-weight: bold;
+            font-size: 1.1em;
+            font-weight: 600;
+            margin-bottom: 12px;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
         }
 
-        /* --- 4. 右側內容區 --- */
+        #dateSelector {
+            width: 100%;
+            padding: 12px 16px;
+            font-size: 16px;
+            border: 2px solid rgba(255, 255, 255, 0.3);
+            border-radius: 12px;
+            background: white;
+            color: #333;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: 500;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        #dateSelector:hover {
+            border-color: rgba(255, 255, 255, 0.6);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+            transform: translateY(-2px);
+        }
+
+        #dateSelector:focus {
+            outline: none;
+            border-color: #fff;
+            box-shadow: 0 0 0 4px rgba(255, 255, 255, 0.3);
+        }
+
+        #dateSelector option {
+            padding: 10px;
+        }
+
+        /* Main Content */
         .main-content {
-            flex: 1;
             overflow-y: auto;
             background: white;
             position: relative;
             scroll-behavior: smooth;
+            /*max-height: calc(100vh - 300px);*/
         }
 
         .content-wrapper {
-            max-width: 860px; /* 文章閱讀最佳寬度 */
-            margin: 0 auto;
-            padding: 40px;
+            width: 100%;
+            padding: 50px;
         }
 
-        /* Loading 動畫 */
+        /* Loading */
         .spinner-container {
             position: absolute;
             top: 0;
             left: 0;
             width: 100%;
             height: 100%;
-            background: rgba(255,255,255,0.9);
+            background: rgba(255, 255, 255, 0.95);
             display: flex;
             justify-content: center;
             align-items: center;
@@ -157,20 +175,28 @@
         .error-msg {
             color: #dc3545;
             text-align: center;
-            padding: 20px;
+            padding: 30px;
             background: #fff5f5;
-            border-radius: 10px;
-            border: 1px solid #ffc9c9;
+            border-radius: 15px;
+            border: 2px solid #ffc9c9;
+            margin: 20px;
         }
 
-        /* --- 5. Markdown 內容樣式 (GitHub 風格優化) --- */
+        .error-msg h3 {
+            margin-bottom: 15px;
+            font-size: 1.5em;
+        }
+
+        /* Markdown Content Styles */
         .markdown-body {
             line-height: 1.8;
             color: #24292e;
             font-size: 16px;
         }
 
-        .markdown-body h1, .markdown-body h2, .markdown-body h3 {
+        .markdown-body h1, 
+        .markdown-body h2, 
+        .markdown-body h3 {
             margin-top: 24px;
             margin-bottom: 16px;
             font-weight: 600;
@@ -179,14 +205,21 @@
 
         .markdown-body h1 {
             font-size: 2em;
-            padding-bottom: .3em;
-            border-bottom: 1px solid #eaecef;
+            padding-bottom: 0.3em;
+            border-bottom: 2px solid #eaecef;
+            color: #2c3e50;
         }
 
         .markdown-body h2 {
             font-size: 1.5em;
-            padding-bottom: .3em;
+            padding-bottom: 0.3em;
             border-bottom: 1px solid #eaecef;
+            color: #34495e;
+        }
+
+        .markdown-body h3 {
+            font-size: 1.25em;
+            color: #34495e;
         }
 
         .markdown-body p {
@@ -202,9 +235,14 @@
             text-decoration: underline;
         }
 
-        .markdown-body ul, .markdown-body ol {
+        .markdown-body ul, 
+        .markdown-body ol {
             padding-left: 2em;
             margin-bottom: 16px;
+        }
+
+        .markdown-body li {
+            margin-bottom: 8px;
         }
 
         .markdown-body blockquote {
@@ -216,19 +254,19 @@
 
         .markdown-body img {
             max-width: 100%;
-            box-sizing: border-box;
-            background-color: #fff;
-            border-radius: 6px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            margin: 16px 0;
         }
         
         .markdown-body code {
             padding: 0.2em 0.4em;
             margin: 0;
             font-size: 85%;
-            background-color: rgba(27,31,35,0.05);
+            background-color: rgba(27, 31, 35, 0.05);
             border-radius: 3px;
-            font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+            font-family: 'Courier New', Consolas, monospace;
         }
         
         .markdown-body pre {
@@ -246,84 +284,134 @@
             padding: 0;
         }
 
-        /* --- 6. RWD 手機版樣式 --- */
+        .markdown-body table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-bottom: 16px;
+        }
+
+        .markdown-body table th,
+        .markdown-body table td {
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+        }
+
+        .markdown-body table th {
+            background-color: #f6f8fa;
+            font-weight: 600;
+        }
+
+        /* Footer */
+        footer {
+            background-color: rgba(44, 62, 80, 0.95);
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+            box-shadow: 0 -3px 15px rgba(0, 0, 0, 0.2);
+            backdrop-filter: blur(10px);
+        }
+
+        /* Responsive Design */
         @media (max-width: 768px) {
-            body { padding: 0; }
+            body {
+                /*background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);*/
+                padding: 0;
+            }
+
+            header h1 {
+                font-size: 1.8em;
+            }
+
+            header p {
+                font-size: 0.9em;
+            }
+
+            main {
+                padding: 10px;
+            }
             
             .app-container {
-                flex-direction: column;
-                height: 100vh;
-                border-radius: 0;
+                border-radius: 15px;
             }
 
-            .sidebar {
-                width: 100%;
-                height: auto;
-                max-height: 140px; /* 限制選單高度 */
-                border-right: none;
-                border-bottom: 1px solid #e9ecef;
+            .date-selector-container {
+                padding: 20px 15px;
             }
 
-            .sidebar-header {
-                padding: 10px;
-            }
-            
-            .sidebar-header h2 { font-size: 16px; }
-
-            .date-list {
-                display: flex;
-                flex-direction: row; /* 橫向排列 */
-                overflow-x: auto;
-                overflow-y: hidden;
-                padding: 10px;
-                gap: 10px;
-                white-space: nowrap;
+            .date-selector-wrapper {
+                max-width: 100%;
             }
 
-            .date-item {
-                margin-bottom: 0;
-                min-width: 120px;
-                padding: 8px 15px;
+            .date-selector-wrapper label {
+                font-size: 1em;
+            }
+
+            #dateSelector {
                 font-size: 14px;
+                padding: 10px 12px;
+            }
+
+            .main-content {
+                /*max-height: calc(100vh - 350px);*/
             }
             
             .content-wrapper {
-                padding: 20px;
+                padding: 25px 20px;
+            }
+
+            .markdown-body {
+                font-size: 14px;
+            }
+
+            .markdown-body h1 {
+                font-size: 1.6em;
+            }
+
+            .markdown-body h2 {
+                font-size: 1.3em;
             }
         }
     </style>
 </head>
 <body>
+    <header>
+        <h1><span class="color_AI">AI</span> . <span class="color_FREE">FREE</span> News</h1>
+        <p>智能 AI 新聞分析平台 | <a href="./" style="color: lightblue;">新聞列表</a> | <a href="./newsletter.html" style="color: lightblue;">電子報</a></p>
+    </header>
 
-    <div class="app-container">
-        <!-- 左側選單 -->
-        <aside class="sidebar">
-            <div class="sidebar-header">
-                <h2>📅 電子報存檔</h2>
-            </div>
-            <ul class="date-list" id="dateList">
-                <!-- Javascript 將自動生成日期列表 -->
-            </ul>
-        </aside>
-
-        <!-- 右側內容 -->
-        <main class="main-content" id="mainContent">
-            <!-- Loading 遮罩 -->
-            <div id="loadingSpinner" class="spinner-container">
-                <div class="spinner"></div>
-                <p>正在讀取資料...</p>
-            </div>
-
-            <div class="content-wrapper">
-                <div id="articleContainer" class="markdown-body">
-                    <!-- Markdown 內容將渲染於此 -->
+    <main>
+        <div class="app-container">
+            <div class="date-selector-container">
+                <div class="date-selector-wrapper">
+                    <label for="dateSelector">📅 選擇電子報日期</label>
+                    <select id="dateSelector">
+                        <option value="">載入中...</option>
+                    </select>
                 </div>
             </div>
-        </main>
-    </div>
+    
+            <main class="main-content" id="mainContent">
+                <div id="loadingSpinner" class="spinner-container">
+                    <div class="spinner"></div>
+                    <p>正在讀取資料...</p>
+                </div>
+    
+                <div class="content-wrapper">
+                    <div id="articleContainer" class="markdown-body"></div>
+                </div>
+            </main>
+        </div>
+    </main>
+
+    <footer>
+        <p>
+            Copyright © <script>document.write(new Date().getFullYear());</script>
+            <span class="color_AI">AI</span>.<span class="color_FREE">FREE</span> <span class="color_TEAM">Team</span>
+            All rights reserved.
+        </p>
+    </footer>
 
     <script>
-        // 設定 GitHub Repo 資訊
         const CONFIG = {
             owner: 'AI-FREE-Team',
             repo: 'news',
@@ -331,117 +419,99 @@
             branch: 'main'
         };
 
-        const dateListEl = document.getElementById('dateList');
+        const dateSelector = document.getElementById('dateSelector');
         const articleContainer = document.getElementById('articleContainer');
         const loadingSpinner = document.getElementById('loadingSpinner');
-        let fileCache = []; // 用來暫存檔案列表
+        let fileCache = [];
 
-        // 1. 取得檔案列表 (透過 GitHub API)
         async function fetchFileList() {
             const apiUrl = `https://api.github.com/repos/${CONFIG.owner}/${CONFIG.repo}/contents/${CONFIG.path}`;
             
             try {
                 const response = await fetch(apiUrl);
                 
-                // 處理 API 速率限制 (Rate Limit) 錯誤
                 if (response.status === 403) {
-                    throw new Error("GitHub API 存取次數過多，請稍後再試。");
+                    throw new Error("GitHub API 存取次數過多,請稍後再試。");
                 }
                 if (!response.ok) throw new Error("無法連結到 GitHub 資料庫");
 
                 const data = await response.json();
-
-                // 過濾出 .md 檔案，並解析日期
                 const mdFiles = data
                     .filter(file => file.name.endsWith('.md'))
-                    .map(file => {
-                        return {
-                            name: file.name,
-                            // 移除 .md 副檔名得到日期字串，用於排序
-                            dateStr: file.name.replace('.md', ''),
-                            download_url: file.download_url || 
-                                          `https://raw.githubusercontent.com/${CONFIG.owner}/${CONFIG.repo}/${CONFIG.branch}/${CONFIG.path}/${file.name}`
-                        };
-                    })
-                    // 根據日期倒序排列 (最新的在最上面)
+                    .map(file => ({
+                        name: file.name,
+                        dateStr: file.name.replace('.md', ''),
+                        download_url: file.download_url || 
+                            `https://raw.githubusercontent.com/${CONFIG.owner}/${CONFIG.repo}/${CONFIG.branch}/${CONFIG.path}/${file.name}`
+                    }))
                     .sort((a, b) => b.dateStr.localeCompare(a.dateStr));
 
                 fileCache = mdFiles;
-                renderMenu(mdFiles);
+                renderDateSelector(mdFiles);
 
-                // 預設載入最新的一篇
                 if (mdFiles.length > 0) {
-                    loadArticle(mdFiles[0], 0);
+                    dateSelector.value = mdFiles[0].dateStr;
+                    loadArticle(mdFiles[0]);
                 } else {
                     showError("資料夾中沒有發現 Markdown 檔案。");
                 }
-
             } catch (error) {
                 showError(error.message);
             }
         }
 
-        // 2. 渲染左側選單
-        function renderMenu(files) {
-            dateListEl.innerHTML = '';
-            files.forEach((file, index) => {
-                const li = document.createElement('li');
-                li.className = 'date-item';
-                li.textContent = file.dateStr; // 顯示檔名(日期)
-                li.onclick = () => loadArticle(file, index);
-                dateListEl.appendChild(li);
+        function renderDateSelector(files) {
+            dateSelector.innerHTML = '';
+            files.forEach(file => {
+                const option = document.createElement('option');
+                option.value = file.dateStr;
+                option.textContent = file.dateStr;
+                dateSelector.appendChild(option);
             });
         }
 
-        // 3. 載入並渲染文章內容
-        async function loadArticle(file, index) {
-            // UI 更新: 設定選中狀態
-            document.querySelectorAll('.date-item').forEach(el => el.classList.remove('active'));
-            const items = document.querySelectorAll('.date-item');
-            if(items[index]) items[index].classList.add('active');
+        dateSelector.addEventListener('change', (e) => {
+            const selectedFile = fileCache.find(f => f.dateStr === e.target.value);
+            if (selectedFile) {
+                loadArticle(selectedFile);
+            }
+        });
 
-            // UI 更新: 顯示 Loading
+        async function loadArticle(file) {
             loadingSpinner.style.display = 'flex';
             articleContainer.innerHTML = '';
 
             try {
-                // 抓取 Raw Markdown 文字
                 const response = await fetch(file.download_url);
                 if (!response.ok) throw new Error("無法下載文章內容");
-                const text = await response.text();
+                let text = await response.text();
 
-                // 使用 marked 解析 MD -> HTML
-                // 處理圖片路徑問題 (如果是相對路徑，這裡可能需要額外處理，假設都是絕對路徑)
+                // 移除 YAML Front Matter (如果存在)
+                text = text.replace(/^---\s*[\r\n]+([\s\S]*?)[\r\n]+---\s*[\r\n]+/m, '');
+
                 articleContainer.innerHTML = marked.parse(text);
-
-                // 手機版自動捲動回頂部
                 document.querySelector('.main-content').scrollTop = 0;
-
             } catch (error) {
                 articleContainer.innerHTML = `<div class="error-msg">❌ 讀取失敗: ${error.message}</div>`;
             } finally {
-                // 隱藏 Loading
                 loadingSpinner.style.display = 'none';
             }
         }
 
-        // 顯示錯誤訊息
         function showError(msg) {
             loadingSpinner.style.display = 'none';
             articleContainer.innerHTML = `
                 <div class="error-msg">
                     <h3>⚠️ 發生錯誤</h3>
                     <p>${msg}</p>
-                    <p style="font-size: 12px; margin-top: 10px; color: #666;">
-                        如果是 API 次數限制，請過一小時後再試，或檢查 GitHub Repo 權限。
+                    <p style="font-size: 12px; margin-top: 15px; color: #666;">
+                        如果是 API 次數限制,請過一小時後再試,或檢查 GitHub Repo 權限。
                     </p>
                 </div>
             `;
         }
 
-        // 啟動程式
         document.addEventListener('DOMContentLoaded', fetchFileList);
-
     </script>
 </body>
 </html>
