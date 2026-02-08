@@ -1,0 +1,65 @@
+[
+  {
+    "title": "150萬AI代理實境秀的風險",
+    "url": "https://www.ithome.com.tw/voice/173832",
+    "source": "iThome",
+    "published_at": "2026-02-08 10:25:39+08:00",
+    "summary": "最近在科技圈引起火爆討論的AI代理社群平臺Moltbook，也是一場典型的網路世界實境秀，人工智慧程式是參與其中的角色，而真人則是只能看不能發言的實境秀...",
+    "scraped_at": "2026-02-08T10:29:00+08:00",
+    "canonical_url": "https://www.ithome.com.tw/voice/173832"
+  },
+  {
+    "title": "AI 心理健康資料該不該集中管理？決策出現分歧",
+    "url": "https://technews.tw/2026/02/08/should-ai-generated-mental-health-data-be-centrally-managed/",
+    "source": "TechNews 科技新報",
+    "published_at": "2026-02-08 09:41:15+08:00",
+    "summary": "在當前的科技環境中，人工智慧（AI）在心理健康領域的應用日益普及，也引發決策者與立法者關注：該如何利用這些私人對話資料。根據最新報導，部分決策者主張...",
+    "scraped_at": "2026-02-08T10:29:00+08:00",
+    "canonical_url": "https://technews.tw/2026/02/08/should-ai-generated-mental-health-data-be-centrally-managed/"
+  },
+  {
+    "title": "一封Email讓AI助理變內鬼！實測新型AI資安漏洞 重要資料都外洩",
+    "url": "https://tech.udn.com/tech/story/123454/9308394?from=redpush",
+    "source": "udn科技玩家",
+    "published_at": "2026-02-08 08:30:00+08:00",
+    "summary": "現在市面上有越來越多種的AI工具，從廣為人知的Gemin、ChatGPT，到一些允許你自行設定AI要執行什麼指令的軟體都有。人們也習慣讓AI協助處理自己的日常...",
+    "scraped_at": "2026-02-08T10:29:00+08:00",
+    "canonical_url": "https://tech.udn.com/tech/story/123454/9308394"
+  },
+  {
+    "title": "徐作聖觀點：AI十大建設必須建立在專業能源政策之上 | 徐作聖 | 評論",
+    "url": "https://www.storm.mg/article/11100374",
+    "source": "Storm.mg",
+    "published_at": "2026-02-08 06:10:00+08:00",
+    "summary": "當全球競逐人工智慧主導權時，競爭的核心早已超越演算法創新或模型參數規模，回到一個更根本的問題：能源。AI 的算力擴張、資料中心運作、高效能運算與...",
+    "scraped_at": "2026-02-08T10:29:00+08:00",
+    "canonical_url": "https://www.storm.mg/article/11100374"
+  },
+  {
+    "title": "OpenAI推出「Frontier」代理管理平台，打造企業級AI的中央指揮塔",
+    "url": "https://tw.news.yahoo.com/openai-launches-frontier-agent-management-platform-creating-a-central-command-tower-for-enterprise-level-ai-152819885.html",
+    "source": "Yahoo新聞",
+    "published_at": "2026-02-07 23:28:19+08:00",
+    "summary": "2026年無疑是「AI代理」 (AI Agents)的爆發元年。當企業內部的AI從單純「陪聊」的聊天機器人(Chatbot)，進化成能實際執行任務、調用工具的「代理」...",
+    "scraped_at": "2026-02-08T10:29:00+08:00",
+    "canonical_url": "https://tw.news.yahoo.com/openai-launches-frontier-agent-management-platform-creating-a-central-command-tower-for-enterprise-level-ai-152819885.html"
+  },
+  {
+    "title": "告別情緒化主管！日本電信引進「AI老闆」超神效率，員工狂讚： 更好說真話",
+    "url": "https://www.techbang.com/posts/127675-kddi-ai-manager-boosts-employee-satisfaction",
+    "source": "T客邦",
+    "published_at": "2026-02-07 16:30:00+08:00",
+    "summary": "日本企業KDDI大膽引進AI主管管理團隊，不僅展現驚人效率，AI主管情緒穩定更獲員工好評。這股趨勢正引領企業進入全新的管理時代。",
+    "scraped_at": "2026-02-08T10:29:00+08:00",
+    "canonical_url": "https://www.techbang.com/posts/127675-kddi-ai-manager-boosts-employee-satisfaction"
+  },
+  {
+    "title": "中國AI公司加速「出海」：為什麼香港成了關鍵一站？",
+    "url": "https://www.bbc.com/zhongwen/articles/cj4l0ql04jko/trad",
+    "source": "BBC",
+    "published_at": "2026-02-07 12:10:18+08:00",
+    "summary": "路透社援引數據稱，2025年香港通過115宗上市共募資372億美元，其中AI與高科技貢獻了重要增量。",
+    "scraped_at": "2026-02-08T10:29:00+08:00",
+    "canonical_url": "https://www.bbc.com/zhongwen/articles/cj4l0ql04jko/trad"
+  }
+]
