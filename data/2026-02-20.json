@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Google揭秘AI時代人才價值解讀問題能力最關鍵| 科技產業| 產經",
+    "url": "https://udn.com/news/story/7240/9335160",
+    "source": "聯合新聞網",
+    "published_at": "2026-02-20 09:44:01+08:00",
+    "summary": "農曆春節期間，不少職場人士與親友團聚之餘，也開始思考新一年的職涯轉機。隨著生成式人工智慧（AI）從技術爆發期進入應用落地...",
+    "scraped_at": "2026-02-20T10:00:09+08:00",
+    "canonical_url": "https://udn.com/news/story/7240/9335160"
+  },
+  {
+    "title": "AI震盪下的避風港！Wedbush點名一領域「3大股」",
+    "url": "https://news.cnyes.com/news/id/6346841",
+    "source": "鉅亨網",
+    "published_at": "2026-02-20 05:30:21+08:00",
+    "summary": "在AI 技術快速普及下，網路安全成為科技產業中兼具防禦與成長性的關鍵領域。Wedbush 指出，隨著攻擊頻率與風險升高，企業資安支出將持續攀升。",
+    "scraped_at": "2026-02-20T10:00:09+08:00",
+    "canonical_url": "https://news.cnyes.com/news/id/6346841"
+  },
+  {
+    "title": "歐洲為何留不住頂尖 AI 人才？OpenClaw 創辦人給出答案",
+    "url": "https://www.inside.com.tw/article/40695-openclaw-founder-peter-steinberger-openai-europe-regulations-talent-drain",
+    "source": "INSIDE",
+    "published_at": "2026-02-19 19:54:38+08:00",
+    "summary": "他指出，若在歐洲創業，嚴苛的勞動法規就會是首要障礙。他以OpenAI 為例，多數員工每週工作六至七天並獲相應報酬，但這樣的工作安排在歐洲根本違法。",
+    "scraped_at": "2026-02-20T10:00:09+08:00",
+    "canonical_url": "https://www.inside.com.tw/article/40695-openclaw-founder-peter-steinberger-openai-europe-regulations-talent-drain"
+  },
+  {
+    "title": "OpenAI 聯手 Paradigm 推出「EVMbench」，測試 AI 能否成為智能合約的終極守護者",
+    "url": "https://www.blocktempo.com/openai-teams-up-with-paradigm-to-launch-evmbench/",
+    "source": "動區動趨",
+    "published_at": "2026-02-19 17:21:30+08:00",
+    "summary": "在人工智慧與區塊鏈技術快速交會的當下，Sam Altman 領導的OpenAI 攜手加密投資巨頭Paradigm，正式推出EVMbench。這項全新基準測試工具，旨在嚴格評估AI...",
+    "scraped_at": "2026-02-20T10:00:09+08:00",
+    "canonical_url": "https://www.blocktempo.com/openai-teams-up-with-paradigm-to-launch-evmbench/"
+  },
+  {
+    "title": "AI 瀏覽器成掌握「行為數據」決勝點！簡立峰：Google 用 Chrome 打 AI 入口戰！OpenAI 缺什麼？",
+    "url": "https://fc.bnext.com.tw/articles/view/4454",
+    "source": "未來商務",
+    "published_at": "2026-02-19 12:00:00+08:00",
+    "summary": "除了比較模型能力，下一個戰場就是「瀏覽器」，誰愈能掌握更多使用者數據，在這場AI競爭中，就不只是賺訂閱用戶的錢，而是創造下一個變現商機。",
+    "scraped_at": "2026-02-20T10:00:09+08:00",
+    "canonical_url": "https://fc.bnext.com.tw/articles/view/4454"
+  },
+  {
+    "title": "NVIDIA拿下Meta AI大單！數百萬GPU重塑算力版圖",
+    "url": "https://tw.news.yahoo.com/nvidia%E6%8B%BF%E4%B8%8Bmeta-ai%E5%A4%A7%E5%96%AE-%E6%95%B8%E7%99%BE%E8%90%ACgpu%E9%87%8D%E5%A1%91%E7%AE%97%E5%8A%9B%E7%89%88%E5%9C%96-031002740.html",
+    "source": "Yahoo新聞",
+    "published_at": "2026-02-19 11:28:33+08:00",
+    "summary": "[Newtalk新聞] NVIDIA 宣布與Meta 建立跨平台、跨世代的策略夥伴關係，涵蓋本地部署、雲端及AI 基礎設施。這次合作上，Meta 擴大NVIDIA CPU 的部署，...",
+    "scraped_at": "2026-02-20T10:00:09+08:00",
+    "canonical_url": "https://tw.news.yahoo.com/nvidia%E6%8B%BF%E4%B8%8Bmeta-ai%E5%A4%A7%E5%96%AE-%E6%95%B8%E7%99%BE%E8%90%ACgpu%E9%87%8D%E5%A1%91%E7%AE%97%E5%8A%9B%E7%89%88%E5%9C%96-031002740.html"
+  },
+  {
+    "title": "僅耗時20分鐘，我駭入了ChatGPT和Google的AI系統",
+    "url": "https://www.bbc.com/zhongwen/articles/c2k8vnpyk15o/trad",
+    "source": "BBC",
+    "published_at": "2026-02-19 10:51:07+08:00",
+    "summary": "或許你聽過AI聊天機器人偶爾會編造內容，這固然是個問題。但更少人知曉的新隱憂是，可能嚴重影響你獲取準確資訊的能力，甚至危及人身安全。",
+    "scraped_at": "2026-02-20T10:00:09+08:00",
+    "canonical_url": "https://www.bbc.com/zhongwen/articles/c2k8vnpyk15o/trad"
+  },
+  {
+    "title": "Google再祭AI黑科技！Gemini變身「行動音樂室」 文字、圖片一鍵生成30秒神曲- 國際",
+    "url": "https://www.ctee.com.tw/news/20260219700084-430704",
+    "source": "工商時報",
+    "published_at": "2026-02-19 09:49:00+08:00",
+    "summary": "Google衝刺生成式AI應用再祭黑科技！Google昨（18）日宣布，旗下AI助理Gemini正式整合DeepMind開發的最強音訊模型「Lyria 3」，用戶只要透過簡單的文字...",
+    "scraped_at": "2026-02-20T10:00:09+08:00",
+    "canonical_url": "https://www.ctee.com.tw/news/20260219700084-430704"
+  },
+  {
+    "title": "葉日武觀點：AI的兩面刃─ 學習神器與教師輓歌",
+    "url": "https://www.storm.mg/article/11099079",
+    "source": "Storm.mg",
+    "published_at": "2026-02-19 06:50:00+08:00",
+    "summary": "日前，教育部長鄭英耀在大專院校校長會議中呼籲，大學「不要再等」，應該有效運用AI與數位科技，培育符合當前及未來趨勢的人才。如標題所示，本文針對大學...",
+    "scraped_at": "2026-02-20T10:00:09+08:00",
+    "canonical_url": "https://www.storm.mg/article/11099079"
+  }
+]
