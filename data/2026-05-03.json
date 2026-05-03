@@ -1,0 +1,83 @@
+[
+  {
+    "title": "當 AI 聊天機器人變得更友善，事實誤判與附和陰謀論機率竟飆升 30%",
+    "url": "https://technews.tw/2026/05/03/friendly-ai-chatbots-may-be-less-accurate/",
+    "source": "TechNews 科技新報",
+    "published_at": "2026-05-03 10:37:30+08:00",
+    "summary": "牛津大學網路研究所（Oxford Internet Institute）最新研究指出，若將AI 聊天機器人訓練得更友善、更有溫度，模型不一定會更討喜，反而可能更容易出現事實...",
+    "scraped_at": "2026-05-03T10:48:21+08:00",
+    "canonical_url": "https://technews.tw/2026/05/03/friendly-ai-chatbots-may-be-less-accurate/"
+  },
+  {
+    "title": "AI比人工便宜就解雇？中國法院判賠26萬，公司違法開全球首例 | 德國之聲 | 新聞",
+    "url": "https://www.storm.mg/article/11127359",
+    "source": "風傳媒",
+    "published_at": "2026-05-03 09:46:15+08:00",
+    "summary": "本周，杭州市中級人民法院公布了一起有關「AI接替人類員工」的判例，判決公司因「AI成本比人工低」而辭退員工系違法行為，涉事企業需要支付賠償金26萬元...",
+    "scraped_at": "2026-05-03T10:48:21+08:00",
+    "canonical_url": "https://www.storm.mg/article/11127359"
+  },
+  {
+    "title": "波克夏股東會六大重點！阿貝爾首秀、巴菲特示警 AI 曝「現金近 4,000 億美元」",
+    "url": "https://finance.technews.tw/2026/05/03/berkshire-hathaway-shareholders-meeting/",
+    "source": "TechNews 科技新報",
+    "published_at": "2026-05-03 09:13:20+08:00",
+    "summary": "年度金融盛事，波克夏海瑟威（Berkshire Hathaway）股東大會5 月2 日在美國內布拉斯加州奧馬哈登場，這是新任執行長格雷格·阿貝爾（Greg Abel）全面接掌波克...",
+    "scraped_at": "2026-05-03T10:48:21+08:00",
+    "canonical_url": "https://finance.technews.tw/2026/05/03/berkshire-hathaway-shareholders-meeting/"
+  },
+  {
+    "title": "地緣政治風險新常態 AI超級循環搭配黃金避震",
+    "url": "https://finance.ettoday.net/news/3159308",
+    "source": "ETtoday財經雲",
+    "published_at": "2026-05-03 06:05:00+08:00",
+    "summary": "全球投資市場正在兩股力量的角力中尋找定錨，一邊是揮之不去的地緣政治雜音，另一邊是遠比市場預期強勁的企業獲利基本面，中租基金平台總經理蘇皓毅認為，...",
+    "scraped_at": "2026-05-03T10:48:21+08:00",
+    "canonical_url": "https://finance.ettoday.net/news/3159308"
+  },
+  {
+    "title": "AI教師增能研習推動竹縣導入認證提升教學品質| 地方",
+    "url": "https://www.cna.com.tw/news/aloc/202605020124.aspx",
+    "source": "中央社 CNA",
+    "published_at": "2026-05-02 16:29:00+08:00",
+    "summary": "新竹縣政府今天表示，推動AI教師增能研習，透過導入竹縣AI專屬認證方式，鼓勵教師考證，讓教師能將AI應用於教學設計上，導入科技應用提升教學品質。",
+    "scraped_at": "2026-05-03T10:48:21+08:00",
+    "canonical_url": "https://www.cna.com.tw/news/aloc/202605020124.aspx"
+  },
+  {
+    "title": "馬斯克庭上認了！xAI用OpenAI訓練Grok 「AI蒸餾」引爆產業雙標爭議",
+    "url": "https://tw.stock.yahoo.com/news/%E9%A6%AC%E6%96%AF%E5%85%8B%E5%BA%AD%E4%B8%8A%E8%AA%8D%E4%BA%86-xai%E7%94%A8openai%E8%A8%93%E7%B7%B4grok-ai%E8%92%B8%E9%A4%BE-%E5%BC%95%E7%88%86%E7%94%A2%E6%A5%AD%E9%9B%99%E6%A8%99%E7%88%AD%E8%AD%B0-054300534.html",
+    "source": "Yahoo股市",
+    "published_at": "2026-05-02 14:32:19+08:00",
+    "summary": "馬斯克在美國法院作證時承認xAI 曾使用OpenAI 模型訓練Grok，並稱「所有AI 公司都這麼做」，引發AI 蒸餾技術是否涉及侵權的爭議。隨著OpenAI、Anthropic...",
+    "scraped_at": "2026-05-03T10:48:21+08:00",
+    "canonical_url": "https://tw.stock.yahoo.com/news/%E9%A6%AC%E6%96%AF%E5%85%8B%E5%BA%AD%E4%B8%8A%E8%AA%8D%E4%BA%86-xai%E7%94%A8openai%E8%A8%93%E7%B7%B4grok-ai%E8%92%B8%E9%A4%BE-%E5%BC%95%E7%88%86%E7%94%A2%E6%A5%AD%E9%9B%99%E6%A8%99%E7%88%AD%E8%AD%B0-054300534.html"
+  },
+  {
+    "title": "AI 編碼潮引爆 GitHub 負載危機：需求激增 30 倍致頻發故障， 底層架構展開大重構",
+    "url": "https://www.techbang.com/posts/129138-github-ai-load-crisis-refactor",
+    "source": "T客邦",
+    "published_at": "2026-05-02 10:30:00+08:00",
+    "summary": "當AI Agent成為開發者的標準配備，原本穩固的程式碼託管平台正面臨史無前例的「生存考驗」。 訂閱Ｔ客邦電子日報 掌握最熱門的科技話題、網路動態，升級...",
+    "scraped_at": "2026-05-03T10:48:21+08:00",
+    "canonical_url": "https://www.techbang.com/posts/129138-github-ai-load-crisis-refactor"
+  },
+  {
+    "title": "Notion 非 AI 出身卻靠AI 翻身！大腦外包整合＋數位樂高活化，告別跨平台切換、一站式管理工作流",
+    "url": "https://fc.bnext.com.tw/articles/view/4589",
+    "source": "未來商務",
+    "published_at": "2026-05-02 10:00:00+08:00",
+    "summary": "Notion不是AI純血公司，卻靠AI華麗翻身，甚至比ChatGPT早推出AI產品，它究竟有何殺手鐧？",
+    "scraped_at": "2026-05-03T10:48:21+08:00",
+    "canonical_url": "https://fc.bnext.com.tw/articles/view/4589"
+  },
+  {
+    "title": "強制用AI寫數學詩！「數感實驗室」賴以威如何在教育現場擁抱AI？",
+    "url": "https://ubrand.udn.com/ubrand/story/123635/9476840",
+    "source": "倡議家",
+    "published_at": "2026-05-01 22:43:30+08:00",
+    "summary": "數感實驗室共同創辦人賴以威透過數學教育與AI素養的跨域實踐，試圖在孩子過度依賴工具與培養思考能力之間，構建一套與新技術共存的學習平衡點。",
+    "scraped_at": "2026-05-03T10:48:21+08:00",
+    "canonical_url": "https://ubrand.udn.com/ubrand/story/123635/9476840"
+  }
+]
