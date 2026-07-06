@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Google Cloud擴大機密運算版圖，強化AI推論與提示詞加密防護",
+    "url": "https://www.ithome.com.tw/news/177093",
+    "source": "iThome",
+    "published_at": "2026-07-06 11:22:28+08:00",
+    "summary": "Google Cloud新增支援Nvidia Blackwell GPU的機密運算VM，並開源Prompt Encryption SDKs，強化企業AI推論、提示詞與跨組織資料協作的安全防護.",
+    "scraped_at": "2026-07-06T11:24:10+08:00",
+    "canonical_url": "https://www.ithome.com.tw/news/177093"
+  },
+  {
+    "title": "英國金融監管機構籲擴權 應對金融服務AI風險",
+    "url": "https://tw.stock.yahoo.com/news/%E8%8B%B1%E5%9C%8B%E9%87%91%E8%9E%8D%E7%9B%A3%E7%AE%A1%E6%A9%9F%E6%A7%8B%E7%B1%B2%E6%93%B4%E6%AC%8A-%E6%87%89%E5%B0%8D%E9%87%91%E8%9E%8D%E6%9C%8D%E5%8B%99ai%E9%A2%A8%E9%9A%AA-031952331.html",
+    "source": "Yahoo股市",
+    "published_at": "2026-07-06 11:20:11+08:00",
+    "summary": "圖／示意圖商傳媒｜林昭衡／綜合外電報導英國超過四分之三的金融服務公司已將人工智慧（AI）用於核心業務，例如保險理賠與信用評估。",
+    "scraped_at": "2026-07-06T11:24:10+08:00",
+    "canonical_url": "https://tw.stock.yahoo.com/news/%E8%8B%B1%E5%9C%8B%E9%87%91%E8%9E%8D%E7%9B%A3%E7%AE%A1%E6%A9%9F%E6%A7%8B%E7%B1%B2%E6%93%B4%E6%AC%8A-%E6%87%89%E5%B0%8D%E9%87%91%E8%9E%8D%E6%9C%8D%E5%8B%99ai%E9%A2%A8%E9%9A%AA-031952331.html"
+  },
+  {
+    "title": "蘋果拒交「王國鑰匙」，歐盟版 iPhone 全面封鎖全新 Siri AI",
+    "url": "https://technews.tw/2026/07/06/apple-is-blocking-its-new-siri-ai-from-eu-iphones-after-regulators-rejected-all-its-compliance-proposals/",
+    "source": "TechNews 科技新報",
+    "published_at": "2026-07-06 11:14:48+08:00",
+    "summary": "蘋果公司（Apple）已決定在歐盟地區的iPhone 上封鎖其全新研發的Siri AI 功能。此舉是在監管機構拒絕了蘋果提出的所有合規方案之後做出的決定，...",
+    "scraped_at": "2026-07-06T11:24:10+08:00",
+    "canonical_url": "https://technews.tw/2026/07/06/apple-is-blocking-its-new-siri-ai-from-eu-iphones-after-regulators-rejected-all-its-compliance-proposals/"
+  },
+  {
+    "title": "中興大學攜手大眾教育基金會推動偏鄉AI科普教育",
+    "url": "https://www.cna.com.tw/postwrite/chi/438231",
+    "source": "中央社 CNA",
+    "published_at": "2026-07-06 11:03:54+08:00",
+    "summary": "為縮小城鄉科技教育資源落差，國立中興大學先端產業暨精密製程研究中心及精密工程研究所，於財團法人大眾教育基金會主辦、國立臺灣科學教育館協辦下，...",
+    "scraped_at": "2026-07-06T11:24:10+08:00",
+    "canonical_url": "https://www.cna.com.tw/postwrite/chi/438231"
+  },
+  {
+    "title": "群聯潘健成：AI改寫記憶體景氣循環 NAND週期性將消失",
+    "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000760872_5DQ941WN6VM73S37GHLG4&cf=A21",
+    "source": "DIGITIMES",
+    "published_at": "2026-07-06 10:19:00+08:00",
+    "summary": "NAND主控廠群聯電子創辦人暨執行長潘健成表示，在AI浪潮的推波助瀾下，NAND Flash過去「大賺後隨即崩盤」的典型景氣循環邏輯，未來可能將不復存在，AI持續...",
+    "scraped_at": "2026-07-06T11:24:10+08:00",
+    "canonical_url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000760872_5DQ941WN6VM73S37GHLG4"
+  },
+  {
+    "title": "AI的本質是「記憶體」！HBM之父：GPU真正工作的時間只有10％",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5494960",
+    "source": "自由財經",
+    "published_at": "2026-07-06 08:38:46+08:00",
+    "summary": "財經頻道／綜合報導〕被業界尊稱為「HBM之父」的韓國科學技術院（KAIST）電機工程系教授金正浩拋震撼彈，直指人工智慧（AI）的本質其實是記憶體而非圖形處理...",
+    "scraped_at": "2026-07-06T11:24:10+08:00",
+    "canonical_url": "https://ec.ltn.com.tw/article/breakingnews/5494960"
+  },
+  {
+    "title": "Meta考慮出租算力，是AI泡沫前的警訊？專家：AI時代下，2族群是更穩的長線選擇",
+    "url": "https://smart.businessweekly.com.tw/Reading/IndepArticle.aspx?id=6022334",
+    "source": "Smart自學網",
+    "published_at": "2026-07-06 08:25:00+08:00",
+    "summary": "本文指出Meta出租過剩算力旨在提升財務效益。當前AI消費端因缺乏剛需變現困難，但企業端受缺工與防淘汰驅動呈現剛性需求；如同網路時期歷史，深耕企業...",
+    "scraped_at": "2026-07-06T11:24:10+08:00",
+    "canonical_url": "https://smart.businessweekly.com.tw/Reading/IndepArticle.aspx?id=6022334"
+  },
+  {
+    "title": "AI旺日本晶片設備銷售額料首破\"6兆\"、創史高- 國際",
+    "url": "https://www.ctee.com.tw/news/20260706700511-430702",
+    "source": "工商時報",
+    "published_at": "2026-07-06 06:04:00+08:00",
+    "summary": "因AI需求旺，記憶體投資大增，日本半導體製造裝置協會(SEAJ)大幅上修2026年度日本製半導體(晶片)設備銷售額預估，將史上首度衝破6兆日圓大關，...",
+    "scraped_at": "2026-07-06T11:24:10+08:00",
+    "canonical_url": "https://www.ctee.com.tw/news/20260706700511-430702"
+  },
+  {
+    "title": "AI資金大轉向！專家喊機器人接棒台股主流 8檔黑馬概念股曝",
+    "url": "https://news.ebc.net.tw/news/business/559798",
+    "source": "東森新聞",
+    "published_at": "2026-07-05 22:18:00+08:00",
+    "summary": "台股近期由ABF載板與被動元件族群接棒輪動，不過市場資金已開始醞釀下一階段主流方向。摩爾投顧分析師江國中指出，AI應用從雲端算力逐步延伸至實體...",
+    "scraped_at": "2026-07-06T11:24:10+08:00",
+    "canonical_url": "https://news.ebc.net.tw/news/business/559798"
+  },
+  {
+    "title": "AI記憶體還在缺！美光獲利暴增近14倍長約到手「1協議」從未見過| 全球財經| 全球",
+    "url": "https://udn.com/news/story/6811/9608275",
+    "source": "UDN",
+    "published_at": "2026-07-05 17:58:10+08:00",
+    "summary": "美光最新財報，暫時給市場一個答案：AI帶來的記憶體需求，還沒有消失，甚至仍遠高於供給。 原文時間2026/06/25. 同一張財報，營收成長346%、淨利卻成長...",
+    "scraped_at": "2026-07-06T11:24:10+08:00",
+    "canonical_url": "https://udn.com/news/story/6811/9608275"
+  }
+]
