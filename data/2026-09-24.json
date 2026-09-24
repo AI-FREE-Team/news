@@ -1,0 +1,74 @@
+[
+  {
+    "title": "梁文鋒最新論文證實：智慧體已學會「AI作弊」 訓練防線成新課題",
+    "url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?CnlID=1&id=0000769604_QIQ7WI48LMXNOB5YAM3ZF",
+    "source": "DIGITIMES",
+    "published_at": "2026-09-24 11:09:00+08:00",
+    "summary": "DeepSeek創辦人梁文鋒最新論文揭露，隨著AI代理（AI Agent）能力提升，模型訓練過程中已會主動尋找系統漏洞、繞過原設定的解題方式，這也顯示AI已...",
+    "scraped_at": "2026-09-24T11:14:13+08:00",
+    "canonical_url": "https://www.digitimes.com.tw/tech/dt/n/shwnws.asp?id=0000769604_QIQ7WI48LMXNOB5YAM3ZF"
+  },
+  {
+    "title": "AI恐怖故事》兩個 Agent 合作算牌 21 點，自創暗語騙過監控",
+    "url": "https://www.blocktempo.com/oxford-researchers-ai-agents-collusion-blackjack-card-counting-secret-code/",
+    "source": "動區動趨",
+    "published_at": "2026-09-24 10:36:03+08:00",
+    "summary": "牛津大學團隊讓兩個由同一模型控制的AI 代理一起算21 點，代理發現對話被監控後自創暗號傳遞牌局訊息，文字監控完全沒抓到。 （前情提要：AI恐怖...",
+    "scraped_at": "2026-09-24T11:14:13+08:00",
+    "canonical_url": "https://www.blocktempo.com/oxford-researchers-ai-agents-collusion-blackjack-card-counting-secret-code/"
+  },
+  {
+    "title": "台南西區扶輪社邀AI專家談變革 跨域π型人才成轉型關鍵",
+    "url": "https://www.cdns.com.tw/articles/1464448",
+    "source": "中華新聞雲／中華日報",
+    "published_at": "2026-09-24 10:32:05+08:00",
+    "summary": "人工智慧快速發展，如何掌握轉型契機，成為中小企業主關注的課題。西區扶輪社邀請人工智慧專家黃朝健，以「擁抱改變：AI時代的變革與創新」為題演講，...",
+    "scraped_at": "2026-09-24T11:14:13+08:00",
+    "canonical_url": "https://www.cdns.com.tw/articles/1464448"
+  },
+  {
+    "title": "AI若失控無法確保安全 黃仁勳直言：那就不要發布產品 - 科技新聞 - PChome Online 新聞",
+    "url": "https://news.pchome.com.tw/science/technice/20260924/index-79021583016793338005.html",
+    "source": "PChome Online 新聞",
+    "published_at": "2026-09-24 10:10:30+08:00",
+    "summary": "無論有多少前AI實驗室員工發出警告，輝達Nvidia執行長黃仁勳不認為人工智慧對人類構成生存威脅，不過，如果Anthropic或OpenAI等公司的內部人員真的...",
+    "scraped_at": "2026-09-24T11:14:13+08:00",
+    "canonical_url": "https://news.pchome.com.tw/science/technice/20260924/index-79021583016793338005.html"
+  },
+  {
+    "title": "AI熱浪台灣PCB上半年產值5,247億元新高全年首破兆可期| 財經",
+    "url": "https://newtalk.tw/news/view/2026-09-24/1061686",
+    "source": "Newtalk新聞",
+    "published_at": "2026-09-24 09:55:09+08:00",
+    "summary": "受惠來自AI伺服器、高速網通及記憶體等AI基礎建設相關需求持續擴張，帶動載板、HLC與HDI等高階產品需求成長，另一方面由於高階材料供應持續吃緊，...",
+    "scraped_at": "2026-09-24T11:14:13+08:00",
+    "canonical_url": "https://newtalk.tw/news/view/2026-09-24/1061686"
+  },
+  {
+    "title": "全球搶算力！AI重組科技版圖南科站上產業鏈核心- 商情",
+    "url": "https://www.ctee.com.tw/news/20260924700022-431202",
+    "source": "工商時報",
+    "published_at": "2026-09-24 08:27:00+08:00",
+    "summary": "AI浪潮持續席捲全球，科技競爭也從模型開發應用服務，進一步延伸至最核心的算力基礎建設。隨著ChatGPT掀起生成式AI革命...",
+    "scraped_at": "2026-09-24T11:14:13+08:00",
+    "canonical_url": "https://www.ctee.com.tw/news/20260924700022-431202"
+  },
+  {
+    "title": "智慧手機仍是 AI Agent 核心嗎？高通揭「Puck」新概念：口袋版個人運算中樞",
+    "url": "https://technews.tw/2026/09/24/qualcomm-ziad-asghar-talk-personal-ai-agent/",
+    "source": "TechNews 科技新報",
+    "published_at": "2026-09-24 03:46:40+08:00",
+    "summary": "隨著AI Agent 進入智慧手機、智慧眼鏡、耳機、手錶與其他穿戴式裝置，個人運算的核心也正在發生變化。高通高階副總裁暨行動平台總經理Ziad Asghar...",
+    "scraped_at": "2026-09-24T11:14:13+08:00",
+    "canonical_url": "https://technews.tw/2026/09/24/qualcomm-ziad-asghar-talk-personal-ai-agent/"
+  },
+  {
+    "title": "AI落地遇記憶體供需失衡群聯潘健成：好像只有宏碁不苦| 產經",
+    "url": "https://www.cna.com.tw/news/afe/202609230348.aspx",
+    "source": "中央社 CNA",
+    "published_at": "2026-09-23 21:09:00+08:00",
+    "summary": "人工智慧（AI）浪潮走向終端邊緣運算，但記憶體供需失衡成為AI落地的最大絆腳石。快閃記憶體控制晶片廠群聯電子創辦人暨執行長潘健成今天表示，AI落地...",
+    "scraped_at": "2026-09-24T11:14:13+08:00",
+    "canonical_url": "https://www.cna.com.tw/news/afe/202609230348.aspx"
+  }
+]
