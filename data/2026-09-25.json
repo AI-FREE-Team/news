@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Docker Cloud Sandboxes上線，AI代理環境可在本機與雲端雙向搬移",
+    "url": "https://www.ithome.com.tw/news/179227",
+    "source": "iThome",
+    "published_at": "2026-09-25 11:20:52+08:00",
+    "summary": "Docker推出Cloud Sandboxes，讓AI程式開發代理把長時間工作轉到雲端執行，並可用指令sbx move在本機與雲端搬移沙箱檔案系統，單次工作最長24小時.",
+    "scraped_at": "2026-09-25T11:31:44+08:00",
+    "canonical_url": "https://www.ithome.com.tw/news/179227"
+  },
+  {
+    "title": "台商大遷徙4》再見了中國製造！台躍全球AI硬體核心",
+    "url": "https://ec.ltn.com.tw/article/breakingnews/5584549",
+    "source": "自由財經",
+    "published_at": "2026-09-25 10:15:00+08:00",
+    "summary": "記者高嘉和／台北報導〕地緣政治衝突與AI技術革命兩大浪潮交會，正式結束過往全球供應鏈過度倚賴「中國集中製造」的舊時代。全球科技巨頭轉向強調供應...",
+    "scraped_at": "2026-09-25T11:31:44+08:00",
+    "canonical_url": "https://ec.ltn.com.tw/article/breakingnews/5584549"
+  },
+  {
+    "title": "台灣是全球PC樞紐！高通強攻AI PC市場 Snapdragon跨足3大平台",
+    "url": "https://www.ctee.com.tw/news/20260925700377-430502",
+    "source": "工商時報",
+    "published_at": "2026-09-25 10:14:00+08:00",
+    "summary": "高通擴大PC 市場版圖，台灣供應鏈地位同步升高。高通資深副總裁暨運算與遊戲部門總經理Kedar Kondap 受訪表示，隨Snapdragon PC 從Windows 進一步跨...",
+    "scraped_at": "2026-09-25T11:31:44+08:00",
+    "canonical_url": "https://www.ctee.com.tw/news/20260925700377-430502"
+  },
+  {
+    "title": "黃仁勳談 AI 安全：若實驗無法控制，就應該關閉 AI 實驗室",
+    "url": "https://technews.tw/2026/09/25/nvidia-ceo-jensen-huang-talk-about-ai-lab/",
+    "source": "TechNews 科技新報",
+    "published_at": "2026-09-25 09:42:18+08:00",
+    "summary": "AI 發展速度持續加快，AI 模型自主執行任務所帶來的安全風險也受到關注。輝達（NVIDIA）執行長黃仁勳近日接受《紐約時報》主持人Ezra Klein 訪問時...",
+    "scraped_at": "2026-09-25T11:31:44+08:00",
+    "canonical_url": "https://technews.tw/2026/09/25/nvidia-ceo-jensen-huang-talk-about-ai-lab/"
+  },
+  {
+    "title": "AI熱潮不是雨露均霑記憶體水漲船高、科技廠發展兩極| 產經",
+    "url": "https://www.cna.com.tw/news/afe/202609250029.aspx",
+    "source": "中央社 CNA",
+    "published_at": "2026-09-25 08:33:00+08:00",
+    "summary": "AI強勁需求，驅動全球半導體今年產值可望超前達成1兆美元大關，比原先預估的2030年快了4年。在AI爆發成長挹注下，輝達、台積電等關鍵廠商業績激增，...",
+    "scraped_at": "2026-09-25T11:31:44+08:00",
+    "canonical_url": "https://www.cna.com.tw/news/afe/202609250029.aspx"
+  },
+  {
+    "title": "85.8% 開發者已用 AI 做 3D 建模、測試，AI NPC 才起步！東京電玩展看遊戲 AI 走到哪",
+    "url": "https://fc.bnext.com.tw/articles/view/4936",
+    "source": "未來商務",
+    "published_at": "2026-09-25 08:00:00+08:00",
+    "summary": "生成式AI已經進入遊戲開發現場。調查顯示85.8%受訪開發者使用生成式AI；東京電玩展現場也能看到，AI正從開發流程，逐步走向AI NPC等嶄新玩法。",
+    "scraped_at": "2026-09-25T11:31:44+08:00",
+    "canonical_url": "https://fc.bnext.com.tw/articles/view/4936"
+  },
+  {
+    "title": "甲骨文重挫3.5%「不可抗力」通知讓AI多頭感到不安？",
+    "url": "https://news.cnyes.com/news/id/6615617",
+    "source": "鉅亨網",
+    "published_at": "2026-09-25 06:17:06+08:00",
+    "summary": "《Yahoo Finance》報導，甲骨文(Oracle)(ORCL-US)已在AI生態系各個環節布局，而一項新的變數可能為整個產業帶來問題。 cover image of news article.",
+    "scraped_at": "2026-09-25T11:31:44+08:00",
+    "canonical_url": "https://news.cnyes.com/news/id/6615617"
+  },
+  {
+    "title": "太空很冷卻更難散熱 AI資料中心上太空得先過「熱」這一關",
+    "url": "https://uanalyze.com.tw/articles/4641955992",
+    "source": "優分析UAnalyze",
+    "published_at": "2026-09-25 00:20:55+08:00",
+    "summary": "Google、SpaceX與Starcloud相繼投入太空AI運算，但隨GPU、TPU等高功率晶片進入太空，散熱也成為太空資料中心能否擴大規模的關鍵。太空雖然溫度極低，...",
+    "scraped_at": "2026-09-25T11:31:44+08:00",
+    "canonical_url": "https://uanalyze.com.tw/articles/4641955992"
+  }
+]
